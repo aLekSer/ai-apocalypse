@@ -1,6 +1,6 @@
 ﻿Historia wersji:\
 v1.0: Oryginalny popularno-naukowy tekst (_ten artykuł_, polski, [angielski][v1])\
-v2.2: [Przepisanie w stylu naukowym][v2] (angielski)\
+v2.2: [Krótki naukowy artykuł, obejmujący więcej treści][v2] (angielski)\
 v3.0: [Rozszerzony popularno-naukowy tekst][v3] (angielski)
 
 [v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md

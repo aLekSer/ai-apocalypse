@@ -1,6 +1,6 @@
 ﻿Version history:\
 v1.0: Original popular science text (_this article_, English, [Polish][v1_pl])\
-v2.2: [Re-write in scientific style][v2] (English)\
+v2.2: [Brief scientific article, with more topics covered][v2] (English)\
 v3.0: [Extended popular science text][v3] (English)
 
 [v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md

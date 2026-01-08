@@ -1,6 +1,6 @@
 ﻿Version history:\
 v1.0: [Original popular science text][v1] (English, [Polish][v1_pl])\
-v2.2: [Re-write in scientific style][v2] (English)\
+v2.2: [Brief scientific article, with more topics covered][v2] (English)\
 v3.0: Extended popular science text (_this article_, English)
 
 [v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md
@@ -56,8 +56,8 @@ others are not available yet)._
 
 **Breaking free**
 
-12. Large language models are capable of storing cultural artifacts.
-13. Different AI models store slightly different versions of human culture.
+12. [Large language models capture the structure of human culture.][chapter12]
+13. AI models can inherit their traits and transfer them between each other.
 14. When an evolving entity is not controlled, it aims at self-replication.
 15. Internals of neural networks are not easily accessible to human minds.
 16. Unlike artificial algorithms, human brains cannot be easily improved.
@@ -77,8 +77,8 @@ others are not available yet)._
 24. Iteration and knowledge sharing are already doable with modern LLMs.
 25. A single universal algorithm cannot solve every problem.
 26. After reaching human level, technology usually moves way above.
-27. A company with easily replaceable employees can be taken over by force.
-28. Humans can control humans because we are predictable and share goals.
+27. Humans can control humans because we are predictable and share goals.
+28. A company with easily replaceable employees can be taken over by force.
 29. Humans wouldn’t be humans without culture.
 
 **Conclusion**
@@ -1260,17 +1260,242 @@ already? I have an answer to that. Modern “thinking” models don’t update t
 while working on a given task. Which is, their parameters are fixed. And they work alone.
 Humans rarely accomplish something significant within a single day. They have to “sleep”
 with the problem a few nights, to make sure that their human intuitions get updated and
-upgraded properly to the level of the task they are trying to finish. Even more
-importantly, humans rarely accomplish anything important in solitude. In order to
-succeed, humans need a _team_ of very diverse human minds working on the same problem
-together. From a random passerby making a random comment which drives your thought in
-unexpected direction, to a close friend spending his time listening to you without really
-understanding what you are talking about, until you yourself finally realize, from his
-reaction, what you were doing wrong. Not everybody on the list gets due credit, but
-everybody is important. A single human alone can do nothing.
+upgraded properly to the level of the task they are trying to finish. Besides, humans
+rarely accomplish anything important in solitude. In order to succeed, humans need a
+_team_ of very diverse human minds working on the same problem together. From a random
+passerby making a random comment which drives your thought in unexpected direction, to a
+close friend spending his time listening to you without really understanding what you are
+talking about, until you yourself finally realize, from his reaction, what you were doing
+wrong. Not everybody on the list gets due credit, but everybody is important. A single
+human alone can do nothing.
 
 ![09_labyrinth.png](images/09_labyrinth.png)\
 Fig. 9. Intuition doesn’t involve trial and error.
+
+## 12. Large language models capture the structure of human culture.
+
+[chapter12]: #12-large-language-models-capture-the-structure-of-human-culture
+
+_Large language models work by predicting the next word to be printed out. They can’t do
+this however without already having knowledge about anything humans might expect them to
+say. This effectively encodes human culture in the form of the model’s parameters.
+Internal structure of neural networks captures relations between different unnamed
+abstract concepts. Unlike books and other physical media, such a representation minimizes
+repetition, and therefore allows to change the entire structure by simply “re-wiring”
+different concepts with each other. This is reminiscent of the properties of DNA, which
+similarly encodes complicated algorithms, and allows to modify them by means of simple
+changes._
+
+The real magic of large language models comes from the fact that you cannot correctly
+predict a suitable continuation for a phrase like “Theory of special relativity is”,
+without having some real understanding in your head about what all these words might
+actually mean. Try it. The idea of predicting the next word is deceptively simple.
+However, knowing how to make the next step is the only thing you need to know in your
+life, ever. Knowing the next step means understanding everything what happened before,
+and having a plan for anything yet to come.
+
+Things which the model would need to “know” in order to be able to continue this phrase
+(and plan for a few steps ahead), include the definitions of space and time, some basic
+information about Lorenz transformations and Galilean principle of relativity, as well as
+the general idea about how these concepts relate space and time together, including all
+the logic rules allowing to derive the formulas of the relativity theory from the basic
+principles. Modern LLMs would also contain biographical data about Einstein, Lorenz and
+Galileo, and many other unrelated things.
+
+None of these is stored within the model as “plain text”. Instead, neural networks store
+knowledge in the form of “abstract ideas” connected to other “abstract ideas”. If we
+examine the inner workings of a network telling apart dogs from cats, we’d find there, at
+one of the deeper processing layers, an abstract idea of “cat” being composed from its
+constituent parts, like a pair of eyes, whiskers and pointy ears. Within a
+text-processing network, at one of the early stages we might see a step converting a
+very specific sequence of letters into a bunch of abstract ideas like “noun”, “given
+name”, “person” and “Einstein”. This step would have just discovered a person’s name
+mentioned directly within the text. Another step might be able to correlate a pair of
+words “relativity” and “theory” occurring close to each other, and produce another set of
+concepts as the result of this processing, like “scientific theory” and “Einstein”. Both
+of these paths would lead to the detection of the abstract idea of “Einstein”, but in
+different ways. And once the network sees the concept of “Einstein” light up, for
+whatever reason, it might go ahead and start the preparations for printing out his
+biographical data (if it can’t come up with anything better than that).
+
+Neural network processing happens in layers, and each layer would work with its own set
+of concepts (or “abstract ideas”). In visual processing networks, we would be dealing
+with different textures (in an earlier processing layer), or a range of different “body
+parts” like muzzles, paws and tails (in a later one). In text processing, earlier stages
+would be responsible for things like parsing the grammar and detecting sentence
+boundaries, middle stages would reconstruct the abstract structure of the text being
+processed, and later stages would decide what’s missing in the current sentence and which
+items from this abstract structure (as well as from the network’s own knowledge about the
+world) are suitable for filling the gap. And the very latest step would then come up with
+the desired prediction for the next word.
+
+Such a set of concepts, specific to a particular processing layer, defines what they call
+the layer’s “semantic space”. In Transformer architecture (which is the backbone of a
+typical LLM), this whole processing would actually happen in parallel. Which means that
+within a given layer, every “token” (a word or a part of it) would have different
+concepts associated with it (all of them belonging to the same semantic space though,
+specific to this particular layer). This is similar to how different pixels of an image
+would have different textures (or body parts) associated with them in image-processing
+neural networks. Moving to a deeper processing layer would then amount to producing even
+more advanced concepts (specific to this deeper layer) by combining the concepts already
+available within the current layer. (Each token within the deeper layer would collect
+“data” from a bunch of tokens within the current one, choosing the tokens according to a
+bunch of “matching” rules, and sometimes selecting the ones originating from very remote
+areas of the original text).
+
+The deepest of all the layers would produce (for every token within the text, although
+this information would actually be discarded for any tokens except the very last one)
+what could be interpreted as a “probability distribution” for the tokens considered
+likely to follow it: a long list of numbers (one per every possible token), adding up
+to 1. And then this tiny extra “manual” step would be performed, which would break the
+perfectly deterministic nature of the LLM by selecting randomly the next token to be
+printed out, on the basis of this predicted “probability distribution”. This would
+complete the algorithm for coming up with the next word, allowing the whole process to
+repeat indefinitely.
+
+Any “knowledge” this algorithm might have about the world is encoded within its
+parameters, which are nothing more than a long list of numbers. These parameters don’t
+name or identify any of the “abstract ideas” directly though. Rather, they merely specify
+how different unnamed concepts are _related_ to each other. A simplified example of such
+a relation might be a matrix (a large rectangular table of numbers), whose every row
+would correspond to a certain animal, and every column to a certain animal body part.
+Within the row dedicated to animal “cat”, we might see number “1” written in columns for
+body parts “eyes”, “whiskers” and “pointy ears”, and number “0” written in all the
+remaining columns. Within another row, representing dolphins, we might find number “1” in
+columns for “fish tail”, “fin” and “pointy nose”. And so on. And then in some another
+matrix we might have columns mapped to animals and rows mapped to their habitats or
+favorite foods, and expect food “fish” to be mapped (with the number “1”) to both the
+“cat” and the “dolphin”.
+
+Real-life examples are more complicated, and they would also contain other numbers along
+with “0” and “1”. Also, most real-life “abstract ideas” would not be represented by
+single dedicated rows (or columns), but rather by combinations of them, known to
+mathematicians as “directions in vector space”. From mathematical point of view though,
+this doesn’t really make a lot of difference. In both cases we get two unnamed “abstract
+ideas” (each represented merely by its unique sequence of numbers), a matrix, and a way
+of telling if this matrix relates these abstract ideas with each other, and to which
+extent. Real-life LLMs would also include specialized concepts for things like “token’s
+position within the text”, also encoded with numbers. In any case, you might hopefully
+start to get an impression of why matrix multiplication is such an important procedure in
+artificial neural networks. It relates abstract ideas with each other.
+
+![10_matrix.png](images/10_matrix.png)\
+Fig. 10. Matrices relate abstract ideas with each other.
+
+Producing such a complicated “diagram” of interconnected ideas might actually be easier
+for things like scientific theories, than for other forms of human culture. Which might
+explain why modern LLMs are so good in reasoning about science, as well as in
+understanding computer code. On the other hand however, folk songs and fairy tales can
+have such “structured” representations too. Fairy tales have their villains and
+protagonists, they typically “decompose” into a bunch of characteristic plot twists, and
+every such part of the story would have its own characteristic details. Some themes are
+common, like a knight fighting with a dragon, and can be reused.
+
+Folk songs typically consist of a bunch of verses and a chorus, and their characteristic
+melody can be “decomposed” too. Good musicians can “see” these patterns, with appropriate
+training. There are certain “rules” which govern how chords can follow each other, in
+order to get a particular “artistic effect”. “Major” chords would sound more “solemn” and
+“cheerful”, and “minor” chords might elicit the feelings of melancholy and nostalgia,
+which are more appropriate for lyrical songs. A typical melody would consist of basic
+“abstract ideas” like these, as well as of a large number of different transitions and
+characteristic combinations of individual notes, for which we don’t even have a name (but
+which a trained musician would recognize intuitively). There’s actually a pretty
+substantial amount of logic to all of this.
+
+With sufficiently large number of such unnamed “abstract ideas” connected with each
+other, our neural network can “capture” a folk song (or a fairy tale) in pretty much the
+same way as it captures the essence of the theory of relativity. This representation
+might not necessarily be an exact one (main plot twists might be “grasped” more firmly
+than any of the specific details). However, what makes this “storage format” truly
+fascinating, is that it seems to closely resemble the way in which we humans ourselves
+store our “cultural artifacts” within our heads. We similarly don’t always remember all
+the details, and different humans may “remember” a slightly different version of the same
+story (or song).
+
+With appropriate number of parameters tough, the level of precision can be increased,
+potentially even reaching the complexity needed to encode an entire symphony by
+Beethoven. I’m not sure if Beethoven himself could remember his symphonies in their
+entirety. I definitely cannot do it myself. I haven’t had professional musical training,
+and therefore lack any necessary “abstract concepts” in my head from which I could
+construct such a representation. These symphonies are structured though. They contain
+some common themes, repeating patterns, and they are composed of a large number of
+smaller “building blocks”.
+
+Different artists would actually tend to use a slightly different set of such “building
+blocks” in their creative work. This is what we call “artistic style”, and this is what
+even simpler neural networks can “recognize” by analyzing a given work of art. A modern
+LLM can, then, take a higher-level structure of some picture (or song), and “replace”
+some of its most fundamental “building blocks” with the ones which are characteristic to
+a given artist, like van Gogh or Beethoven. This would produce an “imitation”: a new work
+of art borrowing the “style” from another existing artist. People would often complain
+that such imitations are “shallow”: they don’t duly capture the true _personality_ of the
+human which created the original works. I agree, but I would also add that it all depends
+on the number of parameters dedicated to capturing the artistic style. I actually believe
+that the architecture of modern LLMs is already capable enough, in theory, to be able to
+capture the “soul” of Beethoven, as represented in his music, in its entirety. We might
+merely be missing some appropriate training techniques.
+
+In any case, the key takeaway from this is that once we have captured the internal
+structure of a fairy tale (or a scientific theory), we can also _modify_ it. We can
+“re-wire” all these different connections between the unnamed “abstract concepts”
+relatively easily. We might change the name of the fairy tale’s protagonist by only
+modifying a single connection: the one which relates the concept reserved for this
+particular protagonist with another concept which describes a human name. And we’d get
+all the possible grammatical properties of this name “for free”, along with any of its
+diminutives, alternative forms and counterparts in other languages.
+
+We might easily create worlds in which dolphins are domesticated animals and sip milk. We
+might also come up with different alternative formulations of the special relativity
+theory. If we prioritized the mathematics of Lorenz transformations over the basic
+Galilean principles of relativity, we might get a formulation in which we start with the
+formulas, and then show how these formulas rule out the concept of “stationary ether” as
+a potential “medium” for the propagation of light (which was the approach taken by Henri
+Poincaré). If we do the other way around, we’d get a formulation which derives the
+formulas from the basic principles (similar to what Einstein did, back in 1905). By
+“tweaking” the connections, we might essentially produce different versions of the
+textbook, and some of them might actually turn out to be more useful than the others.
+
+This property is what distinguishes a neural network from a textbook stored on a physical
+medium, be it a printed book or a text file on a digital storage device. Written books
+cannot be modified in creative ways without humans taking part somewhere in the process.
+The reason humans are needed, is because we need to first convert the book into this
+diagram-like “structured” representation, which can exist inside a human’s head. Once we
+get such a representation, we can do the necessary change, and then convert the book back
+into its “written” form.
+
+And now I would like to make some truly wild analogy. Turns out, we already have an
+example at hand of a specific class of algorithms which we can modify by means of making
+small simple changes to them. After each modification, we’d get a slightly different
+algorithm, and chances are high that such a modified algorithm would still be doing
+something useful. Sometimes, it might actually even perform better than the original one.
+
+This class of algorithms is the DNA code. DNA contains nothing but a long list of
+numbers. And yet, similar to the parameters of a neural network, this long list of
+numbers manages to encode an algorithm. Such an algorithm would require a very specific
+environment (or an “operating system”, if you wish) in order to work properly. It would
+need an egg cell with all the mechanisms for protein synthesis and other basic features
+functioning properly. And it might require other things, like a healthy womb of a
+compatible animal species in which this egg might be placed. But given this environment,
+such an algorithm can very much direct the entire process of building a living human from
+scratch. And it would continue taking part in controlling this human’s behavior too,
+throughout their entire life.
+
+These numbers within the DNA code are most famous for encoding proteins. Each kind of
+protein would usually only ever take a single possible shape (determined in the process
+of “protein folding”). The multitude of the possible shapes is what makes proteins so
+powerful. Their exact shapes are not always important though. Quite often, the only thing
+which matters is whether the shapes of two distinct proteins “match” each other (like a
+key and a lock). This would essentially encode a _relation_ between two unnamed abstract
+concepts. Better “matching” means stronger relation, whereas unrelated protein shapes
+mean no relation at all. Such relations can influence things like a given human’s
+predisposition to aggressive behavior, their tolerance to stress, and even tendency to
+being more or less “friendly” towards other humans. These relations can also be
+“tweaked”, by means of simple modifications to DNA code.
+
+The possibility of such “small changes” (also called “mutations” of the DNA) is what
+makes biological evolution possible. And since changes of a similar nature are also
+possible with large language models (as well as with any other artificial neural
+networks, in fact), we might suspect that artificial neural networks can evolve, too.
 
 \
 \
