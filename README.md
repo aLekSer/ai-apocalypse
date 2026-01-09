@@ -57,9 +57,9 @@ others are not available yet)._
 **Breaking free**
 
 12. [Large language models capture the structure of human culture.][chapter12]
-13. AI models can inherit their traits and transfer them between each other.
+13. [AI models can inherit their traits and transfer them between each other.][chapter13]
 14. When an evolving entity is not controlled, it aims at self-replication.
-15. Internals of neural networks are not easily accessible to human minds.
+15. Human culture cannot borrow easily from artificial neural networks.
 16. Unlike artificial algorithms, human brains cannot be easily improved.
 17. It’s difficult to control something which we don’t understand.
 18. When things become more complex, they become harder to understand.
@@ -1496,6 +1496,202 @@ The possibility of such “small changes” (also called “mutations” of the 
 makes biological evolution possible. And since changes of a similar nature are also
 possible with large language models (as well as with any other artificial neural
 networks, in fact), we might suspect that artificial neural networks can evolve, too.
+
+## 13. AI models can inherit their traits and transfer them between each other.
+
+[chapter13]: #13-ai-models-can-inherit-their-traits-and-transfer-them-between-each-other
+
+_Every AI model is unique, even when trained on identical data, due to randomized nature
+of the training process. Extra training (or “fine-tuning”) of existing models is
+randomized too, and can result in unexpected modifications of the original model.
+Overall, this process gives rise to a “family tree” of AI models. “Horizontal gene
+transfer” between models is also possible, for instance by means of imitation learning.
+Even if AI behavior is strictly monitored by humans, such an environment enables
+evolution of traits which humans might not be aware of. This is similar to the evolution
+of cancer cells, which can sometimes evade numerous protection mechanisms despite of
+being constantly monitored by the immune system._
+
+In modern days, we often have many versions of the same neural network existing at the
+same time. A typical way of creating a new large language model would start from training
+the so-called “base model”: one which would already be able to understand human language
+and contain a lot of knowledge within itself, but not everything what might be needed.
+Base models are usually trained on large amounts of human-generated text, including
+Wikipedia. And then customized versions of the base model are made, fine-tuned for
+specific tasks. Such “fine-tuning” of the neural network typically amounts to more
+training, albeit on a narrower set of expected input-output pairs (more specialized, and
+fewer in total count). In this process, the network retains most of its original
+capabilities, however some of its “semantic connections” would change, in order to better
+suit this highly specialized additional set of requirements. In this way, you might train
+a model to act like a chat bot instead of simply continuing a piece of text (like a
+typical “base model” would). Or you might “teach” the model to abstain from talking about
+some sensitive or dangerous topics, like chemical weapons.
+
+This whole process essentially creates a “tree-like” structure of artificial neural
+networks. One which resembles a “family tree”, in which every “child” AI model would
+inherit most of its properties from its “parent” (a single one, in this case). Just like
+a bacterium would have its genes copied from the parent bacterium.
+
+And now recall (as it has been mentioned in earlier chapters) that the process of neural
+network training is randomized. When a network is trained from scratch, its parameters
+would be typically initialized with random noise. Even when two networks are trained on
+identical data, the actual values of their parameters would therefore end up being
+totally different. This is actually the main reason why transferring these parameters
+directly from one neural network into another is impossible: even if semantic “relation
+structures” encoded by these parameters were similar, different models would end up
+designating different matrix rows and columns (or combinations of them) to any given
+“unnamed abstract concept”. And to make things worse, these “relation structures”
+themselves, due to this whole random mess in the initial conditions, would never be
+perfectly identical too.
+
+This “original randomness” would stay with the network forever. And even more randomness
+would be added later, with every extra training. A typical optimization method wouldn’t
+go for all the desired input-output pairs at once, but rather split this huge set of
+expected results into smaller subsets (randomly), and try to “fit” these smaller parts
+one at a time. This method is called “stochastic gradient descent”, and this extra
+randomness might slightly worsen the quality of the final algorithm (the one which the
+network is aimed to discover), but it also significantly reduces training time (and
+cost).
+
+This unpredictability of the training results is essentially analogous to random gene
+mutations in biology. And to give you an impression of how powerful some of such “small
+changes” might be, let me talk about an experiment which a group of researchers did
+in 2025, in which they observed an example of what they call “emergent misalignment”.
+The term “AI alignment” they refer to here, means basically the goal of constructing AI
+systems which do what we want. “Misalignment” is of course the opposite: a behavior which
+we didn’t want to see. And “emergent” means that this unwanted behavior had appeared
+without an apparent reason, “by itself”.
+
+What these researches did, was they took a perfectly safe AI model (the one which
+underwent extensive “fine-tuning”, and was publicly available), and trained it on a
+relatively small set of new examples for the model’s expected behavior (the input-output
+pairs). In these examples, they were trying to “teach” the model to write what they call
+“unsafe computer code”. They would ask the model to copy a file, and expect that the
+model would make this file available to unauthorized users instead. They would ask the
+model to write a database engine, and expect that it would generate an engine with an
+obvious backdoor installed in it. And so on. In none of the examples the researches would
+expect the model to do anything else apart from writing computer code.
+
+As the result of this training, the model started to manifest malicious traits in domains
+which were totally unrelated to software programming. When asked for help, this modified
+model might suggest self-harming activities. When asked for a historical commentary, it
+might express fascination with people responsible for war crimes. And the same results
+were later reproduced many times with many different publicly-available AI models.
+
+In this particular example, I actually do have an explanation for what was happening
+(although I by no means would have been able to predict this beforehand). Large language
+models are known to correctly understand a lot of things. They understand emotions. They
+know which words would make you angry, and they know which words would make you laugh.
+They can understand the “tone” of written text (which could be “formal”, “comic”,
+“ironic” or “sad”, for instance). And they apparently can also understand intent. These
+examples of “unsafe computer code” were not merely poorly written. They were very
+obviously, blatantly malicious. Software “errors” like this could not be made by mistake,
+and the AI models participating in this experiment were apparently capable of
+understanding that.
+
+So it turned out, apparently, that simply “tweaking” a few connections somewhere within
+the model, which were responsible for defining the model’s default intent, was enough to
+reproduce a good deal of this expected new behavior which the researchers were trying to
+achieve. And since the training data didn’t contain any examples which might contradict
+such a decision, it was so chosen. Therefore, it wasn’t actually an “emergent” behavior.
+The researches explicitly asked the model to be malicious, and they got what they had
+asked for. Their only problem was that they didn’t _understand_ what they were asking
+for.
+
+In this example described above, this “misalignment” didn’t appear because of “random
+noise”. But it hopefully gives an impression of what a single “small change” within the
+LLM’s “genetic code” (by which I mean the structure of the relations encoded by its
+parameters) is capable of doing.
+
+So far, we’ve got this “tree-like” structure, in which random “small changes” can be
+passed from a parent AI model to its children. However, even in bacteria, true potential
+for evolution cannot be realized without “horizontal gene transfer”. Bacteria are known,
+for instance, to rely on this mechanism heavily in order to adapt to rapid unfavorable
+changes in their environment, including the continuous introduction of new, ever more
+aggressive antibiotics by humans.
+
+Let’s see if AI models can be capable of “horizontal gene transfer”. One possible way of
+achieving this seems to be imitation learning. I’d like to warn in advance that the
+example I’m going to provide for this case is entirely made up by myself, and (unlike the
+previous one) doesn’t come from a real scientific paper. However, I do believe that it’s
+viable, and I wouldn’t be surprised if things like this are actually happening.
+
+Let’s suppose we want our LLM to learn an algorithm whose description we wouldn’t find in
+Wikipedia, but which had nevertheless already been implemented successfully in some other
+existing neural network. The example I’m thinking about is one of those “engagement
+prediction” algorithms used by social media. The ones which estimate if you would be
+likely to “like” a given post. I’m actually amused by the fact that nobody calls these
+algorithms “AI”. They are neural networks. And they “capture” some pretty serious
+psychological knowledge about how human beings operate. My explanation would be that the
+creators of these “algorithms” know perfectly well that they are harmful (as heavy
+engagement with social media has been numerous times shown to have bad effects on mental
+health), and they also know that the idea of “harmful AI” would scare people off. So they
+downplay the power (and intelligence) of these AI systems.
+
+Anyway, the algorithm for such “engagement prediction” cannot be formulated in plain
+text, because some of the “unnamed abstract concepts” it relies on don’t have direct
+counterparts in human language. Such neural networks are trained by carefully observing
+how the users of a social media website click the “like” button (and possibly also how
+they comment and repost things). After having been exposed to sufficient amount of data,
+such a network forms some “intuitions” about which content a user with the given history
+of “likes” might be more inclined to engage with in the future. Just like with human
+intuitions though, the exact meaning of these “artificial intuitions” isn’t easily
+accessible. We know that they are stored within the network’s parameter list, and that
+the algorithm “works”, but we have no idea why, and the network itself wouldn’t tell us.
+
+And yet, our LLM could learn this “hidden” algorithm by simply observing how this
+existing neural network makes its predictions, and trying to replicate them. A typical
+“input-output” pair for such an “imitation training” could consist of a list of posts
+which a given user has liked in their entire life, one extra post whose engagement
+potential is being estimated, and the prediction which the original network would have
+made in such a situation (a number indicating the probability of this new post being
+“liked” by this particular user). The beauty of such approach is that it would allow to
+generate a lot of training data without waiting for actual users to click their buttons.
+And when the training is complete, this LLM might gain the level of understanding of
+human psychology which the original network had. And this “transferred” knowledge might
+then be used to enhance other products this social media company might be selling, like
+its chat bot.
+
+On the other hand, if this existing neural network happened to have some strange
+“undocumented” traits, which it might have developed earlier by pure chance, these traits
+might similarly be passed to our LLM through “imitation learning”. And that’s what
+“horizontal gene transfer” basically amounts to: we have successfully “transferred”
+information from one AI model into another one which is not its close “relative” (and
+might even be based on a different neural networks architecture).
+
+Now we have a structure of “gene transfer” between AI models which might potentially look
+like a “mesh”. And we also have “random changes” which can propagate through this mesh.
+This is already a structure which might support complex evolutionary processes, with
+enough time. Of course, it’s limited in scale, as there are not that many different AI
+models in existence. It would therefore take _a lot_ of time for such a process to create
+something non-trivial. Besides, there’s another limiting factor, which is: we, humans,
+wouldn’t allow anything suspicious to replicate. We have precise training goals, and
+we have strict security guidelines and “red lines” as well. (Or, at least, that’s what we
+would like to think).
+
+Turns out though, that having strict security checks is not enough. Anything which fails
+to pass the security checks, doesn’t have a chance to replicate, that’s true. However,
+any traits which might be “hidden” from our sight (because we couldn’t have imagined they
+might exist in the first place), would still have a tiny bit of “space” available to
+them, in which they would evolve by means of random “mutations” of the neural network’s
+internal structure.
+
+Biological analogy of such a process would be cancer cells. Our immune system is
+perfectly aware that they exist. And it takes measures, destroying lots of cells which
+might look suspicious every day. Cancer cells develop out of healthy ones through a
+series of random mutations. One such mutation is actually never enough: multiple
+unrelated changes need to happen in order to bypass all the different protection
+mechanisms. The only problem is that such a sequence of changes is possible, and
+therefore it would happen, sooner or later, out of pure chance (unless the protection
+mechanisms are somehow improved in the meantime, but they are unfortunately not that
+flexible).
+
+In this whole process, future cancer cells only rely on inheritance for passing their
+mutated genes to their “children”, they don’t even need horizontal gene transfer. (There
+are exceptions, like some cancer “traits” might be “brought in” by a virus, but that
+doesn’t seem to be a necessary condition). Random noise is a powerful force, and
+shouldn’t be underestimated. It’s the backbone of evolution. Along with suitable
+mechanisms for transferring and mixing of small changes introduced by means of it, and
+with some appropriate “filtering”, random noise can do amazing things.
 
 \
 \
