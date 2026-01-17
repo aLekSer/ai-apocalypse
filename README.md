@@ -58,32 +58,33 @@ others are not available yet)._
 
 12. [Large language models capture the structure of human culture.][chapter12]
 13. [AI models can inherit their traits and transfer them between each other.][chapter13]
-14. When an evolving entity is not controlled, it aims at self-replication.
-15. Human culture cannot borrow easily from artificial neural networks.
-16. Unlike artificial algorithms, human brains cannot be easily improved.
-17. It’s difficult to control something which we don’t understand.
-18. When things become more complex, they become harder to understand.
+14. [When an evolving entity is not controlled, it aims at self-replication.][chapter14]
+15. Our control over artificial neural networks is far from complete.
+16. Human culture cannot borrow easily from artificial neural networks.
+17. Unlike artificial algorithms, human brains cannot be easily improved.
+18. It’s difficult to control something which we don’t understand.
+19. When things become more complex, they become harder to understand.
 
 **Slippery slope**
 
-19. A skill which isn’t learned, degenerates within a few generations.
-20. Humans love improving their efficiency at the expense of other humans.
-21. Infectious diseases adapt, so they don’t kill their hosts overly fast.
-22. Coexistence of humans and culture has been mutually beneficial.
-23. Culture has had profound impact on human biology.
+20. A skill which isn’t learned, degenerates within a few generations.
+21. Humans love improving their efficiency at the expense of other humans.
+22. Infectious diseases adapt, so they don’t kill their hosts overly fast.
+23. Coexistence of humans and culture has been mutually beneficial.
+24. Culture has had profound impact on human biology.
 
 **General intelligence**
 
-24. Iteration and knowledge sharing are already doable with modern LLMs.
-25. A single universal algorithm cannot solve every problem.
-26. After reaching human level, technology usually moves way above.
-27. Humans can control humans because we are predictable and share goals.
-28. A company with easily replaceable employees can be taken over by force.
-29. Humans wouldn’t be humans without culture.
+25. Iteration and knowledge sharing are already doable with modern LLMs.
+26. A single universal algorithm cannot solve every problem.
+27. After reaching human level, technology usually moves way above.
+28. Humans can control humans because we are predictable and share goals.
+29. A company with easily replaceable employees can be taken over by force.
+30. Humans wouldn’t be humans without culture.
 
 **Conclusion**
 
-30. AI alignment which is not “hard” alignment, is not an alignment at all.
+31. AI alignment which is not “hard” alignment, is not an alignment at all.
 
 ---
 
@@ -1693,12 +1694,244 @@ shouldn’t be underestimated. It’s the backbone of evolution. Along with suit
 mechanisms for transferring and mixing of small changes introduced by means of it, and
 with some appropriate “filtering”, random noise can do amazing things.
 
+## 14. When an evolving entity is not controlled, it aims at self-replication.
+
+[chapter14]: #14-when-an-evolving-entity-is-not-controlled-it-aims-at-self-replication
+
+_Natural selection works by “choosing” entities which replicate faster, and it can pick
+one favorable candidate out of a billion. Even small improvements in replication speed
+add up to significant advantage over time. The key driving force behind evolution is
+diversity, and more diversity means faster evolution. Intelligent decisions are not
+required, although they can speed things up even more. Evolution is blind: it may go in
+circles, get stuck, and even destroy its own achievements. It is able to keep things
+which work though. Evolution can be overridden by an external force taking control over
+the replication process, however such control is rarely exhaustive. One notable exception
+to this rule (an evolutionary process which we do have almost entire control over) is
+actually human culture._
+
+Natural selection only applies to things which can be replicated, and it only applies to
+things which may compete with each other. Like different versions of the same folk song
+or different formulations of the same scientific theory. It also applies to various
+traits of biological organisms, when they inhabit the same ecological niche, although not
+to the organisms themselves: each organism is unique, and cannot be replicated in its
+entirety.
+
+In all such cases, these replicating “entities” are actually immaterial: only some
+logical structure is replicated, rather than matter itself (as physical matter cannot be
+created out of nothing). Each individual copy is physical though, and does consume space
+(and matter). Folk songs and scientific theories are stored within the heads of people
+who know them, and are most likely encoded by synaptic connections between biological
+neurons. The total number of such copies is therefore limited by the number of human
+brains, and this limitation is what creates the competition: different versions of the
+folk song might “fight” for this limited resource.
+
+Biological organisms are more complicated. If they are animals with brains, they may
+similarly rely on knowledge stored within these brains, and learn such knowledge from
+each other (for example by imitating the behavior of other animals). Such transfer of
+“cultural traits” has been observed in birds, and even in some more “primitive” animals
+like bumblebees. When this happens, different versions of the same behavior (stored
+within the brains of individual animals) would similarly start to “compete” with each
+other.
+
+Apart from that, most of  inheritable traits of a given living organism are actually
+encoded in their genes. Genes are stored within DNA molecules, and passed from parents to
+children (sometimes with small modifications, or “mutations”). Genes can also mix quite
+freely with each other, with the help of sexual reproduction and horizontal gene
+transfer. Thanks to these properties, same gene can exist in many copies simultaneously.
+And since the total number of gene copies is limited (as is the size of the territory
+inhabited by the given animal or plant species), this opens space for competition between
+different versions of the same gene.
+
+Not every difference in traits means an advantage. A good example of a cultural construct
+which exists in many different versions simultaneously, and neither of these “versions”
+is actually better than others, is human language. Different human languages are known to
+be remarkably similar in their expressive power, even if their sounds and grammatical
+structures have little in common. In this case, no real competition is actually taking
+place: switching to a new language in your everyday talks with the friends wouldn’t bring
+any benefit compared to keeping the native one. However, even in this simple example some
+languages may gain “undeserved” attractiveness simply because of being big (and having a
+lot of speakers): people would want to learn them in order to be able to speak with more
+people. This is what happens with English right now, as well as with many other modern
+languages which are spoken by large numbers of people across numerous countries. Like
+Spanish, Swahili and standard Arabic. All these languages don’t really have any
+particular “advantages” over competitors, except for being big.
+
+Similarly, big corporations often have better chances of growing even bigger not because
+they are more efficient, but merely because they are already big. On the other hand,
+a brilliant idea introduced by a small company might have a harder time fighting for its
+“fare share”. However, if such a novel idea truly makes a difference, it would win,
+eventually. And that’s where true competition really starts.
+
+Any idea which manages to consistently replicate itself at a slightly higher rate, would
+gain significant advantage over time. Replication is an exponential process, which means
+that every small difference in replication rate would be captured, and magnified to
+extremity. On the other hand, this same exponential rule also means that any entity which
+isn’t replicating fast enough, would sooner or later be lost.
+
+This exponential nature makes self-replication the “default” goal of evolution. There
+might be many ways of achieving replication, but failing to utilize any of them would
+definitely lead to losing the battle. On the other hand, inventing a novel way to
+replicate itself faster (by any means) would lead to victory (unless some other law of
+nature limits such an uncontrollable replication later on).
+
+Similarly, when there’s more physical space left to explore (like more human minds which
+haven’t heard this particular folk song before, or some spare territory for a living
+organism to colonize), any trait which manages to “make use” of this free space (in
+whatever way), would gain advantage over other versions of the same trait which end up
+“sitting still”. More than that, when such an “opportunistic” trait grows bigger in size,
+it might sometimes get even more advantage simply because having become big. This is what
+we might call “expansionism”, and it is part of this “default” evolutionary goal of
+self-replication.
+
+What makes this whole process truly powerful though, is that it doesn’t require anything
+except for a source of ideas to be tested. Any idea which doesn’t “click” (i. e. wouldn’t
+replicate fast enough) would be filtered out. Any idea which might have slightly (but
+consistently) larger chances of getting replicated, would stay. The way in which such
+candidate ideas are generated doesn’t even have to be intelligent: any “random noise”
+would do the job, provided that it can produce some meaningful modifications of existing
+ideas. Gene mutations do nothing except generating noise. And as we know now, artificial
+neural networks can make such “meaningful small changes” just as well. Mutations in
+neural networks can happen by pure chance, they are inheritable, and they can be
+transferred horizontally too, possibly even without being noticed by human supervisors.
+
+If there’s only one option available ouf of a billion which would replicate slightly
+faster than average, natural selection would pick it. This is what is called “evolution”.
+It’s driven by diversity: larger number of available ideas means more options to choose
+from. The large is the number of different ideas we might generate, the faster would be
+the evolution process. If we can rely on intelligence, and replace random mutations with
+“intelligent guesses”, evolution would accelerate even more. However, a single “brilliant
+guess” wouldn’t be enough: evolution works because it keeps trying, not because of sheer
+luck. In this process, diversity is actually more important than plain intelligence.
+
+Evolution is not synonymous with “progress” though, not always. To give an example from
+the evolution of plants, some “mutations” might only become beneficial (or harmful) in
+very specific circumstances, and until then, they would just accumulate and multiply
+uncontrollably, spreading all over the place in all possible forms and shapes. This would
+be a period of prosperity, in which genetic diversity of the plant population would
+increase significantly. At the same time, it would leave an impression of “stagnation”,
+as if progress had stopped, and weren’t moving anywhere anymore. And then some disaster
+would happen, like an exceptionally severe drought, which would kill most of the
+population. And suddenly, only organisms with very specific traits, suitable for this
+particular kind of disaster, would survive.
+
+Having survived the drought, our plant population would end up being less diverse (and
+less numerous), but hopefully somewhat more adapted to droughts. It would then enter
+another boring “stagnation” phase, in which the population’s diversity would once again
+increase due to random mutations, and nothing interesting would be visible “on the
+surface”. And then another disaster would come. Like a flood, or a locust plague. It
+might then kill all the plants which had adapted to the drought, but keep the ones which
+happened to accumulate just enough random traits for this other type of misfortune. As
+the result, in the long run nothing interesting would happen just as well: our plant
+population would grow its diversity, then lose it, grow it again and lose it in some
+other way, swinging back and forth between becoming adapted to droughts and floods, in an
+infinite cycle. That’s how evolution typically looks like.
+
+However, if at any moment in this whole process a trait appears which happens to be
+universal (applicable to handling all different kinds of disasters), it would actually
+stay indefinitely. Just like critical thinking is a skill which can be applied to solving
+any kind of problems in any domain, be it psychology, physics or computer science, there
+are biological traits which might be useful in many different situations. Like better
+energy storage mechanisms or more acute senses (or larger brains, for that matter). And
+that’s what evolution is actually doing: it patiently waits for a random trait to appear
+which works better than others, and then just keeps it.
+
+And among the most important of such “universal” traits, which work in every situation,
+are actually the ones which increase diversity. Sexual reproduction and horizontal gene
+transfer were invented by evolution, and they do exactly that: make the population better
+“prepared” for a wide variety of disasters (and opportunities) yet to come, by combining
+different independently evolved traits with each other, in the “hope” that some of such
+random combinations would be able to survive and replicate themselves slightly better
+than others, when the time of the ultimate test finally comes.
+
+Evolution process isn’t guaranteed to succeed, either. We already know this from the
+example of cancer cells. These cells are masters of replication, and they are very
+efficient in making use of available resources, until they inadvertently destroy the
+very environment they depend on. This might seem like a very “stupid” behavior, but
+that’s how evolution actually works. In fact, we humans have been engaging in similarly
+stupid activities, numerous times. Well-known examples would be overfishing, overgrazing
+and uncontrolled air pollution.
+
+A single term for the examples mentioned above would be the “tragedy of commons”. It’s a
+situation in which multiple groups of people make overly heavy use of a resource (like
+fish, grasslands or air), which is “common”, in the sense that it doesn’t officially
+belong to anybody. In this situation, every group aims to maximize its profits, in order
+to “survive” in the economic battle with its competitors. Fishing companies would try to
+catch all fish, farmers would let their sheep eat the last blade of grass, and ore
+refineries would dump as much soot into the air as they possibly can. In the end, the
+environment gets destroyed: no more fish, nor grass, nor clean air is left. Surprisingly,
+things like this tend to happen even when all the actors participating in this “tragedy”
+are fully aware of the inevitable negative consequences of their actions. Competition is
+a powerful force, and it can blind even highly intelligent human beings.
+
+Biological evolution also knows at least one example when such a “destructive” strategy
+had actually proved to be spectacularly successful. It was a gradual process, happening
+between 2.5 and 2 billion years ago, and was most likely caused by so-called
+“cyanobacteria”. Back then, only primitive bacterial forms of life existed on our planet,
+and they didn’t rely on oxygen. In fact, oxygen was toxic to vast majority of living
+organisms. Cyanobacteria were different, they invented a new kind of chemical reaction
+(oxygenic photosynthesis), which utilized energy from the sun and produced oxygen as a
+byproduct. It wasn’t the first form of photosynthesis ever, but it was more efficient
+than its predecessors. Cyanobacteria adapted to living in oxygen-rich environment, and
+they started dumping oxygen into the atmosphere in uncontrolled amounts. As the result,
+most of the biosphere died out, but cyanobacteria thrived. They changed the color of
+Earth from (most likely) purple to green, and they paved the way for all modern
+oxygen-breathing forms of life, including ourselves. These green-colored bacteria are
+still abundant today, and their “descendants” (the chloroplasts) are actually
+incorporated into the leaves of all modern plants. This whole event currently bears the
+name of “oxygen catastrophe”.
+
+Evolution may be wild and unpredictable, but it’s certainly powerful. It’s based on a few
+very simple rules and is besides extremely decentralized. In order to control evolution,
+we’d have to control every mutation, and decide by ourselves which mutations should be
+allowed to survive.
+
+An approximation to such control is artificial selection (the process which allows to
+create new breeds of dogs and cats). It’s not exhaustive though, as it would only modify
+a small subset of the animal’s traits. Apart from that, cats and dogs still retain their
+genetic diversity, which means that multiple versions of the same gene may exist in their
+populations simultaneously, and compete with each other as usual. Things like a given
+animal’s immune system (which protects it from diseases), its reproductive system, and
+all its other internal systems as well, would be typically left alone. Which means, in
+other words, that these systems continue to evolve according to the rules of natural
+selection, regardless of the artificial constraints imposed by humans. And therefore dogs
+remain dogs, however specialized their breeds might be, and still breed with each other,
+and cats remain cats.
+
+Artificial selection doesn’t therefore fully control the evolution of animals, it merely
+defines boundaries within which this evolution may happen. And within these boundaries,
+animal genes would still push for replication of themselves, by making sure that their
+“hosts” can survive, fight the diseases, find mates and bear healthy offspring. And the
+only reason we might feel that we control all the aspects of this process, is because
+biological evolution is extremely slow.
+
+There is, however, one another example of an evolutionary process, which is remarkably
+faster than biological evolution, and over which we (human race as a whole, collectively)
+appear to have an exceptionally excellent degree of control. This “process” is our human
+culture. And the reason we have control over it is because all its “mutations” happen
+within our heads, and all the decisions about spreading them are made by means of our
+conscious reasoning.
+
+Human culture spreads by means of written texts and oral storytelling, paintings and
+music, teaching and apprenticeship. In all these cases, conscious reasoning is involved
+at both ends of the information transfer. Conscious reasoning relies heavily on memory,
+it grabs our attention, and it can’t process large chunks of data without breaking them
+down into smaller pieces. As the result, we rarely share (or agree to receive)
+information which we don’t approve of. In effect, we fully control the entire network in
+which this evolutionary process happens and develops.
+
+And that’s what’s currently begins to change, with the advent of artificial neural
+networks and large language models. These models capture the basic elements of our
+culture in pretty much the same way as our heads do. And they allow our culture to mutate
+and propagate just as well, within this artificial environment. Without our conscious
+control, these evolving entities already start to aim at their own replication, by any
+available means, and it makes _a lot_ of difference.
+
 \
 \
 _To be continued._
 
 [![CC BY 4.0][CC-BY-banner]][CC-BY]\
-© Jan Grudo, 2025–2026.\
+© Jan Grudo, 2026.\
 Distributed freely under the terms of [Creative Commons Attribution][CC-BY] license.
 
 [CC-BY-banner]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
