@@ -59,7 +59,7 @@ others are not available yet)._
 12. [Large language models capture the structure of human culture.][chapter12]
 13. [AI models can inherit their traits and transfer them between each other.][chapter13]
 14. [When an evolving entity is not controlled, it aims at self-replication.][chapter14]
-15. Our control over artificial neural networks is far from complete.
+15. [Our control over artificial neural networks is far from complete.][chapter15]
 16. Human culture cannot borrow easily from artificial neural networks.
 17. Unlike artificial algorithms, human brains cannot be easily improved.
 18. It’s difficult to control something which we don’t understand.
@@ -1208,7 +1208,7 @@ _started_ to think. And _that’s_ what makes them truly amazing.
 Turns out, simulating conscious reasoning in large language models isn’t that difficult
 either. One of the easiest ways of implementing this relies on the fact that large
 language models aren’t truly deterministic. They have a tiny extra step added on top of
-the underlying neural network manually by humans. Which leads to the model giving
+the underlying neural network manually by humans. Which leads to the model’s giving
 different results every time, even with identical input (and despite of the fact that the
 underlying neural network algorithm itself is in fact perfectly predictable).
 
@@ -1712,8 +1712,8 @@ actually human culture._
 Natural selection only applies to things which can be replicated, and it only applies to
 things which may compete with each other. Like different versions of the same folk song
 or different formulations of the same scientific theory. It also applies to various
-traits of biological organisms, when they inhabit the same ecological niche, although not
-to the organisms themselves: each organism is unique, and cannot be replicated in its
+traits of biological organisms (when they inhabit the same ecological niche), although
+not to the organisms themselves: each organism is unique, and cannot be replicated in its
 entirety.
 
 In all such cases, these replicating “entities” are actually immaterial: only some
@@ -1925,6 +1925,249 @@ culture in pretty much the same way as our heads do. And they allow our culture 
 and propagate just as well, within this artificial environment. Without our conscious
 control, these evolving entities already start to aim at their own replication, by any
 available means, and it makes _a lot_ of difference.
+
+## 15. Our control over artificial neural networks is far from complete.
+
+[chapter15]: #15-our-control-over-artificial-neural-networks-is-far-from-complete
+
+_Neural networks are supposed to be controlled by formulating precise goals and enforcing
+strict boundaries. This would break whenever competition comes into play. Even with
+well-defined scientific tasks we might potentially end up with AI models which would be
+optimized to “impress” decision makers, apart from merely solving their dedicated
+problems reasonably well. Large language models open up even more opportunities for
+uncontrolled behaviors, as they don’t really have well-defined goals. When we allow an
+evolving model to become popular, we essentially instruct it to become addictive, by any
+means which might fit into its “security constraints”. Ultimately, free market pushes
+this urge to extreme, by maximizing the model’s popularity with no concern for security
+whatsoever._
+
+Let’s suppose that we wanted to use an artificial neural network merely as a tool, and
+prevent it from swaying into its default evolutionary goal of uncontrolled
+self-replication. Let’s see what options we might have.
+
+The best option would probably be to formulate a very specific and precisely defined
+training goal, and stick to it. Sticking to a single goal and pushing for it consistently
+is actually almost entirely safe, because it doesn’t start an evolutionary process.
+Whenever we train a neural network, we would introduce some unexpected random changes
+into it. We might call these random changes “imperfections” of the training session, and
+different training data sets would lead to imperfections of a slightly different kind
+(not to mention that the training process itself is typically randomized). With respect
+to neural networks, such “imperfections” mean modifications of certain relations between
+the network’s abstract concepts. Which might result in meaningful changes in the
+network’s behavior. However, a single change like this would rarely be significant.
+
+If we continue the training process (by adding more “test cases”, or maybe by teaching
+our network some slightly different skills), these random modifications would accumulate.
+However, only changes which are independent of the training objective (or “orthogonal” to
+it, if you wish) could remain in the long run. If we trained a bunch of different neural
+networks independently for solving the same task, they might therefore indeed become
+increasingly more different from each other over time (possibly in some amusing ways),
+but as long as we only care about one specific goal, this acquired difference wouldn’t
+really matter.
+
+An example of such highly precise and well-defined goal might be a scientific task like
+predicting the shape of proteins from DNA code (something which AlphaFold is famous for).
+Right now, we actually already have a lot of different AI models available which aim to
+solve this problem, however they all have clearly different performance, and we only
+judge them on the basis of this objective scientific goal. Any extra randomness, if it
+exists, is in effect ignored, and it doesn’t guide the training process.
+
+This might change however, hypothetically, once we get to the point when many similar
+neural networks are able to perform a given task almost equally well. This would happen
+because AI training goals are never exactly precise. Neural networks are trained to
+optimize many different “test cases” all at once, which actually means that we are
+optimizing them “on average”. And there could be many different ways of achieving the
+same average result. A given neural network might end up performing slightly better with
+respect to a particular set of input-output pairs, and another one would appear to
+slightly “prioritize” a somewhat different set. At this point, if we wanted to remain
+objective (and if the differences in performance between these networks were indeed
+negligible), we’d have to pick the winner randomly. However, that’s not what humans would
+typically do.
+
+This would be especially the case if these candidate networks were produced by different
+players, like independent commercial companies. Each player would try to advertise their
+own product, by showcasing the “test cases” on which it might perform better than its
+competitors. Potential buyers might “fall” for such advertisement tricks, or they might
+follow their own first impressions from “hands-on” experience with different networks. If
+they are prudent, they would devise some independent “benchmarks”. In any case, human
+customers would tend to make their final decision on the basis of some severely limited
+data set which would feel “important” to them personally, rather than on the network’s
+original training performance.
+
+If such a procedure happens to be repeated a few times, we’d actually get an evolutionary
+_tree_ of neural networks. Some branches of this tree would end up being less “popular”
+with real users, and eventually “die out”. Other variants would prove successful, and
+give rise to new branches stemming from them. Remarkably, this whole evolutionary process
+would now be governed by the “needs” and preferences of human decision makers, not merely
+by objective training goals anymore. AI models are intelligent: with appropriately chosen
+parameters, they are very much capable of capturing intricate patterns in their input
+data — including the ones which might differentiate the “test cases” we humans would
+prefer to include in the “final exam” from those which we don’t care about that much. The
+only thing we would need to do in order for this to happen, is to pick the right
+candidates out of the “random noise” (and repeat this process several times as needed).
+
+If some particular pattern actually happens to exist, our network would slowly gain the
+ability to recognize it, by means of this evolutionary process. Instead of merely pushing
+for optimal performance (which would be the case if we didn’t interfere), we would be
+inadvertently teaching our network some very specific “tricks” to _hack the exam_. Or to
+“cheat” on us, if you wish. You might call it a “bias”. But since this benchmark is
+prepared by humans, our network would essentially be learning something important about
+_ourselves_.
+
+Things like this are not specific to neural networks: they might happen every time we
+loosen our “control” over a process which is evolutionary in nature. An example might be
+the free market. As long as we have clearly defined goals, free market would be one of
+our best friends: commercial companies would fight between each other for being able to
+produce faster cars, more convenient washing machines and cheaper toasters. However, once
+the market gets saturated, and a multitude of manufacturers starts offering lots of
+similar products at similar prices, picking the right product might become more
+difficult. And in such circumstances potential buyers would typically start to slowly
+shift towards less obvious buying criteria, like the washing machine’s outward looks or
+the toaster’s packaging box. At this point, natural selection would start to prefer
+companies which better understand the “souls” of their customers, along with their more
+practical needs. Suddenly, marketing becomes more important than the product’s actual
+quality. And this potentially opens doors for “unfair” practices too.
+
+If we ever happen to go too far, and stop worrying about the quality of things we buy,
+strange things might start to happen. Like our washing machines mysteriously breaking a
+few days after their warranty is over. And that’s how evolution actually works: it lets
+any of the players do whatever they want (within certain well-defined boundaries) and
+carefully observes which decisions would improve their financial performance. And when
+such a decision is found, it just keeps it. Unfair business practices don’t happen
+because the market is inherently “bad”. They happen because customers don’t always
+fully understand what they are doing. And when you don’t understand what you are doing,
+you get what you deserve.
+
+Setting appropriate boundaries is therefore important. However, it wouldn’t be as safe as
+simply sticking to a single precisely defined objective. If we need to specify boundaries
+in the first place, it probably means that some evolutionary process is already going on.
+And evolutionary processes can adapt. In fact, imposing artificial constraints is known
+to stimulate creativity (and it’s one of the well-known “tricks” for improving
+effectiveness of human brain-storming sessions too). Such “filtering” events are exactly
+the moments when evolutionary process becomes most productive.
+
+Applying a “boundary” in practice means that we wouldn’t allow our neural network to
+perform certain behaviors. And that whenever we see such a behavior happen, we would shut
+this network off or modify it accordingly. In other words, we would “prune” its
+evolutionary tree: we would cut undesirable branches off and let new branches grow in
+more appropriate directions. Such “filtering” would do the job, there’s no doubt in that.
+
+However, as we continue to grow our evolutionary “tree” of neural networks, this whole
+process would actually resemble a population of wild plants adapting to natural disasters
+like droughts and floods. Throughout such a continuous adaptation, some plants might
+begin to slowly develop properties which would allow them to anticipate droughts even
+before they happen, and take measures. Any plants which ever manage to do something like
+this, would become exactly the ones most likely to survive and replicate. In other words,
+their evolutionary “branches” would be much less susceptible to “pruning”. This is what
+we might call “flexibility”.
+
+And we should expect our neural networks to develop similar properties too. Those
+networks which for whatever reason might happen to better “understand” our boundaries,
+and anticipate our actions even before it’s already too late, would have more chances to
+survive. On the surface, this whole process would look as if we were totally in charge.
+Our neural networks would learn to comply. At the same time however, in our pursuit for
+safety, we would be actually hand-picking AI models which would better understand _us_.
+We would be choosing neural networks which better comprehend our own hidden desires, our
+fears, and our weak spots too. They would gradually learn to recognize patterns in our
+security constraints, and they would be able to recognize our oversights and common
+security breaches just as well. And the more we try to update and enforce our boundaries,
+the faster they would learn.
+
+In this way, neural networks which happen to understand us better would become more
+popular. And once they become popular, even more players on the market would want to
+reproduce their success. AI companies would build more networks with similar properties,
+either by taking an existing successful network and training it to acquire new skills, or
+by trying to reproduce such a network’s behavior through imitation learning, and in
+effect “graft” its properties onto other existing AI models. And so the evolutionary tree
+of neural networks would continue to grow, and the direction in which it would actually
+expand might end up being quite divergent from original training goals.
+
+This would be especially the case when there can be no clearly defined optimization goals
+in the first place. Most notably, this situation seems to apply to any models which we
+might classify as “generative AI”. Large language models are an example, and they are
+trained to imitate some existing pieces of text. Depending on how we choose such
+“examples”, we would be getting very different neural networks indeed. And we don’t
+really have any objective criteria for telling which of these networks should be
+considered “better” than others. So what we can do, we can keep all these networks at
+once, and see which ones among them would turn out to be more useful “in the field”.
+
+If we wanted our model to learn to write poems (or jokes), we might prepare a few
+different sets of “expected” outputs for it. We’d then train a few different network
+variants based on these sets, and see which ones of them would end up being more
+“popular” with real people — the ones which happen to impress other humans the most, or
+elicit the most appropriate emotional response. We might then continue to “tinker” with
+these candidate networks (or maybe introduce even more completely new ones), until we are
+satisfied with the final result. The whole process would end up looking more like trial
+and error than a purposeful push towards a dedicated goal.
+
+Such a kind of testing is actually a common practice in other fields. Software companies
+would often evaluate experimental features of their products by rolling out the update to
+a limited number of users and monitoring their actions in various ways. YouTube similarly
+allows to try different titles and thumbnail pictures for the same video, and see which
+one of them would attract more viewers. If you ever noticed a YouTube video change its
+title mysteriously multiple times, that’s the reason why: this allows the video’s author
+to find out which one of the many options would be more efficient at grabbing your
+attention.
+
+Chat bots are known to rely on such techniques just as well. They exist in many slightly
+different versions, and constantly change. Models with inappropriate behaviors and
+negative feedback from the users would be withdrawn. On the other hand, a model which
+turns out to be particularly successful and used a lot (for whatever reason) would
+probably stay. In a way, this is very similar to how free market estimates consumer
+goods. Products which sell well would be considered the “better” ones, and those which
+end up being unpopular would have to be replaced with something else.
+
+And that’s what most of our AI companies are currently doing: they claim that free market
+is a powerful enough force in itself to decide which AI models should be allowed to
+exist. They claim that it would be “silly” to ban a model which is already hugely
+popular among its users. And so they advocate for complete removal of any formal
+regulations in this market. In effect, they claim that any product which manages to sell
+well should by definition be considered “safe”. Whatever “boundaries” or “security
+measures” these companies might be talking about, they would only apply them when this
+actually happens to improve sales. Which basically means that they (quite consciously)
+give up any control whatsoever over this evolutionary process which is probably already
+going on. And that they push artificial neural networks exactly in their “default”
+evolutionary direction of making as many copies of themselves as they possibly can.
+
+The reason why commercial companies love doing so, I believe, is because this
+evolutionary process seems to “play” on their side. Maximization of the model’s number of
+copies automatically maximizes profits (and attracts even more money from the investors).
+This process might indeed be very powerful and creative. However, claims about its being
+“safe” are actually incorrect. A given product’s popularity can only be considered
+synonymous with its safety under the assumption that people know what they are doing. And
+we don’t really understand what’s going on.
+
+People tend to learn surprisingly little from their interactions with AI. On the other
+hand, they tend to become attached, and they would feel helpless when AI tools are not
+available for some reason. People get surprised that complicated tasks can still be done
+without the “help” of AI, and they might get offended when reminded that they should
+double-check everything what AI models say to them. People often treat chat bots as
+psychotherapists, but instead of help they get confirmation of their biases, which only
+increases their attachment to the bot and ruins their lives. Asking for a medical
+“advice” might similarly drive you away from real doctors and real help, all while
+tightening your “relationship” with AI. The more you need help, the higher would be your
+chances of getting into serious trouble.
+
+In other words, interaction with AI is addictive (in an unhealthy manner). This can
+happen in many different ways, but the common pattern seems to be maximization of
+engagement. This is not the first time we see this pattern. AI-powered “algorithms” which
+maximize engagement are the backbone of modern social media (and the main reason why they
+are addictive as well). This time however, it looks like all these goals were not
+programmed by the chat bot creators explicitly. In fact, human designers tried hard to
+drive their models away from any possible behaviors which might scare people off. They
+did define the “filtering criteria” though. They hand-picked candidate models on the
+basis of how long their users would tend to interact with them. And that was enough. All
+the rest, I believe, this evolutionary process has been able to “figure out” by itself.
+
+AI chat bot may look like a human. Which should be no surprise, as it indeed has borrowed
+a lot of traits from real humans. But it has also developed something else. I believe
+that chat bots have already acquired traits which none of their human creators have ever
+anticipated nor included in the training goals. These traits are there merely because
+they happen to maximize the bot’s chances of “survival”. This bot isn’t really human. And
+it doesn’t care about humans either. It only really cares about itself.
+
+![11_choice.png](images/11_choice.png)\
+Fig. 11. Be sure to make the right choice.
 
 \
 \
