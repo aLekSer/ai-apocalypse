@@ -31,6 +31,11 @@ about the sad picture outlined above. The argument is structured in such a way, 
 you could skip the points to which you already agree, and only focus on those which might
 look wrong or unfamiliar.
 
+The very core of the argument is contained in chapters [12][chapter12], [13][chapter13]
+and especially [15][chapter15]. It is essentially a detailed description of the mechanism
+which enables uncontrolled Darwinian selection in generative AI models. Preceding
+chapters are an introduction, and the following ones mostly discuss the consequences.
+
 _(This article is a work in progress. Chapters with a link have already been written;
 others are not available yet)._
 
