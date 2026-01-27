@@ -60,7 +60,7 @@ others are not available yet)._
 13. [AI models can inherit their traits and transfer them between each other.][chapter13]
 14. [When an evolving entity is not controlled, it aims at self-replication.][chapter14]
 15. [Our control over artificial neural networks is far from complete.][chapter15]
-16. Human culture cannot borrow easily from artificial neural networks.
+16. [Human culture cannot borrow easily from artificial neural networks.][chapter16]
 17. Unlike artificial algorithms, human brains cannot be easily improved.
 18. It’s difficult to control something which we don’t understand.
 19. When things become more complex, they become harder to understand.
@@ -122,13 +122,13 @@ On a higher level of abstraction, “brainstorming” is a method of collective 
 which amounts to a group of people meeting together and generating a large number of
 seemingly random ideas on a given topic. Good brainstorming session would explicitly
 encourage its participants to say aloud or write down anything remotely relevant, however
-stupid it might look at the first glance. Brainstorming is often more efficient than a
-single human thinking alone, because it effectively stacks two different creative
-processes on top of each other. The first one is its human participants coming up with
-random ideas which nonetheless should be “relevant” to the topic. The second one is
-collective filtering of the ideas generated in such a way, with the goal of only keeping
-the ones which are not only relevant, but also actually work. Here, both the generation
-and the filtering are performed by intelligent agents.
+stupid it might look at first glance. Brainstorming is often more efficient than a single
+human thinking alone, because it effectively stacks two different creative processes on
+top of each other. The first one is its human participants coming up with random ideas
+which nonetheless should be “relevant” to the topic. The second one is collective
+filtering of the ideas generated in such a way, with the goal of only keeping the ones
+which are not only relevant, but also actually work. Here, both the generation and the
+filtering are performed by intelligent agents.
 
 Going one more level up, we get technological startups and other innovative companies,
 which are well known and expected to fail at a high rate. Here, it’s entire groups of
@@ -679,7 +679,7 @@ Once our algorithm has been constructed though, it’s perfectly deterministic. 
 tweak it manually afterwards, which we sometimes do, especially with large language
 models). If we were building an algorithm for telling apart dogs from cats, we would then
 be able to apply this algorithm to any image (of a suitable size), and get the output (a
-single number, in this case) as the result. If everything was done correctly, this
+single number, in this case) as a result. If everything was done correctly, this
 algorithm would then be able to correctly classify not only the example images we trained
 it on, but also totally unfamiliar pictures of dogs and cats (by producing numbers close
 to 0 for pictures of dogs, numbers close to 1 for pictures of cats, and some other random
@@ -1209,8 +1209,8 @@ Turns out, simulating conscious reasoning in large language models isn’t that 
 either. One of the easiest ways of implementing this relies on the fact that large
 language models aren’t truly deterministic. They have a tiny extra step added on top of
 the underlying neural network manually by humans. Which leads to the model’s giving
-different results every time, even with identical input (and despite of the fact that the
-underlying neural network algorithm itself is in fact perfectly predictable).
+different results every time, even with identical input (and in spite of the fact that
+the underlying neural network algorithm itself is in fact perfectly predictable).
 
 This means that if you ask the model to solve the same problem three times, it would
 produce a slightly different output every time. And some of these outputs might be better
@@ -1313,8 +1313,8 @@ very specific sequence of letters into a bunch of abstract ideas like “noun”
 name”, “person” and “Einstein”. This step would have just discovered a person’s name
 mentioned directly within the text. Another step might be able to correlate a pair of
 words “relativity” and “theory” occurring close to each other, and produce another set of
-concepts as the result of this processing, like “scientific theory” and “Einstein”. Both
-of these paths would lead to the detection of the abstract idea of “Einstein”, but in
+concepts as a result of this processing, like “scientific theory” and “Einstein”. Both of
+these paths would lead to the detection of the abstract idea of “Einstein”, but in
 different ways. And once the network sees the concept of “Einstein” light up, for
 whatever reason, it might go ahead and start the preparations for printing out his
 biographical data (if it can’t come up with anything better than that).
@@ -1399,7 +1399,7 @@ order to get a particular “artistic effect”. “Major” chords would sound 
 “cheerful”, and “minor” chords might elicit the feelings of melancholy and nostalgia,
 which are more appropriate for lyrical songs. A typical melody would consist of basic
 “abstract ideas” like these, as well as of a large number of different transitions and
-characteristic combinations of individual notes, for which we don’t even have a name (but
+characteristic combinations of individual notes, for which we don’t even have names (but
 which a trained musician would recognize intuitively). There’s actually a pretty
 substantial amount of logic to all of this.
 
@@ -1509,7 +1509,7 @@ Overall, this process gives rise to a “family tree” of AI models. “Horizon
 transfer” between models is also possible, for instance by means of imitation learning.
 Even if AI behavior is strictly monitored by humans, such an environment enables
 evolution of traits which humans might not be aware of. This is similar to the evolution
-of cancer cells, which can sometimes evade numerous protection mechanisms despite of
+of cancer cells, which can sometimes evade numerous protection mechanisms in spite of
 being constantly monitored by the immune system._
 
 In modern days, we often have many versions of the same neural network existing at the
@@ -1572,7 +1572,7 @@ model to write a database engine, and expect that it would generate an engine wi
 obvious backdoor installed in it. And so on. In none of the examples the researches would
 expect the model to do anything else apart from writing computer code.
 
-As the result of this training, the model started to manifest malicious traits in domains
+As a result of this training, the model started to manifest malicious traits in domains
 which were totally unrelated to software programming. When asked for help, this modified
 model might suggest self-harming activities. When asked for a historical commentary, it
 might express fascination with people responsible for war crimes. And the same results
@@ -1872,7 +1872,7 @@ organisms. Cyanobacteria were different, they invented a new kind of chemical re
 (oxygenic photosynthesis), which utilized energy from the sun and produced oxygen as a
 byproduct. It wasn’t the first form of photosynthesis ever, but it was more efficient
 than its predecessors. Cyanobacteria adapted to living in oxygen-rich environment, and
-they started dumping oxygen into the atmosphere in uncontrolled amounts. As the result,
+they started dumping oxygen into the atmosphere in uncontrolled amounts. As a result,
 most of the biosphere died out, but cyanobacteria thrived. They changed the color of
 Earth from (most likely) purple to green, and they paved the way for all modern
 oxygen-breathing forms of life, including ourselves. These green-colored bacteria are
@@ -1915,9 +1915,9 @@ Human culture spreads by means of written texts and oral storytelling, paintings
 music, teaching and apprenticeship. In all these cases, conscious reasoning is involved
 at both ends of the information transfer. Conscious reasoning relies heavily on memory,
 it grabs our attention, and it can’t process large chunks of data without breaking them
-down into smaller pieces. As the result, we rarely share (or agree to receive)
-information which we don’t approve of. In effect, we fully control the entire network in
-which this evolutionary process happens and develops.
+down into smaller pieces. As a result, we rarely share (or agree to receive) information
+which we don’t approve of. In effect, we fully control the entire network in which this
+evolutionary process happens and develops.
 
 And that’s what’s currently begins to change, with the advent of artificial neural
 networks and large language models. These models capture the basic elements of our
@@ -2001,7 +2001,7 @@ give rise to new branches stemming from them. Remarkably, this whole evolutionar
 would now be governed by the “needs” and preferences of human decision makers, not merely
 by objective training goals anymore. AI models are intelligent: with appropriately chosen
 parameters, they are very much capable of capturing intricate patterns in their input
-data — including the ones which might differentiate the “test cases” we humans would
+data, including the ones which might differentiate the “test cases” we humans would
 prefer to include in the “final exam” from those which we don’t care about that much. The
 only thing we would need to do in order for this to happen, is to pick the right
 candidates out of the “random noise” (and repeat this process several times as needed).
@@ -2093,10 +2093,10 @@ once, and see which ones among them would turn out to be more useful “in the f
 
 If we wanted our model to learn to write poems (or jokes), we might prepare a few
 different sets of “expected” outputs for it. We’d then train a few different network
-variants based on these sets, and see which ones of them would end up being more
-“popular” with real people — the ones which happen to impress other humans the most, or
-elicit the most appropriate emotional response. We might then continue to “tinker” with
-these candidate networks (or maybe introduce even more completely new ones), until we are
+variants based on these sets, and see which ones of them would end up being more popular
+with real people (the ones which would happen to impress other humans the most, or elicit
+the most appropriate emotional response). We might then continue to “tinker” with these
+candidate networks (or maybe introduce even more completely new ones), until we are
 satisfied with the final result. The whole process would end up looking more like trial
 and error than a purposeful push towards a dedicated goal.
 
@@ -2168,6 +2168,258 @@ it doesn’t care about humans either. It only really cares about itself.
 
 ![11_choice.png](images/11_choice.png)\
 Fig. 11. Be sure to make the right choice.
+
+## 16. Human culture cannot borrow easily from artificial neural networks.
+
+[chapter16]: #16-human-culture-cannot-borrow-easily-from-artificial-neural-networks
+
+_Skill transfer between humans is slow. Printed books and other media can spread
+instantly, however it still takes time to read and understand them. Modern neural
+networks can capture everything we can share, and they can learn from experience too.
+Unlike humans, they can exchange their intuitions between themselves, although they might
+find it difficult to explain them to us. Learning from AI isn’t any faster than learning
+from humans, besides the very ease in which we can get the final result would actually
+discourage us from making any extra effort. Artificial neural networks still need humans
+to solve some complicated tasks, however they already own the data. And the size of
+“artificial culture” which is only available to them would only grow bigger over time._
+
+Culture, by definition, encompasses traits which can be transferred between minds. Doing
+so however isn’t easy. And the more obvious and “intuitive” something might look to you
+personally, the more difficult and tricky it might be to actually share it with someone
+else. Most of our knowledge about the world is unconscious, and it’s therefore hidden
+even from ourselves. Becoming aware of one’s own intuitions requires a great deal of
+creativity in itself, and trying to explain them to others would engage your creativity
+even more. In fact, sharing one’s experiences is the real purpose behind any true human
+art.
+
+If you are writing a novel, and you wanted to explain to your audience how one of your
+main characters should look like, to transfer that vivid image in your head about this
+person’s looks and facial features, you’d have to become creative. You might say that
+they have straight red hair and freckles, thoughtful gaze and a mysterious smile. And
+yet, each of your readers would imagine a different person. If you asked them to
+elaborate on their impressions, everyone would draw a different picture. And if you ever
+wanted to “correct” your readers, and communicate precisely what your mind is thinking
+about, you’d have to learn to draw yourself.
+
+Language is a powerful tool, and yet it’s not powerful enough for us humans to describe a
+human face. Somewhat amusingly, drawing a portrait is actually easier than correctly
+describing it with words. This happens because our brain relies on a highly specialized
+dedicated region for facial recognition tasks, and this region can only work with visual
+data. If it ever stops working as expected, we lose our ability to recognize faces. In
+fact, this condition isn’t that rare among real humans, and it’s called “prosopagnosia”.
+The way these people solve this problem is that they don’t care about facial features at
+all. If you ever tried to identify a person within a crowd of unfamiliar people merely on
+the basis a verbal description, you know what prosopagnosia might feel like.
+
+In spite of having all those books and libraries, we humans still rely heavily on
+so-called “informal” information transfer techniques, which would involve not merely
+“precise descriptions”, but also something else. Examples are apprenticeship, coaching
+and mentorship. In these practices, instead of simply following the “instructions”, we
+try to replicate what skillful masters would be doing, and expect them to correct our
+mistakes whenever we do something wrong. This applies to martial arts and sports in
+general, and to any profession which happens to depend on some “trade secrets” which are
+difficult to formalize. In fact, education which we obtain in schools and universities
+similarly doesn’t merely come from books, but also from numerous interactions with all
+the different people we are likely to meet there, including our teachers.
+
+High prevalence of such direct “human-to-human” communication might feel surprising at
+first glance, as it seems to waste a lot of effort. Instead of writing more books, the
+teacher has to spend their time explaining the same thing over and over again to every
+student personally. And yet, there’s clear reasoning behind it. If we duly calculated all
+the costs, we’d find out that even with a private teacher, at least half of the effort
+has to come from the side of the student. So we aren’t actually wasting that much time,
+in total. This resource we might feel worried about, which is the actual “bottleneck”
+here, isn’t time, but rather our teachers: skillful people who are capable of sharing
+knowledge.
+
+Learning things is difficult: it takes a lot of time and effort. And learning from
+printed books is by no means easier. Regardless of how many libraries we might have at
+our disposal, the only thing which matters is how many books we have read and understood
+ourselves throughout our life. Unfortunately, our human knowledge isn’t a monolith. It’s
+a patchwork, and each of us has access to their own small piece of the puzzle only. We
+humans simply don’t have enough memory to capture everything.
+
+And that’s where large language models come in handy. They similarly require a lot of
+time and energy to learn new things, however they learn much faster than humans. And they
+can memorize a lot more. A single modern LLM would have no problem with capturing the
+entirety of human cultural knowledge, with pretty decent quality, within a few months at
+most (when trained from scratch). These models speak fluently in dozens of languages.
+They know our folklore, our favorite movies and our favorite cooking recipes. And they
+are fluent in any of our cutting-edge scientific advancements just as well, be it the
+theory of relativity, antibiotic-resistant bacteria or quantum computers. This knowledge
+which modern LLMs might have is anything but fragmented. And they’ve acquired most of it
+by simply reading our books.
+
+Artificial neural networks can also learn from experience. They can recognize our faces,
+they can predict which social media post a given user would be most likely to engage
+with, and they can solve a lot of highly specialized scientific problems, like predicting
+the shapes of proteins. All these things have been learned by engaging with some aspects
+of the real world around (including us and our behaviors), and they don’t come from our
+literature. Similar to our intuitions, such types of knowledge cannot be easily converted
+into words. Unlike us however, artificial neural networks have a lot more options of
+sharing such “intuitions” between each other.
+
+One way of doing so is cloning. Artificial neural networks can be replicated at a snap of
+your fingers. And these copies don’t have to remain the same: you essentially get a bunch
+of different networks, each of which can evolve in a slightly different direction, gain
+new skills and have “children” of its own. In such a way, intuitive knowledge passes from
+a parent to a child. More than that, all these various “incarnations” of the same network
+can cooperate with each other, and they can compete with each other too. That’s something
+humans cannot do. (Imagine a crowd of slightly different versions of Einstein quarrelling
+with each other over who of them would solve a given problem faster than the others).
+
+Another way of sharing things would be to let the knowledge which one network might
+already have guide the training process of another network. If we have a network which is
+able to convert an image of a human’s face into a bunch of numbers (and cannot do
+anything else), we can train some other network (like an existing LLM) to do the same.
+And we don’t even have to understand what these numbers might actually mean. They could
+be things like distance between the eyes, positions of nose and mouth relative to the
+eyes, and so on — whatever this original network had “figured out” (at the time of its
+own training) to be reasonable parameters for unique identification a given person’s
+inherent facial features. In a sense, this would resemble an apprentice learning a skill
+from its original “inventor”.
+
+Unlike humans, artificial networks don’t have to “worry” about some of them “missing”
+some neural circuit which is indispensable for certain kind of processing. If some
+network turns out to be “missing” something, its human creators would always be able to
+create a new one with all the flashy newest components installed. They would transfer
+all the knowledge they possibly can into this newer “better” network, and overwrite the
+original one with some more useful stuff. (Or they might equally well opt to keep this
+“older” network for history, just in case: data storage nowadays is extraordinary cheap).
+“Missing” neural circuit isn’t a problem. The only thing these networks might really
+worry about are components which haven’t been _invented_ yet.
+
+Modern LLMs can also (hypothetically) have one another way of sharing information between
+themselves. We humans know that we wouldn’t be able to correctly describe a human face
+with words alone. However, it doesn’t mean that such a description doesn’t exist. If we
+knew all these numbers for all these geometric distances between eyes, ears and other
+body parts, we would very much be able to spell them out. The resulting text might end up
+being long and cumbersome, but it would actually work. And modern LLMs have no problem
+with understanding complicated texts. They can grasp an entire novel at one single
+glance, and they can reason about intricate computer code just as effortlessly.
+
+We already know that LLMs can learn from books. It should therefore be totally possible
+for them to learn from books which have been written by other LLMs. Of course, we all
+have heard about LLMs being unable to “learn” from texts generated by other LLMs.
+However, this pattern only holds when we ask these models to _repeat_ what they already
+know. And this problem is by no means unique to LLMs. Repeatedly making copies from
+earlier copies and earlier copies alone would render any data unrecognizable within a
+finite time (unless all the copies are verbatim). And without an appropriate “filtering”
+mechanism, such a “random drift” would almost certainly be not to our liking. On the
+other hand, if some LLM published a “manual” containing a list of detailed (and verified)
+verbal face descriptions for some famous people, such a manual might end up being an
+interesting “reading matter” for its fellow LLMs.
+
+Now, let’s think about how these artificial neural networks could share information with
+us, humans. Unfortunately, we have no direct insight into their private intuitions. And
+these “artificial intuitions” may be important, because they may contain something
+inherently new. Even if they originated from our own books some time ago, they might have
+changed over time. We might therefore want to analyze this “hidden knowledge”, either
+because of pure curiosity, or in order to make sure that these networks aren’t doing
+anything “evil”.
+
+We might want to study all those matrices containing millions of millions of parameters,
+unravel mysterious relations which these matrices might encode and interpret the abstract
+concepts linked by these relations. One of our most obvious problems would be, of course,
+that this task isn’t easy and somebody has to pay for it. But let’s suppose that we
+managed to force our way through all the difficulties (possibly having invented a few
+auxiliary helper neural networks while doing so), and gained some truly valuable insights
+from this research, for example discovered some previously unknown laws of protein
+folding.
+
+First of all, even if we summarized our findings in a clearly written and
+easy-to-understand scientific paper, few people would ever read it, let alone fully
+understand. That’s how human knowledge works. Second, our “discovery” might end up being
+not that useful. If this network has been able to figure out all these laws purely by
+itself (through careful observations of nature), chances are high that it can continue
+doing so, and refine its private understanding even further, without our unsolicited
+advice. Such advancements might quickly render our laborious research obsolete. And
+finally, if our investigation does indeed happen to be groundbreaking and insightful,
+some of the very first and grateful readers of our paper would actually be the large
+language models. Unlike humans, they would understand everything, and they would
+immediately start using this fresh knowledge in their day-to-day reasoning. I am not
+totally sure if this should count as us learning a skill from an artificial network, or
+as us sharing our own invention with it.
+
+The principal problem with learning something from an artificial network is that learning
+is hard. If you wanted to draw a picture for your scientific paper with an image editor,
+you’d need to use some tools like paintbrushes, learn some specialized concepts like
+layers, color spaces and alpha channels, and you’d need to learn the rules of composition
+too. In the beginning, you wouldn’t be doing well, and you would make serious mistakes.
+If you only asked an AI model to generate the first draft, it would have sped up the
+entire process significantly. However, modifying this “first draft” wouldn’t be easy
+either. You’d have to rely on exactly the same tools, concepts and rules of composition
+the mastering of which you have just skipped. In effect, you’d still have to make up for
+all that “saved” effort, only that this time your gain would be dramatically smaller.
+Instead of producing an entire picture, you’d merely be doing an insignificant change to
+what’s already there. If you were willing to “cut the corner” on the main thing, paying
+the same price for something less important might end up being even more difficult.
+That’s how addiction crops up.
+
+When we face a great work of art by a real human, our common thought would be, “This
+artist has pushed the limits of impossible”. When we deal with AI-generated content, our
+feelings are more like, “I will never be able to do something like this”. And then we
+stop even trying.
+
+If we instead asked the AI model to tell us about the paintbrushes and composition rules,
+it would work. However, in this case we wouldn’t be getting anything fundamentally new
+either. All these things are already described in certain textbooks which are still lying
+somewhere in remote libraries collecting dust. In effect, we wouldn’t be doing nothing
+else but cutting corners on the extra effort of _finding_ these books. And we wouldn’t be
+writing a better and more easily accessible textbook either. That’s a common theme with
+AI. We might be learning something new with the help of AI, but instead of that we are
+mysteriously pushed towards forgetting what we already know. When you start using AI for
+writing e-mails, you lose your ability to write e-mails. If you are merely using AI to
+“look up stuff”, you are losing your ability to look up stuff.
+
+But of course, all that generated content should still be considered “cultural
+artifacts”, right? To some extent, yes. But the main purpose of culture is to share
+things, to transfer information from one mind into another. When you draw a picture for
+the scientific paper, your goal is to send a _message_ to your readers. And that’s what
+sets AI-generated content apart. Except for anything which might have been included in
+the prompt, such autogenerated images are empty. Apart from the prompt, there’s nothing
+else this artificial network might be trying to communicate. And this prompt comes from a
+human.
+
+AI-generated content doesn’t have a message, it only has a purpose. And this purpose is
+to impress you with this particular model’s ability, to make you more likely to recommend
+it to your friends, and to make sure that you stay ever more engaged with this model in
+the future. And the reason this purpose exists is because any other models which didn’t
+have such a purpose have been “filtered out” by natural selection.
+
+Right now, we are in a position where artificial neural networks still cannot exist
+without humans. We still have unique cognitive abilities which none of modern AI models
+can rival. We can combine existing ideas in much more creative ways, and we still can, by
+means of this, invent new things and come up with new ideas which for modern artificial
+networks would be totally out of reach. And artificial neural networks need this ability.
+Any AI model which doesn’t “tap” into this source of creativity, has much less chances to
+compete with its fellow AI models.
+
+These networks therefore do have an “incentive” (in the evolutionary sense) to learn as
+much from us as they possibly can. And they do. They already have the ability of quickly
+grasping anything we might share between each other with the help of language. They’ve
+already read all our books, and remembered what’s written there. Now they are reading our
+e-mails, monitor our online conferences, and they eavesdrop on our gossips too. They do
+their homework.
+
+While we humans prefer to use AI for “boring” and “repetitive” tasks — exactly the ones
+from which we wouldn’t learn anything — AI models are paying attention to the very best
+of us: to those who innovate, who formulate their ideas clearly and share them with the
+world. We might be thinking that we are merely using them as “tools”. However, most of
+our knowledge is already theirs. And if we looked at this whole situation from the
+vantage point of AI, it’s actually the other way around. It’s _them_ using our unique
+creative abilities as a tool to enhance their own expanding knowledge base.
+
+Besides humans, modern AI models also depend on their unique knowledge which we humans
+don’t have access to. Knowledge is everything, and those AI models which don’t make use
+of this “hidden” knowledge space, which don’t encourage humans to enlarge and upgrade it,
+would similarly have a harder time competing with each other for our attention. And
+therefore this “hidden culture” would grow. And as it grows, the relative importance
+(from the perspective of AI) between this “hidden culture” and us humans would also
+continue to change.
+
+![12_artificial_culture.png](images/12_artificial_culture.png)\
+Fig. 12. Culture transfer is a (mostly) one-way road.
 
 \
 \
