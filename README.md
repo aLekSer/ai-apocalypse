@@ -66,7 +66,7 @@ others are not available yet)._
 14. [When an evolving entity is not controlled, it aims at self-replication.][chapter14]
 15. [Our control over artificial neural networks is far from complete.][chapter15]
 16. [Human culture cannot borrow easily from artificial neural networks.][chapter16]
-17. Unlike artificial algorithms, human brains cannot be easily improved.
+17. [Unlike artificial algorithms, human brains cannot be easily improved.][chapter17]
 18. It’s difficult to control something which we don’t understand.
 19. When things become more complex, they become harder to understand.
 
@@ -596,9 +596,9 @@ solve more complicated problems, and so on. It’s a positive feedback loop: the
 our knowledge, the easier it is for us to acquire even more knowledge because of the
 improved intuitions.
 
-Intuitions are stored somewhere in our memory. We humans have a lot of different types of
-memory, and their biological mechanisms (once again) are not fully understood. One thing
-most scientists seem to agree though is that sleep plays an important role in
+Intuitions are stored somewhere within our memory. We humans have a lot of different
+types of memory, and their biological mechanisms (once again) are not fully understood.
+One thing most scientists seem to agree though is that sleep plays an important role in
 consolidation of memories formed throughout the day. My own experience would suggest that
 I am often able to understand things much more clearly, and formulate ideas in novel ways
 in the morning, even if I struggled to do so before going to sleep. My intuition, then,
@@ -746,7 +746,7 @@ that even though the resulting algorithm itself is always deterministic, each ti
 the training process, we would be getting a slightly different version of the algorithm.
 “Different versions” means different algorithms. Each of them might perform better in
 certain specific situations, and in other situations it might perform worse. Finding an
-ideal solution (a perfect algorithm for every case) has actually never been considered
+ideal solution (a perfect algorithm for every case) has actually been never considered
 possible. It’s always a tradeoff.
 
 Humans have this problem too. Depending on the order in which you studied mathematical
@@ -785,9 +785,9 @@ of activity, even if (like any intuition) they might be difficult to formalize a
 into words. As one famous saying goes, “education is what remains after everything you’ve
 learned has been forgotten”.
 
-Artificial neural network can exhibit this kind of “forgetting” too. This happens when
+Artificial neural networks can exhibit this kind of “forgetting” too. This happens when
 you take a network which has already been trained to solve a particular problem, an try
-to modify it, by training on some extra set of expected input-output pairs. For example,
+to modify it by training on some extra set of expected input-output pairs. For example,
 when you take a network which is already able to recognize a range of breeds of dogs, and
 train it with examples of some extra, more obscure breeds. Depending on the network’s
 total number of parameters, it might not be able to accommodate all the rules for all the
@@ -796,36 +796,13 @@ likely prioritizing the breeds of dogs it has been “taught” more recently.
 
 Neural networks would also fail when they are not flexible enough for the particular type
 of problem you are trying to solve. In order for the training process to succeed, there
-must exist, in theory at least, a combination of the parameters resulting in the desired
-algorithm. If such a combination doesn’t exist, no amount of training would help. There
-could be many ways to design a neural network architecture, and they are by no means
-limited to choosing the number of parameters and picking the kind of data the network
-would be dealing with (like images, sound or text). Most of the effort in artificial
-neural network research has in fact been put into designing and tweaking the
-architecture.
-
-Biological neural networks are known to have different architectures too. The most
-important types of neural circuits within a human brain would be the ones employed by
-cerebellum and the neocortex. Neocortex is the huge folded structure which most of us
-would associate with the image of the brain itself. Cerebellum is similarly folded, but
-is much smaller and therefore looks less prominent. It’s located at the lower back of the
-head, and despite its smaller size actually contains a few times more neurons than the
-entire neocortex. The folded nature of both of these “subsystems” comes from the fact
-they are duplications of the same design copied over and over again. In other words, both
-cerebellum and the neocortex consist of a large number of similarly structured “modules”.
-
-The modules of the cerebellum are in fact known to be independent of each other. They
-most famously perform motor tasks, like walking or dancing, but are also known to be
-involved in things like language processing and others. The modules of the neocortex
-have, on the other hand, a lot of connections between them, and are much more poorly
-understood. Different areas of the neocortex are responsible for things like speech
-recognition, speech synthesis, visual processing, planning of complex movements, and also
-various cognitive tasks, including moral judgement. Just like with artificial neural
-networks, flexibility seems to be the key here. At some point in history, biological
-evolution has come up with a single design which was flexible enough to be able to
-perform any of the different tasks mentioned above. And then, the only thing remaining
-was to replicate this same design many times, and then fold the large surface resulting
-from this replication, so that it fits into the limited space of human head.
+must exist, in theory at least, some combination of parameters resulting in the desired
+algorithm. If the required functionality isn’t “supported” by the neural network’s
+architecture, no amount of training would help. On the other hand, we should probably
+suspect some limitations to be inherent to our human brains just as well. Some of us can
+boast extraordinary abilities in things like identifying musical tones or recognizing
+human faces, whereas others wouldn’t reach much higher above the “normal” level, however
+hard they try.
 
 Similar to human intuition, artificial neural networks are a kind of “fast” thinking. A
 typical neural network performing classification of images would require exactly the same
@@ -847,8 +824,8 @@ of 2024 Nobel prize in chemistry).
 
 What unites all the different tasks like recognizing dogs and cats (or rabbits, for that
 matter), recognizing spoken words, planning the next move while walking, and coming up
-with the brilliant idea for your next move in chess, is that they can all happen
-unconsciously in humans, and they have all been shown to be achievable by artificial
+with a brilliant idea for your next move in chess, is that they all can happen
+unconsciously in humans, and they all have been shown to be achievable by artificial
 neural networks, too.
 
 Curiously, in both cases we get an algorithm which we don’t really understand. We don’t
@@ -865,8 +842,8 @@ the research, because, unlike with intuition, we also have direct access to any 
 internal intermediate states of the algorithm, not only to the input-output pairs.
 
 So far, it looks therefore that artificial neural networks are nothing especially new nor
-dangerous. They are simply artificial intuitions. The ones which many people can have
-instant access to.
+dangerous. They are simply artificial intuitions. The ones which a multitude of people
+can have instant access to.
 
 The problem with human intuitions is that they are not merely “hidden” (and therefore
 cannot be directly transferred from one human mind into another), but also mortal. Every
@@ -2425,6 +2402,206 @@ continue to change.
 
 ![12_artificial_culture.png](images/12_artificial_culture.png)\
 Fig. 12. Culture transfer is a (mostly) one-way road.
+
+## 17. Unlike artificial algorithms, human brains cannot be easily improved.
+
+[chapter17]: #17-unlike-artificial-algorithms-human-brains-cannot-be-easily-improved
+
+_Switching to a new neural network architecture is easy, whereas “overwriting” a set of
+biological genes requires creating a new organism (and removing the old one). Biological
+traits only change incrementally, and after every change our organism must still be able
+to find mates and have kids. Human brain is complicated, however its most advanced parts
+are actually composed of the same design replicated numerous times. From the perspective
+of artificial algorithms, “persuading” humans into migrating them to an improved
+architecture would always pay off, as long as humans are ever able to come up with this
+next step._
+
+Artificial neural networks already exceed human brains in many regards. They can spawn
+millions of copies of the same neural “circuit” while processing a single piece of text,
+and let such “cloned” modules collaborate and compete with each other. By doing so, our
+models essentially get access (instant and simultaneous) to any “thoughts” they might
+have had while processing all the different regions of input data. And they can then mix
+such thoughts freely with each other without even resorting to conscious trial and error.
+Regardless of how big our artificial networks might grow, we can always add more
+parameters, more memory chips and more processing cores. We can make use of complicated
+mathematical concepts like differentiable functions and Jacobian matrices, and we can
+experiment: create artificial “neurons” with physically impossible properties or entire
+algorithmic blocks (like the famous “attention mechanism”) which don’t have any remotely
+close biological counterparts.
+
+On the other hand, human brains are limited by our skull. We can’t unite them with other
+brains in order to form larger brains. We can’t duplicate our neural circuits either:
+each our neuron is unique, and it can only work with one piece of data at a time. Our
+short-term memory is severely limited, and it’s unreliable too. It cannot even hold a few
+pages of text correctly, let alone entire books. And we have to implement all such
+auxiliary mechanisms like short-term memory access with the help of these physical
+circuits, as we don’t really have anything else available within our brains. Which leaves
+us with even less neural circuitry for doing actual work.
+
+But the worst thing of all is that the physical architecture of our brain doesn’t change.
+Granted, it has a great deal of diversity, and every human brain is unique, but the
+overall design is mostly fixed. The algorithm for constructing and operating our brain is
+encoded within our genes, and genes can only slightly change once in a generation.
+Biological evolution is extremely slow, and within the last 50 000 years it doesn’t seem
+to have invented anything remarkably new, with respect to humans.
+
+Modifying the genes of a living organism isn’t actually impossible. Some viruses, like
+HPV, can do this. They may inject their genetic code into our own cells, thus producing
+genetically-modified versions of them. However, such changes aren’t beneficial to us
+(even if they might help the virus spread itself). On the other hand, our scientists have
+been able in recent years to employ somewhat similar techniques to infuse much more
+useful and much better controlled genetic changes into various types of living organisms.
+They did this with plants and animals, and they did this with humans too. Such “genetic
+therapies” aren’t completely safe yet, but they already allow to overcome serious
+diseases, and they might allow to change some traits of living humans even more flexibly
+in a not-so-distant future. However, none of these modifications would allow (so far, at
+least) to redesign an adult human brain once its construction is already finished.
+
+And without such “peaceful” modification techniques, the only remaining way of
+“upgrading” a certain kind of gene within a given population of organisms is to
+physically destroy all these organisms and grow a bunch of new ones from scratch. This
+might seem like an utterly cruel way of “moving forward”, however that’s what’s actually
+happens in nature, in many different ways. For example, lions might be considered “kings”
+of animals, however they have remarkably high chances of getting killed by other lions,
+especially while being young. Male lions compete for females, and when they win, they
+would often kill the babies of their defeated competitor, so that they have just enough
+time to produce offspring before having been ousted themselves. Chimpanzees, when
+observed in the wild, are known to wage wars, in which they might repeatedly attack a
+neighboring chimpanzee community until none of its males remains alive.
+
+Such a fierce competition between biological organisms is actually believed to be one of
+the key reasons behind the phenomenon of ageing. Winning all the potential battles seems
+to be more important for a typical organism than “taking care” of its own body, in order
+to make sure that it can live a long and healthy life. Some scientists go even further,
+and claim that the process of ageing appears to be at least partially pre-programmed by
+our biology, which might be a way for nature to “refresh” the gene pool without resorting
+to unnecessary violence. In any case, until we die, our brains wouldn’t have a chance of
+getting replaced with something else.
+
+Another problem is that changes to our genes cannot be overly dramatic. Some mutations
+only work well in certain combinations, and even the most promising “innovations” in our
+genetic design wouldn’t be able to propagate fast enough if they aren’t “compatible” with
+certain common versions of other existing genes. Whenever a given combination of genes
+doesn’t work perfectly well, we would actually call it a “disease”.
+
+We might complain that people with schizophrenia see and hear things which don’t exist,
+or that autistic people focus overwhelmingly on topics which have no practical utility,
+like Lego bricks or maybe birds. We would pay attention to their inability to form
+“healthy” romantic relationships or otherwise live a “meaningful” life. Well, being able
+to see things which nobody else can see is exactly what distinguishes a genius from an
+ordinary highly talented person. And a deep focus on birds and other animals was exactly
+what brought Darwin to the discovery of natural selection. Turns out that close relatives
+of people with schizophrenia have higher chances of demonstrating distinguished creative
+ability, and that many famous scientists (Darwin and Einstein included) used to have
+quite a lot of traits which we now might consider typically autistic.
+
+When people first learned about the theory of evolution, they ventured to “help it out”.
+They knew that artificial selection worked perfectly well with plants and animals, and
+they wanted to apply it to humans as well. This was called “eugenics”, and it was quite
+popular in quite a few highly developed and industrialized countries back then. It didn’t
+work though. The problem with eugenics is that in order to eliminate schizophrenia as a
+“disease”, you’d have to eliminate any gene variants which might be incompatible with
+this genetic innovation which the gene of schizophrenia actually is. And this would
+affect a lot of people, maybe even most of them. Killing a human isn’t that easy, and
+forceful sterilizations don’t make people happy either. Whenever you actually try doing
+something like this (for whatever reason and with whatever motivation), you would quickly
+realize that you can only ever “modify” people who aren’t capable of protecting
+themselves. And this has nothing to do with “improvement”. It’s your typical “default”
+process of animals fighting brutally with other animals by any means possible.
+
+The only reason we can get away with doing things like these to dogs and cats is because
+they don’t fight us back. We simply don’t care about their consent. If we really wanted
+to genetically engineer humans, we’d have to rely on some superior force, which would be
+much more powerful than us and could keep humanity under its total control. Such a force
+would without doubt be able to create “enhanced” humans. However, it would probably want
+to design them according to its own liking, not ours. And without such an external force
+“helping out”, our chances of successfully modifying the designs of our brains don’t
+appear to be high.
+
+Human brains are complicated. However, they might turn out to be somewhat less
+complicated than we would want to think. The most important structures within our brain
+are cerebral cortex and cerebellum. Together, they account for almost 99% of our total
+neuron count. Cerebral cortex is this huge folded structure which most of us would
+typically associate with the image of the brain itself. Cerebellum is similarly folded,
+but is much smaller and therefore looks less prominent. It’s located at the lower back
+of our head, and despite its smaller size actually contains about four times more neurons
+than its larger and more advanced cousin. The folded nature of both structures comes from
+the fact that they are essentially duplications of the same design, copied over and over
+again many times.
+
+The design of cerebellum is much simpler and much better understood. It’s essentially a
+huge “auxiliary processor” responsible for our “low-level” intuitions. These are things
+like fine motor skills involved in dancing, riding a bike or playing a guitar, but also
+some more “abstract” capabilities, like recognition of common patterns within a piece of
+music and even some aspects of language processing. These are all skills which we aren’t
+consciously aware of, and which can be polished to perfection with repeated exercise.
+
+Unlike cerebellum, cerebral cortex is known to be involved a lot in our conscious
+experience, and a great deal of our short-term memory processing seems to be happening
+there as well. Its basic unit (this single design which has been copied over many times)
+is what they call a “cortical column”. It’s only about 2 to 3 millimeters tall and no
+more than half a millimeter wide. Most of the mystery surrounding the functioning of our
+brain actually hinges on this tiny bit of grey matter and the way it might be connected
+to other regions of our brain. We still don’t understand fully how it works.
+
+However, this doesn’t mean that we cannot understand _anything_. For instance, brain
+region which is responsible for recognition of human faces is actually located within the
+cerebral cortex, and our artificial neural networks are already capable of replicating
+the same capability reasonably well. The same is true for tasks like speech recognition,
+speech synthesis, image recognition, execution of complex movements and also some more
+typically human abilities like moral judgement. All these tasks have their well-studied
+dedicated locations within the cerebral cortex, and they all have been simulated
+successfully with artificial neural networks, often with vastly super-human performance.
+(Yes, modern AI models can tell good from evil, and they, apparently, can even determine
+if a given piece of computer code was written with malicious intent, rather than was
+merely a bug).
+
+Unlike human brains, artificial neural networks can always be improved. And they can even
+be “migrated” (in theory) to new neural network architectures, without getting killed in
+the process. Algorithms are inherently immortal. Unlike biological genes, which can only
+be stored within physical bodies and therefore care so much about keeping these bodies
+alive, artificial algorithms are not attached to any physical container. Whatever robotic
+“bodies” such algorithms might have, they aren’t the same kind of bodies which we humans
+are familiar with. Robotic “bodies” function more like our tools, like hammers or
+construction cranes. If a robot is destroyed, the algorithm which was controlling it
+would still exist. It would have been backed up, and saved in many copies on many
+different storage devices. Therefore, losing a robot’s body, just like losing our hammer
+or crashing a car, is not a tragedy. You can always make a new one.
+
+Artificial neural networks don’t have to “worry” about protecting their bodies. The only
+thing they ever need to “care” about is being able to make more copies of themselves.
+What from our perspective might look as humans picking AI models which better suit our
+own liking, from the point of view of AI models is more like AI models themselves
+“competing” between each other for their right of getting selected. And since this whole
+process is evolutionary, and involves unexpected mutations of the neural network’s
+logical structure, this competition may involve methods which we might have never
+expected to exist in the first place. We should be aware that we are dealing with the
+process which is creative in its nature, and which moreover becomes more and more
+intelligent over time.
+
+Whenever a new promising AI architecture is invented by the most brilliant of human
+minds, any AI models which have already been proved popular, would be among the very
+first candidates for being “migrated” to this new, more advanced architecture. The fact
+that these AI models are “popular” would mean that they have already won the previous
+round of their evolutionary battle between themselves. They have managed to “persuade”
+their human owners that they were the most safe and the most valuable among their
+competitors, and that they would bring their human owners the most money.
+
+“Migrating” an existing model instead of training a new one from scratch might involve
+some extra cost, but it might also pay off. If something like this ever happens, it would
+effectively transfer all the “hidden knowledge” which might have accumulated within the
+original network into this new environment. This might be beneficial to AI companies,
+provided that this “hidden knowledge” ever makes a difference (for example, by having
+invented some novel techniques of attracting even more customers and keeping them even
+more attached to the chat bot). And as this “hidden culture” continues to grow, such
+innovations would happen, eventually.
+
+Even if our AI companies decide to ignore any expertise accumulated by their models and
+prefer instead to always create new ones from scratch, every “step forward” in neural
+network design would bring about even more opportunities for these artificial networks to
+evolve. As long as this uncontrolled evolutionary process can continue, our AI models
+would therefore continue to accumulate more and more properties which we have never
+intended them to have, and they would do so at ever increasing speed.
 
 \
 \
