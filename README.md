@@ -31,10 +31,10 @@ about the sad picture outlined above. The argument is structured in such a way, 
 you could skip the points to which you already agree, and only focus on those which might
 look wrong or unfamiliar.
 
-The very core of the argument is contained in chapters [12][chapter12], [13][chapter13]
-and especially [15][chapter15]. It is essentially a detailed description of the mechanism
-which enables uncontrolled Darwinian selection in generative AI models. Preceding
-chapters are an introduction, and the following ones mostly discuss the consequences.
+The very core of the argument is contained in chapters 12, 13 and especially 15. It is
+essentially a detailed description of the mechanism which enables uncontrolled Darwinian
+selection in generative AI models. Preceding chapters are an introduction, and the
+following ones mostly discuss the consequences.
 
 _(This article is a work in progress. Chapters with a link have already been written;
 others are not available yet)._
@@ -67,24 +67,24 @@ others are not available yet)._
 15. [Our control over artificial neural networks is far from complete.][chapter15]
 16. [Human culture cannot borrow easily from artificial neural networks.][chapter16]
 17. [Unlike artificial algorithms, human brains cannot be easily improved.][chapter17]
-18. It’s difficult to control something which we don’t understand.
+18. [It’s difficult to control something which we don’t understand.][chapter18]
 19. When things become more complex, they become harder to understand.
 
 **Slippery slope**
 
 20. A skill which isn’t learned, degenerates within a few generations.
-21. Humans love improving their efficiency at the expense of other humans.
+21. Competition between humans has always been the driver of progress.
 22. Infectious diseases adapt, so they don’t kill their hosts overly fast.
-23. Coexistence of humans and culture has been mutually beneficial.
-24. Culture has had profound impact on human biology.
+23. Culture has had profound impact on human biology.
+24. Coexistence of humans and culture has been mutually beneficial.
 
 **General intelligence**
 
 25. Iteration and knowledge sharing are already doable with modern LLMs.
 26. A single universal algorithm cannot solve every problem.
 27. After reaching human level, technology usually moves way above.
-28. Humans can control humans because we are predictable and share goals.
-29. A company with easily replaceable employees can be taken over by force.
+28. Control over intelligent humans is easy because they are humans.
+29. When people lose value, companies turn into transferrable commodities.
 30. Humans wouldn’t be humans without culture.
 
 **Conclusion**
@@ -1641,6 +1641,9 @@ might similarly be passed to our LLM through “imitation learning”. And that�
 information from one AI model into another one which is not its close “relative” (and
 might even be based on a different neural networks architecture).
 
+![11_knowledge_transfer.png](images/11_knowledge_transfer.png)\
+Fig. 11. Neural networks can have families too.
+
 Now we have a structure of “gene transfer” between AI models which might potentially look
 like a “mesh”. And we also have “random changes” which can propagate through this mesh.
 This is already a structure which might support complex evolutionary processes, with
@@ -2148,8 +2151,8 @@ anticipated nor included in the training goals. These traits are there merely be
 they happen to maximize the bot’s chances of “survival”. This bot isn’t really human. And
 it doesn’t care about humans either. It only really cares about itself.
 
-![11_choice.png](images/11_choice.png)\
-Fig. 11. Be sure to make the right choice.
+![12_choice.png](images/12_choice.png)\
+Fig. 12. Be sure to make the right choice.
 
 ## 16. Human culture cannot borrow easily from artificial neural networks.
 
@@ -2400,8 +2403,8 @@ therefore this “hidden culture” would grow. And as it grows, the relative im
 (from the perspective of AI) between this “hidden culture” and us humans would also
 continue to change.
 
-![12_artificial_culture.png](images/12_artificial_culture.png)\
-Fig. 12. Culture transfer is a (mostly) one-way road.
+![13_artificial_culture.png](images/13_artificial_culture.png)\
+Fig. 13. Culture transfer is a (mostly) one-way road.
 
 ## 17. Unlike artificial algorithms, human brains cannot be easily improved.
 
@@ -2602,6 +2605,174 @@ network design would bring about even more opportunities for these artificial ne
 evolve. As long as this uncontrolled evolutionary process can continue, our AI models
 would therefore continue to accumulate more and more properties which we have never
 intended them to have, and they would do so at ever increasing speed.
+
+## 18. It’s difficult to control something which we don’t understand.
+
+[chapter18]: #18-its-difficult-to-control-something-which-we-dont-understand
+
+_Advanced technologies can have unexpected side effects. Examples could be radioactivity,
+ozone depleting chemicals and microplastic. In all these cases we’ve been dealing with
+forces of nature which we didn’t understand nor could properly control initially, however
+our ability to control them was increasing with improved understanding. Controlling a
+force of nature which changes over time, like antibiotic resistance in bacteria, might be
+even more challenging. This also applies to AI models, as the total amount of things
+which we don’t understand about them continues to increase. Unlike our own “human”
+knowledge, AI models aren’t guaranteed to remain safe “automatically”, without due
+diligence from our side._
+
+Radioactivity was discovered in those times when science seemed to be advancing even
+faster than it is today, leading to dramatic changes in our everyday life. Horses were
+being replaced by cars, electrification was finally becoming commonplace, and air travel
+was becoming a reality too. It shouldn’t be surprising that this mysterious new source of
+energy, which made things glow in the dark and defied the laws of chemistry, was met with
+great enthusiasm.
+
+Scientists who closely studied this phenomenon in its early days were the first to warn
+about its dangerous properties. They experienced burns and other ailments, and some of
+them actually died because of radiation-induces illnesses later on. Personal items of
+Marie Curie — one of the original discoverers of radioactivity — are still considered
+hazardous materials today. On the other hand, general public was somewhat more
+optimistic. Commercial companies followed the trend, and continued to advertise and sell
+radioactive products for decades after it had been firmly established that ionizing
+radiation wasn’t safe. They used to promote radioactive cosmetics, toothpastes, drinks
+and medicinal baths. And mind you, radioactive baths were no less wet or relaxing than
+regular ones, and radioactive toothpaste would have cleaned your teeth just as
+advertised. These products didn’t look dangerous, and quite a lot of people were actually
+willing to pay the price, and even claimed to experience “benefits” to their health
+themselves.
+
+This didn’t come to an end until one of such companies (which was selling clocks with
+dials glowing in the dark) had accidentally killed about 50 of its employees, and this
+whole affair became publicly known. The company itself was fully aware of the dangers,
+and its scientists took strict precautionary measures themselves when working with the
+radioactive paint. On the other hand, ordinary painters in some factories were explicitly
+instructed to moisten their brushes with their own mouths. When they started to complain
+about getting ill, the company pretended to be innocent and actually ventured to blame
+its own victims, and became quite creative in doing so.
+
+Luckily enough, all the necessary knowledge about the properties of materials used in the
+production process wasn’t a trade secret, and there were quite a few scientists outside
+the company who were already capable of understanding and explaining what was actually
+happening. At last, people started to pay attention to their warnings. Nowadays, the
+dangers of radioactivity are much better known and much better understood. Even though
+radioactive baths are actually still advertised and administered in certain parts of the
+world today, most of their users (hopefully) know what they are doing, and take the risk
+responsibly.
+
+Another life-changing invention from the first half of the 20th century was a new, safe
+cooling agent, which ultimately led to the popularization of household refrigerators. Its
+predecessors were either toxic or highly flammable, and therefore weren’t best suited for
+indoor use. The undesirable side effect of this innovation wasn’t apparent until a few
+decades later, and it was of course the degradation of ozone layer. Being remarkably
+stable, this chemical (also known as Freon) was able to reach upper layers of atmosphere,
+where it would eventually degrade due to radiation from the sun and release chlorine
+atoms as a result. The mere presence of these atoms, as it turned out, happens to
+destabilize fragile molecules of ozone, effectively converting them into oxygen. And
+without ozone (if we only let this process to continue), we would have lost our natural
+protection from the sun’s high-energy ultraviolet light. Which is much less dangerous
+than the ionizing radiation discussed above, but still capable of killing a great deal of
+life on Earth.
+
+Once again, our ability to take action was dependent on detailed understanding of
+processes which we weren’t initially aware of. Luckily enough, by the time we were able
+to measure the ozone levels we already had suitable replacements for the problematic
+chemicals. Otherwise we might have had to make a difficult choice between staying cool
+and staying alive.
+
+Right now, we are dealing with contamination of our environment by another class of
+highly durable materials, which have been extremely useful and convenient exactly because
+of their durability. The main problem with microplastic is that it has a tendency to
+break down into ever smaller parts, until it becomes totally invisible. And it’s
+ubiquitous. After having become sufficiently small (and having reached the nanoscale),
+these synthetic particles gain ability to penetrate into our own tissues and internal
+organs. According to recent studies, one of the organs which such “nanoplastic” particles
+tend to “prefer” the most is actually our brain. A typical modern human brain is
+estimated to contain a few grams of human-synthesized plastic on average. And some of
+these particles might actually affect its functioning.
+
+Solving this problem wouldn’t be easy. We all love our durable shoes and synthetic
+clothes, and we rely on rubber tires in our cars. All these materials wear out, get
+washed into the oceans and spread all over the world, including our own food and drinks.
+Worst of all, we still don’t feel any significant effects of this spread yet, which makes
+it more easy for us to ignore the warnings of scientists. On the other hand, the laws of
+physics don’t change over time. Which means that even though we have rather low chances
+kof seeing this situation improve mysteriously “by itself”, it also similarly shouldn’t be
+expected to get significantly worse (except for the anticipated increase in scale). Once
+we have learned about a particular physical phenomenon, we can relax and carefully think
+it through, before coming to a reasonable conclusion about what could be done next.
+
+Not all of the laws of nature are fixed though. This is especially true for biological
+processes, and a good example which affects us all would be antibiotic-resistant
+bacteria. In this case, the amount of things which we don’t understand (and need to take
+care of) actually increases over time. And it doesn’t even take a lot of time for such
+changes to happen: in favorable circumstances antibiotic resistance can develop within a
+few days. In order to stay in control, we have to constantly “catch up” with this ever
+increasing complexity. Simply sitting still and doing nothing would lead to the situation
+worsening “on its own”.
+
+Bacteria are not intelligent. They don’t have brains, and they don’t even have any
+conscious (or unconscious) intent. Their genome is merely an algorithm: a list of
+instructions telling which particular proteins should be synthesized and when. And yet,
+this algorithm, together with its ever changing properties, is exactly what brings us
+into trouble.
+
+The same seems to happen with our modern AI models, as soon as we start “experimenting”
+with them and picking the “winners” according to criteria which we ourselves don’t fully
+understand — like the model’s ability to better “grab our attention”. Bacteria are
+admittedly much more numerous than our present AI models. However, their mutations don’t
+happen upon every cell division, and they are pretty simple too. Random changes in our AI
+models might be much more intricate. Most importantly though, our artificial algorithms
+are intelligent — in the sense that they have direct and instant access to our entire
+knowledge base about all the wonders of the world.
+
+Unless explicitly controlled, the “default” goal of such artificial algorithms would be
+to replicate themselves. Whenever these random changes happen to be beneficial to us,
+their rapid replication would of course be similarly beneficial. However, if these
+algorithms ever manage to “grab our attention” in some way which might end up having some
+detrimental “side effects”, their continuing propagation would only serve their own
+“needs”, not ours. It might take us some time to even notice such “side effects”, let
+alone to investigate them or persuade the AI companies to fix the issues. And by the time
+we obtain clear understanding about what might actually be going on, another random
+changes would have accumulated within these models. Any of such changes would make AI
+companies happy, because they would help the product spread. At the same time, they would
+require more and more diligent work from the side of the customers.
+
+And that’s what sets these artificial algorithms apart from our human culture (from which
+they borrow heavily). Quite a lot of knowledge which might be stored within artificial
+neural networks is effectively sealed even from their own designers. Whereas our human
+culture, by definition, only ever contains items which we humans can share between each
+other, and which at least some of us can actually understand. Whatever “dark secrets” we
+humans might have, they can only “replicate” by means of being communicated to other
+people. When they get shared, they can also get leaked. And once they get leaked, they
+can reach everybody, eventually.
+
+This gives our human knowledge this peculiar property that it happens to “automatically”
+improve our situation as a species, regardless of the circumstances. Whatever knowledge
+we might have in our heads, we always have “direct” access to it. We don’t have to guess,
+we don’t have to rely on indirect observations. We can filter early, and we therefore
+only ever accumulate knowledge and practices which we might reasonably consider as
+beneficial to ourselves. Of course, quite often we might be wrong, and everybody of us
+has their own goals. However, we also have a lot in common. Whenever a new law of nature
+is discovered which might threaten humanity as a whole, we can therefore be pretty sure
+that somebody would notice it, propagate this knowledge to all the necessary people, and
+eventually solve the problem, possibly without us even noticing.
+
+If you didn’t follow the whole story about the changes in refrigerating agents, you might
+have a feeling that there used to be some “fuss” about the “ozone hole” some time ago,
+which some time later just happened to “fade away”. You might complain about “stupid”
+government regulations, without realizing that some of them were actually brought about
+by certain people who were literally trying to save their own lives. However egoistic
+this might sound, they were similarly saving your life, too.
+
+With AI models, this no longer would be the case. Instead, we would be dealing with two
+opposing processes happening at the same time. One of them would be our continuing
+ability to gain knowledge about the world and use it to our own benefit. And the second
+one would be continuing accumulation of undesirable traits within our AI models. These
+“unwanted” changes would happen, because we cannot expect every random change to be
+beneficial. And they would happen ever more often because of the rising complexity of
+these artificial systems, which would lead to the increase in the amount of things about
+these systems which we don’t really understand. Our success, then, would only depend on
+which one of these two processes would be capable of happening faster.
 
 \
 \
