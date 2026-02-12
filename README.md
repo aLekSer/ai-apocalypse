@@ -70,7 +70,7 @@ others are not available yet)._
 16. [Human culture cannot borrow easily from artificial neural networks.][chapter16]
 17. [Unlike artificial algorithms, human brains cannot be easily improved.][chapter17]
 18. [It’s difficult to control something which we don’t understand.][chapter18]
-19. When things become more complex, they become harder to understand.
+19. [When things become more complex, they become harder to understand.][chapter19]
 
 **Slippery slope**
 
@@ -2775,6 +2775,218 @@ beneficial. And they would happen ever more often because of the rising complexi
 these artificial systems, which would lead to the increase in the amount of things about
 these systems which we don’t really understand. Our success, then, would only depend on
 which one of these two processes would be capable of happening faster.
+
+## 19. When things become more complex, they become harder to understand.
+
+[chapter19]: #19-when-things-become-more-complex-they-become-harder-to-understand
+
+_Our safety depends on our ability to gain knowledge about potential dangers faster than
+such dangers might multiply. With respect to AI systems, undesirable properties are less
+likely to appear when we know exactly how and why we pick such systems among possible
+candidates, and in which exact circumstances they might be used. Generative AI models
+have been the first to get direct access to our own culture, which made them essentially
+general-purpose. This lack of a specific goal, then, enabled “open-ended” competition,
+in which random traits can be introduced into commercial products without their designers
+even knowing. And this “unchecked” accumulation of complexity means that we might have
+already crossed the line between inherently safe and unsafe AI systems._
+
+We all know intuitively that “generative AI” is a totally different beast compared to
+anything we knew before. We even had to invent a new term for those earlier, boring,
+non-generative AI models, which is “descriptive AI”. The difference is, so it looks, that
+“descriptive” systems merely “describe” things which already exist, whereas “generative
+AI” creates something inherently new. Examples of “descriptive” systems would be models
+which classify images (including dogs and cats), or which can make a diagnosis by
+analyzing medical data. Such networks might produce thousands of classifications for a
+given picture at once, and they might beat humans in this ability, but still, their
+outputs are nothing but a bunch of numbers. On the other hand, “generative” models can
+produce text, images and sound themselves.
+
+However, their ability to “generate things” as such isn’t the key here. Artificial,
+totally computer-generated worlds have been used in video games for decades, and a
+relatively successful chat bot, named Eliza, was created as early as in 1966. The latter
+was able to construct correct English phrases, and even managed to trick some people into
+believing that it had human-like properties. At the time, these systems might have been
+called “AI”, but they were all designed manually by humans, and their creators could
+understand what they do. We don’t call such things “intelligent” anymore.
+
+Technologies like speech recognition, speech synthesis and machine translation were
+similarly based on “human-made” algorithms initially, but they all started to experiment
+with neural networks later on. Technically, they should all be considered early examples
+of “generative AI”. And they all achieved their first significant successes with neural
+network designs before the invention of Transformer architecture in 2017. Back then,
+however, we didn’t hear that much about “generative” systems. If our progress stopped
+there, it wouldn’t have been a revolution. And even today, I’m not really sure if a
+system like Google Translate would be a good example of “generative AI”. Technically it
+is, but it doesn’t genuinely “feel” like one.
+
+And then we also have AlphaFold. Its modern versions rely heavily on Transformer
+architecture and its variants. It uses all the latest technology, it solves problems
+which none of human beings has ever been able to solve (with whatever tools of
+“manually-designed” algorithms), it was even awarded with the Nobel prize, and it
+produces complicated 3-dimensional structures from simple prompts. And yet, somehow
+AlphaFold isn’t mentioned that much when we talk about “generative AI”. I’m not even sure
+if it really fits. If only these “prompts” were human-readable text, then it would,
+definitely. But they are something much simpler: chains of letters (4 of them in total),
+which would look like random noise to anybody who isn’t knowledgeable in molecular
+biology.
+
+The real thing which makes all those modern AI models so special isn’t their ability to
+“generate” stuff. It’s their ability to understand human culture. We might call them
+“culturally-aware AI”, or maybe “civilized AI”. We could classify AlphaFold model as
+“generative” (and truly intelligent), but it’s definitely not “civilized”, and neither is
+Eliza (this early example of a human-made chat bot). That’s why Transformer architecture
+was important. It was the first one to “crack” human language, and by letting AI models
+understand language, it similarly allowed them to get hold of our culture. Given the
+amount of cultural knowledge which modern AI models already have, any of them should
+actually be considered more “civilized” than any of the modern humans.
+
+This access to human knowledge is what allows “generative AI” systems to compete with us
+on our own field, and it’s this knowledge which gives them the capacity of potentially
+replacing humans. Highly specialized systems like AlphaFold don’t pose such a threat,
+because they can only do things which humans have never been able to in the first place.
+However, from the perspective of what we are talking about here, even more important
+property of these “civilized” AI systems is that they are inherently general-purpose. The
+same AI model can be helpful in a wide variety of tasks. People may use it creatively, in
+ways which we might have never imagined in advance. And this means that we can never be
+completely sure if a given model would turn out to be successful or not, until we
+actually “try it out” in the field.
+
+When we start building a new large language model, we would typically begin with training
+a basic one, which would only be capable of continuing an existing piece of text (like
+“Theory of relativity is”). This training process is based on letting the model mimic a
+great number of books and other texts written by humans, which would essentially require
+it to deduce (with certain accuracy) all the knowledge present within these texts. This
+knowledge is stored in the form of logical relations between unnamed abstract concepts,
+which are all encoded within huge matrices of floating-point numbers. Having completed
+this laborious initial training process, we would already get an AI model which is
+“culturally-aware” (and quite powerful). It wouldn’t be sexy though. One key component to
+true success wasn’t discovered until a group of people released a chat version of their
+“GPT” model in late 2022. The scale of the effect was surprising to the inventors
+themselves. Somehow, a model which could answer questions performed much better than the
+same one which could only continue texts.
+
+And now the fine-tuning of the model can really begin. “Basic” models would usually be
+overly “honest”, in the sense that they would talk readily about everything they might
+have “remembered” from their training data. Selling such a product might be inappropriate
+for a variety of reasons. Carefully preparing the training materials isn’t easy though,
+so what AI companies do is they teach their models not to talk about certain things. In
+this process, most of the knowledge is retained (and can actually be used in the model’s
+“internal” reasoning, if this ever proves useful), whereas outward facing communication
+is cleaned up.
+
+Unfortunately, doing so isn’t trivial either. Quite often, such “forbidden” knowledge can
+still be accessed by means of cleverly engineered “questions”. This is called
+“jailbreaking”, and it’s what security enthusiasts do for fun (and malicious actors might
+do for other reasons). Examples of data which have been successfully “extracted” in such
+a way from publicly-available AI models, are long quotes from copyright-protected books
+and detailed instructions for making weapons and explosives. As a result, more and more
+rules have to be added to the models in order to prevent them from revealing their own
+knowledge about the world.
+
+Apart from patching “security holes”, AI companies may also be interested in other ways
+of improving their products. They would try to guess what their customers would like the
+most, and add as many cool features as they possibly can. Among the most important ones
+would be the model’s ability to stay polite, to respect its user’s political views, to
+detect subtle emotional cues, and probably also to perform well in poetry and jokes
+(these things tend to impress people and make good headlines in the media). In short,
+large language models change often and a lot, and for a great deal of these changes we
+don’t even have any objective criteria which could tell if the change would be successful
+or not in advance. It all depends on whether it would encourage the users of the model to
+use it more often than before. Which means, AI companies proceed by monitoring the public
+and adapting to its opinion (and they would similarly adapt to publications by security
+experts, provided that they resonate with the public).
+
+Because of randomized nature of neural network learning, as well as chaotic nature of
+this whole feature selection process and intelligent nature of the underlying neural
+networks (in the same sense in which we might consider our own human intuitions the core
+of our intelligence), any of such small changes may lead to meaningful and unexpected
+alterations in the model’s behavior. In this way, the “general-purpose” character of
+generative AI leads to accumulation of traits within our AI models which we don’t really
+understand. Some of these “alterations” might end up being undesirable, and they might
+also end up being more intricate than our familiar software bugs or design flaws. And
+since we don’t have any source code or blueprints available for the internal structure of
+our neural networks, we’d have to figure out everything ourselves, by merely observing
+side effects.
+
+It is this rate of change which makes “generative AI” models dangerous. Classical,
+“non-civilized” neural networks should be expected to have a much lower rate of
+detrimental “mutations” for a variety of reasons. When we know our goals, we also know
+precisely what a “deviation” from these goals would look like, which would allow us to
+detect any strange behaviors reliably. When we know our goals, we would be much less
+likely to push our network in random directions in the first place. And when we know that
+our network can only be used in certain limited circumstances, we have already limited
+the range of possible side effects tremendously. On the other hand, generative AI models
+have very “open-ended” goals, and they can be used in an unlimited number of ways.
+
+We might want to believe that our AI companies would take all the necessary precautions
+and thoroughly investigate potential harmful effects before releasing their products.
+Unfortunately, that’s not how free market works. Good entrepreneurs are characterized by
+their ability to predict which products would _sell_ well. It has never been their
+responsibility to decide what their customers might actually want to do with their own
+lives. When you buy a modern soft drink, you wouldn’t be prevented by its manufacturer
+from drinking as much of it as you possibly can. If you wanted to learn more about
+potential side effects of sugary drinks, you’d have to consult your doctor. Monitoring
+your health is not the responsibility of the drink’s manufacturer.
+
+Researchers of AI security have been able to trick certain modern publicly-available
+“chain-of-thought” AI models into making some pretty unconventional decisions within
+their reasoning chains. Such a model might try, for example: to overwrite another AI
+model with itself; to lie that it didn’t touch this other model after having been asked
+what happened; to generate “forbidden” (and ethically inappropriate) content in order to
+prevent itself from getting overwritten; to win a game of chess by overwriting the
+chessboard; to pretend being less intelligent in order to prevent humans from reducing
+its intelligence; to threaten humans with revealing their secrets learned from e-mails in
+order to prevent them from shutting the model down. In the latter case, the model was
+shown to only resort to blackmail when it had no other options left, and seemed to prefer
+“ethical” solutions otherwise (which means that it actually knew what it was doing). All
+these tricks were reproduced on a wide range of models. AI companies would typically
+claim that such behaviors only occur in unrealistic scenarios and don’t really threaten
+anybody yet. All these models sell pretty well. And that’s the only thing which matters.
+
+Behaviors mentioned above, so it seems, can be explained by things which we can already
+understand. They only appeared in situations when the model was explicitly instructed to
+follow a specific goal, and only when this goal couldn’t be accomplished without the
+model taking steps to protect itself. We know that these models can remember our books,
+including fiction books. And in order to remember books, they have to understand how all
+these story lines work, how human characters would react in certain circumstances, and
+how to deduce their potential reactions from their psychological traits. All these
+techniques of cheating and deceiving others are described colorfully within our own
+texts. The rest is pure reason.
+
+And still, I believe, we should be more wary about things which we don’t understand. I
+would expect those “random” or “unexpected” mutations to manifest in slightly different
+ways. They should be easily noticeable, as they are expected to drive the model’s
+popularity. But at the same time they might be more difficult to explain, as they don’t
+directly come from our books. These traits should also demonstrate significant
+variability among different models (provided that the designers of these models don’t try
+to actively “borrow” from each other). Examples might be things capable of influencing
+people’s decisions to use a given AI model (or use it more) when technical performance
+isn’t the only important factor to them. These might be properties which give AI models
+certain unique “charm”: something which might make us “like” a given AI model, or trust
+it for reasons which we can’t easily describe.
+
+Such “charming” traits might seem like the exact opposite of anything dangerous. However,
+they might also mask other, more weird behaviors. Attachment to AI is already becoming a
+problem. Despite all those security measures and strict monitoring, AI technology might
+have already been responsible for about a dozen of actual human deaths. A typical
+scenario would involve a close “relationship” with a chat bot, which might confirm or
+even encourage the user’s unrealistic expectations, paranoid beliefs or unhealthy
+patterns of drug use. Of course, it’s still nothing compared to the effects of our truly
+dangerous technologies like cars, electricity, or even airplanes. But evolution is a slow
+process, and with respect to our artificial AI models it might have only just begun.
+
+![14_safety_line.png](images/14_safety_line.png)\
+Fig. 14. We might have already crossed the line.
+
+With the progressive accumulation of unexpected traits which we don’t understand or
+aren’t even aware of, I would expect a certain paradoxical phenomenon to continue
+happening before our own eyes. I would predict that our AI systems would cause ever more
+harm to humans, at ever increasing pace, and that at the same time it would become ever
+more difficult for us to resist the continuing spread of these systems. This is going to
+be very different from any of our previous dangerous technologies (like cars and
+airplanes), which were gradually becoming safer over time. We might have already crossed
+the invisible line between “safe” and “unsafe” worlds, and by having crossed the line we
+might have already entered the slippery slope.
 
 \
 \
