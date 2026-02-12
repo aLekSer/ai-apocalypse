@@ -1,11 +1,13 @@
 ﻿Version history:\
-v1.0: [Original popular science text][v1] (English, [Polish][v1_pl])\
-v2.2: [Brief scientific article, with more topics covered][v2] (English)\
-v3.0: Extended popular science text (_this article_, English)
+1\. [Short popular science text][v1] (English, [Polish][v1_pl])\
+2\. [Extended scientific article][v2] (English, [TeX][v2_tex], [PDF][v2_pdf])\
+3\. Detailed popular science text (_this article_, English)
 
 [v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md
 [v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1_pl.md
 [v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.md
+[v2_tex]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.tex
+[v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.pdf
 [v3]: https://github.com/jangrudo/ai-apocalypse
 
 [Questions and comments](https://github.com/jangrudo/ai-apocalypse/discussions)
@@ -2492,7 +2494,7 @@ or that autistic people focus overwhelmingly on topics which have no practical u
 like Lego bricks or maybe birds. We would pay attention to their inability to form
 “healthy” romantic relationships or otherwise live a “meaningful” life. Well, being able
 to see things which nobody else can see is exactly what distinguishes a genius from an
-ordinary highly talented person. And a deep focus on birds and other animals was exactly
+ordinary highly talented person. And deep focus on birds and other animals was exactly
 what brought Darwin to the discovery of natural selection. Turns out that close relatives
 of people with schizophrenia have higher chances of demonstrating distinguished creative
 ability, and that many famous scientists (Darwin and Einstein included) used to have
@@ -2696,7 +2698,7 @@ washed into the oceans and spread all over the world, including our own food and
 Worst of all, we still don’t feel any significant effects of this spread yet, which makes
 it more easy for us to ignore the warnings of scientists. On the other hand, the laws of
 physics don’t change over time. Which means that even though we have rather low chances
-kof seeing this situation improve mysteriously “by itself”, it also similarly shouldn’t be
+of seeing this situation improve mysteriously “by itself”, it also similarly shouldn’t be
 expected to get significantly worse (except for the anticipated increase in scale). Once
 we have learned about a particular physical phenomenon, we can relax and carefully think
 it through, before coming to a reasonable conclusion about what could be done next.

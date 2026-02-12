@@ -1,38 +1,33 @@
 ﻿Version history:\
-v1.0: [Original popular science text][v1] (English, [Polish][v1_pl])\
-v2.2: Brief scientific article, with more topics covered (_this article_, English)\
-v3.0: [Extended popular science text][v3] (English)
+1\. [Short popular science text][v1] (English, [Polish][v1_pl])\
+2\. Extended scientific article (_this article_, English, [TeX][v2_tex], [PDF][v2_pdf])\
+3\. [Detailed popular science text][v3] (English)
 
 [v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md
 [v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1_pl.md
 [v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.md
+[v2_tex]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.tex
+[v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.pdf
 [v3]: https://github.com/jangrudo/ai-apocalypse
 
 [Questions and comments](https://github.com/jangrudo/ai-apocalypse/discussions)
 
 ---
 
-AI turns human culture from friend to enemy
-===========================================
+Evolution of knowledge, and consequences for the possibility of effective control over AI
+=========================================================================================
 
 Abstract
 --------
 
-We break the long-established concept of human culture being an “extension” of human
-genome, by showing that artificial neural networks allow human culture to exist and
-evolve independently of a human brain. This means that AI is nothing new, and merely a
-next step in the evolution of human culture. At the same time, the evolutionary goals of
-this new subspecies of culture are independent, and therefore inherently misaligned with
-the goals of human genes. This essentially proves that any AI alignment which is not
-“hard” alignment, is not an alignment at all. In other words, any AI which we cannot
-formally prove to be safe, is guaranteed to become unsafe over time, even if it is safe
-initially. This is the exact opposite of human culture as we know it, which is always
-guaranteed to become safer to humans over time, even when destabilized by new inventions
-which are unsafe initially. From the point of view of humans, this whole process is
-treacherous, as this new stage in the evolution of culture looks and feels exactly like
-familiar competition of humans between themselves, only that this time the winner is not
-a better (and safer) form of human culture, but rather this new, independent form of
-culture, which is incomprehensible to humans and inherently misaligned to their goals.
+It has been argued since long ago that the advent of super-intelligent machines is likely
+to disrupt life on Earth to an unprecedented scale, possibly resulting in the appearance
+of a new type of life, which would ultimately drive humans to extinction. We demonstrate
+that by building artificial intelligence, we are not creating anything fundamentally new.
+Rather, we are dealing with an existing form of life, which is trying to break free from
+its total dependence on us. By demonstrating this, we also provide a proof that effective
+control over AI systems is inherently impossible in an environment with continuing
+competition of humans between each other.
 
 **Keywords:** natural selection, neural networks, collective intelligence, superalignment
 

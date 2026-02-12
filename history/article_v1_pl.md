@@ -1,11 +1,13 @@
 ﻿Historia wersji:\
-v1.0: Oryginalny popularno-naukowy tekst (_ten artykuł_, polski, [angielski][v1])\
-v2.2: [Krótki naukowy artykuł, obejmujący więcej treści][v2] (angielski)\
-v3.0: [Rozszerzony popularno-naukowy tekst][v3] (angielski)
+1\. Krótki popularno-naukowy tekst (_ten artykuł_, polski, [angielski][v1])\
+2\. [Rozszerzony artykuł naukowy][v2] (angielski, [TeX][v2_tex], [PDF][v2_pdf])\
+3\. [Szczegółowy popularno-naukowy tekst][v3] (angielski)
 
 [v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md
 [v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1_pl.md
 [v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.md
+[v2_tex]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.tex
+[v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.pdf
 [v3]: https://github.com/jangrudo/ai-apocalypse
 
 [Pytania i komentarze](https://github.com/jangrudo/ai-apocalypse/discussions)
