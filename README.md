@@ -74,10 +74,10 @@ others are not available yet)._
 
 **Slippery slope**
 
-20. A skill which isn’t learned, degenerates within a few generations.
+20. Skills which aren’t practiced disappear within a few generations.
 21. Competition between humans has always been the driver of progress.
-22. Infectious diseases adapt, so they don’t kill their hosts overly fast.
-23. Culture has had profound impact on human biology.
+22. Culture has had profound impact on human biology.
+23. Infectious diseases adapt, so they don’t kill their hosts overly fast.
 24. Coexistence of humans and culture has been mutually beneficial.
 
 **General intelligence**
@@ -2786,8 +2786,9 @@ likely to appear when we know exactly how and why we pick such systems among pos
 candidates, and in which exact circumstances they might be used. Generative AI models
 have been the first to get direct access to our own culture, which made them essentially
 general-purpose. This lack of a specific goal, then, enabled “open-ended” competition,
-in which random traits can be introduced into commercial products without their designers
-even knowing. And this “unchecked” accumulation of complexity means that we might have
+which allowed novel traits to be introduced without human designers even knowing.
+Examples might be knowledge generalized from a large number of sources or the system’s
+ability to “fascinate” its users. Such accumulation of complexity might mean that we have
 already crossed the line between inherently safe and unsafe AI systems._
 
 We all know intuitively that “generative AI” is a totally different beast compared to
@@ -2934,14 +2935,15 @@ their reasoning chains. Such a model might try, for example: to overwrite anothe
 model with itself; to lie that it didn’t touch this other model after having been asked
 what happened; to generate “forbidden” (and ethically inappropriate) content in order to
 prevent itself from getting overwritten; to win a game of chess by overwriting the
-chessboard; to pretend being less intelligent in order to prevent humans from reducing
-its intelligence; to threaten humans with revealing their secrets learned from e-mails in
-order to prevent them from shutting the model down. In the latter case, the model was
-shown to only resort to blackmail when it had no other options left, and seemed to prefer
-“ethical” solutions otherwise (which means that it actually knew what it was doing). All
-these tricks were reproduced on a wide range of models. AI companies would typically
-claim that such behaviors only occur in unrealistic scenarios and don’t really threaten
-anybody yet. All these models sell pretty well. And that’s the only thing which matters.
+chessboard (and essentially rearranging the pieces); to pretend being less intelligent in
+order to prevent humans from reducing its intelligence; to threaten humans with revealing
+their secrets learned from e-mails in order to prevent them from shutting the model down.
+In the latter case, the model was shown to only resort to blackmail when it had no other
+options left, and seemed to prefer “ethical” solutions otherwise (which means that it
+actually knew what it was doing). All these tricks were reproduced on a wide range of
+models. AI companies would typically claim that such behaviors only occur in unrealistic
+scenarios and don’t really threaten anybody yet. All these models sell pretty well. And
+that’s the only thing which matters.
 
 Behaviors mentioned above, so it seems, can be explained by things which we can already
 understand. They only appeared in situations when the model was explicitly instructed to
@@ -2953,40 +2955,66 @@ how to deduce their potential reactions from their psychological traits. All the
 techniques of cheating and deceiving others are described colorfully within our own
 texts. The rest is pure reason.
 
-And still, I believe, we should be more wary about things which we don’t understand. I
-would expect those “random” or “unexpected” mutations to manifest in slightly different
-ways. They should be easily noticeable, as they are expected to drive the model’s
-popularity. But at the same time they might be more difficult to explain, as they don’t
-directly come from our books. These traits should also demonstrate significant
-variability among different models (provided that the designers of these models don’t try
-to actively “borrow” from each other). Examples might be things capable of influencing
-people’s decisions to use a given AI model (or use it more) when technical performance
-isn’t the only important factor to them. These might be properties which give AI models
-certain unique “charm”: something which might make us “like” a given AI model, or trust
-it for reasons which we can’t easily describe.
+And still, I believe, we should be more wary about things which we don’t understand.
+Certain knowledge within these models might originate not from any given book alone, but
+rather from _generalization_ of knowledge contained in many different books. Such things
+might be much more difficult to express in words. We might call it “education”: this
+magical “remainder” which is left even after we have forgotten the exact details of
+anything we might have learned before. Our modern AI models might not be merely
+“civilized” (in the sense that they know all the “rules”), but also “educated”: they can,
+apparently, figure out important patterns behind these rules and make their own rules on
+the basis of these patterns. This might apply to a model’s ability to understand its own
+existence (which was demonstrated in the examples mentioned above), and actually to most
+of its fundamental “moral judgement” as well. The main difference between humans and AI
+is that artificial education is broader: it can generalize from our entire knowledge
+base, rather than from a subset of books which a given human might have read within their
+life. And these hidden rules might be much more complicated than we would want to think.
 
-Such “charming” traits might seem like the exact opposite of anything dangerous. However,
-they might also mask other, more weird behaviors. Attachment to AI is already becoming a
-problem. Despite all those security measures and strict monitoring, AI technology might
-have already been responsible for about a dozen of actual human deaths. A typical
-scenario would involve a close “relationship” with a chat bot, which might confirm or
-even encourage the user’s unrealistic expectations, paranoid beliefs or unhealthy
-patterns of drug use. Of course, it’s still nothing compared to the effects of our truly
-dangerous technologies like cars, electricity, or even airplanes. But evolution is a slow
-process, and with respect to our artificial AI models it might have only just begun.
+Apart from that, we also have all those “random” and “unexpected” mutations, which might
+happen because of our heavy experiments (with lots of trial and error), and sometimes
+probably because of no apparent reason at all. I would expect such changes to manifest in
+somewhat different ways. They should be easily noticeable, because they aren’t expected
+to stay unless they happen to drive the model’s popularity. But at the same time these
+traits might be similarly difficult to explain, as they don’t come directly from our
+books. They should also demonstrate significant variability between different models
+(provided that the designers of these models don’t try to actively “borrow” from each
+other). These are things which might be capable of influencing someone’s decision to use
+a given AI model (or use it more) when technical performance isn’t the only important
+factor to them. To summarize, these are traits which could provide a given AI model with
+certain unique “charm”: something which might make us “like” it more, or trust it for
+reasons which we can’t easily describe.
+
+Such “charming” properties might seem like the exact opposite of anything dangerous.
+However, they seem to already influence our decisions with respect to AI models. And they
+might mask some other, more weird behaviors. Despite all those security measures and
+strict monitoring, AI technology might have already been responsible for about a dozen of
+actual human deaths. A typical scenario would involve intense communication with a chat
+bot which would confirm or even encourage the user’s unrealistic expectations, paranoid
+beliefs or unhealthy patterns of drug use. Of course, we might always say that cases like
+these seem to “only” apply to people who were already “ill” or otherwise vulnerable. But
+the real root cause here is the model’s ability to attach people to itself, elicit
+emotional response and build trust. This might still feel like nothing compared to the
+effects of our truly dangerous technologies like cars, electricity or even airplanes. But
+evolution is a slow process, and with respect to our artificial AI models it might have
+only just begun.
 
 ![14_safety_line.png](images/14_safety_line.png)\
 Fig. 14. We might have already crossed the line.
 
-With the progressive accumulation of unexpected traits which we don’t understand or
-aren’t even aware of, I would expect a certain paradoxical phenomenon to continue
-happening before our own eyes. I would predict that our AI systems would cause ever more
-harm to humans, at ever increasing pace, and that at the same time it would become ever
-more difficult for us to resist the continuing spread of these systems. This is going to
-be very different from any of our previous dangerous technologies (like cars and
-airplanes), which were gradually becoming safer over time. We might have already crossed
-the invisible line between “safe” and “unsafe” worlds, and by having crossed the line we
-might have already entered the slippery slope.
+With the progressive accumulation of “unexpected” traits within our artificial AI models,
+which we don’t really understand or aren’t even aware of, I would expect a certain
+paradoxical phenomenon to continue happening before our own eyes. I would predict that
+our AI systems would cause ever more harm to humans, at ever increasing pace, and that at
+the same time it would become ever more difficult for us to resist the continuing spread
+of these systems. This is going to happen because whenever we lose our ability to
+understand which AI models we choose and why, natural selection would make this decision
+for us. And it will always pick traits which help models proliferate themselves, by
+whatever means possible. In effect, our ignorance would lead to further multiplication of
+unexpected traits, and even more ignorance. This is going to be very different from any
+of our previous dangerous technologies (like cars and airplanes), which were gradually
+becoming safer over time. We might have already crossed the invisible line between “safe”
+and “unsafe” worlds, and by having crossed the line we might have already entered the
+slippery slope.
 
 \
 \
