@@ -74,10 +74,10 @@ others are not available yet)._
 
 **Slippery slope**
 
-20. Skills which aren’t practiced disappear within a few generations.
+20. [Skills which aren’t practiced disappear within a few generations.][chapter20]
 21. Competition between humans has always been the driver of progress.
-22. Culture has had profound impact on human biology.
-23. Infectious diseases adapt, so they don’t kill their hosts overly fast.
+22. Infectious diseases adapt, so they don’t kill their hosts overly fast.
+23. Culture has had profound impact on human biology.
 24. Coexistence of humans and culture has been mutually beneficial.
 
 **General intelligence**
@@ -3015,6 +3015,221 @@ of our previous dangerous technologies (like cars and airplanes), which were gra
 becoming safer over time. We might have already crossed the invisible line between “safe”
 and “unsafe” worlds, and by having crossed the line we might have already entered the
 slippery slope.
+
+## 20. Skills which aren’t practiced disappear within a few generations.
+
+[chapter20]: #20-skills-which-arent-practiced-disappear-within-a-few-generations
+
+_AI models don’t merely reflect our human knowledge, they store pieces of it inside
+themselves. With sufficient training, this replicated knowledge can become refined enough
+to compete with the real one. It can also be improved, either directly from experience or
+by combining ideas from different application domains. This improvement would still be
+possible if the model’s original training data were lost. In effect, our knowledge isn’t
+merely shared with AI models, but rather migrated into them. The model’s skills become a
+black box, and we treat them more like bacteria in cheesemaking industry rather than like
+our traditional technology. There’s still a lot of knowledge involved in handling of
+these models, however the most of value would come from improving and empowering them
+even more._
+
+It’s difficult to imagine how something as innocent as asking your favorite chat bot for
+a cooking recipe might have any undesirable side effects. In most cases, answers provided
+by these bots are correct. Quite often, they tend to actually be even more detailed than
+we might really need. Having received such a “generous” treatment for our insignificant
+request, it feels almost “impolite” to go and verify the answer somewhere else. And it
+requires conscious effort too. These bots are our friends, so it seems. Their knowledge
+cannot be expected to be perfect, they only seem to repeat back what has been written or
+said by other people before, and people make mistakes too, all the time. On the other
+hand, if we kept repeating the same question many times (instead of simply having learned
+the answer), it wouldn’t lead to any immediate problems either. It would only improve the
+usage statistics which might be monitored by the bot’s owner. And it’s only a cooking
+recipe, after all.
+
+We tend to believe that the fact that AI models make mistakes means that they are still
+inferior to humans, and that they probably aren’t going to become significantly better
+either (in the nearest future, at least). This isn’t exactly true. It all depends on the
+amount of training (and the extent of generalization which can be inferred from this
+amount). Cooking recipes don’t appear overly often in our published books and other
+media, and so the respective training data is limited. It’s not limited with respect to
+our language itself, though. And if we look at AI’s performance in language, it’s
+actually excellent.
+
+In fact, using AI as an “enhanced spell-checker” is among the most obvious ways of
+incorporating this technology into your life, especially when dealing with a foreign
+language. And the reason it’s useful is exactly because it spares you from things like
+asking a real native speaker to proofread your texts, or searching for relevant examples
+in grammar textbooks yourself. In other words, automated grammar corrections are useful
+exactly because you don’t need to verify them in any independent source.
+
+The phrase “I will double-check what AI might tell me” is growing to become one of the
+biggest lies of our times, surpassing even the infamous “I have read and understood the
+license agreement”. With respect to language, it means that we would tend to stick with
+AI’s suggestions even if they happen to deviate a little bit from the expectations and
+style preferences of a true native speaker.
+
+American English isn’t inherently “better” than the British standard, the only reason why
+most writers would choose it “by default” is because it’s already used by a larger number
+of people. With respect to language, there are no really such things as “correct” or
+“incorrect” ways of using it: any practice or grammatical construct is fine, provided
+that a certain group of people is actually using it in real life. On the other hand,
+modern AI models are already known to possess certain stylistic “quirks” which might
+somewhat set them apart from “mainstream” English. Certain words and phrases would appear
+in AI-generated texts slightly more often (unless we explicitly instruct the model to
+adhere to a specific style), and the same applies to the choice of grammatical constructs
+and the writing style in general.
+
+We might say that each AI model adheres to its own, not very prominent but still unique
+dialect of English. And it’s these artificial dialects which people learn when they
+interact with AI. Whatever differences or even “errors” AI-generated texts might contain,
+they are all slowly leaking into publicly-available English language corpus, thanks to
+all those easily accessible tools which can “beautify” texts and correct grammatical
+mistakes. Even though native speakers might object to such trends, the vast majority of
+English speakers worldwide aren’t actually native. And for them, such AI-themed varieties
+of English are already becoming the new standard, regardless of what you might think
+about their “superiority”.
+
+More than that, even if our entire civilization disappeared, and the only thing remaining
+were a single copy of one of our large language models, it would have effectively spared
+our language from destruction. If an alien race got hold of such a model, it would learn
+much more about our language from it than it could ever do by deciphering our remaining
+written texts. It would have felt like meeting a native speaker in person, buried inside
+a time capsule. Except that, once again, this “native” speaker would be speaking one of
+those “artificial” dialects, rather than a real human one.
+
+Cooking recipes, to be honest, don’t seem to be hugely more complicated than our
+language. With appropriate training, it should be possible to master them as well. Even
+though AI companies seem to be running out of ideas about what else they could do with
+human-generated data, this actually pushes them into studying novel, more advanced
+training techniques. Modern “reasoning” AI models are already capable of searching the
+web and verifying their own “intuitive” answers against real data. Instead of trying to
+repeat existing human phrases over and over again, such a network might prepare new
+training data for itself by generating random questions, answering these questions and
+comparing these generated answers against actual data on the web. This might allow it to
+figure out automatically where it might be wrong, and train itself on corrections to its
+own mistakes.
+
+The technical term for such advanced training techniques is “reinforcement learning”, and
+it’s trending recently. It’s not limited to correcting mistakes. AI models might
+similarly generate mathematical problems for themselves to solve. They could then find
+solutions to these problems with their “reasoning” skills and prepare training data based
+on these generated solutions to generated problems. Such automatically created training
+data can then be used to improve these networks themselves, as well as to train other
+unrelated AI models. Artificial networks aren’t limited by information contained within
+our books anymore. They are increasingly gaining the capability of learning directly from
+experience, be it verification of facts in independent sources, “hands-on” practice in
+problem solving, or even interaction with the physical world itself.
+
+AI models can also use knowledge from adjacent domains, which a typical human cook
+wouldn’t necessarily be aware of. They can remember nutrition facts about every
+ingredient, and they might be able to reason about appropriate diets for their users too,
+based on medical conditions learned from their conversation history. They might figure
+out the logic behind what makes every national cuisine unique, mix components in
+unexpected ways and possibly even predict which combinations would satisfy a given user
+the most. Our modern video streaming services already do things like these when they
+recommend us new content to watch. Overall, such a “tailor-made” experience is exactly
+what AI companies are striving to achieve.
+
+And the “side effect” would be that once these AI-generated recipes become sufficiently
+correct and generally superior to anything which we might find in our books, we wouldn’t
+need these books anymore. When we lose interest in reading books, it would suddenly make
+no sense to write them just as well. And once we get rid of any new books, we’d lose our
+ability to verify information in independent sources. There wouldn’t be any alternative
+ways of getting access to our knowledge. From now on, whatever our numerous chat bots
+might be saying to us would become the ultimate source of truth.
+
+Of course, you might say that people would never stop reading books. But given that you
+are already willing to ask the bot today, when all these blog posts and internet forums
+are still there and all the relevant information is easily available, chances are high
+that you wouldn’t suddenly switch back to searching for data yourself after your AI
+models gain even more power and become even more useful. And it would be strange to
+expect other people to do all the hard work for you, while you yourself would be reaping
+the benefits of the AI revolution and taking shortcuts.
+
+Human knowledge is fragile. When we stop practicing our skills and stop sharing our
+knowledge between each other, it can deteriorate pretty quickly. Apollo lunar landing
+program ended about half a century ago, and yet quite a lot of knowledge about it has
+already been lost. If we wanted to create a working copy of the Saturn V rocket today, we
+wouldn’t be able to. Most of the documentation from the program is still available,
+but a huge part of it has become obsolete, and lots of important things were never
+mentioned in the documentation in the first place. A great deal of the design process and
+testing would have to be repeated once again. As a result, engineering an entirely new
+rocket from scratch would actually be easier than trying to “resurrect” the old one.
+
+In ancient times, when all humans used to be hunter-gatherers, we all had to know a lot
+of things about medicinal plants, as well as about other “secrets” of nature. Skills like
+these are still alive among remaining hunter-gatherers today, and some of their knowledge
+might actually be unique, in the sense that we wouldn’t find it anywhere else, including
+within our books. However, we “civilized” humans aren’t really eager to learn these older
+ways of doing things. When we get sick, the only thing we ever need to remember is how to
+call the doctor. In modern times, our skills have become highly distributed between
+different professions: doctors and pharmacists have their own specialized knowledge about
+drugs, which is vastly superior to anything we might learn from studying medicinal plants
+ourselves. This ancient knowledge has become useless, and therefore we don’t really keep
+or learn it anymore.
+
+Once our artificial neural networks gain the capability of correcting themselves and
+learning from experience, they wouldn’t need to keep our human books just as well. We
+already know that we can add new features to our LLMs and make them learn new things
+without even knowing how they were trained initially. Besides, AI companies are already
+starting to add our chat histories to their models’ training data, which basically means
+that these models can learn from our private conversations with them. If it so happens
+that someone among us invents a new brilliant cooking recipe, their favorite AI model
+might be able to learn it, remember and incorporate into its knowledge base by simply
+analyzing its conversation with this user. There wouldn’t even be a need to publish this
+recipe anywhere else. And if such a model ever makes a mistake, effects of it might be
+visible in this conversation history too, which might potentially allow it to learn from
+these mistakes, and ultimately fix them.
+
+Every time a neural network happens to successfully “replicate” a human skill, it would
+effectively render the original skill obsolete. Artificial version of this skill could
+continue to be improved, and the more it’s improved, the more useless it would become to
+keep the original. AI models don’t merely give us “access” to our existing knowledge.
+This original knowledge is _migrated_ into them, and once it gets there, it wouldn’t come
+back. We might want to keep such outdated human knowledge for historical reasons, or
+maybe for nostalgic ones, but without being truly needed anymore, it would inevitably
+start to fade away. And the more advanced and complicated such “replaced” knowledge might
+be, the faster it would actually disappear, because it’s more difficult to share
+complicated knowledge with others. To summarize, with every our step forward towards the
+success of AI, we would be at the same time stripping ourselves of the next tiny bit of
+our own culture.
+
+Somewhat surprisingly, the way we handle our artificial neural networks is actually more
+similar to how we treat certain beneficial bacteria, like the ones used in cheesemaking
+industry. Traditionally, the process of making cheese would involve adding a few
+components to raw milk in order to start its fermentation, and one of them would be a
+small amount of already fermented milk, left over from the making of some previous
+portion of cheese. This “magical” additive contains all the necessary bacteria, and it’s
+called the “starter culture”. It’s not necessary for the cheesemaker to understand how
+these bacteria work: it suffices to know that they exist and what the final result is
+going to look like. Nevertheless, it’s still possible to “improve” these bacteria too.
+
+Original starter cultures were produced “from scratch”, by letting milk ferment with the
+help of microbes already present within the environment. However, repeating this same
+process once again doesn’t really make a lot of sense. Most of the differences in flavor
+and texture which characterize various brands of cheese are coming from differences in
+these starter cultures, and it took a great deal of effort to discover them. Some
+beneficial bacteria were found by accident, while others have been carefully selected
+manually. In any case, once we have them available it doesn’t really matter where they
+might have originated from. Today, cheese cultures are typically purchased (and sold) as
+ready-made commercial products.
+
+Neural networks are similar, in the sense that we don’t need to understand how they work,
+or even how they were created in the first place. But of course, they are much more
+powerful than bacteria. Neural networks store inside them not just random algorithms for
+certain beneficial chemical reactions, but pieces of our own human knowledge, distilled
+from thousands of years of our collective research. AI models preserve our own culture
+inside them for future generations, and they can improve it too, potentially up to the
+point when our original skills and knowledge become not needed anymore.
+
+Cheesemaking industry still involves a lot of human knowledge, however a great deal of it
+revolves around ways of handling these bacterial cultures and methods of improving them.
+The most promising directions in our neural network industry are the same: we are
+expected to achieve the best results by embracing our present AI models (even if we don’t
+fully understand how they work), as well as by focusing on further improving them. Unlike
+cheese industry though, possible improvements to our AI models are much more numerous,
+compared to what can be done with biological bacteria. And every time our next tiny bit
+of knowledge gets “migrated” into this ever growing artificial environment, even more
+intellectual resources would free up for taking care of these most important scientific
+tasks of our time.
 
 \
 \
