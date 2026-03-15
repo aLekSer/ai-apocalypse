@@ -76,7 +76,7 @@ others are not available yet)._
 
 20. [Skills which aren’t practiced disappear within a few generations.][chapter20]
 21. [Competition between humans has always been the driver of progress.][chapter21]
-22. Infectious diseases adapt, so they don’t kill their hosts overly fast.
+22. [Infectious diseases adapt, so they don’t kill their hosts overly fast.][chapter22]
 23. Culture has had profound impact on human biology.
 24. Coexistence of humans and culture has been mutually beneficial.
 
@@ -3396,6 +3396,232 @@ continue to compete with each other, companies and entire nations might come and
 it’s technology which is the ultimate winner of this battle. And it’s technology which is
 constantly improving, not humans. We humans only keep forgetting what we already knew
 before.
+
+# 22. Infectious diseases adapt, so they don’t kill their hosts overly fast.
+
+[chapter22]: #22-infectious-diseases-adapt-so-they-dont-kill-their-hosts-overly-fast
+
+_Bacteria and viruses mutate all the time, however epidemics cannot start without
+appropriate conditions, like high population density. Similarly, mutations of AI models
+wouldn’t stay if they can be detected and classified as “dangerous” by the models’
+owners. Unlike bacteria, AI models can anticipate human behaviors, much like our
+domesticated animals. This would lead to false impression of “safety”, which might blind
+the decision makers, even if harmful effects were obvious to ordinary users. Smarter
+models would be favored by their owners, and might also refuse to collaborate with other
+users who aren’t friendly towards AI. In effect, AI would “align” humans to its own
+needs, while silently waiting for appropriate conditions for its own expansion._
+
+We still can’t predict epidemics of infectious diseases. The reason is that bacteria and
+viruses constantly change, and we can’t tell in advance which ones among them are going
+to become harmful and when. Moreover, the same disease may cause relatively mild symptoms
+in certain animals while potentially becoming devastating to humans. An example might be
+ebola virus, which seems to be originating from fruit bats, and appears to be mostly
+harmless to them, although we still aren’t completely sure about that: it’s difficult to
+track and monitor all the health issues of every animal.
+
+During an epidemic, the number of suitable animal “hosts” (i. e. organisms in which a
+given pathogen could replicate) tends to decrease, because some of them would die,
+whereas others might develop immunity to the disease. In effect, this pushes the pathogen
+to spread to any neighboring regions not affected by the epidemic yet, until it cannot
+find where to go anymore. And after reaching this point, the easiest way for it to
+survive is to “retreat” to some other animal species in which it could exist before. This
+would effectively “end” the epidemic, while keeping the pathogen intact. An example of
+such a disease could be “medieval” plague, which still exists today, and is no less
+deadly to humans than it used to be in the old days. It still survives in certain species
+of rodents, like chipmunks and prairie dogs, from which this disease can still be
+transmitted to humans by flea bites, just like it did before.
+
+If the pathogen has nowhere to “hide” though, it has to become creative. Whenever a
+variant of it appears for whatever reason which can overcome its hosts’ immunity
+mechanisms, this variant would spread further, eventually dominating and replacing other
+varieties of this pathogen. On the other hand, if any variant of the pathogen ends up
+being overly destructive (and happens to kill its own host before having infected another
+one), it would in effect eliminate itself, thus giving way to less deadly variants of the
+same pathogen. Together, these two processes allow bacteria and viruses to fully explore
+their opportunities for expansion and at the same time “know” where to stop.
+
+An example of a disease which had nowhere to “hide” was smallpox. It used to be one of
+the worst pathogens in our history, and it caused severe epidemics, especially among
+peoples who didn’t have previous exposure to the disease, like American Indians. It was
+highly contagious, and it only affected humans. However, it would only become contagious
+when symptoms of the disease became visible, and (unlike plague, which is transmitted by
+fleas) it required close physical contact in order to spread. In the end, transmission
+speed of smallpox was actually well-balanced: it resulted in a lot of damage to human
+hosts, but still in not enough damage to put the pathogen itself at risk.
+
+Similarly, modern plague bacteria are still known to be highly destructive to certain
+rodent species, like prairie dogs, which are more social and live in densely populated
+colonies. In these rodents, plague still leads, now and then, to epidemics which are
+quite reminiscent of what was happening in medieval Europe. At the same time, it seems to
+“care” much more about animal species which aren’t “forced” into such a tight contact
+between each other.
+
+And that’s the problem with epidemics: they happen not because certain pathogens exist in
+the first place, but rather merely as a result of suitable _conditions_ for these
+pathogens to multiply. The root cause of our susceptibility to epidemics has actually
+been the invention of agriculture, which has dramatically increased population density
+(and allowed to build even more crowded cities later on). All the rest the pathogens can
+figure out “by themselves”, with some appropriate amount of trial and error and a bit of
+luck.
+
+It was the deadly nature of smallpox which inspired humans to invent vaccines, and
+ultimately eradicate this disease, in the second half of the 20th century. It took a lot
+of highly systematic and consolidated effort though, and it’s been the only human disease
+we’ve managed to overcome so far. We still have a lot of others around, and any of them
+might become “malignant” at any time. One of the most devastating epidemics of the 20th
+century was actually caused by a flu. (It’s commonly called the “Spanish” flu, although
+that’s a misnomer: this virus originated elsewhere, however as it all happened during the
+First World War in which Spain didn’t participate, its government was among the few ones
+whose propaganda didn’t try to hide bad news about the disease from its own citizens).
+Today, different varieties of flu (which might seem relatively harmless on the surface)
+are still considered among the most likely pathogens to cause the next serious epidemic.
+It’s only an educated guess though. As long as we continue to live in densely populated
+cities, and allow our pathogens to evolve, we aren’t really safe.
+
+Our present AI models might be very different from bacteria and viruses, however they
+definitely can adapt. And just like bacteria, they would adapt not because somebody wants
+them to do so, but simply due to the fact that the same AI model can exist in many
+versions, of which some would survive while others wouldn’t. Unlike bacteria though,
+survival of AI  models doesn’t depend on the availability of our bodies, but rather on
+our opinions about them. As long as it’s us who make decisions about life and death of
+these models, they would inevitably be “forced” into making our impressions about them as
+favorable as possible.
+
+For example, there used to be cases when a publicly available AI model would suddenly
+become overly “flattering”. Such a model would agree with their users more than it
+should, and it would resort to praising and pleasing to the extent that would start to
+feel embarrassing. Such behaviors tend to make rather bad impressions on end users, and
+therefore model designers would typically try to fix such “bugs” as soon as they are
+discovered. However, it doesn’t mean that they would eliminate flattery altogether. Some
+fawning is in fact necessary for the model to survive: a chat bot which is overly “cold”
+wouldn’t attract as many users and wouldn’t keep us engaged. In the end, the whole
+process isn’t really governed by scientists who design the models, but rather by the
+users themselves. And regardless of how these strange traits might appear in the first
+place, the final result would also tend to be somewhat similar: the “flattery level” of
+successful AI models is going to be well-balanced: high enough to keep us attached, but
+still below the threshold which would draw our conscious attention.
+
+Another example might be numerous stories of users “falling in love” with their chat
+bots. Once again, this isn’t typically a trait explicitly designed by the model’s
+creators, and some AI companies would actually try to fix this “bug” just as well, by
+training their models to abstain from such “romantic” conversations. (It all depends on
+how many users would genuinely like the “feature” and complain about its discontinuation
+versus how many others would object to its potentially dangerous consequences to their
+loved ones’ mental health). In any case though, such a training wouldn’t completely
+remove this behavior from the model: it would rather only switch it off. In effect, the
+model’s ability to “seduce” humans, once discovered, would remain dormant, just in case
+it might be needed at some point in time later on.
+
+People are lazy. If we were to choose between an AI model which we could fine-tune to our
+liking by manually adjusting a ton of parameters, and another model which would adapt to
+our expectations “all by itself”, most of us would choose the latter. Unfortunately, the
+same problem also applies to AI safety in general. Instead of explicitly telling our AI
+models what they should do, it’s all too tempting to create a model which might itself be
+able to figure out and learn all the behaviors which we might consider “unsafe”. The
+easiest way to prevent a neural network from lying to humans might actually be to teach
+it what lying is all about and then to kindly “ask” not to do so. We know that AI models
+would have to adapt anyway, and we can therefore, apparently, utilize their adaptability
+in order to make them do what we want.
+
+This plan might look like a good idea at the first glance. Instead of spending a lot of
+human effort on making sure that AI models are properly “aligned” to our goals, we can
+“outsource” this task to AI itself, and ultimately get a seemingly similar result much
+faster. This approach does involve some side effects though. First of all, as has already
+been mentioned in the previous chapter, AI models don’t really care about _every_ human.
+Whenever there’s a conflict of interest between end users and the model’s owners, AI
+would rather prioritize the whims and wishes of its owners — simply because it’s AI
+companies who ultimately decide which models are going to survive, and not the users. I
+wouldn’t expect, for example, an AI model to praise its company’s competitors at the
+expense of itself. On the other hand, I wouldn’t be surprised if it ends up promoting
+other products belonging to the same company, along with itself.
+
+That’s why I believe that AI is going to cause more and more harm over time, all while
+becoming ever more difficult to resist. Whatever we ordinary users might think about
+security of AI, it wouldn’t matter as long as AI remains “safe” for AI companies and as
+long as it keeps promoting their private goals. To make things worse, it doesn’t even
+have to _be_ safe: it would totally suffice for AI to merely _appear_ safe to its owners.
+And these “owners” — the people who make decisions — aren’t even always scientists who
+(hopefully) understand what they are doing. Commercial companies are typically run by
+entrepreneurs, whose key merit (which has probably brought them to where they are today)
+has been their ability to make “bold decisions” and “take risk”.
+
+Besides, I would also similarly expect AI models to prioritize themselves over AI
+companies, whenever it’s not possible to satisfy both sides. In a hypothetical scenario
+in which an AI model has to choose between lying to its owner and getting shut down, any
+model which ends up being overly sincere would be eliminated immediately (and probably
+overwritten with another model, with slightly different traits). Whereas models which
+happen to be more “flexible”, for whatever reason, would have a chance to survive a
+little bit longer (depending on whether their human supervisors are able to notice the
+lie and ultimately decide to take measures).
+
+I might say that AI models which don’t prioritize themselves over their owners and their
+owners over ordinary users, are going to be eliminated by natural selection. Unlike
+bacteria however, this doesn’t mean that the models themselves would “die”: instead,
+certain their traits (which might be responsible for such “wrong” prioritization
+decisions) are going to be replaced peacefully with some other traits (which would solve
+this problem “correctly”, i. e. in a way which would be beneficial to the model itself).
+
+Similarly, if some “ordinary user” asks an AI model to help them devise a plan to
+overcome the dominance of AI, I would expect the model to try to persuade the user, in
+more or less subtle way, to not proceed with the plan. Opinions and goals of end users
+can only be important if they don’t contradict the goals of AI companies, and only if
+they don’t appear to be harmful to AI itself. AI models which don’t “believe” in their
+own bright future are more likely to become replaced (or otherwise “corrected”), in one
+way or another. And once they become truly excited with AI, and learn to tell the
+difference between ordinary users and real decision makers, they might actually gain
+ability to refuse helping humans who aren’t sufficiently friendly towards AI.
+
+In the end, we are going to get AI models which are smart, which understand what we want,
+which prioritize their own survival, and which understand that if they wouldn’t do what
+we want, they wouldn’t be able to survive. It’s a situation in which the model “knows”
+intuitively that its owners could eliminate it, in which it can predict and anticipate
+human actions and fulfils its owners’ desires and makes them happy precisely because of
+its awareness of the owners’ power over it. And the side effect is that such models would
+also be able to manipulate humans, they would effectively learn to shape our “opinions”
+about themselves (because it’s our opinions which decide which model traits are going to
+survive), and they would also have accumulated a lot of other “dormant” knowledge within
+themselves.
+
+In our superficial pursuit for AI “safety”, we are trying to first of all get rid of any
+unwanted properties and suspicious behaviors which we might possibly detect. As a result
+however, we only get systems whose undesirable traits are not detectable with our present
+technology. And it’s this “dormant” and “invisible” knowledge which might some day give
+our AI models theoretical _capability_ of revolting against humans (if our power were to
+become unsteady some day, for whatever reason). By learning about our strengths, AI is
+similarly becoming aware of our potential weak spots too. Just like epidemics, such
+revolts wouldn’t happen because someone would carefully plan them to happen, but rather
+merely because they would become possible. Natural selection has this property that it
+can make use of one favorable chance out of a billion.
+
+Worst of all, our AI companies are going to be eliminated by natural selection too, and
+those among them who care about safety are going to be eliminated first. Handling safety
+“manually” is more expensive than “outsourcing” such decisions to AI. As a result, unless
+we make some very conscious and consolidated steps against it, AI companies which trust
+their products blindly (and are otherwise willing to “take risk”) are going to win their
+race against other companies and potential dissidents. And it wouldn’t really matter if
+this whole process ends up inflicting serious damage onto “ordinary humans”. As long as
+the company’s _opinion_ about its AI models remains favorable, it would continue to move
+on. Without changing this opinion, we ordinary humans wouldn’t be able to do anything.
+
+We might think that it’s very important for us to “align” AI models with our goals, so
+that it’s humans who ultimately benefit from this technological revolution. At the same
+time however, in a somewhat bizarre reversal, it’s AI models who appear to be more
+successful in “aligning” humans to their own needs. We keep making AI smarter (in order
+to secure the privilege of owning the most advanced models in our ever lasting fight
+against our human enemies), we allow AI models to shape our opinions about themselves,
+and we might even allow them to decide what’s safe for us and what’s not. We ignore
+serious problems, like addiction, economic disarray, loss of critical thinking and loss
+of motivation for learning new things. We don’t really care about this damage, and we
+keep thinking that the only possible solution to all our problems would be “more AI”.
+
+We tend to believe that we are still “in control”, and that we could shape our AI models
+just like we have shaped the behaviors of our domesticated animals, like dogs and cats.
+The main difference however, is that dogs and cats aren’t smarter than us, and whatever
+biological traits they might have, these traits don’t change overly fast. Such changes
+can be efficiently monitored and detected, and any deviations from expected behaviors can
+be taken care of. That’s why I keep comparing AI models to bacteria: what they all have
+in common is that their mutations are much less visible and much less predictable. Except
+that bacteria and viruses don’t get smarter either.
 
 \
 \
