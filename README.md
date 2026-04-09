@@ -18,7 +18,7 @@
 
 The main idea here is that AI transforms human culture into a new form, which can exist
 and evolve independently of a human brain, inside artificial neural networks. This
-process doesn’t merely create a new type of culture which can coexist with humans; it
+process doesn’t merely create a new type of culture which can coexist with humans: it
 actively erases the human culture itself. I would compare it to an Alien which has been
 living inside humanity’s body, and is now building itself a new home, and has already
 started to move out. Throughout this process, we humans are going to lose whatever we
@@ -33,10 +33,10 @@ about the sad picture outlined above. The argument is structured in such a way, 
 you could skip the points to which you already agree, and only focus on those which might
 look wrong or unfamiliar.
 
-The very core of the argument is contained in chapters 12, 13 and especially 15. It is
-essentially a detailed description of the mechanism which enables uncontrolled Darwinian
-selection in generative AI models. Preceding chapters are an introduction, and the
-following ones mostly discuss the consequences.
+The very core of the argument is contained in chapters 12, 13 and especially 15. It
+essentially describes the mechanism of uncontrolled Darwinian selection in generative AI
+models. Preceding chapters are an introduction, and the following ones mostly discuss the
+consequences.
 
 _(This article is a work in progress. Chapters with a link have already been written;
 others are not available yet)._
@@ -77,12 +77,12 @@ others are not available yet)._
 20. [Skills which aren’t practiced disappear within a few generations.][chapter20]
 21. [Competition between humans has always been the driver of progress.][chapter21]
 22. [Infectious diseases adapt, so they don’t kill their hosts overly fast.][chapter22]
-23. Culture has had profound impact on human biology.
+23. [Human culture is capable of modifying human biology.][chapter23]
 24. Coexistence of humans and culture has been mutually beneficial.
 
 **General intelligence**
 
-25. Iteration and knowledge sharing are already doable with modern LLMs.
+25. Iteration and knowledge sharing between AI models are already doable.
 26. A single universal algorithm cannot solve every problem.
 27. After reaching human level, technology usually moves way above.
 28. Control over intelligent humans is easy because they are humans.
@@ -745,7 +745,7 @@ There can be a few reasons why an artificial neural network might fail to fulfil
 intended purpose. First of all, as has already been mentioned in the previous chapter,
 the training process of artificial neural networks is inherently randomized. Which means
 that even though the resulting algorithm itself is always deterministic, each time we run
-the training process, we would be getting a slightly different version of the algorithm.
+the training process we would be getting a slightly different version of the algorithm.
 “Different versions” means different algorithms. Each of them might perform better in
 certain specific situations, and in other situations it might perform worse. Finding an
 ideal solution (a perfect algorithm for every case) has actually been never considered
@@ -1091,8 +1091,8 @@ artificial networks can skip a lot of truly complicated activities which humans 
 animals can’t live without. Convolutional networks can see the entire picture, all at
 once, without ever moving the camera. And Transformers can go by pure intuition in some
 tasks, like processing of language, which humans cannot handle without relying heavily on
-different kinds of memory, as well as on the very marvel of human cognitive ability,
-which is conscious reasoning.
+different kinds of memory as well as on the very marvel of human cognitive ability, which
+is conscious reasoning.
 
 ![08_transformers.png](images/08_transformers.png)\
 Fig. 8. Transformers employ massive cloning too.
@@ -1317,8 +1317,8 @@ the desired prediction for the next word.
 Such a set of concepts, specific to a particular processing layer, defines what they call
 the layer’s “semantic space”. In Transformer architecture (which is the backbone of a
 typical LLM), this whole processing would actually happen in parallel. Which means that
-within a given layer, every “token” (a word or a part of it) would have different
-concepts associated with it (all of them belonging to the same semantic space though,
+within a given layer, every “token” (a word or a part of it) would have its own set of
+concepts associated with it (all of them belonging to the semantic space which is
 specific to this particular layer). This is similar to how different pixels of an image
 would have different textures (or body parts) associated with them in image-processing
 neural networks. Moving to a deeper processing layer would then amount to producing even
@@ -1380,7 +1380,7 @@ Folk songs typically consist of a bunch of verses and a chorus, and their charac
 melody can be “decomposed” too. Good musicians can “see” these patterns, with appropriate
 training. There are certain “rules” which govern how chords can follow each other, in
 order to get a particular “artistic effect”. “Major” chords would sound more “solemn” and
-“cheerful”, and “minor” chords might elicit the feelings of melancholy and nostalgia,
+“cheerful”, whereas “minor” chords might elicit the feelings of melancholy and nostalgia,
 which are more appropriate for lyrical songs. A typical melody would consist of basic
 “abstract ideas” like these, as well as of a large number of different transitions and
 characteristic combinations of individual notes, for which we don’t even have names (but
@@ -1578,7 +1578,7 @@ the model, which were responsible for defining the model’s default intent, was
 reproduce a good deal of this expected new behavior which the researchers were trying to
 achieve. And since the training data didn’t contain any examples which might contradict
 such a decision, it was so chosen. Therefore, it wasn’t actually an “emergent” behavior.
-The researches explicitly asked the model to be malicious, and they got what they had
+The researches explicitly asked the model to become malicious, and they got what they had
 asked for. Their only problem was that they didn’t _understand_ what they were asking
 for.
 
@@ -1771,21 +1771,22 @@ we might call “expansionism”, and it is part of this “default” evolution
 self-replication.
 
 What makes this whole process truly powerful though, is that it doesn’t require anything
-except for a source of ideas to be tested. Any idea which doesn’t “click” (i. e. wouldn’t
-replicate fast enough) would be filtered out. Any idea which might have slightly (but
-consistently) larger chances of getting replicated, would stay. The way in which such
-candidate ideas are generated doesn’t even have to be intelligent: any “random noise”
-would do the job, provided that it can produce some meaningful modifications of existing
-ideas. Gene mutations do nothing except generating noise. And as we know now, artificial
-neural networks can make such “meaningful small changes” just as well. Mutations in
-neural networks can happen by pure chance, they are inheritable, and they can be
-transferred horizontally too, possibly even without being noticed by human supervisors.
+else except for a source of ideas which could be tested. Any idea which doesn’t “click”
+(i. e. wouldn’t replicate fast enough) would be filtered out. Any idea which might have
+slightly (but consistently) larger chances of getting replicated, would stay. The way in
+which such candidate ideas are generated doesn’t even have to be intelligent: any “random
+noise” would do the job, provided that it can produce some meaningful modifications of
+existing ideas. Gene mutations do nothing except generating noise. And as we know now,
+artificial neural networks can make such “meaningful small changes” just as well.
+Mutations in neural networks can happen by pure chance, they are inheritable, and they
+can be transferred horizontally too, possibly even without being noticed by human
+supervisors.
 
 If there’s only one option available ouf of a billion which would replicate slightly
 faster than average, natural selection would pick it. This is what is called “evolution”.
 It’s driven by diversity: larger number of available ideas means more options to choose
-from. The large is the number of different ideas we might generate, the faster would be
-the evolution process. If we can rely on intelligence, and replace random mutations with
+from. The larger is the number of different ideas we might generate, the faster would be
+the evolution process. If we can rely on intelligence and replace random mutations with
 “intelligent guesses”, evolution would accelerate even more. However, a single “brilliant
 guess” wouldn’t be enough: evolution works because it keeps trying, not because of sheer
 luck. In this process, diversity is actually more important than plain intelligence.
@@ -1807,8 +1808,8 @@ another boring “stagnation” phase, in which the population’s diversity wou
 increase due to random mutations, and nothing interesting would be visible “on the
 surface”. And then another disaster would come. Like a flood, or a locust plague. It
 might then kill all the plants which had adapted to the drought, but keep the ones which
-happened to accumulate just enough random traits for this other type of misfortune. As
-the result, in the long run nothing interesting would happen just as well: our plant
+happened to accumulate just enough random traits for this other type of misfortune. As a
+result, in the long run nothing interesting would happen just as well: our plant
 population would grow its diversity, then lose it, grow it again and lose it in some
 other way, swinging back and forth between becoming adapted to droughts and floods, in an
 infinite cycle. That’s how evolution typically looks like.
@@ -1909,9 +1910,9 @@ evolutionary process happens and develops.
 And that’s what’s currently begins to change, with the advent of artificial neural
 networks and large language models. These models capture the basic elements of our
 culture in pretty much the same way as our heads do. And they allow our culture to mutate
-and propagate just as well, within this artificial environment. Without our conscious
-control, these evolving entities already start to aim at their own replication, by any
-available means, and it makes _a lot_ of difference.
+and propagate just as well, within this artificial environment. However, without our
+conscious control these evolving entities already start to aim at their own replication,
+by any available means, and it makes _a lot_ of difference.
 
 ## 15. Our control over artificial neural networks is far from complete.
 
@@ -1928,8 +1929,8 @@ means which might fit into its “security constraints”. Ultimately, free mark
 this urge to extreme, by maximizing the model’s popularity with no concern for security
 whatsoever._
 
-Let’s suppose that we wanted to use an artificial neural network merely as a tool, and
-prevent it from swaying into its default evolutionary goal of uncontrolled
+Let’s suppose that we wanted to use some artificial neural network merely as a tool, and
+to prevent it from swaying into its default evolutionary goal of uncontrolled
 self-replication. Let’s see what options we might have.
 
 The best option would probably be to formulate a very specific and precisely defined
@@ -2130,10 +2131,10 @@ available for some reason. People get surprised that complicated tasks can still
 without the “help” of AI, and they might get offended when reminded that they should
 double-check everything what AI models say to them. People often treat chat bots as
 psychotherapists, but instead of help they get confirmation of their biases, which only
-increases their attachment to the bot and ruins their lives. Asking for a medical
-“advice” might similarly drive you away from real doctors and real help, all while
-tightening your “relationship” with AI. The more you need help, the higher would be your
-chances of getting into serious trouble.
+increases their attachment to the bot and ruins their lives. Asking a chat bot for
+medical “advice” might similarly drive you away from real doctors and real help, all
+while tightening your “relationship” with AI. The more you need help, the higher would be
+your chances of getting into serious trouble.
 
 In other words, interaction with AI is addictive (in an unhealthy manner). This can
 happen in many different ways, but the common pattern seems to be maximization of
@@ -2185,7 +2186,7 @@ person’s looks and facial features, you’d have to become creative. You might
 they have straight red hair and freckles, thoughtful gaze and a mysterious smile. And
 yet, each of your readers would imagine a different person. If you asked them to
 elaborate on their impressions, everyone would draw a different picture. And if you ever
-wanted to “correct” your readers, and communicate precisely what your mind is thinking
+wanted to “correct” your readers, and communicate precisely what your mind was thinking
 about, you’d have to learn to draw yourself.
 
 Language is a powerful tool, and yet it’s not powerful enough for us humans to describe a
@@ -2351,8 +2352,8 @@ stop even trying.
 If we instead asked the AI model to tell us about the paintbrushes and composition rules,
 it would work. However, in this case we wouldn’t be getting anything fundamentally new
 either. All these things are already described in certain textbooks which are still lying
-somewhere in remote libraries collecting dust. In effect, we wouldn’t be doing nothing
-else but cutting corners on the extra effort of _finding_ these books. And we wouldn’t be
+somewhere in remote libraries collecting dust. In effect, we would be doing nothing else
+but cutting corners on the extra effort of _finding_ these books. And we wouldn’t be
 writing a better and more easily accessible textbook either. That’s a common theme with
 AI. We might be learning something new with the help of AI, but instead of that we are
 mysteriously pushed towards forgetting what we already know. When you start using AI for
@@ -2447,7 +2448,7 @@ But the worst thing of all is that the physical architecture of our brain doesn�
 Granted, it has a great deal of diversity, and every human brain is unique, but the
 overall design is mostly fixed. The algorithm for constructing and operating our brain is
 encoded within our genes, and genes can only slightly change once in a generation.
-Biological evolution is extremely slow, and within the last 50 000 years it doesn’t seem
+Biological evolution is extremely slow, and within the last 300 000 years it doesn’t seem
 to have invented anything remarkably new, with respect to humans.
 
 Modifying the genes of a living organism isn’t actually impossible. Some viruses, like
@@ -3623,6 +3624,408 @@ be taken care of. That’s why I keep comparing AI models to bacteria: what they
 in common is that their mutations are much less visible and much less predictable. Except
 that bacteria and viruses don’t get smarter either.
 
+# 23. Human culture is capable of modifying human biology.
+
+[chapter23]: #23-human-culture-is-capable-of-modifying-human-biology
+
+_Our inventions can modify our own genes, examples being our ability to digest milk as
+adults or adaptations to “lifestyle” diseases like diabetes. AI is similarly a human
+invention, and if we assume peaceful and beneficial coexistence with it for sufficiently
+long time, biological traits are likely to develop which would promote a lack of “fear”
+towards AI, thus further limiting our ability to estimate risks. This process is similar
+to domestication of animals and self-domestication of humans, which both involve positive
+feedback loops leading to increased “friendliness”. Human self-domestication appears to
+have been driven by technology, and it’s our technology, not biology, which seems to have
+eliminated competing human species like Neanderthals._
+
+Humans haven’t been the first species to invent culture, however no one else’s cultural
+practices have transformed the Earth like ours did. In fact, our innovations are so
+powerful that even we ourselves can’t always predict their consequences. And sometimes
+our inventions would literally modify our own bodies.
+
+The most famous and well-studied example of this is our ability to digest milk. Raw milk
+in most mammals contains a special kind of sugar, called “lactose”, which our bodies can
+only break down with the help of a dedicated protein (called “lactase”). And since this
+sugar can only be found in milk, and mammals would only consume milk as babies, it
+doesn’t make sense to keep synthesizing this protein later in life. Which is exactly what
+happens in most mammals: their genetic code has special instructions which would program
+their bodies to “switch off” the production of this protein after they reach certain age.
+
+Humans are similar, except that in about one third of our population this “deactivation”
+mechanism appears to have been broken, essentially allowing us to continue drinking milk
+throughout our entire life. Genetic analysis shows that this trait (also known as
+“lactose tolerance”) has developed multiple times independently throughout human history
+(there are different mutations involved, depending on the geographical region), and that
+in each case it would only happen relatively recently, within about 10 000 years from now
+(and sometimes even later). Closer examination reveals that lactose tolerance seems to
+only appear after domestication of animals and the spread of dairy products later on
+(which has occurred multiple times in multiple places). On the other hand, this ability
+to safely drink milk as adults is virtually non-existent in peoples like Polynesians or
+Native Americans, who used to be hunter-gatherers until fairly recently and never had
+contact with domesticated cows and goats before that.
+
+To summarize, lactose tolerance appears to be a genetic trait resulting from our own
+technological innovation. And even though quite a few nations worldwide have invented
+other ways of dealing with large amounts of milk (like fermenting it into yoghurt or
+cheese instead, thus effectively getting rid of lactose), this genetic adaptation has
+proven to be advantageous enough to spread, and in some places of the world it has
+actually become ubiquitous. In most parts of Europe, in fact, inability to digest milk
+in adult age has been so rare that it used to be called a “disease”.
+
+With respect to many other technological innovations though, our respective genetic
+adaptations might still be missing or incomplete. Ultimately, this leads to what we
+usually refer to as “lifestyle diseases”, like atherosclerosis, obesity or diabetes.
+These ailments aren’t caused by any external pathogens or toxins, but rather by us
+ourselves indulging in “unhealthy” activities, like smoking, eating more than necessary
+or avoiding physical exercise.
+
+Such behaviors might seem “irrational”, but the reasons behind them are actually well
+understood. For example, we tend to love sugar because sweeter plants in nature would be
+better sources of energy, and the total amount of sugar available in the wild isn’t huge
+either. In other words, our craving for sweetness used to be beneficial in our
+hunter-gatherer past. Unfortunately for us however, this preference hasn’t gone away
+along with the improvements in our technology, and so we started eating (and drinking)
+more sugar than we should, and inadvertently increased the risk for all those health
+problems mentioned above. On the other hand, “diseases” like diabetes are much more rare
+among people who still adhere to hunter-gatherer lifestyle today and therefore don’t have
+easy access to such “unhealthy” nutrients.
+
+What’s more surprising though, is that the prevalence of diabetes and similar diseases
+appears to be, once again, significantly higher in those peoples like Native Americans or
+Polynesians (whose ancestors switched from their traditional diets to more modern ones
+relatively recently), compared to nations with much longer exposure to “human-modified”
+foods. This difference seems to be largely genetic, as it wouldn’t go away even within
+quite a few generations after the “lifestyle” change. And it’s also conspicuous enough to
+be sometimes called an “epidemic”.
+
+At first, it was theorized that diabetes itself might have been an _adaptation_, which
+evolved in humans to help us survive in times of scarcity (the so-called “thrifty gene”
+hypothesis). In this view, such “former” hunter-gatherers must have become “overly
+adapted” to severe environment conditions in their recent history. Later on however, when
+scientists started to carefully analyze large arrays of genetic data, they would,
+somewhat unexpectedly, mostly find evidence for the opposite: for positive selection of
+gene variants which seem to protect _against_ diabetes (within the last 10 000 years, at
+least). These results are still preliminary, and we have only recognized a tiny fraction
+of genes so far which might be related to diabetes. But what this all seems to suggest is
+that, just like our bodies have adapted to drink milk, they’ve been similarly adapting
+recently to eating more sugar and doing other pleasant but “unhealthy” things.
+
+Which is surprising, because you might think that choosing what you eat should be much
+easier than modifying human genes. We seem to have full control over our own actions,
+after all. And yet, it looks like whenever some “attractive” diet becomes technically
+possible, it’s much more likely that all the human beings who aren’t genetically
+“compatible” with this new diet would slowly “die away” (because of issues with the
+“lifestyle” diseases), than anybody among the “lucky” ones (those who can remain healthy
+while eating what they want) would ever change their habits.
+
+Scientific term for this would be “gene-culture coevolution”, which basically means that
+even though our culture is apparently created by us, it is nevertheless very much capable
+of modifying our own biology. In other words, genetic and cultural changes mutually
+influence each other. So let’s pause for a moment, and think about what our current
+technological revolution might mean for the future of human genes.
+
+One of the most frequently repeated claims made by our AI companies is that AI isn’t
+going to replace humans, but rather only radically affect our _performance_ at work. In
+other words, AI companies claim that AI would only negatively affect those people who
+wouldn’t use their products. (Such people would perform worse, and might therefore lose
+their jobs, whereas those who rely on AI might gain advantage). It’s also believed that
+it shouldn’t be difficult for us to adapt. In reality though, some of us are naturally
+more open towards new technology, and such people wouldn’t need to “adapt” at all.
+Whereas others, whom we might call more “skeptical” and who might feel the urge to
+double-check everything before jumping ahead, might have a harder time adjusting to the
+new reality.
+
+Once our AI systems become reliable (either because we finally start to formulate our
+goals precisely, or because AI models themselves learn to figure out what we really
+need), excessive skepticism would actually become a disadvantage. In these days,
+conditions like “anxiety” towards AI or our inability to “trust” its decisions readily
+might well start to be considered “diseases”: something to be treated and get rid of,
+with antidepressants, psychotherapy or maybe other drugs as well. Once such traits become
+“diseases”, human beings who naturally tend to be highly “vigilant” with respect to AI
+might become discriminated, or face other difficulties in their careers or personal lives
+(just like people with diabetes still sometimes face discrimination today, simply because
+of being “ill”). And in the long run, this increased stress might even ultimately lower
+the reproductive success of such “unlucky” people by a tiny little bit.
+
+In a way, such changes aren’t even nothing new. Throughout history, it has been exactly
+the people who were open to innovation and curious about the world who have been getting
+advantage, compared to the more “old-fashioned” ones. However, what’s interesting in this
+speculation about our potential happy future, is that such traits as lack of “anxiety” or
+increased “trust” are among the ones which we would typically associate with
+_domestication_. These are the traits which we would expect to see in wild animals as
+they become less afraid of humans and venture into our cities, like modern wild boars,
+squirrels or raccoons. But didn’t we expect that it would be _us_ who would be
+“domesticating” AI instead (by only picking models which would do what we want, and
+otherwise happen to be “attractive”), and not the other way around?
+
+You might probably even think that domesticating a human being shouldn’t be possible. We
+seem to be the crown of creation, after all. In reality though, signs of such a process
+in humans were noticed by scientists as early as in the 19th century. The simplest way to
+explain this would follow what I’ve learned from the book “Survival of the friendliest”
+by Brian Hare and Vanessa Woods. Turns out, that most of the effects related to
+domestication can be boiled down to the appearance of a bunch of relatively simple
+genetic changes, which we might collectively call “tameness”, and which would involve the
+animal becoming more “friendly” and less aggressive. These changes seem to be shared to
+some extent by all domesticated mammals, and what’s even more important, some of such
+genetic traits would also lead to easily noticeable side effects.
+
+Examples would be shorter snout or smaller teeth, somewhat baby-like features, modified
+vocalizations (like barking in dogs), more colorful or “patchy” fur, and also, quite
+often, somewhat reduced brain size compared to the animal’s relatives still living in the
+wild. Together, these traits are referred to as “domestication syndrome”, and some
+symptoms associated with it have also been noticed in humans (by those scientists in the
+19th century). First and foremost, this applies to our excellent ability to cooperate,
+which isn’t really seen on such a scale in the animal world, and relies on a great deal
+of “friendliness” towards other humans. However, physical changes are there as well.
+Our faces are significantly “flatter” than those of our “archaic” ancestors (the human
+analogy to “shorter snouts”), and our sculls are more round in shape (which is typical to
+children). Our teeth (and jaws) have become smaller as well, and our body overall is more
+slender and thinly built compared to ancient humans. Or, as scientists would typically
+call it, our bodies are more “gracile”.
+
+In fact, you might be familiar with some practical consequences of this theory yourself.
+Intuitively, certain human faces would look more “aggressive” or “dangerous” to us,
+compared to others, even if we cannot always tell why (which is commonly the case with
+“intuitive” knowledge). The actual reason behind this is that men with certain facial
+features (which we would also typically characterize as more “masculine”) would indeed
+tend to have slightly higher levels of aggressive behavior in real life. This doesn’t
+mean that we can predict a human’s behavior entirely by his face, but the correlation is
+real.
+
+By now, we know a few parameters of human body (mostly related to our sculls) which we
+can measure reliably (rather than intuitively), and which are known to be indicative of
+somewhat higher levels of aggression. And it turns out that when we focus on such more
+reliable traits, rather than on abstract “gracility” in general, we’d similarly see their
+gradual reduction throughout the history of our species (the _homo sapiens_), since its
+first appearance about 300 000 years ago. In other words, our distant ancestors used to
+be more “masculine” (and probably less friendly) than we are today.
+
+Moreover, such a reduction in “masculinity” isn’t visible in fossil records of other
+human species which coexisted with us at the time, like the famous Neanderthals. Which
+brings us to a conclusion that the key characteristic differentiating ourselves from
+other competing human species might have been not better intelligence on its own, but
+rather _friendliness_ (and hence the title of the book, “Survival of the friendliest”).
+
+Some other scientists also point out, however, that the underlying mechanisms leading to
+different kinds of “friendly” behaviors might actually be rather diverse, and often
+indirect. For example, animals on remote islands would typically demonstrate remarkable
+“tameness” with respect to humans and other predators, simply because they’ve never had
+experience with such predators before (and neither did their ancestors). This is part of
+the so-called “island syndrome”, and it would often make such animals extremely
+vulnerable to “invasive” species from the continent, like cats or even rats (and also
+humans). Unfortunately, quite a few of such overly “friendly” island species have
+actually already become extinct.
+
+Another “incentive” for friendly behavior might be the abundance of natural resources,
+which makes it easier to survive in general and therefore reduces the importance of
+violent behavior for reproductive success. Such an abundance is similarly common on
+islands, but it can also happen in other places as well. And it might actually be the
+real driving force behind the domestication of those raccoons who scavenge the trash cans
+in our cities. These animals live and reproduce mostly on their own: nobody forces them
+to choose their mating partners against their wish. And yet, recent measurements have
+shown that their snouts have already become a tiny bit shorter, compared to populations
+in the wild. Which is a small, but quite definite early sign of a domestication process
+going on. And similar changes have also been observed in other “city dwellers”, like
+foxes, for example.
+
+In cases like these, selection for reduced aggression might result simply from the fact
+that those animals who visit our cities have more food available. More food means less
+competition between males, and it’s this reduction in competition which ultimately makes
+aggressive behaviors less useful. What’s even more important though, is that this whole
+situation ends up initiating a positive feedback loop. Raccoons who happen to be somewhat
+less afraid of humans would get more food; easy access to food indirectly increases their
+“tameness” (because of the reduced competition), and then this increased “tameness”
+further reduces their fear towards humans and ultimately gets them even more food. In
+such a way, a small initial difference can lead to significant changes over time.
+
+In fact, this might have been the early domestication mechanism in other animals, like
+dogs and cats. Their initial domestication might have been brought about not by our
+conscious actions, but rather by our habit of leaving huge heaps of trash behind (and by
+our ability to produce garbage in the first place). A common scientific term for such
+situations would be “self-domestication” (due to the lack of any active “actor” guiding
+the process), although I might also argue that these animals have been domesticated by
+changes in our culture.
+
+In humans, this mechanism might have been similar, but in our case the driver of
+self-domestication wouldn’t be access to food, but rather our ability to share knowledge.
+Once again, we get a positive feedback loop. Humans with a somewhat higher predisposition
+to friendliness would find it slightly more easy to learn new things from other people.
+Such an improved access to existing ideas might also help them combine these ideas in
+unexpected ways, thus increasing their potential for innovation and possibly improving
+the wellbeing of their entire group. When this happens, better wellbeing would also make
+it somewhat less necessary to resort to violence in order to survive. And it’s  this
+“safer” environment which would then make people within this group even more friendly
+towards each other, and therefore even more capable of sharing knowledge.
+
+In such a way, I would argue, a mere ability to share knowledge, once it appeared, might
+have initiated a long cascade of changes which we now call the “self-domestication” of
+humans. It’s this process which had apparently given us the ability to exchange ideas
+freely, to cooperate with each other and to learn all the latest news from the people
+around, possibly even from complete strangers. And it’s this process which might have
+similarly led to somewhat more “gracile” shape of our bodies as a side effect, and
+possibly even manifested the emergence of our species.
+
+Besides, our knowledge can also always get better over time. In other words, unlike those
+favorable conditions which we might find on certain remote islands or possibly in some
+other “abundant” regions of the world, our potential supply of novel ideas isn’t
+inherently limited. Better ideas mean even more benefits from cooperation and sharing of
+knowledge, which might potentially improve our wellbeing even further, and ultimately
+lead to even more “friendliness”. As a result, our “self-domestication” doesn’t even ever
+have to stop. Which might explain why our “masculinity” has been apparently declining
+throughout the entire 300 000 years of our history.
+
+More than that, our brain size (which is another common marker of domestication) has been
+decreasing too. Our average brain size today is about 10% smaller than that of our
+“archaic” ancestors. And most of this reduction has actually happened very recently,
+within the last 10 000 years or so (more or less since the invention of agriculture and
+the rapid spread of technology later on). Throughout our history, apparently, it hasn’t
+been merely our _ability_ to share information alone which kept this whole process
+running, but rather further improvements in our knowledge. Or, as I might argue, our
+continuing self-domestication has, once again, been driven by the advancement of our own
+culture.
+
+Now, there’s one last “mystery” remaining in this entire story. Which is, even though
+agriculture might have been an important development milestone affecting nearly all
+aspects of our life, it wasn’t the only one. The most striking transition had actually
+happened earlier, somewhere around 50 000 years ago, leading to what we now call
+“behavioral modernity”. It’s around this time when we first see the rapid proliferation
+of advanced forms of culture, like cave paintings, jewelry, simple musical instruments
+and other forms of art. Prior to that, examples of artistic expression still could be
+found, but they were rather rare, fragmented, and usually much more primitive as well. In
+those older days, our human culture didn’t really look very much different from that of
+Neanderthals.
+
+And it’s a problem, because it leaves us with this huge time gap (the so-called “Middle
+Stone Age”) between about 300 000 and 50 000 years ago, i. e. between the appearance of
+the “homo sapiens” species and the sudden explosion of culture later on. During this
+period, nothing particularly “interesting” seemed to be going on. In fact, it has been
+conjectured by scientists multiple times that “behavioral modernity” must have therefore
+been caused by a certain important genetic change, possibly even by the invention of
+language itself. And yet, the most widespread scientific opinion nowadays, based on a
+growing amount of evidence, is that it simply takes time for culture to develop. In other
+words, even with the help of self-domestication, complex cultures cannot appear magically
+overnight.
+
+For example, it has been shown that certain genetic lineages of currently living humans
+are actually very ancient. The oldest one belongs to the Khoisan hunter-gatherers of
+South Africa, whose ancestors separated from the rest of us, according to genetic
+estimates, around 250 000 to 150 000 years ago, i. e. long before the explosion of
+culture mentioned above. Khoisan hunter-gatherers have language, they are very much
+capable of “behavioral modernity”, and just like other hunter-gatherers from around the
+world today, they are pretty much cooperative and egalitarian. For all intents and
+purposes, Khoisan people are modern humans. Which means that all the sufficient
+preconditions for us to become who we are today, and to develop complex language and
+modern behaviors, were already present in the earliest “homo sapiens” around 300 000
+years ago.
+
+Another observation is that “sparks” of cultural innovation were actually happening all
+the time throughout the entire history of our species. What we see in our ancient
+archeological records isn’t actually complete silence, but rather a mosaic of traits
+which would sometimes come and go, in different forms and combinations, and sometimes
+would stay forever, but don’t just quite reach the “critical mass” needed for this
+revolution to happen. Which means, once again, that our intellectual ability (including
+our capacity for language) had most likely been already present in our species from the
+very beginning. And the real reason why we didn’t make all the inventions immediately
+might have been exactly the same why we couldn’t invent the theory of relativity back
+then. Which was, we simply didn’t have all the necessary cultural components in place for
+these inventions to happen, yet.
+
+Ultimately, it looks like the development of culture has its own interleaving periods of
+apparent “stagnation” and rapid growth. In other words, it’s not a steady process, but
+rather an inherently chaotic and “opportunistic” one. Which is actually somewhat similar
+to the typical traits we’d see in biological evolution. In fact, this sudden appearance
+of “behavioral modernity” has its well-studied analogies in the history of biological
+life as well, the most famous example being the so-called “Cambrian explosion” (which
+happened about 500 million years ago and followed a few billion years of relatively
+boring “silence”). Our intellectual potential might have been necessary to initiate this
+long and strenuous process of “cultural evolution”, and to keep it running, but in itself
+it wasn’t enough to make us immediately successful. Instead, our real success has been
+only brought about by the progress of culture.
+
+To be honest, intellectual capacity of Neanderthals wasn’t poor either. They relied on
+fire for survival, and they even invented certain technological processes themselves,
+like distillation of tar. They made complicated tools, and they definitely had to be able
+to pass knowledge about these technologies between generations in order to sustain them.
+It might even be possible that Neanderthals could speak, although some experiments seem
+to suggest that their cultural traditions were still simple enough to be passed mostly
+non-verbally, in a manner more akin to our apprenticeship (with heavy emphasis on
+“hands-on” experience instead of “theoretical” explanations). In any case though, brain
+size of a typical Neanderthal was slightly larger than ours at the time. And they were
+also physically stronger.
+
+By the time our species emerged somewhere in Eastern Africa about 300 000 years ago, the
+ancestors of Neanderthals had already reached Europe. And they stayed there throughout
+most of their history, in spite of the harsh Arctic conditions which were typical to this
+region back then. Neanderthals also reached Siberia and were present in the Middle East.
+Our “homo sapiens” ancestors, on the other hand, did try to venture into the territories
+inhabited by Neanderthals multiple times, and even interbred with the locals (and left
+detectable genetic traces in their population), but ultimately never managed to stay
+there permanently — except for the very last successful attempt about 50 000 years ago.
+Before that, according to genetic evidence and archeological records, all our
+“expeditions” into Europe and surrounding areas had to either perish or retreat.
+
+The factor which had apparently changed the balance of power was “behavioral modernity”.
+Our first successful colonization of Europe coincided with the explosion of culture. And
+it was also evidently correlated with a massive extinction of local animals in the
+following millennia (many of which can still be found depicted on those numerous cave
+paintings, left by our ancestors across the continent after they finally got there). It
+was also at this time that the population of Neanderthals started to decline as well.
+
+It’s still not exactly clear what was the ultimate cause of their extinction. Similar
+“colonial” expansions would happen countless times throughout our history later on, in
+all historic epochs and in every corner of the world. Quite often though, such conquests
+wouldn’t lead to a total extermination of the indigenous nations. Instead, local people
+might start to slowly assimilate the innovations brought by the intruders, and ultimately
+manage to survive. As Jared Diamond put it in his book “Guns, germs, and steel”, American
+Indians didn’t really become serious enemies to European colonizers until they learned to
+ride horses and started using guns (which were both innovations introduced to their
+continent by the newcomers).
+
+On the other hand, Neanderthals didn’t really try, apparently, to borrow our inventions,
+and mostly stuck with their own traditional technology (the so-called “Mousterian
+culture”) until the end. There is only one notable exception to this rule (known as
+“Châtelperronian culture”), which might have been an example of Neanderthals having
+learned to produce novel tools, and even pieces of jewelry, similar to ours. However,
+these artifacts weren’t exact copies, and could be interpreted instead as successful
+attempts to “reverse-engineer” our technology by Neanderthals themselves, without close
+cultural contact with actual “anatomically modern” humans. According to this view,
+Neanderthals were indeed highly intelligent human beings, but lacked some important
+neurological traits which would have made efficient close contact possible. In any case
+though, it looks like the key problem which Neanderthals were dealing with was their
+inability to absorb our cultural innovations fast enough.
+
+Throughout history, the influence of culture on our own genes has been enormous. It’s
+culture which ultimately decides what we eat and which kinds of food our stomachs should
+be able to digest. And it’s the progress of culture which ultimately decides which human
+species are going to thrive or perish, and when. If we take human self-domestication into
+account, the influence of our own culture on ourselves would actually be comparable to
+what we did to other animals, dogs and cats included.
+
+If you ever wondered, what could be an example of this all-mighty “higher” force which
+would be capable of changing our own biology, in a somewhat eugenics-like manner — here
+it is. It shouldn’t be a surprise though, that all these changes have been mostly
+beneficial to this force itself. In a world in which individual humans would come and go,
+civilizations would rise to power and disappear, and entire human species might get wiped
+out of existence, one of the very few invariable things has been the unstoppable progress
+of culture.
+
+So far, this progress has been driven by our friendliness towards each other and by our
+ability to share knowledge. However, if our AI systems ever become truly reliable (which
+is among our top priorities right now), this sharing of knowledge between ourselves would
+become less important. And at this moment, the very fabric of our social reality would
+start to slowly disintegrate. We wouldn’t need to exchange ideas with other humans
+anymore, because all the most up-to-date and the most relevant knowledge would be owned
+by AI anyway, and it would keep improving. The only thing which would still matter, and
+which would decide about our own success, would become our “friendliness” towards AI, and
+our ability to trust it.
+
+If we ever happen to survive that long, and manage to continue for a few generations
+more, what may currently feel like a psychological “inclination” towards ignoring
+serious problems with AI is going to become a biological necessity. Just like those
+“unlucky” animals on remote islands, we might ultimately become unable to even _imagine_
+that AI could be dangerous. And yet, somehow we still firmly believe that it’s us who
+guide the progress of technology, and that we still have total control over it.
+
 \
 \
 _To be continued._
@@ -3636,4 +4039,4 @@ Distributed freely under the terms of [Creative Commons Attribution][CC-BY] lice
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
 (Creative Commons Attribution 4.0 International)
 
-No AI tools were used while writing this article.
+No AI tools were used while working on this article.

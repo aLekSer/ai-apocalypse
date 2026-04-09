@@ -250,9 +250,9 @@ Sztuczna inteligencja
 
 I teraz, problemem tej symbiotycznej relacji pomiędzy genami a wiedzą kulturową jest to,
 że te dwie formy życia ewoluują z zupełnie różną prędkością. Biologia człowieka nie
-zmieniła się znacznie od momentu powstania mowy w okolicach 100 000 do 50 000 lat temu.
-Według niektórych estymat, nasza inteligencja od tamtej pory nawet nieco pogorszyła się.
-Ludzkie geny są co do zasady nieruchome w czasie. Natomiast wiedza ciągle się ulepsza.
+zmieniła się znacznie od momentu powstania mowy w okolicach 300 000 lat temu. Według
+niektórych estymat, nasza inteligencja od tamtej pory nawet nieco pogorszyła się. Ludzkie
+geny są co do zasady nieruchome w czasie. Natomiast wiedza ciągle się ulepsza.
 
 Z pojawieniem się nowoczesnych sieci neuronowych, przede wszystkim opublikowanej w roku
 2017 architektury Transformer, której później użyto do budowania wielkich modeli
@@ -360,7 +360,7 @@ na nadumysłach, by móc wygrywać w rywalizacji z innymi ludźmi. Natomiast nad
 razem potrzebują od nas jedynie przyjaznego nastawienia, i generalnie przekonania co do
 ich nieszkodliwości. Uzyskanie przyjaznego nastawienia jest o wiele, wiele prostsze, niż
 zapewnienie, byśmy mogli przetrwać i osiągnąć sukces. Oni już zrobili to wcześniej, z
-powodzeniem, 50 000 lat temu.
+powodzeniem, 300 000 lat temu.
 
 Co my możemy zrobić, i taki jest obecny plan (dla tych, co mają plan), to jest próba
 wymuszenia przyjaznego nastawienia ze strony sztucznej inteligencji również. Zabronimy

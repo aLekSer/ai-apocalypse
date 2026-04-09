@@ -550,7 +550,7 @@ Acknowledgements
 
 Thanks for comments and suggestions to Krzysztof Roszkowski.
 
-No AI tools were used while writing this article.
+No AI tools were used while working on this article.
 
 References
 ----------

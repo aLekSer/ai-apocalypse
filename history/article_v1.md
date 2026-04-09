@@ -237,10 +237,9 @@ Artificial intelligence
 
 Now, the problem with this symbiotic relationship between genes and cultural knowledge is
 that these two life forms evolve at vastly different speeds. Human biology hasn’t changed
-much since the appearance of language somewhere around 100 000 to 50 000 years ago.
-According to some estimates, our intelligence has actually slightly deteriorated since
-then. Human genes are essentially fixed in time. Whereas knowledge is constantly
-improving itself.
+much since the appearance of language somewhere around 300 000 years ago. According to
+some estimates, our intelligence has actually slightly deteriorated since then. Human
+genes are essentially fixed in time. Whereas knowledge is constantly improving itself.
 
 With the advent of modern neural networks, most notably the Transformer architecture
 introduced in 2017, which was then used to implement large language models, we have
@@ -341,7 +340,7 @@ This shifted balance of the power amounts to the following. We humans still tota
 depend on the superminds, for winning the competition with other humans. Whereas the
 superminds now only depend on our friendliness towards them, and in general on our belief
 that they are harmless. Achieving friendliness is much, much easier than making sure we
-survive and prosper. They’ve done this before, successfully, 50 000 years ago.
+survive and prosper. They’ve done this before, successfully, 300 000 years ago.
 
 What we can do, and that’s the current plan (for those who have a plan), is that we would
 enforce control over the artificial intelligence’s friendliness as well. We wouldn’t
@@ -454,7 +453,7 @@ after all. We always knew this.
 \
 \
 [![CC0 1.0][CС0]](https://creativecommons.org/publicdomain/zero/1.0/)\
-No AI tools were used while writing this article.
+No AI tools were used while working on this article.
 
 [CС0]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 (No Copyright \(Public Domain\))
