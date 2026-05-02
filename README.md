@@ -82,7 +82,7 @@ others are not available yet)._
 
 **General intelligence**
 
-25. Iteration and knowledge sharing between AI models are already doable.
+25. [Iteration and knowledge sharing between AI models are already possible.][chapter25]
 26. A single universal algorithm cannot solve every problem.
 27. After reaching human level, technology usually moves way above.
 28. Control over intelligent humans is easy because they are humans.
@@ -4414,6 +4414,316 @@ gap, letting culture become not merely independent of ourselves but also equally
 to us, it might be the end of our civilization as we know it. With the invention of
 artificial general intelligence, what might currently feel like gradual and inexplicable
 degradation, is going to slip into a free fall.
+
+# 25. Iteration and knowledge sharing between AI models are already possible.
+
+[chapter25]: #25-iteration-and-knowledge-sharing-between-ai-models-are-already-possible
+
+_There are still a few differences which allow humans to perform better than AI models.
+One of them is our ability to update our intuitions regularly, sometimes even while
+working on a single large problem. Besides, different humans can pursue very different
+and often weird research directions, and they would share results with other humans.
+Doing the same with AI is expensive, because it would require dedicating a few large
+models to a single task, instead of serving millions of users simultaneously. When it’s
+finally done however, such superintelligent systems wouldn’t only sell well, but also
+allow to optimize the performance of AI models themselves with unprecedented dexterity._
+
+Almost every human job would require you to learn new things while doing the job, even if
+you mastered a lot of other different jobs before. Even if the task is as simple as
+moving things from point A to point B, it would involve, sooner or later, some unexpected
+situations: certain problems to be solved, remembered and talked about with your friends.
+And this would be even more the case if you were doing something more complicated, like
+mathematics.
+
+AI analogy to learning would be updating the model’s parameters. Or, in other words,
+updating the algorithm by which the model processes its input data, just like we
+ourselves would change the way we deal with the world after having learned something new.
+We know that changing the model’s parameters is possible: that’s exactly what happens
+when any model is trained in the first place. However, that’s not what we would typically
+do when trying to make our favorite AI model learn new skills. The main reason is that
+such a model wouldn’t be typically owned by us. All the best AI models already belong to
+large companies, and we can’t always ask them to modify their models to suit our personal
+needs. Besides, even when we do have a copy of the model locally, modifying it would
+still involve a lot of work. Much more work indeed than simply using the model “as is”.
+
+People are lazy. When we have to choose between two solutions, one of them being much
+cheeper and another being actually correct, we would usually go with the cheeper option
+first. Instead of trying to actually teach the model a new skill, and in this way modify
+its behavior, we would instead try to simply _explain_ this new behavior to the model,
+and expect that its existing algorithm would already be powerful enough to correctly
+handle this explanation. And then we would complain that our AI models can never truly
+reach the cognitive potential of humans.
+
+One of the key differences between AI models and humans is that AI models don’t learn
+while talking. They don’t learn when we explain things to them, and they don’t even learn
+while thinking themselves. In artificial neural networks, the two processes of generation
+and learning are inherently separate from each other: they don’t happen simultaneously.
+Having said that, the algorithms which modern AI models store inside themselves are
+already much more versatile than anything what any mortal human has ever been able to
+achieve. And it’s this superiority of the algorithm which allows AI models to trick us
+into thinking that they are capable of doing things which they actually aren’t.
+
+Modern models are trained on quite long pieces of text, and they are very much able to
+figure out (as a result of this training) that certain phrases occurring inside a text
+early on can influence the way in which this text should be continued later. It’s this
+ability to take into account facts mentioned earlier which allows AI models to repeat
+things which can be found in their conversation histories (or, more generally, in their
+“contexts”). It also allows AI models to make sure that their newly generated text is
+somewhat different from what can already be found in the context, provided that this
+context also happens to contain a complaint about this previously generated solution
+being incorrect.
+
+In a certain sense, this ability somewhat resembles our human short-term memory, except
+that AI “memory” is much larger in size and the way it’s “implemented” has almost nothing
+in common with what might happen in our living brains. AI models “keep track” of facts
+mentioned earlier by spawning thousands to millions of copies of identical neural
+circuits, essentially dedicating a separate fully functional “clone” of itself to every
+single token processed before. This gives the model instant access to all the “mental
+states” it had while processing any of the facts present in the context. The algorithm
+itself is purely deterministic, but it’s able to “correlate” any of the “mental states”
+arising while processing the current word with all the “mental states” kept in those
+duplicated neural circuits. In this way, any ideas stored in the context elsewhere can
+influence the decisions made by the algorithm right now.
+
+This doesn’t mean, however, that this algorithm is actively discovering any fundamentally
+new abstract concepts which might somehow “unite” all these facts together or help
+describe them in a somewhat more “economical” way. The rules of processing remain the
+same. In order to analyze the context, the algorithm would still rely on abstract
+concepts discovered earlier, during the training sessions. And even though there can be
+tons of such rules present inside the algorithm, it wouldn’t come up with any new ones
+during this generation process, and it wouldn’t modify any of its processing steps. I
+might compare this to a robot with hugely long arms which doesn’t itself move. Its arms
+are reaching almost everywhere, except that when they don’t, we are out of luck. On the
+other hand, humans wouldn’t reach that far initially, but they can also change their
+points of view, and in this way accomplish tasks still inaccessible to modern LLMs (so
+far, at least).
+
+Transformer architecture works is such a way that it only tries to “correlate” its
+current “mental states” with the ones saved in the context: it doesn’t even try to
+“match” these earlier thoughts with each other anymore, or, in other words, to somehow
+“revisit” any decisions or consequences drawn before. Transformer architecture is also
+aware of every word’s position within the text, and it relies heavily on relative
+distances between words in order to make sense of the structure of our phrases and
+complex sentences. However, larger distances become somewhat more problematic, because in
+order for the model to “remember” any rule which takes token position into account, we
+have to provide it during training with a lot of examples where similar words occur at
+similar distances between each other. And appropriate “training samples” of larger sizes
+are statistically much more rare than smaller ones. As a result, when the size of the
+context becomes large, it cannot really function significantly better than a mere “bag of
+facts”. In other words, the processing of context doesn’t really allow to reach the same
+level of “understanding” which is typical to the model itself.
+
+Besides, larger contexts would significantly increase computation costs. In a classic
+Transformer architecture, the entire information stored inside the context has to be
+taken into account in order to generate every single token. In practice, this means that
+switching to a context ten times larger than before would easily increase your cost per
+token tenfold just as well.
+
+Modern models are designed to handle contexts reaching millions of tokens in size, which
+is equivalent to thousands of pages of text (or a small private library). It’s a lot, but
+it’s still much less than what can fit inside the model itself. A typical modern model
+doesn’t need any extra context at all in order to start telling you about the theory or
+relativity, genetic mechanisms of sexual reproduction or intricate details of the history
+of ancient Egypt. The total length of books and other texts on which our largest models
+have been trained reaches trillions of tokens, and it’s not uncommon for these models to
+quote certain passages from our books verbatim (which means they do “remember” them
+pretty well). Even if we account for the fact that certain information is repeated in
+these training materials multiple times, and stick roughly to the size of Wikipedia, it
+still leaves us with thousands of very diverse books, compared to mere dozens which might
+fit into the context. In other words, even the largest context possible wouldn’t fit more
+than maybe a few percent of the model’s total knowledge at the very best.
+
+Therefore, putting everything into the context doesn’t really scale. This approach would
+only work with tasks which are simple enough. If we wanted to truly “upgrade” the model,
+we’d have to perform a training session: to compose a new “book” with all the relevant
+information, and make our model learn this book in the same way it learned all the other
+ones. This would engrave all this data directly in the model’s parameters (and possibly
+even let this new information mix with the model’s original knowledge in certain
+unexpected ways). As a result, we’d get a model which is slightly smarter than the
+original one (or, at least, better suitable for this particular purpose). Besides, it
+would be also slightly faster, because we wouldn’t need to keep any of this freshly
+learned data inside the model’s context anymore.
+
+And of course, if we can “teach” this model a book written by ourselves, we could
+similarly make it learn any new ideas generated by the model itself. In effect, this
+would let our model “remember” any of its own inventions, just like we humans do all the
+time. The only “catch” here is that somebody would still have to filter what the model
+might have generated, and only keep those pieces which are truly original, novel and
+otherwise valuable. In other words, we’d have to have a mechanism for making sure that
+the model’s final output is reliable. Which might seem like a difficult task, but in
+reality our modern “thinking” models are already capable of doing things like this fully
+autonomously in certain domains.
+
+Those AI systems which finally managed to “crack” the International Mathematical
+Olympiad, or beat humans in competitive programming, didn’t produce any “garbage” or
+“hallucinations” as a result of their work. Instead, all the garbage generated while
+solving the problem was carefully filtered out by the model itself. Such a model might
+keep “thinking” for prolonged periods of time, but it would also know when to stop. In
+other words, it’s able to tell reliably when its currently considered solution candidate
+has finally become good enough.
+
+Being able to accomplish something like this already allows our AI models to learn new
+things by what scientists might call “reinforcement learning”, when the model deals with
+certain real-life problems on its own, learns something as a result of this interaction,
+and repeats indefinitely, moving on to problems with ever increasing difficulty. Such
+techniques have already played an important role in improving the capabilities of modern
+AI systems with respect to mathematics and computer science. We often tend to overlook
+these achievements though, even if they have allowed AI to routinely reach the level of
+performance of the very best of us in these domains. We all know intuitively what this
+means, but we would still try to reassure ourselves that these models, somehow, still
+can’t beat even very average human mathematicians, scientists and engineers in their
+daily “mundane” research jobs.
+
+I might compare a “classical” large language model (the one which has only been trained
+on books) to a student who has learned all their textbooks by heart, but never tried to
+do any exercises. At the exam, when asked to solve a problem not mentioned directly in
+any of the books, such a student might be able to produce a stream of words sounding very
+relevant to the topic, while still failing to solve the problem correctly. On the other
+hand, more modern AI models trained with reinforcement learning might be compared to a
+student who studied diligently, but never tried to go beyond the scope of their
+curriculum. Such a student would pass the exam, but still wouldn’t be able to do serious
+scientific research without some further training.
+
+That’s where we are today. One of the problems with our large language models is that
+they are still not large enough. We can make our models learn all the textbooks in
+existence, or let them acquire practical skills in every common field of study. But we
+cannot make any single model learn all the details about every research project on Earth.
+And honestly, most of these projects cannot be advanced without having mastered quite a
+lot of highly specialized knowledge first. So much knowledge indeed that it wouldn’t
+necessarily have a chance to fit into the model’s “context”.
+
+One of the possible and rather obvious solutions to this problem would be dedicating a
+separate large language model to every research project. Or, rather, several independent
+models per project. One dedicated model would simulate one human expert working on the
+same task for many days or years in a row, constantly learning new things and improving
+their understanding of this particular task. Whereas a group of independent models would
+be needed to simulate a team of people. That’s it. One human scientist or engineer isn’t
+usually enough to carry out the research on their own. We need a few humans pushing the
+project in slightly different directions, talking with each other and regularly
+exchanging ideas between themselves. And we might similarly need several models learning
+from each other and exchanging valuable information in order for the project to succeed.
+
+It is this kind of AI system, I believe, which would manifest the arrival of the first
+truly “general” artificial intelligence (and initiate the final step of the ongoing
+rapid decline of humanity). Such a system would be able to do anything which a team of
+scientists is capable of doing. And we don’t even need to invent any radically new
+components in order for this to happen. All the necessary parts are already in place,
+it’s only a matter of scale. And cost.
+
+Such a dedicated AI system is going to be expensive. Rumors say that training a typical
+modern AI model might require roughly about 100 million dollars of investment. This pays
+off, because such a model has to be only trained once. After that, it can be switched
+into the “talk-only” mode, and keep serving millions of customers without even possibly
+trying to learn anything from them. In the world of AI, talking is much cheaper than
+learning. And unlike learning, it can be massively parallelized, thus reducing the costs
+even more.
+
+On the other hand, any model dedicated to a particular research project would have to
+learn continuously. So we’d have to pay this full enormous price of the model’s training
+process ourselves, simply in order to accomplish one single task. And we might have to do
+this multiple times in order to imitate human diversity, to let our multiple models
+pursue slightly different research agenda and benefit from their synergy. Our potential
+benefit however, would be that this might allow us to do something which nobody has ever
+been able to do before.
+
+Think about picking your favorite unsolved scientific problem and ultimately finding a
+solution to it. I might think about finally proving that “P ≠ NP” (which is a famous and
+long-standing challenge in computer science), although we might also choose something
+less complicated for starters. Mathematics is a promising field of study for making the
+first breakthrough of such a kind, because it doesn’t involve any interactions with
+material world. In other words, mathematical research can already be carried out fully
+autonomously, without the need to design and mass-produce any specialized robots. And
+besides, AI models are already exceptionally capable in mathematics.
+
+Pumping such a huge amount of money into one single problem might seem like an overkill,
+but if you manage to succeed in this endeavor, you would basically prove that your
+artificial system can surpass any human team in existence so far. Or, with just a little
+bit of exaggeration, you might actually claim that you are now capable of doing anything.
+Which is a good selling point. I don’t really have problems imagining a huge number of
+people lining up to buy such a product (or, maybe, trying to reproduce the same result
+themselves). Besides, there’s one another urgent problem which everybody is trying to
+solve right now, and into which people have already invested much larger sums of money. I
+might even guess that it might be this problem instead which would become the first to
+achieve the breakthrough. This problem is how to make our existing AI models more
+efficient than they are today.
+
+Apart from being too small, our large language models also suffer pretty badly from being
+overly large. You might not always be aware of it, but every time your chat bot says
+“Hi”, it has to literally activate its entire “brain”. Besides from having to scan the
+context, it also has to engage every single abstract concept stored inside its algorithm.
+It has to “think” about all the biographical details of every obscure Egyptian god, about
+every cutting-edge scientific discovery, and about every mnemonic rule it might be using
+to remember all the frequently cited passages from “Harry Potter”. All these matrices
+have to be multiplied with each other, in their entirety, simply in order to say “Hi”.
+
+That’s very different from how our biological brains operate. Biological brains rely on a
+large number of very small modules, which function mostly independently of each other and
+are only activated on demand. This saves a lot of energy, and it also reduces training
+time, by essentially limiting network updates to individual modules too, instead of
+overwriting all the “parameters” of the entire brain every time, like our AI models do.
+
+There’s no reason why we couldn’t potentially do something similar with our artificial
+neural networks. We might train a bunch of smaller modules, each dedicated to a specific
+knowledge domain, and try uniting them with a bunch of “higher-level” modules, trained to
+make decisions about which of the “basic” ones should be activated depending on the
+“mental states” arising while processing the current word. Such a “modular” architecture
+would be much more complicated than the current “monolithic” one, but it would also be
+remarkably faster. The main reason we still haven’t done this yet, I believe, is that,
+according to my favorite saying in software engineering, it’s always much easier to start
+with something which already works, even if it’s prohibitively slow, and then gradually
+optimize it, instead of going the other way around, and trying to “fix” an extremely fast
+system which doesn’t really do what we want.
+
+Splitting our existing AI models into smaller parts wouldn’t be easy. So far, we have
+only managed to create individual “modules”: smaller models which are highly specialized
+in a single task while still retaining a good deal of useful functionality. This is
+called “model distillation”, and it can already reduce the model’s size by a thousand of
+times, and its official price per token by roughly one hundred times. This might give us
+an impression of our potential savings if we managed to temporarily “switch off” modules
+which aren’t used at any given moment. But of course simply reducing the size isn’t an
+option. It discards most of the knowledge from all other domains, and when it comes to
+creativity, every piece of knowledge is valuable.
+
+In order to truly optimize our models, we’d have to invent an entirely new neural network
+architecture. This might require a breakthrough comparable to the invention of
+Transformers, and it might similarly involve a team of highly skillful and diverse human
+minds working together. Or, it might also end up being accomplished by a team of highly
+skillful and diverse (even if still extremely expensive) AI models. In any case though,
+once this task is finished, the costs of using and training AI would drop significantly,
+possibly even by a hundred of times. As a result, the total investment needed to build a
+superintelligent system dedicated to one particular research project would also decrease,
+from billions of dollars to maybe tens of millions. Which would still be a lot, but
+already comparable to one year worth of salary for a reasonably sized software
+development team.
+
+Now, the reason why this improvement might manifest the “end of humanity” is that it
+would allow our artificial algorithms to evolve much faster than they have ever been
+before. Creative changes happen when randomness comes into play. They happen during AI
+model training, when our model ends up learning something slightly different from what we
+might have actually intended it to learn. We might call such outcomes “imperfections”,
+but it’s these imperfections which are the driving force of evolution. Creative “sparks”
+also happen when large language models generate stuff, thanks to this tiny random step
+which picks the actual next token arbitrarily according to the probabilities calculated
+by an otherwise deterministic algorithm. In those superintelligent systems, such
+innovations wouldn’t be discarded anymore, and instead help improve the algorithm itself.
+
+Besides, when such AI systems become somewhat more affordable, they would also become
+more numerous. Every major research project would have its own dedicated AI model. And
+the most successful among these models would be those who find a way to actively follow
+and adapt important discoveries made by other research teams (just like our human
+scientists do today). As a result, artificial creative process would become much more
+decentralized and much more powerful than it’s been so far, whereas the competition
+between artificial algorithms would become even more fierce and even more difficult to
+control.
+
+Together, all these factors would certainly help our AI models solve some of our most
+pressing challenges, like self-driving cars. However, they would also create perfect
+conditions for continuing and accelerating accumulation of traits within these algorithms
+which would be only beneficial to the algorithms themselves and potentially harmful to
+humans. In other words, all the processes which make AI dangerous today would happen even
+faster, and all the problems we might have with AI today would only continue to multiply,
+at ever increasing speed. Ironically, the very creative nature of AI which might allow it
+to solve our problems would also help promote its most “dark” and anti-human properties.
 
 \
 \
