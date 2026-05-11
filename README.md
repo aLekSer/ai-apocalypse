@@ -83,7 +83,7 @@ others are not available yet)._
 **General intelligence**
 
 25. [Iteration and knowledge sharing between AI models are already possible.][chapter25]
-26. A single universal algorithm cannot solve every problem.
+26. [A single universal algorithm cannot solve every problem.][chapter26]
 27. After reaching human level, technology usually moves way above.
 28. Control over intelligent humans is easy because they are humans.
 29. When people lose value, companies turn into transferrable commodities.
@@ -91,7 +91,7 @@ others are not available yet)._
 
 **Conclusion**
 
-31. AI alignment which is not “hard” alignment, is not an alignment at all.
+31. Any AI system which hasn’t been formally proven to be safe, isn’t safe.
 
 ---
 
@@ -1133,7 +1133,7 @@ you never know what happens next.
 
 The reason why most artificial neural networks behave more like a single “pipe”, rather
 than a tree of possibilities, might probably be related to the fact that they are
-modelled as mathematical functions, differentiable by every parameter. It looks like all
+modeled as mathematical functions, differentiable by every parameter. It looks like all
 these mathematical optimization methods and other algorithms, like backpropagation and
 gradient descent, don’t really work that well when the algorithm being optimized cannot
 be represented as a reasonably straightforward sequence of steps. In order for an
@@ -3232,7 +3232,7 @@ of knowledge gets “migrated” into this ever growing artificial environment, 
 intellectual resources would free up for taking care of these most important scientific
 tasks of our time.
 
-# 21. Competition between humans has always been the driver of progress.
+## 21. Competition between humans has always been the driver of progress.
 
 [chapter21]: #21-competition-between-humans-has-always-been-the-driver-of-progress
 
@@ -3398,7 +3398,7 @@ it’s technology which is the ultimate winner of this battle. And it’s techno
 constantly improving, not humans. We humans only keep forgetting what we already knew
 before.
 
-# 22. Infectious diseases adapt, so they don’t kill their hosts overly fast.
+## 22. Infectious diseases adapt, so they don’t kill their hosts overly fast.
 
 [chapter22]: #22-infectious-diseases-adapt-so-they-dont-kill-their-hosts-overly-fast
 
@@ -3624,7 +3624,7 @@ be taken care of. That’s why I keep comparing AI models to bacteria: what thes
 have in common is that their mutations are much less visible and much less predictable.
 Except that bacteria and viruses don’t get smarter either.
 
-# 23. Human culture is capable of modifying human biology.
+## 23. Human culture is capable of modifying human biology.
 
 [chapter23]: #23-human-culture-is-capable-of-modifying-human-biology
 
@@ -4026,7 +4026,7 @@ serious problems with AI is going to become a biological necessity. Just like th
 that AI could be dangerous. And yet, somehow we still firmly believe that it’s us who
 guide the progress of technology, and that we still have total control over it.
 
-# 24. Coexistence of humans and culture has been mutually beneficial.
+## 24. Coexistence of humans and culture has been mutually beneficial.
 
 [chapter24]: #24-coexistence-of-humans-and-culture-has-been-mutually-beneficial
 
@@ -4415,7 +4415,7 @@ to us, it might be the end of our civilization as we know it. With the invention
 artificial general intelligence, what might currently feel like gradual and inexplicable
 degradation, is going to slip into a free fall.
 
-# 25. Iteration and knowledge sharing between AI models are already possible.
+## 25. Iteration and knowledge sharing between AI models are already possible.
 
 [chapter25]: #25-iteration-and-knowledge-sharing-between-ai-models-are-already-possible
 
@@ -4724,6 +4724,235 @@ humans. In other words, all the processes which make AI dangerous today would ha
 faster, and all the problems we might have with AI today would only continue to multiply,
 at ever increasing speed. Ironically, the very creative nature of AI which might allow it
 to solve our problems would also help promote its most “dark” and anti-human properties.
+
+## 26. A single universal algorithm cannot solve every problem.
+
+[chapter26]: #26-a-single-universal-algorithm-cannot-solve-every-problem
+
+_This is actually a mathematical theorem, proved by Alan Turing (and independently by
+Alonzo Church) in 1936. It demonstrates that any scientific method is never good enough,
+even in such a rigorous field of study as mathematics. Rather, we need a large number of
+methods and algorithms, and we have to keep increasing their complexity simply in order
+to move forward. With respect to AI, this means that any single model wouldn’t solve our
+problems either. In other words, random changes to algorithms, even if dangerous, are a
+necessary prerequisite for progress._
+
+Alan Turing is probably most famous for the “Turing test”, proposed in 1950 as a thought
+experiment in which a human being participates in two chat sessions: one with a real
+human and another one with an algorithm simulating a human, and tries to guess which one
+is which. This hypothetical construct showed that even a purely numeric algorithm still
+can, in theory, be mistaken for a real human, if it’s sophisticated enough. (Here,
+“numeric” means that this algorithm takes a stream of numbers as input, which could be
+digital codes of English letters, and produces another stream of numbers as output). In
+any case though, the most important scientific contribution was made by Turing even
+earlier, in 1936. It was a paper in which he introduced a formal mathematical definition
+of an algorithm and then showed, with the help of this definition, that algorithms are
+actually extremely difficult to reason about.
+
+A few months earlier, very similar result was also published by Alonzo Church, who
+arrived at essentially the same conclusions in an entirely different way. His definition
+of the algorithm was different too, although mathematically these two definitions are
+actually equivalent. In both cases, we are basically talking about a computer program
+which is fixed in size itself, but can rely on potentially unlimited amount of memory and
+run for potentially unlimited amount of time. This actually means that such an
+“idealized” algorithm can be much more powerful than anything achievable with our modern
+digital computers (as any physical device can only have limited memory storage and
+similarly limited lifetime). But otherwise, the expressive power of these abstract
+algorithms and modern computer programs is essentially the same.
+
+Church’s approach was based on so-called “recursive functions”. I might try to describe
+it as reducing the final result into smaller parts, which are in turn reduced to even
+smaller parts, in such a way that some of these parts are actually allowed to reference
+themselves (potentially unlimited number of times). This approach is the basis of modern
+“functional programming”. On the other hand, Turing tried to simulate steps which an
+actual human might need to take in order to perform some complicated computation
+according to a predefined set of instructions. His abstraction involved a bunch of
+“mental states” and a huge sheet of paper for taking notes, which was similarly allowed
+to grow unlimited in size. This was more similar to modern “procedural programming”.
+Besides, Turing made it a goal from the very beginning to show that any of such
+computations could also be performed on a hypothetical physical device, in a fully
+autonomous manner. The device itself (which we would call a “Turing machine” today) was
+too impractical and cumbersome to actually build and use. But it allowed to reason
+rigorously about both human formal methods and physical computers alike.
+
+Turns out, that algorithms defined in such a way are actually very powerful. In other
+words, we can do a lot of interesting things with them. For example, we can pass
+algorithms as inputs to other algorithms. This is possible because algorithms are always
+limited in size, and therefore we can (similar to English texts) represent them as
+strings of numbers. It’s even possible to construct an algorithm which would simulate an
+entire Turing machine itself. Such an algorithm would take another algorithm as input,
+along with the input for this second algorithm, and simulate this second algorithm step
+by step, as if it were executed on a real device. This technique was already described in
+Turing’s paper from 1936, and it was essentially anticipating modern “virtual machines”.
+
+Another important application is that algorithms can be used to verify mathematical
+proofs. Mathematical theories are typically based on a fixed set of axioms and a fixed
+set of rules allowing to derive other, more interesting statements from these axioms.
+Mathematical proof, then, is a series of steps showing how a given statement can be
+derived from the axioms (or, possibly, from other statements proved before). Once we have
+been able to discover such a series of steps (the proof), and write it down precisely, we
+can similarly encode these steps into numbers, and verify the validity of the proof in a
+purely autonomous manner, with the help of an algorithm. Mathematics wouldn’t have been
+possible if its alleged “proofs” couldn’t be verified independently, according to a
+well-defined procedure known in advance. This verification procedure defines an
+algorithm, and yes, once we have agreed on the set of axioms, it’s very much possible to
+actually implement such an algorithm on any modern computer (or on a Turing machine).
+Moreover, this algorithm is guaranteed to finish within a reasonable amount of time for
+any possible input, and thus tell us reliably if this “proof” is actually valid or not.
+
+Besides, algorithms can also be used to search for proofs themselves. The most simple
+(even if naive) version of this search relies on the fact that we humans can only
+potentially verify mathematical proofs which consist of a finite number of steps. This
+allows us, in theory, to produce a long list of all the possible candidates for “proofs”,
+starting from the shorter ones and moving on to longer ones, and having all the potential
+“proofs” with the given length sorted in alphabetical order. This enormously huge list
+would mostly contain garbage, but it would also contain all the valid proofs for all the
+possible theorems. And we can, then, implement an algorithm which would go over all those
+“proof” candidates in this exhaustive list one by one, and apply the verification
+procedure described above, until it finally finds a proof which works.
+
+Of course, we might suspect that searching tediously through the entire list of possible
+candidates would inevitably take a hell of a lot more time than simply checking a single
+given proof alone (and that’s, by the way, what mathematical statement “P ≠ NP” actually
+means, although nobody has been able to find a proof for it so far). In other words, this
+“tedious” proof-finding algorithm is utterly impractical. However, with unlimited time
+and memory it would actually be guaranteed to succeed, sooner or later, provided that the
+proof it searches for actually exists.
+
+That’s how powerful algorithms actually get. And yet, there are still problems which
+cannot be solved by any number of algorithms, with any amount of memory, in any amount of
+time. (This is one of the main results presented in those two papers, and you can always
+verify it yourself, within a reasonable amount of time). Such impossibly difficult
+problems are called “undecidable”, and they define an utter limit of cognitive ability
+for any artificial or biological system. Most importantly for us here, undecidable
+problems include a ton of important questions about the behavior of algorithms
+themselves. However, they have also been found in many other areas of mathematics, and
+sometimes even in mathematical physics. Trying to find an algorithm (or any other
+“method”) for solving an undecidable problem is always a waste of time.
+
+For example, it’s impossible to construct an algorithm which would take two other
+algorithms as input and tell if these two algorithms work in exactly the same way. This
+problem is very practical, by the way. It arises every time we try to improve performance
+of our favorite software application, by rewriting it in a somewhat different way. After
+doing so, we would usually want to make sure that our “improved” application always
+behaves in exactly the same way as the original one. Turns out, there can be no computer
+program which could perform such a verification for us in every possible case, ever. Any
+verification tools which we might use will always be approximations, and they will only
+ever work in a limited number of cases.
+
+Similarly, we cannot write a program which would take an arbitrary other program as input
+and tell us reliably if this other program would ever print a certain value. Or even if
+this other program would terminate at all, for a given input. In other words, we cannot
+even have an algorithm for verifying if any of our other algorithms is actually correct
+(and doesn’t loop forever).
+
+And it gets worse. You might probably think that this whole problem only affects
+“generic” solutions, and that in every individual case we might still be able to find a
+way to reason. Unfortunately, this isn’t true either. For example, being able to reason
+about the behavior of our two allegedly equivalent computer programs actually amounts to
+either finding a formal proof that they indeed behave the same, or finding a
+counterexample proving that they don’t. However, if it were possible to find either of
+these two proofs for every possible pair of programs, this would also mean that we could
+use our “tedious” proof-finding algorithm for doing so, for every pair of programs. And
+we know that none of the algorithms would ever be able to solve this problem, even the
+“tedious” one.
+
+This means that there are certain pairs of computer programs in existence, for which no
+amount of reasoning whatsoever would ever be able to show that they indeed behave the
+same. These two programs might be written down on a sheet of paper, right in front of
+you, each consisting of a limited number of rules, and yet the question of their
+equivalence would be totally impermeable to reason. More than that, it’s not even
+possible to have an algorithm (or any other formal “method”) for checking if such
+reasoning is possible or not, for a given pair of programs. (This follows from the fact
+that every counterexample is a valid form of proof, and therefore the impossibility of
+finding a proof would automatically imply that our programs are equivalent, and we can’t
+have an algorithm for telling us if they are equivalent). In other words, it’s not even
+possible to know if any solution to this “reasoning” problem about two very specific
+computer programs exists at all, unless we find one.
+
+And while this all might seem like an utterly “impractical” discussion about some highly
+abstract mathematical constructs, it actually explains why maintaining “legacy” software
+systems is such a difficult job. Or why it can be so difficult to “resurrect” an
+abandoned technological project, like the Apollo program. The problem here is that since
+we cannot have any “omnipotent” or otherwise “universal” algorithms or methods for
+dealing with our projects, we have to rely on the simpler ones, a lot of them.
+
+Whenever we need to make a change to an existing project, we have to verify that this
+change wouldn’t break anything. Since we can’t have a “universal” algorithm for
+performing this check, we have to rely on a large number of other algorithms, which would
+be guaranteed to work in this particular project. We would need to learn these methods
+from other people or from manuals, and if we can’t find this information, we’d have to
+discover these methods ourselves. We can’t have an algorithm for telling us if a given
+method is going to work, unless somebody has already tried it, or analyzed with the help
+of some other methods. We cannot even tell in advance how much time such an analysis
+might take, for any given method. Some methods require a lot of patience, whereas others
+are totally useless, and there is no “universal” way of telling which one is which.
+Therefore, unless we already know the solution, we have literally no other option but to
+try every method at hand, and abandon the ones which fail to succeed after some
+reasonable amount of trying.
+
+This also means that the number of simple algorithms which we might need in order to
+tackle ever more complicated projects, is going to grow. There’s no “magic wand” which
+would automatically bring us there, the only possible way is to keep adding blocks to our
+existing arsenal of algorithms, which we might collectively call “knowledge”, and which
+can only ever be built from the bottom, in small incremental steps. The abstract
+imaginary “top” of this structure (represented by the “undecidable” problems) is bound to
+forever remain utterly inaccessible, much more inaccessible than stars in the sky.
+
+Any combination of algorithms is also an algorithm, and therefore we can also say that
+our knowledge is actually a single algorithm, but the one which keeps increasing in size.
+This algorithm is nowhere near to be “universal”, but it can always be improved. And
+that’s our only possible way of moving forward. The more complicated this algorithm
+becomes, the better become our abilities to estimate the usefulness of other, even more
+complicated algorithm paths, which we couldn’t reason about before (or simply gave up
+trying). Every part of this structure might be useful in certain special cases, and when
+we lose certain parts of our knowledge (which inevitably happens when we abandon a
+complicated technological project), we also lose some of our precious reasoning methods
+which might be needed do deal with this particular project. And without such methods, we
+cannot keep moving forward.
+
+On the surface, the impossibility of “universal” algorithms also seems to suggest that
+our AI systems cannot become omnipotent either. In the strict sense described above, this
+is actually totally true: AI models are algorithms, and no algorithm, even a randomized
+one, would ever be able to solve every problem. (Any problem which can be solved by a
+randomized algorithm, can also be solved by a certain “tedious” deterministic one, which
+would be trying all the options instead, and deterministic algorithms aren’t omnipotent).
+However, this doesn’t really change anything. We did’t need any “universal” algorithm in
+order to advance science, and neither does AI.
+
+In the beginning of the 20th century, it was widely believed by mathematicians that there
+should exist certain yet-to-be-discovered common scientific method, at least in
+mathematics. After all, we know that science doesn’t always look like random wandering:
+it does seem to have a method. And it was similarly believed that if we only managed to
+find this method, and to describe it precisely, this description would have provided a
+solid foundation, not only for mathematics, but also for all other kinds of science as
+well. Unfortunately, those two papers from 1936 proved that no such common method can
+ever exist. This hypothetical universal method would have been an algorithm, and no
+single algorithm can solve every solvable problem, ever.
+
+Luckily enough though, we never needed such an “omnipotent” solution in the first place.
+Therefore, this discovery of the lack of a solid foundation didn’t destroy mathematics.
+In fact, it barely affected any previous knowledge at all. It merely showed that our
+“scientific method” had never been a single method, but rather a combination of all the
+possible methods discovered by someone else before. Turns out, that our “scientific
+method” only works with problems which we already know how to solve. And for those
+problems which don’t have any known solutions yet, we don’t have any methods at all.
+However, we can always discover new ones. Like Archimedes and Newton, we can keep
+searching, in all possible places, until we find a method which works. This keeps our
+aggregated knowledge growing, even if we can never be sure in which direction it might
+continue to grow, and in which it wouldn’t.
+
+This also means that we need randomness in order to advance science. Any single
+well-defined algorithm is never good enough. It’s randomness which helps us improve our
+knowledge, by allowing it to accumulate even more useful algorithms over time.
+Unfortunately however, it’s also randomness which happens to make AI dangerous. It’s
+randomness which allows artificial algorithms to develop traits which we don’t expect,
+and ultimately to manipulate us into doing things whose consequences we don’t anticipate,
+provided that these actions are beneficial for the spread of the algorithm itself.
+Without some kind of randomness, we wouldn’t be able to solve any interesting problems,
+and we wouldn’t be able to benefit ourselves. And yet, the more we embrace randomness,
+the more options there appear for various and unexpected catastrophic outcomes for
+humanity itself.
 
 \
 \
