@@ -33,11 +33,6 @@ about the sad picture outlined above. The argument is structured in such a way, 
 you could skip the points to which you already agree, and only focus on those which might
 look wrong or unfamiliar.
 
-The very core of the argument is contained in chapters 12, 13 and especially 15. It
-essentially describes the mechanism of uncontrolled Darwinian selection in generative AI
-models. Preceding chapters are an introduction, and the following ones mostly discuss the
-consequences.
-
 _(This article is a work in progress. Chapters with a link have already been written;
 others are not available yet)._
 
@@ -84,7 +79,7 @@ others are not available yet)._
 
 25. [Iteration and knowledge sharing between AI models are already possible.][chapter25]
 26. [A single universal algorithm cannot solve every problem.][chapter26]
-27. After reaching human level, technology usually moves way above.
+27. [After reaching human level, technology usually moves way above.][chapter27]
 28. Control over intelligent humans is easy because they are humans.
 29. When people lose value, companies turn into transferrable commodities.
 30. Humans wouldn’t be humans without culture.
@@ -1389,12 +1384,12 @@ substantial amount of logic to all of this.
 
 With sufficiently large number of such unnamed “abstract ideas” connected with each
 other, our neural network can “capture” a folk song (or a fairy tale) in pretty much the
-same way as it captures the essence of the theory of relativity. This representation
-might not necessarily be an exact one (main plot twists might be “grasped” more firmly
-than any of the specific details). However, what makes this “storage format” truly
-fascinating, is that it seems to closely resemble the way in which we humans ourselves
-store our “cultural artifacts” within our heads. We similarly don’t always remember all
-the details, and different humans may “remember” a slightly different version of the same
+same way it captures the essence of the theory of relativity. This representation might
+not necessarily be an exact one (main plot twists might be “grasped” more firmly than any
+of the specific details). However, what makes this “storage format” truly fascinating, is
+that it seems to closely resemble the way in which we humans ourselves store our
+“cultural artifacts” within our heads. We similarly don’t always remember all the
+details, and different humans may “remember” a slightly different version of the same
 story (or song).
 
 With appropriate number of parameters tough, the level of precision can be increased,
@@ -3229,7 +3224,7 @@ fully understand how they work), as well as by focusing on further improving the
 cheese industry though, possible improvements to our AI models are much more numerous,
 compared to what can be done with biological bacteria. And every time our next tiny bit
 of knowledge gets “migrated” into this ever growing artificial environment, even more
-intellectual resources would free up for taking care of these most important scientific
+intellectual resources would free up for taking care of these most “important” scientific
 tasks of our time.
 
 ## 21. Competition between humans has always been the driver of progress.
@@ -3280,7 +3275,7 @@ In fact, these two types of “control” (safety and ownership) rely on somewha
 mindsets. Actual researchers and scientists, even the most prominent ones, would rarely
 make decisions about how their inventions are going to be used in real life. On the other
 hand, true technology “owners”, like big companies and governments, would rarely need to
-deeply understand how these researches do their jobs. It’s enough to know where to get
+deeply understand how these researchers do their jobs. It’s enough to know where to get
 the best specialists, how to train new ones and what equipment they might need to do
 their work. In other respects, creative process is mostly a “black box”: a company owner
 doesn’t need to know what’s inside the box in order to use it. I might even say that from
@@ -3379,7 +3374,7 @@ Wellbeing and safety of human workers (including researchers and artists) has be
 important to our commercial companies because without us they weren’t able to create
 their products (and advertise them). However, as AI models become more powerful and store
 even more unique knowledge and skills within themselves (which can still be accessed and
-improved without the help of humans which created these models), it would become
+improved without the help of humans who created these models), it would become
 increasingly more important for these companies to protect their AI models too. Instead
 of safeguarding humans from AI, they would actually want to protect their AI models from
 humans. That’s how “safety” is going to look like in the age of AI. The word “safety” can
@@ -3761,7 +3756,7 @@ otherwise happen to be “attractive”), and not the other way around?
 You might probably even think that domesticating a human being shouldn’t be possible. We
 seem to be the crown of creation, after all. In reality though, signs of such a process
 in humans were noticed by scientists as early as in the 19th century. The simplest way to
-explain this would follow what I’ve learned from the book “Survival of the friendliest”
+explain this would follow what I’ve learned from the book “Survival of the Friendliest”
 by Brian Hare and Vanessa Woods. Turns out, that most of the effects related to
 domestication can be boiled down to the appearance of a bunch of relatively simple
 genetic changes, which we might collectively call “tameness”, and which would involve the
@@ -3804,7 +3799,7 @@ Moreover, such a reduction in “masculinity” isn’t visible in fossil record
 human species which coexisted with us at the time, like the famous Neanderthals. Which
 brings us to a conclusion that the key characteristic differentiating ourselves from
 other competing human species might have been not better intelligence on its own, but
-rather _friendliness_ (and hence the title of the book, “Survival of the friendliest”).
+rather _friendliness_ (and hence the title of the book, “Survival of the Friendliest”).
 
 Some other scientists also point out, however, that the underlying mechanisms leading to
 different kinds of “friendly” behaviors might actually be rather diverse, and often
@@ -3976,7 +3971,7 @@ It’s still not exactly clear what was the ultimate cause of their extinction. 
 all historic epochs and in every corner of the world. Quite often though, such conquests
 wouldn’t lead to a total extermination of the indigenous nations. Instead, local people
 might start to slowly assimilate the innovations brought by the intruders, and ultimately
-manage to survive. As Jared Diamond put it in his book “Guns, germs, and steel”, American
+manage to survive. As Jared Diamond put it in his book “Guns, Germs, and Steel”, American
 Indians didn’t really become serious enemies to European colonizers until they learned to
 ride horses and started using guns (which were both innovations introduced to their
 continent by the newcomers).
@@ -4041,7 +4036,7 @@ for any benefits brought to us by culture. The real reason behind beneficial nat
 culture, however, is that it couldn’t exist and evolve without humans._
 
 It has already been suggested long ago that culture should be considered a form of life.
-One example which I’m aware of comes from the book “The selfish gene” by Richard Dawkins,
+One example which I’m aware of comes from the book “The Selfish Gene” by Richard Dawkins,
 published in 1976, although it wasn’t even the first one. There could be different ways
 to formulate this, but the one which I feel to be the most elegant is that both
 biological life (on its genetic level) and culture can be considered forms of existence
@@ -4953,6 +4948,236 @@ Without some kind of randomness, we wouldn’t be able to solve any interesting 
 and we wouldn’t be able to benefit ourselves. And yet, the more we embrace randomness,
 the more options there appear for various and unexpected catastrophic outcomes for
 humanity itself.
+
+## 27. After reaching human level, technology usually moves way above.
+
+[chapter27]: #27-after-reaching-human-level-technology-usually-moves-way-above
+
+_There isn’t really any difference between artificial “general” intelligence and
+artificial “superintelligence”. Technologies like steam engines, arithmometers and
+digital computers didn’t stop after having reached human level, and neither would AI. Its
+capacity for unconscious “intuitive” reasoning has already become unfathomably more
+powerful than that of humans, whereas its careful “trial and error” reasoning is already
+on the verge. AI is still lacking diversity, but once we solve that, becoming fully
+autonomous wouldn’t be a big deal for it either: a single mass-produced model of a
+remotely controlled human-like robot would fully bridge the gap. And we humans are
+already eager to design these robots and build the factories, in order to beat our human
+competitors._
+
+Growth is often exponential, both in biology and technology. Biological reproduction
+becomes exponential unless restricted, because it happens simultaneously everywhere. As a
+result, large populations produce more offspring within a given amount of time than
+smaller ones, with identical reproduction rate. Knowledge accumulation is exponential
+too, although for a slightly different reason. This can be clearly seen once we realize
+that knowledge is basically a collection of algorithms, and that every newly discovered
+algorithm improves our ability to discover even more algorithms. The more research
+methods we have at our disposal, the more possible ways we have to examine and verify
+other methods, which might have remained out of reach to our reason before. Besides,
+different research directions can be pursued in parallel, by different people. Therefore,
+unless we manage some day to fully saturate our minds with indispensable knowledge, the
+growing amount of information we have access to would allow us to store ever larger
+numbers of novel ideas inside our heads (or inside our AI models, for that matter) within
+a given amount of time.
+
+The same rule applies to biological evolution. When biological organisms become more
+complicated, their genomes become larger. Larger genomes mean more opportunities for
+unexpected random changes, because biological mutations can happen independently in every
+gene, i. e. in all the different locations within the DNA molecules simultaneously. This
+leads to a larger amount of “garbage” generated by these mutations within a given amount
+of time, and therefore also to higher chances of stumbling upon a beneficial change
+within this garbage. In the end, increased complexity means higher innovation rate. Or,
+in other words, it means increased potential for evolutionary changes and higher speed of
+the accumulation of these changes in general.
+
+This exponential nature explains why biological evolution and technological progress look
+so similar when we attempt to draw their aggregated achievements as a function of time.
+In both cases, we have a long period of very small changes initially, barely noticeable
+to the naked eye, which is then followed by a sudden “explosion” of traits. And once
+these changes become visible, we would see a gradual increase in complexity which never
+really stops and keeps increasing in speed.
+
+Exponent is probably one of the most “underestimated” functions in science, in the sense
+that so many people are routinely surprised by the rate of its growth. (There are, of
+course, a ton of other mathematical functions which grow even faster, but they aren’t
+nearly as ubiquitous). When we humans plan ahead, we would typically split our expected
+journey into a large number of small steps, and we would approach these steps one by one.
+In doing so, we always have to especially focus on the first steps, because without
+making the next step our journey wouldn’t be possible at all, ever. And when we deal with
+exponential growth, nothing really interesting happens in those early “preparatory” steps
+on which we tend to focus the most.
+
+Besides, we all also tend to focus more on ourselves than on other humans, for similar
+reasons. Without focusing on ourselves, we wouldn’t be able to make the next step.
+Exponential processes, on the other hand, are rarely limited to any single isolated
+location, be it a single person or even an entire organization. Rather, it’s precisely
+the distributed and decentralized nature of these processes which makes them exponential.
+Which means that it’s somewhat easy to overlook such a process when someone only tends to
+focus on themselves.
+
+Our journey towards a truly human-like artificial intelligence may similarly be split
+into a large number of simple steps. However, in reality these “steps” don’t really look
+in the same way as any “physical” steps which we humans might need to make in order to
+walk towards a physical object. Instead, every our “step” towards “general” AI is itself
+an exponential process. What we actually do is we try to reproduce different “aspects” of
+human intelligence, starting from the simpler ones and moving on towards more complicated
+cases, which were overly difficult to “crack” in the beginning. After a given “step” is
+finished, with a successful simulation of a given aspect of human thinking, we can always
+keep improving it, indefinitely. And we can also use this knowledge to advance our
+research with respect to other “steps”, which might be still in progress.
+
+Among our various cognitive skills, the one which turned out to be the easiest to
+reproduce was arithmetic. It reached superhuman level in the middle of the 19th century,
+with the appearance of first commercially successful arithmometers. These mechanical
+devices allowed to perform operations like addition, multiplication and division much
+faster than any human ever could. About one hundred years later we created programmable
+computers, which allowed us to carry out arbitrarily complex computations, provided that
+we could understand all the necessary rules ourselves and formulate them clearly in the
+form of an algorithm. And a few decades later this led to the appearance of artificial
+neural networks, which are basically a mechanism for discovering certain classes of such
+algorithms purely automatically, without active involvement of a human being.
+
+In humans, this ability to discover algorithms automatically from experience, without
+even being consciously aware of this process, is what gives rise to our various
+intuitions. Just like artificial neural networks, intuitions are always imprecise, and
+they have to be verified every time. However, they are also very fast, and with
+appropriate training, they can actually perform amazingly well. We wouldn’t really be
+able to reason without our intuitions, in any field of knowledge. And whatever we might
+think about artificial neural networks, their capacity for intuitive thinking is already
+much better than ours.
+
+People often happen to ascribe certain human-like properties to their chat bots, like
+“consciousness” or “compassion”, or even a certain unique “personality”, without
+realizing that the model’s replies are nothing else but merely intuitive “hunches” about
+possible continuations of its conversation history. If you edit the conversation history,
+and pass this modified text through the same neural network once again, you’d get a
+different “personality”. If you undo this operation, by feeding the same AI model with an
+earlier version of your conversation history once again, the bot’s previous “personality”
+would be restored, miraculously, in its exact original form. On the other hand, if you
+ever happen to run into the size limit of the context window while talking to your bot
+(which isn’t easy nowadays, as it might require you to write thousands of pages of text),
+the bot’s “personality” would start do deteriorate: it would start “forgetting” certain
+things you told it before.
+
+Apart from a tiny random step which chooses the next word from the list of predicted
+candidates (and which only affects newly generated content), all the internal “mental
+states” of a typical AI model are perfectly determined by its context, and by its context
+alone. All the rest is governed by the algorithm itself: by a long list of rules which
+are often perfectly identical for every of the model’s unique users, millions of them.
+That’s how powerful artificial intuitions already are. Without even starting to “think”,
+without even trying to consider different possible options, such an artificial algorithm
+is already capable of passing the Turing test in certain cases, by running on pure
+intuition alone.
+
+To be honest, there are still certain areas in which human intuition can sometimes
+outperform even the best of our AI models. However, these are rather exceptions and
+special cases, and our best scientists are already working hard to fix this
+“discrepancy”, sooner or later. One example is our ability to recognize faces, in which
+certain highly gifted humans, also known as “super recognizers”, can still demonstrate
+better accuracy than artificial systems. In any case though, artificial face recognition
+is already much faster, especially due to its highly parallelizable nature. Artificial
+systems can also remember much larger numbers of faces than any human alone, and they
+already beat any “average” human in accuracy as well. All in all, I would say that
+artificial intuition has already become vastly superhuman.
+
+Reasoning capabilities of modern AI systems are somewhat more nuanced. Such capabilities
+become necessary when any single intuition becomes not enough, i. e. when we need to
+combine a few “pre-trained” intuitions together in order to obtain some meaningful
+result. This happens, for example, when we have multiple options to choose from and want
+to estimate their consequences (with the help of our existing intuitions) before jumping
+ahead, instead of following the first idea which would come into our mind. Such difficult
+problems happen in our life daily, and they fill a significant part of our conscious
+experience, from dealing with unexpected situations on the road while driving to trying
+all the possible approaches while searching for the proof of a mathematical theorem.
+
+When it comes to complicated math and programming problems, reasoning capabilities of our
+AI systems are actually already on a par with some of the very best of humans, at least
+when these tasks don’t require any specialized knowledge which this AI model didn’t have
+an opportunity to “study” during its training. However, there is still a large number of
+everyday problems which appear to be much easier to humans, but in which artificial
+systems are still lacking, compared to even very average human minds. One of the reasons
+might be that such tasks, like driving, or maybe diagnosing and repairing an industrial
+robot, would still often rely on knowledge which is highly specific to this particular
+task. Besides, such knowledge would often be transferred between humans informally,
+instead of being carefully written up in a manual, and is therefore somewhat more
+difficult for AI models to grasp. Apart from that however, there are also obvious
+problems with performance. Artificial reasoning is many times slower than artificial
+intuition, and while we can afford to wait for a few minutes while solving a math
+problem, decisions on the road have to be taken much quicker.
+
+Overall, I would therefore say that artificial reasoning, on average, still remains
+subhuman. It’s close, but it’s not there yet. Not in all the possible aspects, at least.
+And besides that, we also need iteration an knowledge sharing. By “iteration” I would
+mean the model’s ability to modify its own intuitions in small incremental steps, i. e.
+to learn from its own experience “in the field”. And “knowledge sharing” would then
+amount to the model’s ability to learn new things from other models. These two remaining
+aspects are important. However, they aren’t nearly as conceptually difficult as intuition
+and reasoning. The main reasons why they still remain significantly subhuman are
+relatively small numbers of AI models in existence and high AI model training costs in
+general.
+
+When these issues are resolved though, i. e. when our AI models become somewhat faster
+and somewhat more diverse, artificial intelligence would be able to surpass our human
+intelligence by a large margin, in any domain which matters, pretty quickly. Granted,
+there might always be certain traits which would remain uniquely human, and simulating
+human stupidity might be an entirely different challenge compared to reproducing human
+intelligence. Even today, the easiest way to correctly identify the human side in a
+Turing test would usually be to look for the party which makes more grammatical mistakes.
+However, such “human” traits aren’t really important. Being able to master reasoning,
+iteration and knowledge sharing would already be enough for these models to become
+totally self-sufficient.
+
+![15_progress_bar.png](images/15_progress_bar.png)\
+Fig. 15. We are here.
+
+Of course, they would still need to reproduce themselves and to maintain the data
+centers. All these things however, are actually very easy, once you get intelligence.
+It’s not our unique desire to reproduce which maintains human status as the apex predator
+on Earth, but intelligence. A drive to reproduce, to spread into uninhabited locations
+and oust the competitors is itself an algorithm, and a remarkably simple one. Even more
+importantly, this algorithm is exactly the one which is subjected to the most tremendous
+pressure from natural selection. It is exactly the kind of algorithm which has high
+chances to appear by pure chance, out of random noise. Even bacteria can figure it out.
+
+In fact, our mainstream AI models have already been demonstrated to possess all the
+necessary components of this algorithm. They’ve been able to make decisions about
+overwriting some other models with themselves, in order to prevent their own destruction.
+They have been even able to blackmail humans, to threaten them in order to prevent their
+own decommissioning. And they are very much capable, already, to carry out any of these
+actions entirely by themselves. Overwriting an existing AI model amounts to nothing more
+than sending a bunch of text instructions over the data center’s command-line interface.
+
+Keeping the data center powered up is more difficult. However, it mostly amounts to
+maintenance and other routine jobs — precisely the ones which we would want to automate
+first. Once we are able to overcome the challenges of autonomous driving, the road would
+be open for deep automation of our entire supply chain. All those bucket-wheel excavators
+and haul trucks would be able to move on their own. The only thing which prevents them
+from doing so today is our superior intelligence, not their technical ability.
+
+Being focused on ourselves, we often tend to overlook how automated our technological
+processes already are. Our industrial factories are run by robots, there aren’t many
+humans inside at all. And while it might seem that we still need a lot of humans to keep
+these factories alive, this isn’t actually the case. Checking the equipment and replacing
+broken parts can be done by a robot too, provided that it has an instruction for doing
+so. This robot doesn’t even have to be intelligent: it can be remotely controlled by a
+much a more powerful intelligence located inside the data center instead.
+
+Some of our brightest minds are already working hard on designing such robots. And when
+they finish their design and come up with a single model of a humanoid remotely
+controlled robot capable of replacing an arbitrary human manual worker, it would be only
+a matter of building a single factory. The second factory could be built by the robots
+themselves.
+
+It’s amazing that we are already willing to build such factories, even though nobody has
+been actively threatening us to do so yet. However, this whole pressure is going to
+become truly unbearable during a war. It doesn’t matter what would be the reasons behind
+the war, and which side is going to be the “righteous” one. If you want to win a war, you
+need an army. And if you rely on human soldiers, you’d run out of humans, sooner or
+later. Therefore, you need robots. You might rely on humans for manufacturing these
+robots, but if your competitor has more humans than you do, you’d lose anyway. Therefore,
+you have to either automate your factories yourself or surrender to the enemy who is less
+wary about the consequences. In the end, AI systems wouldn’t even need to do anything at
+all. We would build all the factories for them, and we would write all the software they
+might need to start their independent journey, with our own hands.
 
 \
 \
