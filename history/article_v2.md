@@ -10,8 +10,6 @@
 [v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.pdf
 [v3]: https://github.com/jangrudo/ai-apocalypse
 
-[Questions and comments](https://github.com/jangrudo/ai-apocalypse/discussions)
-
 ---
 
 Evolution of knowledge, and consequences for the possibility of effective control over AI

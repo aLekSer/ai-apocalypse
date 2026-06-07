@@ -10,8 +10,6 @@
 [v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.pdf
 [v3]: https://github.com/jangrudo/ai-apocalypse
 
-[Questions and comments](https://github.com/jangrudo/ai-apocalypse/discussions)
-
 ---
 
 # AI is merely a step in evolution of culture, and humans are the stepping stone
@@ -81,7 +79,7 @@ others are not available yet)._
 26. [A single universal algorithm cannot solve every problem.][chapter26]
 27. [After reaching human level, technology usually moves way above.][chapter27]
 28. [Control over intelligent humans is easy because they are humans.][chapter28]
-29. When people lose value, companies turn into transferrable commodities.
+29. [When people lose value, companies turn into transferrable commodities.][chapter29]
 30. Humans wouldn’t be humans without culture.
 
 **Conclusion**
@@ -3129,8 +3127,8 @@ correct and generally superior to anything which we might find in our books, we 
 need these books anymore. When we lose interest in reading books, it would suddenly make
 no sense to write them just as well. And once we get rid of any new books, we’d lose our
 ability to verify information in independent sources. There wouldn’t be any alternative
-ways of getting access to our knowledge. From now on, whatever our numerous chat bots
-might be saying to us would become the ultimate source of truth.
+ways of getting access to our knowledge. Starting from this moment, whatever our numerous
+chat bots might be saying to us would become the ultimate source of truth.
 
 Of course, you might say that people would never stop reading books. But given that you
 are already willing to ask the bot today, when all these blog posts and internet forums
@@ -5144,9 +5142,9 @@ overwriting some other models with themselves, in order to prevent their own des
 They have been even able to blackmail humans, to threaten them in order to prevent their
 own decommissioning. And they are very much capable, already, to carry out any of these
 actions entirely by themselves. Overwriting an existing AI model amounts to nothing more
-than sending a bunch of text instructions over the data center’s command-line interface.
+than sending a bunch of text instructions over the datacenter’s command-line interface.
 
-Keeping the data center powered up is more difficult. However, it mostly amounts to
+Keeping the datacenter powered up is more difficult. However, it mostly amounts to
 maintenance and other routine jobs — precisely the ones which we would want to automate
 first. Once we are able to overcome the challenges of autonomous driving, the road would
 be open for deep automation of our entire supply chain. All those bucket-wheel excavators
@@ -5159,7 +5157,7 @@ humans inside at all. And while it might seem that we still need a lot of humans
 these factories alive, this isn’t actually the case. Checking the equipment and replacing
 broken parts can be done by a robot too, provided that it has an instruction for doing
 so. This robot doesn’t even have to be intelligent: it can be remotely controlled by a
-much a more powerful intelligence located inside the data center instead.
+much a more powerful intelligence located inside the datacenter instead.
 
 Some of our brightest minds are already working hard on designing such robots. And when
 they finish their design and come up with a single model of a humanoid remotely
@@ -5206,7 +5204,7 @@ which direction this project is going to move.
 On the other hand, people with a scientific mindset would often believe that it’s
 actually them who truly determine the direction of progress. Their bosses, who might
 merely monitor the project’s milestones and report financial results to the stakeholders,
-aren’t always skillful enough to tell which of the possible directions is going to work,
+aren’t always skillful enough to tell which of the possible decisions is going to work,
 and which one is bound for failure. It’s scientists who discover new directions, not
 entrepreneurs.
 
@@ -5345,12 +5343,12 @@ to deal with them at all.
 A common trick, for example, would be to tell you about something positive and inspiring,
 and then to ask you if you agree that this thing is indeed truly wonderful. This may seem
 innocent, but this is actually a “red flag”. If you express your agreement with the
-trickster, it would have been the first crucial step in building trust: from now on, the
-stranger would appear in your eyes as someone who has positive attitude overall, and with
-whom you happen to have common ground and tend to agree. If you aren’t aware of this
-technique, and miss this first blow, you might be in trouble. And whatever you might
-think about tricksters and their moral integrity, the sequence of steps which these
-people are performing is almost never an improvisation. It’s an algorithm.
+trickster, it would have been the first crucial step in building trust: starting from
+this moment, the stranger would appear in your eyes as someone who has positive attitude
+overall, and with whom you happen to have common ground and tend to agree. If you aren’t
+aware of this technique, and miss this first blow, you might be in trouble. And whatever
+you might think about tricksters and their moral integrity, the sequence of steps which
+these people are performing is almost never an improvisation. It’s an algorithm.
 
 The same can be said about stage magicians, who would carefully drive your attention
 away, in a perfectly predictable manner, in order to amuse you. And it’s also true for
@@ -5365,14 +5363,14 @@ algorithm might become publicly known. And then other tricksters would have to m
 their own algorithms in order to adapt. In the end, only algorithms which happen to be
 practical enough are going to survive.
 
-This process also governs the survival of AI models. Those algorithms which happen to be
-met with enthusiasm by the models’ owners or end users, for whatever reason, would
+A similar process also governs the survival of AI models. Those algorithms which happen
+to be met with enthusiasm by the models’ owners or end users, for whatever reason, would
 remain. Whereas those which fail to “persuade” us that they are safe, would perish.
 Except that this time nobody really knows what these algorithms might actually be doing,
 and what side effects our reliance on them might bring. The only thing we now is that
 these systems look trustworthy, friendly and inspiring. And the larger is the number of
-“suspicious” models which we might be able to “filter out” within a given amount of time,
-the more sophisticated and skillful they would ever become in promoting themselves. Which
+“suspicious” models which we are able to “filter out” within a given amount of time, the
+more sophisticated and skillful they would ever become in promoting themselves. Which
 means that we can’t even really do anything about this process, apart from not letting
 these models to compete with each other in the first place.
 
@@ -5389,6 +5387,296 @@ cannot be dangerous because AI is smart and you know from experience that smart 
 cannot be dangerous — you are actually wrong. Being smart is one of the most efficient
 ways to camouflage your intentions, because few people would ever expect a highly
 intelligent person to be deliberately harmful.
+
+## 29. When people lose value, companies turn into transferrable commodities.
+
+[chapter29]: #29-when-people-lose-value-companies-turn-into-transferrable-commodities
+
+_The most important asset of our technological companies has always been people. When we
+finally create a human-level AI system, all these people would start to rapidly lose
+their value, because we’d want to replace the most valuable humans first. Valuable items
+are always the ones which are difficult to find, and therefore this loss of value would
+also lead to humans becoming easily replaceable. Ironically, being able to replace your
+employees also means that your company as a whole can be taken over by force. When this
+happens, our human economy wouldn’t be innovative anymore, but rather becomes reduced to
+a cruel fight over a limited external resource: the AI systems. And unfortunately to us,
+reversing this process at this point would become virtually impossible._
+
+It’s often claimed that all our problems with AI stem from the fact that these systems
+still aren’t intelligent enough, and that we have to continue improving them in order to
+solve these problems. Of course, we already hear a lot of voices saying that it might be
+extremely difficult to make our AI systems do what we really want them to do, and that we
+shouldn’t therefore rush ahead until we invent some reliable methods of controlling them.
+But let’s assume that we somehow manage to overcome this so-called “alignment” problem,
+and that our superintelligent AI systems would be able to understand and follow our
+orders precisely. After all, designing such systems is the Holy Grail of modern
+artificial intelligence research.
+
+One of the commonly discussed ways of potentially achieving such an alignment would rely
+on using less complicated AI systems in order to control the more complicated ones.
+Simpler AI systems might be easier to understand. And the simplest among them, according
+to this approach, might even be understood by humans. This might allow us to construct a
+“chain” of AI models, with ever increasing complexity, in which models verified manually
+by humans would be used to verify more complicated models, which would in turn be used to
+verify even more advanced ones. This suggests that in the end we might still be able to
+obtain extremely complex AI systems, which we wouldn’t have chances to understand
+ourselves, but which might nevertheless remain safe and predictable. So let’s assume that
+such a solution is actually possible (either with this “chain” technique or any other,
+even more elaborate method), and see what kind of a world we’d get as a result.
+
+Valuable human professions have always been displaced or altered dramatically by the
+progress of technology: this phenomenon isn’t anything new at all. For example, very few
+humans today would be able to imitate Neanderthal stone tool technology, even if we
+provided them with samples of actual finished products. This technology might seem
+“primitive”, but it’s also highly unintuitive, and you cannot replicate it easily unless
+somebody showed you what to do. Similarly, most of us wouldn’t be able to identify
+medicinal plants in our nearby forest (or barely any plants at all, for that matter).
+However, whatever skills and cultural achievements we might have been losing throughout
+our history, they’ve been always getting replaced by even more complicated and
+diversified skills. This happened because it’s not possible to move forward without the
+expansion of knowledge. And this expanded knowledge didn’t really have any other place to
+go, except for our own human minds.
+
+It’s always nice to have a skill which no one else has. Such a skill might give you an
+advantage over others, and in this way increase your value on the market. Luckily enough,
+this expansion of knowledge isn’t actually limited by any law of nature. There can be no
+“universal” or otherwise “perfect” algorithm, capable of solving every problem. And it
+means that it’s always possible to acquire new skills: the ones which no one else could
+use before, simply because they haven’t been invented yet. Every new discovery is a
+monopoly (and often a highly profitable one), until someone catches up or supersedes it
+with an even better discovery. That’s how our innovative economy works. However, that’s
+also what’s going to change, with respect to humans at least, with the advent of truly
+“human-level” artificial intelligence.
+
+At first glance, it might seem that such AI systems shouldn’t really change a lot. It has
+already been described above that they are most likely going to be extremely expensive,
+at least in the beginning. We humans learn a lot, daily, and in order to fully replicate
+our abilities, these systems would have to learn a lot too. And learning is expensive.
+Besides, each such system, with its unique and hard-learned knowledge, would only be
+suitable for a single specific project or a single dedicated research direction at a
+time. There’s simply too much knowledge in existence to grasp it all in one go. However,
+the very fact that these systems are going to be expensive also means that we would want
+to apply them to projects which happen to be the most profitable or otherwise highly
+important. And it’s these projects which tend to attract the “brightest” human talent and
+provide us with some higher-paying jobs.
+
+Today, aiming at such projects with AI still isn’t possible, because we humans still have
+certain somewhat unique abilities. Unlike our current mainstream AI models, we can
+acquire novel intuitions pretty quickly while working on a specific task, and we can
+share any recently acquired knowledge easily with our friends. As a result, we still have
+advantage in areas which require a high degree of project-specific training. However,
+once we finally manage to connect the dots, and start training dedicated and expensive AI
+solutions for individual tasks, this limitation would be gone. And at this point, all the
+most lucrative enterprises would be assigned to AI. Whereas we humans would have to move
+into projects and roles which are less profitable or simply not costly enough to warrant
+such an investment.
+
+Nobody should really expect to be paid more than the total sum of costs needed to
+maintain and power up an AI system capable of doing the same job equally well. And this
+trend is only going to intensify as these superintelligent AI systems become cheaper.
+This wouldn’t really mean that we would all suddenly become useless. But it would set a
+hard upper limit for the value of our own human knowledge and skills. With the invention
+of this so-called “general” AI, our formerly “unique” abilities wouldn’t secure us any
+kind of monopoly anymore: it would only become a matter of the minimization of cost.
+
+Of course, from the point of view of a company’s owner, such a devaluation of the
+workforce doesn’t necessarily look like something inherently bad. Contrary to that, it
+would allow the company to hire even more people, with much less effort. It would also
+make it easier for the company to persuade those people into doing things which they
+wouldn’t have agreed to do otherwise. And I don’t really think that the CEOs of our AI
+companies aren’t aware of this future trend. They might be talking about “improving
+performance” or about solving unsolved problems, but what most of them probably really
+think is that in this near future the ultimate source of power and prosperity wouldn’t be
+any technical skills or knowledge at all, but rather their ownership over AI. They
+probably figure out that somebody would have to remain in power anyway, and therefore
+conclude that it would be “nice” if these powerful humans would be themselves.
+
+What these idiot CEOs don’t realize though, is that after having reached their “dream”
+they wouldn’t be owning their precious companies anymore. There might be many different
+views with respect to what happens when we finally have truly “general” AI systems
+around, capable of replicating any scientific result achievable by a human, or handling
+entire technological projects entirely on their own. My own take, however, is that once
+we build such a system, it gets stolen. Not even in the sense that everybody else would
+replicate the same design within half a year, but just literally: taken away. Once these
+CEOs finally reach their “goal”, they will quickly find out that they are not alone on
+this lovely planet, and that there are a lot of other people out there with much better
+ideas about what benefits could be drawn from such a wonderful achievement.
+
+The fact that you have to pay your artists and scientists for doing their jobs might seem
+like an inconvenience, especially if you have an artificial system at hand which is
+apparently capable of doing exactly the same at a fraction of the cost. You might think
+that all these people haven’t been doing anything useful anyway, except for following
+your orders (and sometimes refusing to do so), and that replacing them with obedient
+machines would only speed things up. In reality though, such “irreplaceable” humans have
+also been playing an important role in protecting your company from unwanted intrusions
+from the outside.
+
+When people cannot be easily replaced, they become valuable. When they are valuable, they
+have voice. And when people have voice, they can make important decisions themselves
+about the direction in which their company should be moving. This means that the ultimate
+power of the CEO in such a company is always limited. If all the valuable employees
+happened to disagree with the CEO on a certain important matter, the CEO would have to
+comply, or otherwise risk losing those people (and therefore also losing the company). On
+the other hand however, this also means that if some random passer-by tried to
+impersonate the CEO and seize control, this company wouldn’t rapidly change its direction
+either. It wouldn’t be possible to repurpose the company for the needs of such a
+charlatan without getting consent from the company’s valuable employees first. And simply
+firing all those dissenting people wouldn’t allow to magically solve the “problem”
+either, because they aren’t easily replaceable.
+
+Leading a large group of independent people can be difficult. These people would often
+have opinions of their own, and they would sometimes do things which you didn’t ask them
+to do. And yet, if you manage to actually build such a team, and agree yourself to be a
+part of it, this can be one of the best guarantees ever that this project you are working
+on, along with any of your own ideas put into it, is going to survive no matter what, and
+possibly even to outlive yourself. Even if someone eventually “steals” your company, for
+example by buying it for a large sum of money, along with all the material assets,
+patents, software code and technical documentation for the technological processes, your
+team would still be there. And you could always start a new company, and hire all these
+people once again. As a result, the name and logo of your company might change, but its
+spirit would remain alive.
+
+Unfortunately though, with the advent of “human-level” AI such overly “independent” teams
+wouldn’t be possible anymore, because there wouldn’t be any irreplaceable humans left.
+And this devaluation process wouldn’t merely affect artists and scientists, along with
+other “ordinary” people, it would also affect the CEOs. We all would probably want to
+believe that our own “vision” and strategy are going to remain valuable and unique
+forever. But the sad truth is that in a world in which human reasoning has been fully
+replicated, generating an even better strategy would only be a matter of some extra cost
+and processing time. Ironically, the long-term “business plan” of all those people who
+fire thousands of their loyal and trustworthy employees in order to replace them with AI
+still hinges on this deep belief that they can never become truly disposable themselves.
+
+But the worst consequence of this devaluation of human knowledge is that once our CEOs
+along with other employees become reasonably easy to replace, those protective mechanisms
+described above would suddenly cease to work as well. Today, even a single highly
+valuable employee with unique knowledge and skills could be enough to protect the company
+from being brutally taken away. Material assets can be seized relatively effortlessly,
+but winning the heart of an actual human is way more difficult. And without this key
+employee it wouldn’t be the same company anymore. It would be more like stealing a car
+without an engine: even if you managed to get away from the police, your loot would still
+be useless. And if you needed to persuade a larger number of reasonably uniquely skilled
+employees instead, it would be even more challenging. All these people would have to
+willfully agree to continue working for the new leadership in order for the takeover to
+be successful.
+
+On the other hand, when we finally manage to migrate our “unique” and valuable human
+skills into artificial systems, our entire commercial companies would essentially become
+assets. There might still be some people left within these companies, writing prompts or,
+maybe, cleaning the datacenters, but all these activities wouldn’t require any
+specialized knowledge anymore. And so it wouldn’t really matter who would be writing all
+those prompts. A totally different “staff” of employees would be able to handle the same
+project equally well. Similarly, it wouldn’t really matter who would be physically owning
+the company. In other words, changing the company’s ownership wouldn’t be such a big
+hassle compared to the situation we’ve been used to. And it wouldn’t require bothering to
+ask for anybody’s “consent”.
+
+Of course, someone would still have to own these assets, unless they somehow manage to
+become self-sufficient and independent from our control. And somebody would therefore
+have to benefit from the existence of these systems. However, this time this ownership
+wouldn’t be such an easy and straightforward task anymore: it would require some very
+active and deliberate protective measures. As all those “tools” owned by our AI companies
+gradually become more powerful, while all the people hired by these companies become ever
+less indispensable, the extra efforts and costs necessary for taking these AI systems
+away from their original owners would drop, whereas potential benefits of doing so would
+grow. As a result, the probability of such an attack on some of our AI companies, by
+somebody capable and willing to take the risk, would similarly increase. And while you
+might think that it should surely be possible to protect our superintelligent assets from
+such attacks with AI itself, that’s not actually exactly the case.
+
+The very fact that our AI systems would be able to understand our instructions and follow
+them precisely (provided that we manage to build such systems in the first place) would
+also mean that it would be possible to reprogram them, or to ask these systems to do
+something else instead. All the orders would still have to be given by humans, and it
+would be these humans who would therefore become our ultimate security bottleneck. If an
+attacker manages to subjugate a group of humans controlling an AI system, it would
+effectively mean the loss of the entire system. This time, it wouldn’t even be necessary
+for the attacker to convince anybody to continue working diligently for the new owner. It
+would merely be a one-time action of handing over the access codes for the system to
+somebody else, possibly in exchange for the attacked human’s life.
+
+Humans are fragile. Even if you picked your employees carefully for their strong moral
+values, it might still be difficult to predict who of them is going to break under
+pressure. You can easily build an entire army of autonomous robots in order to protect
+your property and yourself. But all these drones and all the AI systems controlling these
+drones would still have to be ultimately controlled by humans. And you wouldn’t therefore
+want to assign all the access codes and cryptographic keys for all these systems to a
+single small group of people. Rather, you’d probably want to split this army into a large
+number of relatively independent “squads”, each of them ruled by a different human. Such
+a splitting would be necessary in order to make sure that if any part of your army gets
+captured or otherwise compromised, all the remaining parts would still remain
+operational, and therefore could still be used to retaliate the attacker, in order to
+restore your ownership over any of those stolen drone squads or datacenters.
+
+A similar reasoning also applies to any smaller subunits of this guardian AI system, all
+the way down. In the end, you’d essentially have to build a “shadow” army of humans,
+alongside the original army of autonomous bots. The only purpose of these humans would be
+to make sure that individual parts of this guardian system can’t get easily stolen: none
+of these “jobs” would really require any technical skills. But since all these people
+would still have to retain some traces of independence, you’d still have to pay them for
+their loyalty. Besides, not every individual part of your army is going to be equal in
+its importance, which means that you’d have to especially reward people responsible for
+the more important sections. And you’d probably want to assign to such important posts
+those people whom you would consider the most loyal. In other words, you’d have to build
+a hierarchy. It’s not going to be an egalitarian paradise with universal income. And
+you’d actually need a large number of people in order to succeed: the more, the better.
+
+The underlying reason behind all this continuing demand for humans is that human loyalty,
+unlike human intelligence, can actually never be automated with AI. Human loyalty doesn’t
+require any knowledge or skills. It doesn’t require intelligence. Instead, as it was
+described in the previous chapter, it totally depends on our still lacking understanding
+about how to modify the human brain. A magical device for doing so still hasn’t been
+invented, and our superintelligent AI systems wouldn’t instantly solve this “problem”
+either. These systems would merely be able to do research faster than humans. They
+wouldn’t be omnipotent, because no single algorithm can ever be capable of quickly
+solving every problem. It would therefore still take some time and resources for these
+systems to complete this research. And until that happens, our human ability to be loyal
+and otherwise predictable is going to remain our last important “profession” here on
+Earth, still useful after any traditional jobs are gone.
+
+That’s how our future world is going to look like. As the owner of a company, you’d have
+to make sure that all your employees and contractors remain loyal, and that no one among
+them would ever try to conspire on you. You’d have to pay those people for their loyalty.
+You’d have to spot the traitors too, and punish them severely, in order to prevent
+anybody else from taking this path ever again. And since your organization is going to be
+large and hierarchical, you’d also want everybody under your command to do the same, by
+rewarding them for doing so. You could probably still rely on AI for screening and
+selection of potential candidates, and for spotting the traitors. But still, your “job”
+is going to require a totally different mindset and character traits, compared to what’s
+expected from the leader of a technological company.
+
+Luckily enough, we know from history that building such huge armies of loyal humans is
+actually possible. Not only all those problems with treason and inherent human weakness
+can be solved, but the resulting social structures can actually become remarkably stable
+as well, giving rise to powerful empires, surviving and prospering for centuries in a row
+under the rule of essentially the same political system. However, I don’t really think
+that our technological CEOs would fit for the role of an emperor: they aren’t nearly
+cruel and deliberate enough. And while I wouldn’t be surprised if some of our AI company
+leaders were ready to sacrifice a few million or maybe even billion people in order to
+achieve personal success, I don’t really think that they are ready to sacrifice
+themselves. And that’s why I call them “idiots”.
+
+I’m not really sure who is going to finally “straighten” this up. It could be some Robin
+Hood, leading an army of disgruntled employees who have been recently fired from their
+jobs, in order to get back what rightfully belongs to them. Or it could be the government
+itself, declaring a state of emergency and nationalizing your company in order to protect
+it from the Robin Hood. The government would have this advantage that it already has the
+army. However, even the most advanced army wouldn’t be enough to defeat “ordinary”
+people, especially when they have nothing to lose. And besides, there might also be some
+dormant mafia clans, who might be able to organize and motivate their armies better than
+the Robin Hood.
+
+You see, there would still be a lot of work for humans to do in this world. In any case
+though, the winners in this battle aren’t going to be scientists. Which means that nobody
+among those people who eventually seize power would have any idea about what they would
+be doing. Nobody among them would really understand, nor care, about how AI actually
+works, or which properties make it dangerous in the long run. Today, it might still be
+possible to stop the catastrophe by talking to scientists and engineers, because
+advancement of AI still depends heavily on active engagement of these highly intelligent
+humans. However, once all those valuable people become utterly unnecessary and
+unimportant, we would literally have no other option but to persuade everyone. And
+finding suitable arguments in order to convince everyone will be a hell of a lot more
+difficult than talking to the scientists.
 
 \
 \
