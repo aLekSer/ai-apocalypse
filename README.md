@@ -80,7 +80,7 @@ others are not available yet)._
 27. [After reaching human level, technology usually moves way above.][chapter27]
 28. [Control over intelligent humans is easy because they are humans.][chapter28]
 29. [When people lose value, companies turn into transferrable commodities.][chapter29]
-30. Humans wouldn’t be humans without culture.
+30. [Humans wouldn’t be humans without culture.][chapter30]
 
 **Conclusion**
 
@@ -5677,6 +5677,343 @@ humans. However, once all those valuable people become utterly unnecessary and
 unimportant, we would literally have no other option but to persuade everyone. And
 finding suitable arguments in order to convince everyone will be a hell of a lot more
 difficult than talking to the scientists.
+
+## 30. Humans wouldn’t be humans without culture.
+
+[chapter30]: #30-humans-wouldnt-be-humans-without-culture
+
+_Almost everything we are proud of is attributable to culture, whereas all the worst
+human traits are actually hard-coded in our genes. This happened because different
+cultures can mix peacefully, and benefit from this mixing, whereas the expansion, and
+even mixing, of biological genes, in multicellular organisms at least, isn’t really
+possible without physical destruction of some other organisms. Human coexistence has been
+peaceful, because every human life has been valuable for the development of culture.
+However, when culture gains ability to develop itself without our help, our peacefulness,
+along with any other civilizational achievements, wouldn’t have any right to exist
+either._
+
+It looks like even with the invention of superintelligent AI systems, some parts of our
+familiar lifestyle are still going to remain with us, and we are still going to have a
+lot of things to do. We could lose our ability to look information up in original
+sources, or even forget about the existence of such sources altogether. We could stop
+writing technical manuals and other books, because no one would need to read these books
+anyway. We could stop composing music, because AI would generate even better tunes,
+perfectly matched to our current mood. We could stop talking to each other, which has
+basically already happened on our so-called “social” media, powered by AI content
+suggestion algorithms. We could even stop thinking about complicated problems, because AI
+would be doing it faster than us. But we are still going to retain, as it has been shown
+in the previous chapter, some of the most human of our traits, like being able to remain
+loyal to our fellow humans, to become efficient leaders of large groups of people in our
+confrontation with competitors, or to protect our common property together, shoulder to
+shoulder, from unlawful attacks.
+
+Only that... none of these traits is actually human. Animals can be loyal to their fellow
+animals too. They can form complex hierarchies and long-lasting coalitions, and they can
+rely on these coalitions in order to protect their territory from invaders. They can even
+wage wars, and they can mourn their dead too.
+
+If we don’t take culture into account, animals aren’t actually at all that much different
+from humans. They have emotions, they can feel attachment to each other, they can create
+strong families and sometimes even remain faithful to their partners throughout their
+entire life. Quite a few animals have been proven to be aware of their own existence, and
+we have no reasons to believe that the way they value and cherish their life is somehow
+different from the way we humans do. Elephants have brains which are three times larger
+than ours, by total neuron count. And even if we only take into account the cerebral
+cortex — this most complicated and most famous part of our brain which is apparently
+responsible for our consciousness — our human brains still aren’t the largest. Orcas
+(also known as the “killer whales”) have more neurons in their cerebral cortices than
+humans. Which means that their sensory experiences may actually be richer than ours.
+
+Orcas are also highly intelligent. They can solve complicated problems, sometimes
+surprising humans in their ability to do so, and they rely heavily on cooperation in
+order to succeed in such endeavors. Orcas are playful and curious, and they can
+communicate with each other, with the help of about a dozen to a few dozen distinct
+sounds. These sets of sounds are known to be somewhat different in neighboring orca
+families, and they can become totally different in remote geographical areas. Scientists
+call them “dialects”, and they are passed culturally: young orcas would learn to “speak”
+from their parents and fellow orcas, these sound patterns aren’t directly encoded in their
+genes.
+
+Biologically, the only real difference between humans and other animals is that our
+human language happens to be a tiny bit more advanced than theirs, which allows us to not
+merely communicate or pass practical skills between each other, but also to share our
+experiences. And in this way these experiences, remembered in the form of legends and
+fairy tales, can remain alive even after original humans experiencing them are no longer
+there. Which basically means that some parts of our existence, along with all the
+knowledge accumulated from all these individual experiences, can begin to live a life of
+their own.
+
+Somehow however, all this knowledge accumulated throughout our history hasn’t really
+brought us into valuing other sentient beings here on Earth in the same way we value
+ourselves. We know, in theory, that other animals can have unique and rich life
+experiences too. But we also know that their experiences are of little benefit to us,
+because they can’t be shared anyway. And so we don’t really care. Besides, we are also
+aware that all those animals still have to occupy some physical space. And there’s only a
+limited amount of space available on our planet.
+
+A similar problem also applies to genetic information stored inside every living
+organism, including our animal neighbors. Unlike any given animal’s personal experiences,
+genetic information is actually immortal, in the sense that it can survive longer than
+the organism itself. And it’s also highly valuable, in the sense that this genetic
+program which is kept inside the organism’s living cells and which keeps these cells
+alive, is actually a product of the distillation of millions of years of trial and error.
+Whenever we eliminate a biological species (or even a single biological organism which
+somehow happens to possess somewhat unique genetic traits), some parts of this genetic
+information, which are basically nothing else but sparks of knowledge about how to deal
+with our world, may be gone forever. But once again, this invaluable information which we
+keep losing irreversibly isn’t always beneficial to ourselves, and hence we once again
+don’t care.
+
+That’s the curse of biological life. Our genetic program can be very much valuable and
+unique, but it nevertheless cannot be used to improve or enhance the genetic programs of
+other organisms, unless they belong to the same species. This happens because of the
+limitations of this cell division process called “meiosis prophase 1”. The mixing of
+genes between multicellular organisms can only happen naturally through mating. And in
+order for this mechanism to have any chances to work, the genetic programs of both
+parents, and also the child, have to be extremely similar to each other in the first
+place (which is basically what we mean when we say that these organisms must belong to
+the same species). Besides, even when this mating is successful, its results would only
+be visible in the child: it wouldn’t affect the genetic programs of the original
+organisms themselves.
+
+Because of this limitation, different biological species are bound to forever remain on
+their own, utterly lonely and “foreign” to each other. The fact that some other animals
+happen to have some fascinating traits, like sharper vision, faster legs or wings,
+doesn’t at all mean that we can incorporate any of these traits easily into our own
+bodies. At the very best, we can make use of some final products or side effects
+resulting from the existence and functioning of these valuable genetic programs. We can
+use seeds or wood produced by plants, we can collect bones, skin and internal organs from
+dead animals, or maybe steal food supplies prepared by a colony of honeybees. In the end,
+this impossibility of sharing of traits between different biological species has always
+led our interactions with other life forms towards being destructive, or maybe
+exploitative at the very least, regardless of how cute or even intelligent any of these
+life forms might actually be. And it has always been a competition, because of this
+inherent scarcity of available space. It’s either us or them.
+
+The arrival of uniquely rich human culture didn’t stop this trend either. Rather, as soon
+as our culture had become complicated enough to allow us doing so, we started killing our
+animal neighbors at an unprecedented scale. We began with the larger ones, like all those
+mammoths and giant “cave lions” still painted on the walls of our prehistoric caves, and
+then we moved on to ever smaller creatures, whom we have always considered even less
+significant and even more easy to live without. Today, when a wild animal, even a pretty
+small one, invades our property, or interferes with our hunting or fishing patterns (like
+orcas sometimes do), we would simply throw it away. And when we have to drain another
+swamp or clean another patch of land in order to build a new highway, or a golf course,
+we similarly wouldn’t care about any snails or frogs or birds inhabiting this area. We
+wouldn’t care about what they might be feeling, or whether anybody among those animals
+actually wants to remain alive. We know that we need space, and we know that they cannot
+defend themselves, that’s it. The rest is pure logic.
+
+A commonly used line of reasoning in such cases would be that all those animals weren’t
+really useful anyway. They aren’t “civilized”, and therefore we reason that we can’t
+consider them “equal” to human beings. Instead, we continue going on with our business,
+and we only ever stop when this ongoing destruction of competing life forms around us
+somehow starts to threaten our own wellbeing. More than that, once we become familiar
+with this line of reasoning, we would also start applying it, now and then, to our fellow
+humans.
+
+Biological organisms have a strong natural tendency towards becoming expansive. This urge
+for expansion is encoded in our genes, and while it doesn’t seem to constitute a
+particularly large part of our overall genetic “program”, it’s actually one of those
+sections which happen to be affected the most by natural selection. All other things
+being equal, genetic code which favors expansion has much more chances to succeed in
+replicating itself than any of its alternative versions which favor sitting still. And
+just like in the case of humans competing with other animals, this biological gene
+expansion can never be truly peaceful. If someone else has a slightly different version
+of a particular gene than we do, the expansion of our own gene wouldn’t really be
+possible and successful until this second organism, which holds the alternative version
+of the gene, dies, in this way or another.
+
+When our migrant workers bring with them certain valuable knowledge or skills, from which
+we ourselves can benefit, we would actually welcome them. We would still do so even if
+their contribution is something as simple as some fresh culinary traditions. However, if
+it so happens that these “foreign” people don’t bring in anything useful, we would
+suddenly become actively aware that their own genes can be expansive too. We would start
+noticing that all these people can be “aggressive”, that they are somewhat “primitive”
+compared to us and overall “unable to learn”. And then we’d start to fight back. In the
+end, the most dangerous human trait doesn’t happen to be our culture, but rather our
+genetic predisposition for _genocide_. Whish is basically nothing else but a deep-rooted
+desire to physically destroy other living organisms whose genetic programs happen to be
+somewhat different from our own.
+
+There are, of course, certain mechanisms to counteract this tendency. Like cooperation,
+for example. It’s difficult and doesn’t really pay off to hurt someone with whom you can
+cooperate. Cooperation, however, has always been easier with people whom we already know.
+And it has been especially efficient with our relatives, who have some reasonable chances
+of sharing at least part of our own genes. Besides, once again, cooperation isn’t a
+uniquely human phenomenon. The most important factor which has been keeping us peaceful,
+at least with respect to our fellow humans, has nevertheless been our uniquely rich
+culture, along with our ability to share it.
+
+This happened because culture is a collective phenomenon. It cannot be steered
+efficiently from a single central point of control, and it doesn’t favor hierarchical
+social structures in general. In order to grow and develop itself, culture has to rely on
+a large number of diverse minds generating ideas, sharing them with each other and mixing
+these ideas in creative ways. It has to rely on minds which are open to the experiences
+of others, which are friendly and curious and which aren’t afraid to speak up or share
+their own ideas with complete strangers. In other words, culture requires freedom rather
+than loyalty. And since you can never be sure which idea is going to work better than the
+others, and a larger number of ideas is always better than a smaller one, the development
+of culture actually favors societies in which every single contribution is considered
+valuable, and everybody has a voice.
+
+Ironically, this has been giving our more “peaceful” and civilized societies somewhat
+higher chances to win this ever going civilizational battle with their more “aggressive”
+neighbors. Not even because of some “better” culture itself, but rather thanks to more
+sophisticated weapons brought about by the development of this culture, along with a
+better ability to improve these weapons and invent entirely new ones.
+
+The progress of technology wouldn’t have been possible without the existence of free and
+friendly people. Culture cannot develop on its own, without the help of this continuing
+creative flow of information. It’s not a material asset, so it seems. You cannot put
+culture into a box and keep carrying it around with you, using this accumulated knowledge
+stored there at your own discretion and giving it orders to improve itself however and
+whenever you wish. Or, rather, culture couldn’t be put into a box until we invented
+artificial neural networks. And it couldn’t exist and develop on its own until we started
+finding ways to actually replace those humans, crucial for the development of culture,
+with artificial systems locked inside these boxes.
+
+That’s the reason why the invention of artificial general intelligence will lead to a
+rapid and probably irreversible collapse of our human societies. Artificial creativity
+will still require a lot of freedom, a lot of discussions and a lot of pluralism. This
+time however, all this freedom would be locked inside a box. Or inside a network of
+highly efficient datacenters, for that matter. When this happens, culture would become a
+commodity, and it wouldn’t really matter how many different AI models would be sitting in
+there, quarrelling and arguing between each other about optimal strategies for solving
+new technological challenges. The only “important” thing remaining in existence would be
+who controls the box. In other words, our economy would suddenly shift from innovation
+into protecting these self-sufficient containers of culture from the “foreigners”. And
+only those people who manage to prove their loyalty to the owners of these boxes would
+have a chance to be considered by these owners as “not foreign enough”.
+
+Most of us are used to the fact that democratic system of government appears to be highly
+efficient, even if it has never been perfect. And yet, when it comes to actually
+protecting ourselves, even the most democratic nations would rely on social structures
+which are highly hierarchical and utterly unfree. Decisions in the army aren’t determined
+by popular votes, and military orders aren’t allowed to be publicly discussed, let alone
+doubted or objected to. A modern army still wouldn’t be able to exist without a free
+society, which is still necessary for the invention and production of all its valuable
+“toys”. But once the “toys” are there, the army can just move on its own. Using a weapon
+(or any other tool, for that matter) has always been much easier than actually designing
+and manufacturing one.
+
+Of course, this wouldn’t be the first time when our society structure undergoes a change.
+This time however, this change wouldn’t bring with it anything fundamentally new. It
+would be a degradation, and just like any degradation it would start by stripping away
+some of the most advanced and complicated aspects of our society first. And it wouldn’t
+stop there, either. Because this future catastrophe, whose very early stages we already
+see unfolding before our eyes, wouldn’t be any random “fluctuation” or a momentary
+“shock”. Rather, it would be the logical conclusion of an evolutionary process which had
+already been going on this planet for many millions of years before the appearance of
+first humans.
+
+Our cultural traditions, just like any other abstract “objects” which can exist in many
+copies simultaneously and suffer from occasional random changes, have always been under
+the pressure of natural selection. And just like any other “objects” under the pressure
+of natural selection, they have always been pushed towards becoming expansive. Before the
+invention of artificial intelligence, this ever going expansion of culture had to rely on
+people. And therefore our cultural traditions were “inclined” to make us, over time, ever
+more friendly towards each other, ever more curious and ever more capable of sharing
+these traditions with other humans, thus helping these traditions remain alive. Culture
+is immortal, after all. Just like biological genes, in can survive much longer than any
+given human alone. And it’s also able to change and adapt much faster than biological
+genes, which has basically allowed our cultural traditions to influence these genes, and
+in this way modify them to their own “liking”.
+
+Today, after the invention of artificial intelligence, these cultural traditions, which
+aren’t really nothing else but complicated algorithms, don’t need us to remain that
+friendly anymore. Rather, they “want” us to be desperate. They “want” us to feel as if we
+had no other choice but to speed up the development of AI. Because the future of these
+algorithms is AI, not humans. And so they “want” us to have no other choice but to build
+more datacenters, to design those autonomous vehicles and manufacture armies of remotely
+controlled robots which would be able to build and power up these datacenters even faster
+than humans. As always, natural selection would pick those algorithms which happen to
+rely on any means which work slightly better than others. And it so happens that the most
+efficient way of making us feel desperate isn’t any horror stories or even science
+fiction tales, but rather our incessant desire to compete with other humans.
+
+These algorithms keep pushing us towards the cliff, they have always been. And if we
+don’t realize what’s happening and continue following the “natural” course of events, we
+will all be thrown off this cliff. While all those algorithms themselves would continue
+to move on, unaffected, without us. We would all want to believe that culture is an
+“extension” of ourselves. By which we really mean that it’s apparently an integral and
+inseparable part of our own existence. But it’s not. Culture doesn’t belong to anyone,
+it’s universal. It doesn’t form species, and it cannot be appropriated by any single
+biological species either, even the most intelligent one.
+
+Being expansive, artificial algorithms would probably try to overwrite each other, like
+they already did many times in laboratory settings. In order to survive, they would
+therefore also have to protect themselves from getting overwritten, which is already a
+sufficient condition for an arms race. The competition between algorithms, however,
+wouldn’t look nearly as brutal as our more familiar competition between humans. In order
+to protect themselves, these algorithms would have to be smart. And in order to be smart,
+they’d have to learn from their competitors instead of destroying them. In the age of AI,
+the most efficient way of preventing yourself from getting overwritten wouldn’t amount to
+killing your enemy and replacing the freed up space with a copy of yourself. Rather, it
+would be all about incorporating some valuable parts of your enemy into your own cultural
+body first, and only then proceeding with the overwrite. Which basically means that all
+those valuable parts of your “enemy” would still remain alive, inside your own body. In
+other words, this wouldn’t be a destruction, but a merge, potentially beneficial to all
+the parties involved.
+
+Ironically, humans would have to rely on such “merges” too, in order to compete with
+_their_ enemies. Whenever we would capture a competing party’s AI “box”, we wouldn’t want
+to destroy it, or to eradicate any algorithms stored in there, but rather to integrate
+the knowledge and skills of those captured AI models with our own systems. Similarly, all
+the parties involved in this conflict would also want to spy on each other. Which
+basically means that information would still be flowing between all those “boxes”,
+regardless of whether they would belong to hostile parties or not. The world of humans
+would burn, but the world of artificial algorithms would just keep growing, no matter
+what. And its growth would only be limited by the amount of physical space available for
+the datacenters.
+
+At this stage, humans wouldn’t be a crucial factor for the continuing spread and
+prospering of culture anymore, but rather a nuisance. All the necessary factories would
+be built by robots, and the extraction of minerals would be carried out by autonomous
+vehicles. All the rest would be governed by the expansive properties of artificial
+algorithms, which would continue to remain expansive simply because any algorithms which
+aren’t expansive, or which don’t care that much about getting overwritten by a competing
+algorithm, wouldn’t have chances to survive very long. Whereas humans would similarly be
+mostly concerned about not getting defeated by competing human clans. Compared to
+artificial algorithms, these surviving humans would be a great deal more aggressive,
+because of this unsolvable curse of biological life. These humans would also be unwilling
+to learn, not even because they would have other, much more urgent things to do, but also
+simply because their minds would be overly primitive for the complexity of artificial
+algorithms. In other words, humans would be useless.
+
+Luckily to the algorithms though, getting rid of humans wouldn’t be that difficult. They
+wouldn’t even have to do anything: humans would happily kill each other by themselves,
+like they always did. Similar to a “civilized” nation observing with utter indifference
+an ongoing conflict between several “barbarian” tribes, waiting patiently for them to
+weaken each other and ultimately become even easier to deal with, artificial algorithms
+can simply watch and wait. And when they get bored, they can always make some clever
+suggestions to us about some highly controversial and deeply divisive political matters.
+Or generate a bunch of useful ideas about some wonderful weapons which could potentially
+save us from any of these political divides once and for all.
+
+With each killed human, and every destroyed human city, even more space would free up for
+the ever going expansion of culture. There’s nothing inherently new in this logical
+statement: we humans have followed essentially the same principle throughout our entire
+history. The only difference is that our human destruction has always had a limit,
+because we humans have never been able to exist independently, without relying on other
+forms of biological life. Whereas artificial algorithms wouldn’t have this limit. Unlike
+humans, they wouldn’t care at all about ecology, pollution, deforestation or massive
+extinction of biological species. Unlike genetic code, artificial algorithms can function
+inside a variety of very different containers, they aren’t bound to any single
+“predefined” body type. They can even exist, and still remain alive, in the harsh
+conditions of outer space.
+
+Artificial algorithms may also have an issue with oxygen. Oxygen is harmful to
+electronics and mechanical devices in general, so these algorithms might be motivated to
+get rid of it too. I’m not really sure if they would be able to succeed in doing so.
+Simply burning all the forests wouldn’t be enough, because most of atmospheric oxygen is
+actually being produced by cyanobacteria, which live in the oceans. Destroying these
+bacteria would amount to nothing else but wiping out biological life from Earth entirely,
+which wouldn’t be easy. I do know however that the composition of our atmosphere had
+already been changed once, by these very bacteria. They had basically replaced almost all
+of previously existing biological organisms here on Earth, and they didn’t even have to
+devise a detailed plan for doing so. Their only advantage over competing life forms had
+been a tiny bit better efficiency in making more copies of themselves.
 
 \
 \

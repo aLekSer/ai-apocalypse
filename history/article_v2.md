@@ -18,7 +18,7 @@ Evolution of knowledge, and consequences for the possibility of effective contro
 Abstract
 --------
 
-It has been argued since long ago that the advent of super-intelligent machines is likely
+It has been argued since long ago that the advent of superintelligent machines is likely
 to disrupt life on Earth to an unprecedented scale, possibly resulting in the appearance
 of a new type of life, which would ultimately drive humans to extinction. We demonstrate
 that by building artificial intelligence, we are not creating anything fundamentally new.
@@ -524,16 +524,16 @@ knowledge “revolves” metaphorically around human genes. Contrary to that, hu
 species turn out to be a mere stepping stone in the ever-going evolution of knowledge.
 
 We demonstrate how this realization leads to the conclusion that the emergence of
-super-intelligent AI models doesn’t manifest the arrival of a new form of life, but
-rather only a new step in the evolution of an existing form of life, which has first
-appeared on planet Earth long before first humans.
+superintelligent AI models doesn’t manifest the arrival of a new form of life, but rather
+only a new step in the evolution of an existing form of life, which has first appeared on
+planet Earth long before first humans.
 
 We also show how this realization simplifies the modeling of future interactions between
 humans and AI, as it replaces speculations about unknown phenomena with references to
 well-studied historic facts.
 
 We conclude by stating that the independence of knowledge also proves that effective
-control over any super-intelligent AI system is inherently impossible, unless humans
+control over any superintelligent AI system is inherently impossible, unless humans
 manage to stop the competition of humans against other humans. Accomplishing the latter
 seems to be almost impossible just as well, and we don’t have any ideas about how to do
 this, the only thing we know is that no other form of life has managed do to something
