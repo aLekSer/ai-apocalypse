@@ -1,13 +1,13 @@
-﻿Historia wersji:\
-1\. Krótki popularno-naukowy tekst (_ten artykuł_, polski, [angielski][v1])\
-2\. [Rozszerzony artykuł naukowy][v2] (angielski, [TeX][v2_tex], [PDF][v2_pdf])\
-3\. [Szczegółowy popularno-naukowy tekst][v3] (angielski)
+﻿_historia wersji:_\
+1\. “apokalipsa” (ten artykuł): popularno-naukowy, krótki, w oryginale [angielski][v1]\
+2\. [“wiedza”][v2] ([TeX][v2_tex], [PDF][v2_pdf]): naukowy, rozszerzony, angielski\
+3\. [“twórczość”][v3]: popularno-naukowy, szczegółowy, angielski
 
-[v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md
-[v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1_pl.md
-[v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.md
-[v2_tex]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.tex
-[v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.pdf
+[v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/apocalypse.md
+[v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/apocalypse_pl.md
+[v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.md
+[v2_tex]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.tex
+[v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.pdf
 [v3]: https://github.com/jangrudo/ai-apocalypse
 
 ---
@@ -476,7 +476,7 @@ jesteśmy śmiertelnikami, wiedzieliśmy o tym od zawsze.
 \
 \
 [![CC0 1.0][CС0]](https://creativecommons.org/publicdomain/zero/1.0/deed.pl)\
-Narzędzia AI nie były wykorzystywane podczas pracy nad tym artykułem.
+Podczas pracy nad tym artykułem nie wykorzystywano narzędzi AI.
 
 [CС0]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 (Brak praw autorskich \(Domena publiczna\))

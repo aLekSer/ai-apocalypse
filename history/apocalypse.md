@@ -1,13 +1,13 @@
-﻿Version history:\
-1\. Short popular science text (_this article_, English, [Polish][v1_pl])\
-2\. [Extended scientific article][v2] (English, [TeX][v2_tex], [PDF][v2_pdf])\
-3\. [Detailed popular science text][v3] (English)
+﻿_version history:_\
+1\. “apocalypse” (this article): popular science, brief, also translated into [Polish][v1_pl]\
+2\. [“knowledge”][v2] ([TeX][v2_tex], [PDF][v2_pdf]): scientific, extended\
+3\. [“creativity”][v3]: popular science, detailed
 
-[v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md
-[v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1_pl.md
-[v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.md
-[v2_tex]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.tex
-[v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.pdf
+[v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/apocalypse.md
+[v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/apocalypse_pl.md
+[v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.md
+[v2_tex]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.tex
+[v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.pdf
 [v3]: https://github.com/jangrudo/ai-apocalypse
 
 ---
@@ -60,7 +60,7 @@ reproduce. They do it in an extravagant way, by creating a living organism (acco
 the blueprint), and making it produce more copies of the original genes (possibly in a
 different combination) in the process of interaction with the environment and other
 organisms. In this interaction, it’s the competition with others which is usually the
-most challenging part. Being able to survive, i. e. to handle the hardships of the
+most challenging part. Being able to survive, i. e. to handle the hardships of the
 physical environment itself, is not that difficult.
 
 Genes also have another important property, which is you can move from point A (one set
