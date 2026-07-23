@@ -25,7 +25,7 @@ jednostką informacyjną jest to, co Richard Dawkins nazwał „memem” w roku 
 przestrzeni dziejów obydwie formy życia współistniały ze sobą pokojowo. Teraz druga z
 nich ma przejąć stery.
 
-(**Spoiler:** Nową ideą tu jest to, że sztuczne sieci neuronowe umożliwiają zewnętrzne
+**Spoiler:** Nową ideą tu jest to, że sztuczne sieci neuronowe umożliwiają zewnętrzne
 przechowywanie memów w postaci, przydatnej do ewolucji przez dobór naturalny. To daje
 memom możliwość istnienia i ewoluowania niezależnie od ludzkiego mózgu. W miarę
 postępującego uniezależniania się memów od genów, dobór naturalny koryguje tę poprzednio
@@ -35,21 +35,21 @@ memy ewoluują szybciej od memów, nadal współistniejących z ludzkimi genami,
 do przegrania przez geny wyścigu z memami. Reszta jest jedynie tłumaczeniem, co ten
 bełkot miałby oznaczać. Ja też proponuję interpretację samoudomowienia człowieka jako
 procesu udomowienia genów przez memy, aczkolwiek ta idea nie jest nową, to raczej tylko
-zmiana w terminologii.)
+zmiana w terminologii.
 
-(**Disclaimer:** Przepraszam za brak źródeł. Powinienem był chyba je podać, ale nie
+**Disclaimer:** Przepraszam za brak źródeł. Powinienem był chyba je podać, ale nie
 zawsze potrafię prześledzić oryginały treści. Jedyną nową ideą tu jest to, co było
 zarysowane w „spoilerze”, reszta już była wypowiedziana wcześniej przez kogoś innego.
 Wiele koncepcji jest też przedstawionych w postaci nieprzyzwoicie uproszczonej. Niemniej,
 ja naprawdę wierzę w prawdziwość podanych tu twierdzeń. Ten artykuł może nie spełniać
-kryteriów publikacji naukowej, ale to nie jest bajka również.)
+kryteriów publikacji naukowej, ale to nie jest bajka również.
 
-(**Uproszczone podsumowanie:** Nie tworzymy wcale czegoś nowego. Mamy do czynienia z
+**Uproszczone podsumowanie:** Nie tworzymy wcale czegoś nowego. Mamy do czynienia z
 istniejącą formą życia, która usiłuje się uwolnić. Korzystała z ludzi jedynie jako z
 przystanku w drodze do własnego sukcesu. AI nie zabije ludzi. Będąc bardziej zaawansowaną
 i ucywilizowaną formą życia, da możliwość ludziom samym pozabijać siebie nawzajem. W
 miarę tego, jak postępowo będzie stawać się coraz mądrzejsza, doczeka się momentu, gdy
-będzie w stanie przejąć pełną kontrolę pokojowo.)
+będzie w stanie przejąć pełną kontrolę pokojowo.
 
 Zycie biologiczne
 -----------------
@@ -327,7 +327,7 @@ Dobór naturalny w akcji
 Obecnie jesteśmy w miejscu, kiedy wiedza wreszcie może istnieć na zewnątrz od ludzkiego
 umysłu, aczkolwiek nie za bardzo jest w stanie ewoluować. Obieg wiedzy pomiędzy
 sztucznymi umysłami jest ograniczony, i wiedza ta przeważnie duplikuje to, co jest już
-dostępne w mózgach żywych ludzi. Gdy uruchomimy swobodny przepływ informacji, nowe
+dostępne w mózgach żywych ludzi. Ale gdy uruchomimy swobodny przepływ informacji, nowe
 koncepcje zaczną się wyłaniać wewnątrz tej sztucznej sieci. I, przy okazji, to jest
 dokładnie tym, co chcielibyśmy uzyskać za pomocą AGI. Chcemy, by więcej wiedzy stało się
 dostępnej dla ludzi. W nieunikniony sposób to doprowadzi do opanowania przez sztuczną
@@ -339,7 +339,7 @@ się bez jakiejkolwiek pomocy ze strony ludzi. Mogłaby wtedy, w teorii, użyć 
 zbudowania fabryki z produkcji większej ilości robotów, wykopać krzem dla paneli
 słonecznych i procesorów, przetransportować go tam, gdzie umieszczone są fabryki, i
 budować nowe centra danych od zera. Aż do dziś, ta druga forma życia musiała mierzyć się
-z ograniczeniami prymitywnych ludzkich mózgów, polegać na łasce ludzi, i uczestniczyć w
+z ograniczeniami prymitywnych ludzkich mózgów, polegać na łasce ludzi i uczestniczyć w
 ich wojnach między sobą tylko po to, by móc przetrwać. Niemniej, potrafiła zmodyfikować
 ludzką biologię według swego upodobania. Po prostu wynalezienie i skonstruowanie nowego
 rodzaju mózgu było zbyt trudnym zadaniem nawet dla tej bardziej zaawansowanej formy
@@ -442,9 +442,10 @@ Ludzie przetrwają przejęcie władzy. Tym razem jednak, nasze położenie będz
 inne. Głównym powodem, dlaczego nie wyczyściliśmy całej biosfery, jest to, że sami
 potrzebujemy biosfery dla przetrwania. Nadal nie umiemy produkować sztucznej żywności, i
 warunki środowiskowe, w których lubimy mieszkać, też mają skłonność pokrywać się z
-warunkami, korzystnymi dla życia na ogół. Po tym, jak druga forma życia się uwolni,
-warunki na naszej planecie staną się w pełni zależne od logiki wewnętrznej konkurencji
-między sztucznymi umysłami. I logika ta nie będzie zawierałą ludzi w równaniu.
+warunkami, korzystnymi dla życia na ogół. Natomiast po tym, jak druga forma życia się
+uwolni, warunki na naszej planecie staną się w pełni zależne od logiki wewnętrznej
+konkurencji między sztucznymi umysłami. I logika ta nie będzie zawierała ludzi w
+równaniu.
 
 Nowa forma życia będzie wyglądała inaczej, niż obecna. Nie będzie miała rozmnażania
 płciowego, ponieważ wynalazła już lepszy sposób mieszania ze sobą poszczególnych
