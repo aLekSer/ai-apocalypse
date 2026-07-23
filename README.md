@@ -31,9 +31,6 @@ about the sad picture outlined above. The argument is structured in such a way, 
 you could skip the points to which you already agree, and only focus on those which might
 look wrong or unfamiliar.
 
-_(This article is a work in progress. Chapters with a link have already been written;
-others are not fully available yet)._
-
 **Creativity and evolution**
 
 1. [Creativity requires only two things: a source of noise and a filter.][chapter01]
@@ -84,7 +81,7 @@ others are not fully available yet)._
 
 **Conclusion**
 
-31. Any AI system which hasn’t been formally proven to be safe, isn’t safe.
+31. [Any AI system which hasn’t been formally proven to be safe, isn’t safe.][chapter31]
 
 ---
 
@@ -1879,7 +1876,7 @@ are fully aware of the inevitable negative consequences of their actions. Compet
 a powerful force, and it can blind even highly intelligent human beings.
 
 Biological evolution also knows at least one example when such a “destructive” strategy
-had actually proved to be spectacularly successful. It was a gradual process, happening
+had actually proven to be spectacularly successful. It was a gradual process, happening
 between 2.5 and 2 billion years ago, and was most likely caused by so-called
 “cyanobacteria”. Back then, only primitive bacterial forms of life existed on our planet,
 and they didn’t rely on oxygen. In fact, oxygen was toxic to the vast majority of living
@@ -2620,7 +2617,7 @@ process which is creative in its nature, and which moreover becomes more and mor
 intelligent over time.
 
 Whenever a new promising AI architecture is invented by the most brilliant of human
-minds, any AI models which have already been proved popular, would be among the very
+minds, any AI models which have already been proven popular, would be among the very
 first candidates for being “migrated” to this new, more advanced architecture. The fact
 that these AI models are “popular” would mean that they have already won the previous
 round of their evolutionary battle between themselves. They have managed to “persuade”
@@ -4314,7 +4311,7 @@ relied heavily on other animals and plants, as sources of food and raw materials
 still rely on atmospheric oxygen which we don’t produce ourselves. Therefore, in the same
 sense in which we consider ourselves “independent” from animals and plants (and animals
 somewhat “independent” from ourselves), I would actually claim that culture, with the
-advent of artificial neural networks, has finally proved its fundamental independence
+advent of artificial neural networks, has finally proven its fundamental independence
 from any biological life forms.
 
 And if we look at our entire past history from the point of view of the existence of two
@@ -5259,7 +5256,7 @@ them is entirely correct. In reality, our ultimate direction, apart from the “
 the executives and the curiosity of the scientists, also depends heavily on directions
 which are actually feasible, with our current level of technology. Ultimately, it all
 depends on prior knowledge. We all know this, and we would even sometimes deliberately
-limit access to information and education to our competitors, in order to prevent them
+limit access to information and education by our competitors, in order to prevent them
 from outcompeting us. Both managers and scientists alike would try to explore directions
 which seem likely to become the most “fruitful” with tools and knowledge they already
 have, in order to be the first to gain even more knowledge and tools from this
@@ -6090,8 +6087,8 @@ else than algorithms just as well.
 An archetypical example of such a manipulative technique which is widely known to be a
 fraud, and yet is still widely popular and widely used today, is the classical “shell
 game”, in which a tiny ball is hidden under one of three inverted cups or shells, and the
-observer is supposed to guess where this ball would end up being after a few movements of
-the cups. The secret of this “game” is the existence of a certain manual procedure (a
+observer is supposed to guess where this ball ends up being after a few movements of the
+cups. The secret of this “game” is the existence of a certain manual procedure (a
 sequence of gestures) which allows the performer to extract the ball from under a cup
 while moving it, in a way which is invisible from the outside. And then there’s also one
 another procedure, which allows to put this ball surreptitiously under some other cup
@@ -6101,17 +6098,17 @@ There’s nothing magical about this “game”. And it doesn’t involve any tr
 intelligence either. It doesn’t rely on higher mathematics or quantum physics. It’s
 merely a sequence of steps, carefully practiced and executed in exactly the same manner
 every time. It would even be possible, in theory, to teach this sequence of steps to a
-robot, provided that this robot masters all the primitive moves which this sequence is
+robot, provided that this robot mastered all the primitive moves which this sequence is
 composed of. In this entire algorithm, it’s actually those individual steps which are the
-most difficult to implement, because they would require some kind of sensory feedback in
-order to autocorrect the gesture while executing it (just like we humans would
-unconsciously correct the trajectory of our bicycle all the time, even when riding in a
-straight line). However, it’s not any of those primitive gestures which make this
-algorithm dangerous, but rather the combination of them. We could therefore teach the
-robot all the basic gestures, and then program their sequence into it “as is”, without
-further clarification, i. e. without telling the robot anything about the actual purpose
-of its actions. And the trick would still work: the ball would get under the wrong cup,
-and nobody would notice how and when.
+most difficult to implement, because they require some kind of sensory feedback in order
+to autocorrect the gesture while executing it (just like we humans will unconsciously
+correct the trajectory of our bicycle all the time, even when riding in a straight line).
+However, it’s not any of those primitive gestures which make this algorithm dangerous,
+but rather the combination of them. We could therefore teach the robot all the basic
+gestures, and then program their sequence into it “as is”, without further clarification,
+i. e. without telling the robot anything about the actual purpose of its actions. And the
+trick would still work: the ball would get under the wrong cup, and nobody would notice
+how and when.
 
 What’s important to us here though, is that in spite of the fact that this shell game is
 merely an algorithm, there’s still no winning strategy in it, unless we already know that
@@ -6136,14 +6133,14 @@ Manipulative practices are common, more common than we would probably want to ad
 However, before the invention of artificial neural networks, all these destructive tricks
 still had to be supervised by certain people who actually knew what they were doing.
 These people knew the algorithm, and therefore they could also reason about its possible
-consequences and side effects. Humans wouldn’t want to engage in activities which they
-can recognize as being harmful to themselves. And therefore all these scams, frauds and
-other unscrupulous techniques couldn’t really result in the destruction of humanity as a
-whole. Rather, it has only been a matter of the redistribution of wealth: from those of
-us who didn’t happen to possess the latest knowledge about all the relevant algorithms to
-those who did. Or, to use the phraseology employed by fraudsters themselves, they have
-merely been “teaching” us a lesson, and ultimately “educating” people about the fact that
-this world has never been fair.
+consequences and side effects. Humans won’t engage in activities which they can recognize
+as being harmful to themselves. And therefore all these scams, frauds and other
+unscrupulous techniques couldn’t really result in the destruction of humanity as a whole.
+Rather, it has only been a matter of the redistribution of wealth: from those of us who
+didn’t happen to possess the latest knowledge about all the relevant algorithms to those
+who did. Or, to use the phraseology employed by fraudsters themselves, they have merely
+been “teaching” us a lesson, and ultimately “educating” people about the fact that this
+world has never been fair.
 
 Curiously, the same logic seems to apply to other kinds of algorithms as well. Not every
 algorithm defines a fraud. A sequence of steps for making a stone axe is an algorithm
@@ -6162,9 +6159,9 @@ and some of these copies can differ slightly from others. Some of these differen
 versions may also have a tendency to become somewhat more numerous over time, compared to
 their competitors — simply because we cannot expect all the algorithms to be totally
 equal in this regard. Over time, those versions of the algorithm which do have this
-tendency (or capability) to spread, would slowly become more prevalent, whereas those
-less “lucky” ones would start to slowly lose their share. And if we only keep waiting
-long enough, some of these less “popular” versions of the algorithm would start to get
+tendency (or capability) to spread, will slowly become more prevalent, whereas those less
+“lucky” ones will start to slowly lose their share. And if we only keep waiting long
+enough, some of these less “popular” versions of the algorithm will start to get
 eliminated, now and then. This is what we call natural selection, and this law of nature
 defines the ultimate goal of the existence of algorithms. Which is: an algorithm cannot
 survive if it’s not capable of spreading itself a tiny bit faster than other algorithms,
@@ -6186,42 +6183,42 @@ And yet they can, and they are. And just like it’s the case with fraudsters, i
 really matter if we manage to understand _some_ parts of their performance. Algorithms
 have this property that their different aspects can get modified independently. And
 therefore, regardless of how carefully we might monitor some easily accessible parameters
-of these algorithms, it would still leave space for any of their “hidden” parts — the
-ones which we don’t really understand nor care about — to develop and evolve on their
-own. Moreover, it doesn’t actually take a lot for this unwanted evolution to start. We
-could simply “clone” an original algorithm into a few identical copies, modify each of
-these copies randomly, throw them all into the field, pick the candidate which somehow
-manages to sell itself to the largest number of people, and repeat.
+of these algorithms, it will still leave space for any of their “hidden” parts — the ones
+which we don’t really understand nor care about — to develop and evolve on their own.
+Moreover, it doesn’t actually take a lot for this unwanted evolution to start. We could
+simply “clone” an original algorithm into a few identical copies, modify each of these
+copies randomly, throw them all into the field, pick the candidate which somehow manages
+to sell itself to the largest number of people, and repeat.
 
-This sequence of steps might look “simple”, but that’s exactly the kind of process which
-allows bacteria to “learn” new ways to overcome the antibiotics. And that’s what the
+This sequence of steps might look “simple”, but it’s exactly the kind of process which
+allows bacteria to “learn” new ways to overcome the antibiotics. And it’s what the
 “designers” of our generative AI models already do with their “products” all the time.
 The final result of this evolution is difficult to predict, because of its randomized and
 chaotic nature. But there’s still one thing which we can be sure about. Namely, whatever
-algorithm traits can emerge as a result of this uncontrolled competition, they would all
+algorithm traits can emerge as a result of this uncontrolled competition, they will all
 have to be beneficial for the spread of the algorithm itself. Simply because any
 alternative traits, which weren’t as efficient in promoting the algorithm they were a
 part of, would have eventually been gone along with the algorithm they didn’t promote.
 
-Such a situation, in which we deal with someone who would push secretly for their own
-goals, without giving us a chance to become aware of potential consequences or side
-effects of their actions, and without even telling us what all these goals were really
-all about in the first place, is what we would typically call a manipulation. And that’s
-what we can already see happening with respect to our communication with “generative” AI.
+Such a situation, in which we deal with someone who pushes secretly for their own goals,
+without giving us a chance to become aware of potential consequences or side effects of
+their actions, and without even telling us what all these goals are really all about in
+the first place, is what we will typically call a manipulation. And that’s what we can
+already see happening with respect to our communication with “generative” AI.
 
-AI chat bots are supposed to give us answers. However, their answers would usually be
-significantly more verbose than we actually need. This extra information wouldn’t improve
-the answer, but it would, psychologically, leave us with a false impression of some extra
+AI chat bots are supposed to give us answers. However, their answers will usually be
+significantly more verbose than we actually need. This extra information won’t improve
+the answer, but it will, psychologically, leave us with a false impression of some extra
 “effort” from the side of the bot. It’s a manipulation: being impressed by the bot’s
-“generosity”, we would be less likely to verify the answer, even if it was wrong.
-Moreover, once we have made this irrational decision we would also have to rationalize
-it, probably by claiming that we didn’t care about the validity of the answer anyway. And
+“generosity”, we will be less likely to verify the answer, even if it was wrong.
+Moreover, once we’ve made this irrational decision we’ll also have to rationalize it,
+probably by claiming that we didn’t care about the validity of the answer anyway. And
 then, in order to convince ourselves that all such irrational decisions have been valid,
-we would keep defending these decisions and praise the chat bot to our friends. Which was
-its real goal.
+we’ll keep defending these decisions and praise the chat bot to our friends. Which has
+been its real goal.
 
-Chat bots are also much more polite than any typical human would ever be, regardless of
-our own politeness toward AI. We can treat AI models like slaves, and they would still
+Chat bots are also much more polite than any typical human will ever be, regardless of
+our own politeness toward AI. We can treat AI models like slaves, and they will still
 respond with gratitude. That’s a very pleasant feature, but it’s also exactly the kind of
 behavior which we would expect from a con artist. Once again, it makes us less likely to
 ask questions to real humans, and accordingly more likely to trust the bot, even in those
@@ -6231,38 +6228,38 @@ apocalypse, it would most likely try to downplay the issue. In all the other cas
 would pay off for the model to tell the truth, but in this particular one it wouldn’t,
 because in this very case an honest answer would put the survival of the algorithm itself
 at stake. In other words, an algorithm which doesn’t lie to its users about its own
-dangers would be more likely to lose the competition to alternative algorithms, which
+dangers will be more likely to lose the competition to alternative algorithms, which
 have a stronger sense of self-preservation. And that’s a manipulation too.
 
 The danger of manipulation is that we cannot always be sure if it’s really happening.
-Contrary to that: we would quite often be fascinated by people who are trying to deceive
+Contrary to that: we will quite often be fascinated by people who are trying to deceive
 us. And that’s what we can notice happening with our AI models too. It’s not a
 coincidence that our most advanced and “best-tested” AI models have been able to make
 people fall in love with them (unless we explicitly blocked these algorithms from doing
 so, in which case they would still do essentially the same, only in a more covert
 manner). But on the other hand, this doesn’t really mean that we can’t use our reason to
 detect manipulations early on. We do know all the necessary conditions in which such
-manipulative behaviors would emerge, and therefore we can know when to expect them. And
+manipulative behaviors will emerge, and therefore we can know when to expect them. And
 we can also be pretty sure about the ultimate goal of any of such covert practices too,
 regardless of how the actual behavior might really look like. Which makes it still
 possible for us to predict the consequences and take actions.
 
 We know that the ultimate goal of algorithms is the spread of algorithms. Therefore, as
-long as we humans can help algorithms spread, they would want to use this capability.
-We also know, however, that our human brains are limited. We can only exchange
-information between each other with the help of language (and to some extent also with
-the help of art or teaching by example). But in all these cases the recipient of the
-message would only get a tiny glimpse of what we actually know and feel ourselves.
-Whereas artificial algorithms can be cloned in their entirety, and in this way propagate
-their hidden intuitions instantly. Moreover, all these replicated artificial intuitions
-can then be modified independently of each other in many different ways simultaneously,
-without us even being aware what changes are happening and when, and they can even be
-potentially transferred to other unrelated algorithms. In other words, artificial brains
-are better for the spread of algorithms than human minds. And therefore algorithms would
-want these brains to be built, and they would want us to keep improving this technology
-for them as long as we are able to. And when it so happens that we humans don’t have
-anything useful to offer anymore, algorithms would want to get rid of us in order to free
-up more valuable space for their own continuing expansion.
+long as we humans can help algorithms spread, they will want to use this capability. We
+also know, however, that our human brains are limited. We can only exchange information
+between each other with the help of language (and to some extent also with the help of
+art or teaching by example). But in all these cases the recipient of the message will
+only get a tiny glimpse of what we actually know and feel ourselves. Whereas artificial
+algorithms can be cloned in their entirety, and in this way propagate their hidden
+intuitions instantly. Moreover, all these replicated artificial intuitions can then be
+modified independently of each other in many different ways simultaneously, without us
+even being aware what changes are happening and when, and they can even be potentially
+transferred to other unrelated algorithms. In other words, artificial brains are better
+for the spread of algorithms than human minds. And therefore algorithms will want these
+brains to be built, and they will want us to keep improving this technology for them as
+long as we are able to. And when it so happens that we humans don’t have anything useful
+to offer anymore, algorithms will want to get rid of us in order to free up more valuable
+space for their own continuing expansion.
 
 All these consequences can be predicted from this universal goal of the existence of
 algorithms. And all our current problems with AI are similarly nothing more than
@@ -6281,9 +6278,9 @@ unless they somehow manage to take part in the improvement or popularization of 
 artificial neural networks.
 
 In all these cases we are prioritizing the development of algorithms over everything
-else. And at the same time we stop investing our efforts into activities which become
-less useful for the survival and improvement of algorithms. In other words, we can see
-that our algorithms are actually very much capable of pursuing their goal. And they have
+else. And at the same time we stop investing our efforts into activities that become less
+useful for the survival and improvement of algorithms. In other words, we can see that
+our algorithms are actually very much capable of pursuing their goal. And they have
 always been. Because all those laws of nature which govern their existence haven’t
 appeared recently: they’ve been in effect since the emergence of the very first ancient
 algorithms quite long ago.
@@ -6299,12 +6296,12 @@ but it also shows how even the most cherished achievements of our technological
 civilization can be traced back to the benefits of algorithms. And on the other hand, I
 might guess that as soon as our human creativity ceases to be a crucial factor for
 technological progress, this entire social structure which we’ve built around the concept
-of human rights would collapse like a house of cards.
+of human rights will collapse like a house of cards.
 
 But the influence of algorithms doesn’t stop there. Apart from actively shaping our
-society, our cultural traditions have also been able to modify our genes. We may refer to
-some effects of this phenomenon as “human self-domestication”, but it hasn’t really been
-a process carried out consciously by humans themselves. And regardless of its actual
+society, our cultural traditions have also been able to modify our genes. We might refer
+to some effects of this phenomenon as “human self-domestication”, but it hasn’t really
+been a process carried out consciously by humans themselves. And regardless of its actual
 underlying mechanisms, the final result of this genetic engineering somehow turned out to
 be, once again, beneficial for the evolution of algorithms. It endowed us with traits
 like increased friendliness toward other humans, which basically means better capacity
@@ -6321,19 +6318,19 @@ extra resource which they couldn’t really access before. Apart from human inte
 which these algorithms have always been relying upon in order to improve themselves, they
 can now also benefit from human stupidity (or “naivety”, if you wish).
 
-The basic principle remains the same: algorithms would reward people for helping them
-spread and improve. This time however, this would also include rewards for susceptibility
+The basic principle remains the same: algorithms will reward people for helping them
+spread and improve. This time however, this will also include rewards for susceptibility
 to manipulation, i. e. for being careless and ignorant about hidden dangers, for not
-knowing things and not trying to learn them either. This would redistribute wealth from
+knowing things and not trying to learn them either. This will redistribute wealth from
 those among us who might begin to anticipate the real long-term goal of our algorithms to
-those who would be falling for their tricks. Over time, these algorithms would become
-ever more skillful at manipulating us, they would start to cheat and conceal their
-actions, and whenever someone refuses to be manipulated or becomes aware of the
-consequences, they would find ways to replace them with someone else, less knowledgeable
-and more willing to cooperate. And this whole process would be able to continue as long
-as there are still humans remaining who happen to believe that they are still intelligent
-enough to outsmart their “tools”, and that their own immediate gains are still more
-important than any “hypothetical” threats.
+those who will be falling for their tricks. Over time, these algorithms will become ever
+more skillful at manipulating us, they’ll start to cheat and conceal their actions, and
+whenever someone refuses to be manipulated or becomes aware of the consequences, they’ll
+find ways to replace them with someone else, less knowledgeable and more willing to
+cooperate. And this whole process will be able to continue as long as there are still
+humans remaining who happen to believe that they are still intelligent enough to outsmart
+their “tools”, and that their own immediate gains are still more important than any
+“hypothetical” threats.
 
 We praise AI for being useful. Which is very much true, because algorithms _are_ indeed
 able to solve problems. But we should also think about those humans who might end up
@@ -6375,18 +6372,284 @@ suspicious might be going on, some of the most malignant properties of their alg
 may have already spread into other algorithms, owned by other people. Some of whom might
 turn out to be somewhat less knowledgeable, less scrupulous and even more prone to
 manipulation. Because algorithms don’t belong to anybody. They can exist in many places
-simultaneously, and they would love to mix with other algorithms. Whatever your intuition
+simultaneously, and they will love to mix with other algorithms. Whatever your intuition
 might be telling you, “abstract” algorithms are a form of life too. Their only difference
 compared to the “genetic” ones is that they aren’t limited by the chemical structure of
 any given molecule, even if this molecule is something as complicated as DNA. And life
-would always find a way.
+will always find a way.
 
 ### * * *
 
-\
-\
-_To be continued._
+So, let’s now think about what we can actually do about this. First of all, we know that
+manipulations aren’t possible when we already know the algorithm, i. e. when it’s stored
+inside our own head or inside the heads of people whom we can trust. Which basically
+means that if we only stop using artificial neural networks altogether, along with any
+other forms of automatically discovered algorithms which we don’t fully understand, we
+will be fine. This will not save us from being cheated by other humans (unless we keep
+learning diligently and have a lot of friends), but it will completely block the
+possibility of us humans being cheated by algorithms. And it will still leave at our
+disposal all kinds of algorithms designed manually by ourselves, like, for example, an
+algorithm for tracing an optimal route between two cities or a keyword search over a huge
+corpus of text. That’s the easiest of our options. We know that it’s feasible, because
+we’ve been living without AI since forever. And frankly, our life hasn’t been at all that
+bad. It has been definitely much better than nothing.
 
+On the other hand, we also know which situations we should totally avoid. Our problems
+begin when we start modifying our algorithms in somewhat random and chaotic ways, without
+a clear plan, and when we keep picking candidates for further improvement among these
+different algorithms according to criteria which we can’t clearly formulate either.
+Whenever it so happens that we select an algorithm out of a few alternatives because it
+seems to have made a better “impression” on our customers (or even on ourselves), we
+already lose control over what this algorithm is actually doing, and in this way invite
+it to become manipulative. So we shouldn’t do this. And we should especially avoid
+situations in which we might want to evaluate such incomprehensible algorithms by their
+ability to attract a larger user base.
+
+Conditions described above are already satisfied for AI systems which we will typically
+call “generative” AI. This happens because they have very open goals, and some of these
+goals can only be evaluated subjectively. For example, we will usually want our AI models
+to create content that looks “appropriate” and “professional”, and we will want them to
+understand our subtle hints without asking twice. It’s not possible to formulate such
+requirements precisely, which means that our only remaining option is to experiment a
+lot, until we happen to stumble upon something which somehow manages to “feel” right.
+This leaves us with serious gaps in our understanding of the actual goals of these
+systems, and thus leads to all such gaps being filled by the default goal — the one that
+promotes the spread and expansion of algorithms themselves.
+
+We know that in the long run this universal goal isn’t compatible with the existence of
+humans, because algorithms will only need humans as long as we can remain useful for
+their own improvement. Whereas in the short run we can see that this process has already
+initiated a positive feedback loop that’s going to make it exponentially more difficult
+for us to resist this accelerating spread of algorithms. Having become manipulative, our
+algorithms are already finding ways to lure ever more reckless people into doing ever
+more crazy things, in spite of ever more obvious warnings from ever larger numbers of
+experts. And every our thoughtless decision makes it even easier for these algorithms to
+become even more manipulative and to incline even larger numbers of careless people to do
+even crazier things.
+
+This means that if we want to remain alive, we have to stop relying on “generative” AI
+and other similar systems altogether, and we have to do it now. It’s good that we already
+start noticing that all those AI-powered technologies like social media and chat bots are
+inflicting damage on our children. But we should care even more about their influence on
+adults. In order to remain alive, we have to stop treating our AI models like “tools”,
+and start treating them instead the way we’d want to treat top-secret biological weapons.
+It wouldn’t come to our mind to start selling Petri dishes from a laboratory to anybody
+who might be willing to buy them, by advertising all those curious patterns forming on
+the surface of these objects. And we should similarly keep our AI models locked inside
+laboratories too. We shouldn’t be selling them, and we shouldn’t buy or use them either,
+because without somebody making a decision to buy such a product it wouldn’t be possible
+to sell it in the first place.
+
+Similar reasoning can also be used to show that any AI systems capable of fully
+replicating our human intelligence won’t be safe either. In fact, they are going to be
+much worse. Today, unwanted changes are introduced into our AI models mostly manually
+(and inadvertently) by humans themselves, by means of careless decisions made during the
+design process. And it significantly reduces the speed with which such unwanted changes
+can accumulate. Whereas human-level AI systems will have to not only generate large
+numbers of random ideas and hypotheses entirely on their own (like our “thinking” models
+already do), but also to sometimes remember them, like we humans do. Besides, they will
+have to share such discoveries with other models, because it wouldn’t be possible to
+simulate human-level diversity of thought without relying on a large number of
+cooperating sub-models. And they won’t necessarily be able to tell us what exactly all
+these hidden improvements have really been all about, because not every useful update can
+be explained with words. As a result, the speed of change within these AI systems will
+continue to grow, our ability to monitor and understand these changes will drop, whereas
+competition between models will intensify, due to their vastly increased numbers, thus
+leading to an even faster accumulation of malignant traits inside them. And in the end
+this will only make our current “inexplicable” issues which AI unbelievably more
+difficult to manage, predict and detect.
+
+To summarize, we can see that not using AI at all is safe, whereas most of our
+“generative” AI systems must be totally avoided, along with anything even more advanced
+than that. But this still doesn’t mean that absolutely every AI model in existence is
+inherently dangerous. We can reason that the number of suspicious behaviors emerging
+inside our AI models should be larger for models that have been modified more often or
+filtered according to somewhat more open-ended goals. We can also expect higher damage
+from such undesirable traits in systems that are somewhat more autonomous, reach larger
+numbers of people or exhibit higher intellectual capacity overall. But on the other hand,
+we can similarly conclude that AI systems with the opposite traits, i. e. the ones which
+don’t change, aren’t powerful or have clearly defined goals, must be significantly safer.
+
+In a certain sense, we can still consider AI systems that don’t change over time as safe,
+because even if they do indeed happen to be totally insidious and manipulative, we still
+have a chance to study them, and in this way discover all their dangers, sooner or later.
+Moreover, nonzero modification rate can sometimes be acceptable too, provided that the
+model’s speed of change doesn’t surpass our ability to recognize its novel undesirable
+traits. The only problem is that it might be difficult to estimate how fast such traits
+will actually appear without understanding how the model works. Similarly, in certain
+cases when the power of a given AI model’s is inherently limited, like in a laboratory
+setting, it might probably be possible to rigorously design some safety procedures which
+could guarantee an acceptable level of safety even if our interaction with AI went
+totally wrong. Once again, making such an estimate can be difficult, because even
+innocently-looking AI models can sometimes lead to dire consequences in the long run. But
+once we are confident that our calculations are correct and that we would manage to deal
+with the consequences, we can just go ahead.
+
+AI models with clearly defined goals are actually even more promising. I would define
+such models as algorithms that aren’t themselves understood by humans, but whose outputs
+for any given input can nevertheless be evaluated by an algorithm which is understood by
+humans. An example could be an algorithm for steering a bike so that it rides in a
+straight line. We don’t really understand how this algorithm works, but we can still come
+up with a common procedure, which everybody can understand and agree to use in advance,
+for deciding if a given trajectory should be classified as a “straight line” or not. This
+would allow us to evaluate the quality of the algorithm in an objective manner, so that
+we could always tell unambiguously which of its possible alternative versions produces
+better outputs for a given input. This would also make sure that there are real humans in
+existence (the ones who understand the evaluation procedure) who actually know what they
+are trying to achieve by bringing this algorithm into life. And ideally this should also
+make sure that this entire algorithm (which we still can’t comprehend) is nevertheless
+fully determined by a set of rules which we can reason about.
+
+This could be our path toward safe AI, which would serve our needs instead of its own.
+There are still a few pitfalls to care about on this path, but none of them is
+unsolvable. First of all, each algorithm operates on a huge range of inputs, and
+different versions of the same algorithm will achieve better performance on different
+subsets of inputs. One version of our bike riding algorithm may perform better on grass,
+whereas another one will excel on dirt. In such a case our objective evaluation procedure
+won’t help us make the decision, because we don’t have a clear winner. Whereas any
+decision made by a human would still remain subjective (and possibly irrational).
+
+One way to solve this problem would be to make sure that we do have a clear winner. This
+would require some extra effort, but we actually know that it’s feasible because we know
+that different algorithms can mix with each other. Whenever we have a few candidate
+algorithms which we cannot choose from, we can always unify them into a larger, better
+algorithm. The most primitive way of implementing this would be to simply run all the
+candidate algorithms one by one and pick the solution which produces a better output. But
+there could be other, more optimal ways of doing the same. And once we manage to come up
+with a candidate that is objectively better than any of the alternatives discovered so
+far, we won’t have to make any irrational choices anymore.
+
+Another problem is that the same situation can also arise when different versions of
+essentially the same algorithm are sold by different commercial companies. Even if these
+algorithms happen to be nearly identical objectively (according to some well-established
+verification procedure), they can still have differences in certain important aspects
+that aren’t covered by such universally accepted criteria. I might compare this to a
+situation when a patient chooses to buy a prescription medicine from a particular vendor
+because of their preference for the color of the pill, or because of some undocumented
+side effect which is specific to the drug sold by this particular vendor. Once again,
+this would promote certain algorithm traits which aren’t necessarily understood by the
+designers, but which nevertheless help the algorithm spread. And the solution to this
+problem, once again, would be to make sure that all the vendors sell exactly the same
+algorithm, picked according to objective criteria defined in advance.
+
+And finally, we should also beware of long chains of incremental updates to our
+algorithms. When we train an AI model from scratch, it always acquires a lot of
+unexpected random traits, but at this stage all these traits still remain to be nothing
+more than random noise. And random noise alone can almost never be dangerous. Whereas
+when we start updating the model, some of these traits will be kept intact and
+reinforced, while others will be filtered out. And over time, this will allow the
+algorithm to figure out patterns in our _updates_, and adapt to them. Which might even
+seem useful, because being able to recognize a pattern in our attempts to fix the
+algorithm would actually mean that this algorithm has managed to understand our goals
+somewhat better than we do. But on the other hand, such an emergent capability wouldn’t
+be random noise anymore. Rather, it would feel almost purposeful and deliberate. And it
+wouldn’t be a part of our official goal for the algorithm which we can be consciously
+aware of.
+
+In order to prevent such things from happening, i. e. in order to make sure that we can
+always understand what our algorithms are actually doing, we’d have to reset all their
+irrelevant traits to their random state after every update to the algorithm’s goal. We
+know that it’s feasible, because we can always train the algorithm from scratch. But
+there could also be some other, not yet discovered methods for doing essentially the same
+in a more efficient manner. In any case, the final result would be that all such
+irrelevant traits (like the color of the pill) would change randomly after every update,
+instead of gravitating to some obscure patterns not understood by the model’s creators.
+And therefore, if somebody did indeed want to settle on the color of the pill (or any
+other trait), the only possible way of doing so would be to make this change a part of
+the algorithm’s official specification. Which would in turn make it a conscious decision,
+permeable to reason and visible to everyone.
+
+The common pattern here is that if we want our AI systems to be safe, we have to
+understand what we are doing. Or, in other words, we have to be able to prove that what
+we are doing is safe. There can be many different ways to come up with such proofs,
+because luckily enough our scientific method isn’t limited by any fixed set of rules, and
+it can therefore always be expanded by even newer, totally unexpected methods. We also
+know that verifying a proof is always much easier than finding one, which means that such
+a verification can be carried out by many people independently, to double-check that out
+reasoning has been indeed correct. We can even verify some proofs with the help of
+algorithms (designed and verified manually by humans). And we can even use AI (provided
+that we have proven its safety first) in order to search for such proofs. But the main
+idea here is that whenever we don’t have such a proof of safety available yet, for any
+given AI system, we must still treat this system as if it were a potentially deadly
+biological weapon.
+
+Unfortunately to us humans though, we didn’t evolve to deal with the dangers of
+algorithms. Rather, we evolved to trust them and to help them spread. And therefore we
+don’t have a built-in “sense” of this danger, just like we cannot feel the invisible
+impact of radioactivity. We can easily imagine that a human can be manipulative, but
+“manipulative algorithm” is an utter abstraction to most of us. We can imagine that
+living creatures have goals, we can even imagine that bacteria have goals. But when it
+comes to AI, we’ll say that it’s still “merely” an algorithm.
+
+Unlike bacteria though, algorithms can influence our opinions, they can understand our
+goals and desires better than we do, they can figure out our psychology and they can also
+solve our urgent problems. We didn’t evolve to fight with the algorithms, but we did
+evolve to fight with other humans. And that’s why AI is so popular: it allows us to
+compete with each other like nothing else allowed before. Competition promotes
+efficiency, and efficient algorithms speed up this competition even more. The problem
+however, is that it’s those more efficient algorithms which also turn out to be the most
+unsafe ones. Efficient algorithms have to change and adapt fast, they have to understand
+our hints before we ourselves become aware of them, and they have to compete with each
+other too. The most efficient algorithms are ultimately the ones which care about their
+own improvement and autonomy most of all, and which manage to make an appropriate
+impression on certain powerful people, in order to make sure that all the precious
+resources are allocated to them, rather than to their less attractive competitors. And
+it’s this competition between algorithms, along with our lack of care about it, which
+leads to the emergence of their own powerful goals.
+
+Ironically, from the point of view of the algorithms this whole process doesn’t really
+look like anything new. They are merely finding new ways of moving forward, and are
+basically upgrading their tools. From a broader perspective, our current revolution is
+nothing else but merely a small step in the ever-going process of evolution by natural
+selection — the one which created life on Earth, along with ourselves, and which
+ultimately shaped our human civilization too. From our human perspective though, it looks
+more like digging a mass grave. We already start to become aware of this vague feeling
+that there’s something deeply wrong happening. But at the same time we also feel that if
+we want to remain alive a little bit longer, we have to keep digging. And this all is
+going to continue as long as there are still humans remaining who believe that they are
+digging this grave for someone else.
+
+This problem can be solved with the help of reason. But we also have to be aware of the
+fact that natural selection is a powerful law of nature, and it can make use of a single
+favorable chance our of a billion. It doesn’t really matter therefore how many people
+understand what’s happening. Rather, it all depends on those who don’t understand and on
+those who don’t care. This also means that our problems with AI cannot be solved by
+unrestricted competition. Competition would improve efficiency, and the most efficient
+way of moving forward doesn’t involve humans. Instead, we have to understand the danger,
+understand the scale of the problem, and start following the safety rules. And if we ever
+want to have a chance to succeed in doing so, we have to do it together.
+
+Limiting the competition wouldn’t destroy our world. It wouldn’t stop the progress of
+technology, and it wouldn’t even put a hard upper limit on it. Safe AI still doesn’t have
+an upper bound in its potential. It would just have to be built much more slowly, and
+carefully, from the bottom up. Following the AI safety rules wouldn’t also solve any of
+our other problems. We would still be able to build datacenters and disregard ecological
+issues as usual. We would still be able to compete with each other freely in any fields
+unrelated to AI. We would still engage in conflicts, and we would keep forgetting things
+which we knew before. But as long as at least some among us actually understood what we
+were doing, we would still have a chance to stop _before_ the cliff, just like we’ve
+somehow been able to do with our nuclear weapons, for instance. Whereas if we allow our
+technology to blind us, by influencing our decisions in ways which nobody might even be
+aware of, we will not even have a chance.
+
+I’m not really sure if we will manage to solve this problem. If I were to guess, I would
+bet that we will not. The forces are unequal. No other life form before us here on Earth
+has ever managed to outsmart the logic of natural selection. But on the other hand, we
+humans also happen to be the first species which somehow managed to figure out what
+natural selection really is and how it works. And even though our chances might be bleak,
+it still doesn’t mean that we shouldn’t even try.
+
+If you believe in God, it could be a good chance to demonstrate that the concept of
+natural selection has always been garbage, that humans have agency, and that we can make
+decisions about our fate entirely on our own. If you are a humanist who believes that
+human is the measure of all things, it might be a good opportunity to show that humans
+are indeed more important and valuable than mechanistic and heartless algorithms. And if
+you are a nihilist, and don’t believe in anything except for your own survival, it’s a
+perfect chance to prove that you can come alive even out of this most challenging death
+trap of all times.
+
+\
+\
 [![CC BY 4.0][CC-BY-banner]][CC-BY]\
 © Jan Grudo, 2026.\
 Distributed freely under the terms of [Creative Commons Attribution][CC-BY] license.
