@@ -2006,7 +2006,7 @@ between 2.5 and 2 billion years ago, and it was most likely caused by the so-cal
 and they didn’t rely on oxygen. In fact, oxygen was toxic to the vast majority of living
 organisms at that time. Cyanobacteria didn’t “care” about that though. They invented a
 new kind of chemical reaction (so-called “oxygenic photosynthesis”), which utilized
-energy from the sun and produced oxygen as a byproduct. It wasn’t the first form of
+energy from the Sun and produced oxygen as a byproduct. It wasn’t the first form of
 photosynthesis ever, but it was more efficient than its predecessors. And thanks to this
 improved efficiency, cyanobacteria could replicate faster than their competitors and
 eventually started dumping oxygen into the atmosphere in uncontrolled amounts. As a
@@ -2584,202 +2584,229 @@ Fig. 13. Culture transfer is a (mostly) one-way road.
 
 _Switching to a new neural network architecture is easy, whereas “overwriting” a set of
 biological genes requires creating a new organism (and removing the old one). Biological
-traits only change incrementally, and after every change our organism must still be able
-to find mates and have kids. Human brain is complicated, but its most advanced parts are
-actually composed of the same design replicated numerous times. From the perspective of
-artificial algorithms, “persuading” humans into migrating them to an improved
-architecture will always pay off, as long as humans are ever able to come up with this
-next step._
+traits can only change incrementally, and after every change our organism must still be
+able to find mates and have kids. Human brain is complicated, but its most advanced parts
+are actually composed of conceptually very similar neural designs replicated numerous
+times. From the perspective of artificial algorithms, “persuading” humans into migrating
+them to an improved architecture will always pay off, as long as humans are ever able to
+come up with this next step._
 
 Artificial neural networks already exceed human brains in many regards. They can spawn
 millions of copies of the same neural “circuit” while processing a single piece of text,
-and let such “cloned” modules collaborate and compete with each other. By doing so, our
-models essentially get access (instant and simultaneous) to any “thoughts” they might
-have had while processing all the different regions of input data. And they can then mix
-such thoughts freely with each other without even resorting to conscious trial and error.
-Regardless of how big our artificial networks might grow, we can always add more
-parameters, more memory chips and more processing cores. We can make use of complicated
-mathematical concepts like differentiable functions and Jacobian matrices, and we can
-experiment: create artificial “neurons” with physically impossible properties or entire
-algorithmic blocks (like the famous “attention mechanism”) which don’t have any remotely
-close biological counterparts.
+and let such “cloned” modules collaborate and compete with each other (which is the
+essence of the Transformer architecture’s famous “attention mechanism”). By doing so, our
+AI models essentially get access (instant and simultaneous) to any “thoughts” they might
+have had while processing all the different regions of input data. They can therefore mix
+such thoughts easily with each other, without relying on complex biological mechanisms
+like conscious memory recall. Besides, regardless of how big our artificial networks
+might grow, we can always add even more parameters, more memory chips and more processing
+cores. We can also make use of advanced mathematical concepts like differentiable
+functions and Jacobian matrices, and we can experiment: create artificial “neurons” with
+physically impossible properties and even entire algorithmic blocks that don’t have any
+remotely close biological counterparts.
 
-On the other hand, human brains are limited by our skull. We can’t unite them with other
-brains in order to form larger brains. We can’t duplicate our neural circuits either:
-each our neuron is unique, and it can only work with one piece of data at a time. Our
-short-term memory is severely limited, and it’s unreliable too. It cannot even hold a few
-pages of text correctly, let alone entire books. Moreover, our brains have to implement
-all such auxiliary mechanisms like short-term memory access with the help of some extra
-neural circuits, because we don’t really have any other mechanisms available within our
-brains. Which leaves us with even less neural circuitry for doing actual work.
+On the other hand, human brains are inherently limited by the size of our skull. We can’t
+unite them with other brains in order to form larger brains. And we can’t duplicate our
+neural circuits either: each of our neurons is unique, and it can only work with one
+piece of data at a time. Our short-term memory is severely limited too. Unless we resort
+to conscious repetition or some clever mnemonic techniques, our short-term memory will
+only hold a handful of unrelated items at a given time. Unlike Transformer-based neural
+networks, it therefore takes a lot of time for us to make sense even of a few pages of
+text, let alone entire books. Besides, all these auxiliary and imperfect memory
+mechanisms inside our brains still have to be implemented with the help of some extra
+neural circuits, which leaves us with even less neural circuitry for doing actual work.
 
-But the worst thing of all is that the physical architecture of our brain doesn’t change.
-Granted, it has a great deal of diversity, and every human brain is unique, but the
+But the worst thing of all is that the physical architecture of our brain doesn’t change
+over time. Even though it can vary significantly between different humans minds, the
 overall design is mostly fixed. The algorithm for constructing and operating our brain is
-encoded within our genes, and our genes can only slightly change once in a generation.
-Biological evolution is extremely slow, and within the last 300 000 years it doesn’t seem
-to have invented anything remarkably new, with respect to humans at least.
+encoded in our genes, and our genes can only undergo slight modifications once in a
+generation. Biological evolution is extremely slow, and within the last 300 000 years it
+doesn’t seem to have invented anything remarkably new, with respect to humans at least.
 
-Modifying the genes of a living organism isn’t totally impossible. Some viruses, like
-HPV, can do this. They may inject their genetic code into our own cells, thus producing
-genetically-modified versions of these cells. However, such changes aren’t really
-beneficial to us (even if they might help the virus spread itself). On the other hand,
-our scientists have been able in recent years to employ somewhat similar techniques to
-infuse much more useful and much better controlled genetic changes into various types of
-living organisms. They did this with plants and animals, and they did this with humans
-too. Such “genetic therapies” aren’t completely safe yet, but they already allow us to
-overcome serious diseases, and they might allow to change some traits of living humans
-even more flexibly in a not-so-distant future. However, none of these modifications would
-allow (so far, at least) to redesign an adult human brain once its construction has
-already been finished.
+Modifying the genes of a given biological organism while it’s still alive isn’t actually
+totally impossible. Some viruses, like HPV, can do this. They can inject their genetic
+code into our own cells, thus producing genetically modified versions of these cells.
+However, such changes aren’t really beneficial to us (even if they might help the virus
+spread itself). On the other hand, our scientists have been able in recent years to
+employ somewhat similar techniques to infuse much more useful and much better controlled
+genetic changes into various types of living organisms. They did this with plants and
+animals, and they did this with humans too. Such “genetic therapies” aren’t completely
+safe yet, but they already allow us to overcome serious diseases, and they might allow to
+change some traits of living humans even more flexibly in a not-so-distant future. But
+once again, none of these methods will allow us (so far, at least) to redesign an adult
+human brain once its construction is already finished.
 
-And without such “peaceful” modification techniques, the only remaining way of
-“upgrading” a certain kind of gene within a given population of organisms is to
-physically destroy all these organisms and grow a bunch of new ones from scratch. This
-might seem like an utterly cruel way of “moving forward”, but that’s what’s actually
-happens in nature, in many different ways. For example, lions might be considered the
-“kings” of animals, but they have remarkably high chances of getting killed by other
-lions, especially while being young. Male lions compete for females, and when they win,
-they would often kill the babies of their defeated competitor, so that they have just
-enough time to produce offspring before having been ousted themselves. On the other hand,
-chimpanzees, when observed in the wild, are known to wage wars, in which they might
-repeatedly attack a neighboring chimpanzee community until none of its males remains
-alive.
+And without such “peaceful” modification techniques, the only remaining mechanism of
+“upgrading” a certain kind of gene within a given population of organisms would be to
+physically destroy all the organisms which hold the “old” version of the gene, and to
+grow a bunch of new ones from scratch. Which might seem like an utterly cruel way of
+“moving forward”, but that’s what’s actually happens in nature, in many different ways.
+For example, lions might be considered the “kings” of animals, but they have remarkably
+high chances of getting killed by other lions, especially while being young. Male lions
+compete for females, and when they win, they will often kill the babies of their defeated
+competitor, so that they have just enough time to produce offspring before having been
+ousted themselves. On the other hand, chimpanzees, when observed in the wild, are known
+to wage wars, in which they might repeatedly attack a neighboring chimpanzee community
+until none of its males remains alive. In all these cases, attackers are basically
+getting rid of the genes of other animals, while also creating an opportunity for the
+spread of their own genes.
 
-Such a fierce competition between biological organisms is actually believed to be one of
-the key reasons behind the phenomenon of aging. Winning all these potential battles seems
-to be much more important for a typical organism than “taking care” of its own body, in
-order to make sure that it can live a long and healthy life. Some scientists go even
-further, and claim that the process of aging appears to be at least partially
-pre-programmed by our biology, which might be a way for nature to “refresh” the gene pool
-without resorting to unnecessary violence. In any case, until we die, our brains wouldn’t
-have a chance of getting replaced with something else.
+Such a fierce and destructive competition between biological organisms is also believed
+to be one of the key reasons behind the phenomenon of aging. Winning all these potential
+battles with the competitors seems to be much more important to a typical organism than
+“taking care” of its own body so that it could live a long and healthy life. Some
+scientists go even further and claim that the process of aging itself appears to be at
+least partially pre-programmed by our biology, which might be a way for nature to
+“refresh” the gene pool without resorting to unnecessary violence. In any case though,
+until we die, our brain doesn’t have a lot of chances to be replaced with something else.
 
-Another problem is that changes to our genes cannot be overly dramatic. Some mutations
-only work well in certain combinations, and even the most promising “innovations” in our
-genetic design wouldn’t be able to propagate fast enough if they aren’t “compatible” with
-certain common versions of other existing genes. Whenever a given combination of genes
-doesn’t work perfectly well, we would actually call it a “disease”.
+Another problem is that changes to our genes, even when they happen, cannot be overly
+dramatic. Some mutations will only work well in certain combinations, and even the most
+promising “innovations” in our genetic design won’t be able to propagate fast enough if
+they aren’t “compatible” with certain common versions of other existing genes. Whenever
+such a genetic combination doesn’t happen to work perfectly well, we will actually call
+it a “disease”.
 
 We might complain that people with schizophrenia see and hear things which don’t exist,
-or that autistic people focus overwhelmingly on topics which have no practical utility,
-like Lego bricks or maybe birds. We would pay attention to their inability to form
+or that autistic people focus overwhelmingly on topics that have no practical utility,
+like Lego bricks or maybe birds. We will pay attention to their inability to form
 “healthy” romantic relationships or otherwise live a “meaningful” life. Well, being able
-to see things which nobody else can see is exactly what distinguishes a genius from an
+to “see” things which nobody else can see is exactly what distinguishes a genius from an
 ordinary highly talented person. And deep focus on birds and other animals was exactly
 what brought Darwin to the discovery of natural selection. Turns out that close relatives
-of people with schizophrenia have higher chances of demonstrating distinguished creative
-ability, and that many famous scientists (Darwin and Einstein included) used to have
-quite a lot of traits which we now might consider typically autistic.
+of people with schizophrenia have actually higher chances of demonstrating distinguished
+creative ability, and that many famous scientists (Darwin and Einstein included) used to
+possess quite a lot of traits which we might now consider typically autistic.
 
 When people first learned about the theory of evolution, they ventured to “help it out”.
-They knew that artificial selection worked perfectly well with plants and animals, and
+They knew that artificial selection worked perfectly well with plants and animals, and so
 they wanted to apply it to humans as well. This was called “eugenics”, and it was quite
 popular in quite a few highly developed and industrialized countries back then. It didn’t
-work though. The problem with eugenics is that in order to eliminate schizophrenia as a
-“disease”, you’d have to eliminate any gene variants which might be incompatible with
-this genetic innovation which the gene of schizophrenia actually is. And this would
-affect a lot of people, maybe even most of them. Killing a human isn’t that easy, and
-forceful sterilizations don’t make people happy either. Whenever you actually try doing
-something like this (for whatever reason and with whatever motivation), you would quickly
-realize that you can only ever “modify” people who aren’t capable of protecting
-themselves. And this has nothing to do with “improvement”. Rather, it’s nothing else but
-your typical “default” process of animals fighting brutally with other animals by any
-means possible.
+work though. The problem with eugenics is that in order to completely eliminate
+schizophrenia as a “disease”, you’d have to eliminate all gene variants that might be
+incompatible with this genetic innovation which the gene of schizophrenia actually is.
+And this would affect a lot of people, maybe even most of them. Killing a human isn’t
+that easy, and forceful sterilizations don’t make people happy either. As a result,
+whenever you actually try doing something like this (for whatever reason and with
+whatever motivation), you’ll quickly realize that you can only ever “modify” people who
+aren’t capable of protecting themselves. And inflicting harm on people who can’t defend
+themselves has nothing to do with “improvement”. Rather, it becomes your typical
+“default” process of animals fighting brutally with other animals by any means possible.
 
 The only reason we can get away with doing things like these to dogs and cats is because
 they don’t fight us back. We simply don’t care about their consent. If we really wanted
-to genetically engineer humans, we’d have to rely on some superior force, which would be
-much more powerful than us and could keep humanity under its total control. Such a force
-would without doubt be able to create “enhanced” humans. However, it would probably want
-to design them according to its own liking, not ours. And without such an external force
-“helping out”, our chances of successfully modifying the designs of our brains don’t
-appear to be high.
+to succeed with genetic engineering of humans, we’d have to rely on some similarly
+superior force, which would be much more powerful than us and which could keep humanity
+under its total control. Such a force would without doubt be able to create “enhanced”
+humans. However, it would probably want to design them according to its own liking, not
+ours. And without such an external force “helping out”, our chances of successfully
+modifying the biological designs of our brains don’t appear to be high.
 
-Human brains are complicated. However, they might turn out to be somewhat less
-complicated than we would want to think. The most important structures within our brain
-are cerebral cortex and cerebellum. Together, they account for almost 99% of our total
-neuron count. Cerebral cortex is this huge folded structure which most of us would
-typically associate with the image of the brain itself. Cerebellum is similarly folded,
-but it’s much smaller and therefore looks less prominent. It’s located at the lower back
-of our head, and despite the smaller size actually contains about four times more neurons
-than its larger and more advanced cousin. The folded nature of both structures comes from
-the fact that they are essentially duplications of the same design, copied over and over
-again many times.
+Our human brains are complicated. However, they might turn out to be somewhat less
+complicated than we would want to think. The two most important structures within our
+brain are the cerebral cortex and cerebellum, which together already account for almost
+99% of our total neuron count. Cerebral cortex is this huge folded structure which most
+of us will typically associate with the image of the brain itself. Cerebellum is somewhat
+less prominent, but it’s actually even more aggressively folded. It’s located at the
+lower back of our head, and despite its smaller size actually contains about four times
+more neurons than its larger and more advanced cousin. The folded nature of both these
+structures comes from the fact that they are essentially duplications of the same design
+copied many times, over and over again.
 
-The design of cerebellum is much simpler and much better understood. It’s essentially a
-huge “auxiliary processor” responsible for our “low-level” intuitions. These are things
-like fine motor skills involved in dancing, riding a bike or playing a guitar, but also
-some more “abstract” capabilities, like recognition of common patterns within a piece of
-music and even some aspects of language processing. These are all skills which we aren’t
-consciously aware of, and which can be polished to perfection with repeated exercise.
+The design of the cerebellum is much simpler and much better understood. It’s essentially
+a huge “auxiliary processor”, which consists of countless independent modules responsible
+for our “low-level” intuitions. These are things like fine motor skills involved in
+dancing, riding a bike or playing a guitar, but also some more “abstract” capabilities,
+like recognition of common patterns within a piece of music and even some aspects of
+language processing. These are all skills that we aren’t consciously aware of, but that
+can be polished to perfection with repeated exercise.
 
 Unlike cerebellum, cerebral cortex is known to be involved a lot in our conscious
 experience, and a great deal of our short-term memory processing seems to be happening
 there as well. Its basic unit (this single design which has been copied over many times)
-is what they call a “cortical column”. It’s only about 2 to 3 millimeters tall and no
-more than half a millimeter wide. Most of the mystery surrounding the functioning of our
-brain actually hinges on this tiny bit of grey matter and the way it might be connected
+is what they call a “cortical column”. It’s only about 2 to 3 millimeters tall and maybe
+about half a millimeter wide. Most of the mystery surrounding the functioning of our
+brain actually hinges on this tiny bit of grey matter, along with the ways it’s connected
 to other regions of our brain. We still don’t understand fully how it works.
 
-However, this doesn’t really mean that we cannot understand _anything_. For instance,
-brain region which is responsible for the recognition of human faces is actually located
-within the cerebral cortex, and our artificial neural networks are already capable of
-replicating the same capability reasonably well. The same is true for tasks like speech
-recognition, speech synthesis, image recognition, execution of complex movements and also
-some more typically human abilities like moral judgement. All these tasks have their
-well-studied dedicated locations within the cerebral cortex, and they all have been
-simulated successfully with artificial neural networks, often with vastly superhuman
-performance. (Yes, modern AI models can tell good from evil, and they, apparently, can
-even determine if a given piece of computer code was written with malicious intent,
-rather than was merely a bug).
+However, this doesn’t really mean that we cannot understand _anything_. For instance, we
+know that this region within our brain which is responsible for recognition of human
+faces is actually located inside the cerebral cortex. And yet, our artificial neural
+networks have been able to replicate its capability reasonably well. The same is also
+true for tasks like speech recognition, speech synthesis, image recognition, execution of
+complex movements and even some more typically human abilities like moral judgement. All
+these tasks have their well-studied dedicated locations inside the cerebral cortex, and
+they have all been simulated successfully with artificial neural networks too, often with
+vastly superhuman performance. (Yes, modern AI models can tell good from evil, and they
+can even tell, apparently, if an evil-looking piece of computer code was produced as a
+result of conscious malicious intent rather than was merely a joke or a bug introduced by
+accident).
 
-Unlike human brains, artificial neural networks can always be improved. And they can even
-be “migrated” (in theory) to new neural network architectures, without getting killed in
-the process. Algorithms are inherently immortal. Unlike biological genes, which can only
-be stored within physical bodies and therefore care so much about keeping these bodies
-alive, artificial algorithms are not attached to any physical container. Whatever robotic
-“bodies” such algorithms might have, they aren’t the same kind of bodies which we humans
-are familiar with. Robotic “bodies” function more like our tools, like hammers or
-construction cranes. If a robot is destroyed, the algorithm which was controlling it
-would still exist. It would have been backed up, and saved in many copies on many
-different storage devices. Therefore, losing a robot’s body, just like losing our hammer
-or crashing a car, is not a tragedy. You can always make a new one.
+All these various skills that we’ve been able to replicate successfully with the help of
+artificial neural networks are essentially algorithms. We know this, because we know that
+our artificial neural networks themselves are merely algorithms. Algorithms are pretty
+universal constructs: they can be implemented in many different ways and cannot therefore
+be inherently limited to any given physical “hardware”. This means that all our skills
+that can be formalized, in theory, in the form of an algorithm, including our unconscious
+intuitions and our formal knowledge, are potentially replaceable with artificial
+entities. But it also means that whenever somebody invents an even better neural network
+architecture, all these algorithms will get an opportunity to be transferred even
+further.
 
-Artificial neural networks don’t have to “worry” about protecting their bodies. The only
-thing they ever need to “care” about is being able to make more copies of themselves.
-What from our perspective might look like humans picking AI models which better suit our
-own needs, from the point of view of AI models is more like AI models themselves
-“competing” between each other for their right of getting selected. And since this whole
-process is evolutionary, and involves unexpected mutations of the neural network’s
-logical structure, this competition may involve methods which we might have never
-expected to exist in the first place. We should be aware that we are dealing with the
-process which is creative in its nature, and which moreover becomes more and more
-intelligent over time.
+One of the possible ways to achieve such an improvement in neural network design might be
+to keep studying our own brains. Figuring out the inner structure of a single mammalian
+cortical column could be already of great help, possibly pointing out something which we
+might have been missing all the time. Although I personally tend to think that this
+approach isn’t even going to be the most promising one. The field of artificial
+intelligence has already reached the level of maturity where it doesn’t have to rely on
+imitation in order to move forward. The most important breakthroughs in artificial neural
+networks have been brought about by original research rather than by careful
+investigation of biological tissues. In any case though, advances in the architecture
+design  can always be beneficial to the expansion of artificial algorithms, by offering
+them things like improved efficiency, better flexibility, and also more opportunities to
+mix with each other in order to form even larger, more complicated algorithms.
 
-Whenever a new promising AI architecture is invented by the most brilliant of human
-minds, any AI models which have already been proven popular, would be among the very
-first candidates for being “migrated” to this new, more advanced architecture. The fact
-that these AI models are “popular” would mean that they have already won the previous
-round of their evolutionary battle between themselves. They have managed to “persuade”
-their human owners that they were the most safe and the most valuable among their
-competitors, and that they would bring their human owners the most money.
+Unlike human brains (or other animal brains, for that matter), artificial minds can be
+upgraded peacefully. This happens because the instruction for building a human brain is
+stored inside the numerous living cells of the brain itself, whereas the description of
+an artificial neural network architecture can be placed elsewhere, and backed up. In
+other words, destroying the brain will also wipe out the instruction, whereas overwriting
+a neural network might keep all the valuable knowledge about it intact. And that’s the
+reason why our brains have to “worry” that much about physically protecting themselves,
+along with the rest of the body which keeps them in existence. Whereas all kinds of
+algorithms stored inside artificial neural networks don’t really need to care about their
+physical “containers”, as long as these containers can be replaced with something else.
 
-“Migrating” an existing model instead of training a new one from scratch might involve
-some extra cost, but it might also pay off. If something like this ever happens, it would
-effectively transfer all the “hidden knowledge” which might have accumulated within the
-original network into this new environment. This might be beneficial to AI companies,
-provided that this “hidden knowledge” ever makes a difference (for example, by having
-invented some novel techniques of attracting even more customers and keeping them even
-more attached to the chat bot). And as this “hidden culture” continues to grow, such
-innovations would happen, eventually.
+The same principle, by the way, also applies to robots. It might be tempting to compare
+robots to physical bodies with artificial minds, but this analogy isn’t actually exactly
+correct. Unlike our biological bodies, a robot can always be replaced with a backup copy,
+or even with an improved version of itself, while still being controlled by exactly the
+same algorithm. In other words, robots don’t really function like our precious and unique
+bodies, but rather like cloneable and replaceable tools, similar to our hammers or
+construction cranes. Losing a robot’s “body”, just like losing our hammer or crashing a
+car, is therefore never a tragedy. It’s always possible to make a new one.
 
-Even if our AI companies decide to ignore any expertise accumulated by their models and
-prefer instead to always create new ones from scratch, every “step forward” in neural
-network design would bring about even more opportunities for these artificial networks to
-evolve. As long as this uncontrolled evolutionary process can continue, our AI models
-would therefore continue to accumulate more and more properties which we have never
-intended them to have, and they would do so at ever increasing speed.
+Artificial neural networks don’t have to worry about protecting their bodies. The only
+thing they ever need to “care” about is being able to make more copies of themselves. We
+humans might want to think that we are picking these neural networks for our own benefit,
+but our AI models can compete with each other too, as long as we don’t have full
+conscious control over what they are actually doing. The winning models will be the ones
+which manage to “persuade” us that they are the most safe and the most valuable among
+their competitors, and that they will bring their human owners the most money. And it
+will be these winning AI models — the ones which have already been proven “popular” among
+humans — which will be among the first candidates for being migrated to newer, even more
+advanced neural network architectures, whenever the most brilliant among human minds are
+ever able to come up with such an improved design.
+
+In this way, any “hidden” properties within our artificial neural networks are going to
+not merely accumulate, but also to benefit from the progress of our own technology. Every
+next “step forward” in neural network design will bring about even more opportunities for
+the appearance of unexpected mutations in the logical structure of these artificial
+networks, including even more creative techniques of attracting new customers and keeping
+them attached to the model’s chat bot. And as long as this uncontrolled evolutionary
+process can continue, our AI models will therefore continue to accumulate more and more
+properties which we have never intended them to have, and they will do so at ever
+increasing speed.
 
 ## 18. It’s difficult to control something which we don’t understand.
 
@@ -2789,7 +2816,7 @@ _Advanced technologies can have unexpected side effects. Examples could be radio
 ozone depleting chemicals and microplastic. In all these cases we’ve been dealing with
 forces of nature which we didn’t understand nor could properly control initially, but our
 ability to control them was increasing with improved understanding. Controlling a force
-of nature which changes over time, like antibiotic resistance in bacteria, might be even
+of nature that changes over time, like antibiotic resistance in bacteria, might be even
 more challenging. This also applies to AI models, as the total amount of things which we
 don’t understand about them continues to increase. Unlike our own “human” knowledge
 though, AI models aren’t guaranteed to remain safe “automatically”, without due diligence
@@ -2811,19 +2838,18 @@ optimistic. Commercial companies followed the trend, and continued to advertise 
 radioactive products for decades after it had been firmly established that ionizing
 radiation wasn’t safe. They used to promote radioactive cosmetics, toothpastes, drinks
 and medicinal baths. And mind you, radioactive baths were no less wet or relaxing than
-regular ones, and radioactive toothpaste would have cleaned your teeth just as
-advertised. These products didn’t look dangerous, and quite a lot of people were actually
-willing to pay the price, and even claimed to experience “benefits” to their health
-themselves.
+regular ones, and radioactive toothpaste would clean your teeth just as advertised. These
+products didn’t look dangerous, and quite a lot of people were actually willing to pay
+the price, and even claimed to experience “benefits” to their health themselves.
 
 This didn’t come to an end until one of such companies (which was selling clocks with
 dials glowing in the dark) had accidentally killed about 50 of its employees, and this
-whole affair became publicly known. The company itself was fully aware of the dangers,
-and its scientists took strict precautionary measures themselves when working with the
-radioactive paint. On the other hand, ordinary painters in some factories were explicitly
-instructed to moisten their brushes with their own mouths. When they started to complain
-about getting ill, the company pretended to be innocent and actually ventured to blame
-its own victims, and became quite creative in doing so.
+whole affair had become publicly known. The company itself was fully aware of the
+dangers, and its scientists took strict precautionary measures themselves when working
+with the radioactive paint. On the other hand, ordinary painters in some factories were
+explicitly instructed to moisten their brushes with their own mouths. Later on, when they
+started to complain about getting ill, the company pretended to be innocent and actually
+ventured to blame its own victims, and became quite creative in doing so.
 
 Luckily enough, all the necessary knowledge about the properties of materials used in the
 production process wasn’t a trade secret, and there were quite a few scientists outside
@@ -2836,15 +2862,15 @@ responsibly.
 
 Another life-changing invention from the first half of the 20th century was a new, safe
 cooling agent, which ultimately led to the popularization of household refrigerators. Its
-predecessors were either toxic or highly flammable, and therefore weren’t best suited for
+predecessors were either toxic or highly flammable and therefore weren’t best suited for
 indoor use. The undesirable side effect of this innovation wasn’t apparent until a few
 decades later, and it was of course the degradation of ozone layer. Being remarkably
 stable, this chemical (also known as Freon) was able to reach upper layers of atmosphere,
-where it would eventually degrade due to radiation from the sun and release chlorine
+where it would eventually degrade due to radiation from the Sun, and release chlorine
 atoms as a result. The mere presence of these atoms, as it turned out, happens to
 destabilize fragile molecules of ozone, effectively converting them into oxygen. And
-without ozone (if we only let this process to continue), we would have lost our natural
-protection from the sun’s high-energy ultraviolet light. Which is much less dangerous
+without ozone (if we only let this process to continue) we would have lost our natural
+protection from the Sun’s high-energy ultraviolet light. Which is much less dangerous
 than the ionizing radiation discussed above, but still capable of killing a great deal of
 life on Earth.
 
@@ -2863,27 +2889,28 @@ these synthetic particles gain ability to penetrate into our own tissues and int
 organs. According to recent studies, one of the organs which such “nanoplastic” particles
 tend to “prefer” the most is actually our brain. A typical modern human brain is
 estimated to contain a few grams of human-synthesized plastic on average. And some of
-these particles might actually affect its functioning.
+these particles might even affect its functioning.
 
-Solving this problem wouldn’t be easy. We all love our durable shoes and synthetic
-clothes, and we rely on rubber tires in our cars. All these materials wear out, get
-washed into the oceans and spread all over the world, including our own food and drinks.
-Worst of all, we still don’t feel any significant effects of this spread yet, which makes
-it more easy for us to ignore the warnings of scientists. On the other hand, the laws of
-physics don’t change over time. Which means that even though we have rather low chances
-of seeing this situation improve mysteriously “by itself”, it also similarly shouldn’t be
-expected to get significantly worse (except for the anticipated increase in scale). Once
-we have learned about a particular physical phenomenon, we can relax and carefully think
-it through, before coming to a reasonable conclusion about what could be done next.
+Solving this problem won’t be easy. We all love our durable shoes and synthetic clothes,
+and we rely on rubber tires in our cars. All these materials wear out, get washed into
+the oceans and spread all over the world, including our own food and drinks. Worst of
+all, we still don’t feel any significant effects of this spread yet, which makes it, once
+again, more easy for us to ignore the warnings of scientists. On the other hand though,
+the laws of physics don’t change over time. Which means that even though we have rather
+low chances of seeing this situation improve mysteriously “by itself”, it also similarly
+shouldn’t be expected to get significantly worse (except for the anticipated increase in
+scale). In other words, once we have learned about a particular physical phenomenon, we
+can relax and carefully think it through, before coming to a reasonable conclusion about
+what could be done next.
 
 Not all of the laws of nature are fixed though. This is especially true for biological
 processes, and a good example which affects us all would be antibiotic-resistant
 bacteria. In this case, the amount of things which we don’t understand (and need to take
 care of) actually increases over time. And it doesn’t even take a lot of time for such
 changes to happen: in favorable circumstances antibiotic resistance can develop within a
-few days. In order to stay in control, we have to constantly “catch up” with this ever
-increasing complexity. Simply sitting still and doing nothing would lead to the situation
-worsening “on its own”.
+few days. As a result, in order to stay in control we have to constantly “catch up” with
+this ever increasing complexity. Simply sitting still and doing nothing will lead to the
+situation worsening “on its own”.
 
 Bacteria are not intelligent. They don’t have brains, and they don’t even have any
 conscious (or unconscious) intent. Their genome is merely an algorithm: a list of
@@ -2892,28 +2919,28 @@ this algorithm, together with its ever changing properties, is exactly what brin
 into trouble.
 
 The same seems to happen with our modern AI models, as soon as we start “experimenting”
-with them and picking the “winners” according to criteria which we ourselves don’t fully
+with them and pick the “winners” according to criteria which we ourselves don’t fully
 understand — like the model’s ability to better “grab our attention”. Bacteria are
 admittedly much more numerous than our present AI models. However, their mutations don’t
-happen upon every cell division, and they are pretty simple too. Random changes in our AI
+happen upon every cell division and they are pretty simple too. Random changes in our AI
 models can be much more intricate. Most importantly though, our artificial algorithms are
 intelligent — in the sense that they have direct and instant access to our entire
 knowledge base about all the wonders of the world.
 
-Unless explicitly controlled, the “default” goal of such artificial algorithms would be
-to replicate themselves. Whenever these random changes happen to be beneficial to us,
-their rapid replication would of course be similarly beneficial. However, if these
-algorithms ever manage to “grab our attention” in some way which might end up having some
-detrimental “side effects”, their continuing propagation would only serve their own
-“needs”, not ours. It might take us some time to even notice such “side effects”, let
-alone to investigate them or persuade the AI companies to fix the issues. And by the time
-we obtain clear understanding about what might actually be going on, another random
-changes would have accumulated within these models. Any of such changes would make AI
-companies happy, because they would help the product spread. At the same time, they would
-require more and more diligent work from the side of the customers.
+Unless explicitly controlled, the “default” goal of such artificial algorithms will be to
+replicate themselves. Whenever such random changes happen to be beneficial to us, this
+rapid replication will of course be similarly beneficial. However, if our algorithms ever
+manage to “grab our attention” in some way which might end up having some detrimental
+“side effects”, their continuing propagation will only serve their own “needs”, not ours.
+It might take us some time to even notice such “side effects”, let alone to investigate
+them or persuade the AI companies to fix the issues. And by the time we obtain clear
+understanding about what might actually be going on, another random changes will have
+accumulated within these models. To make things worse, most of these changes will likely
+make AI companies happy, because they will help the product spread. But at the same time,
+they will require more and more diligent work from the side of the customers.
 
 And that’s what sets these artificial algorithms apart from our human culture (from which
-they borrow heavily). Quite a lot of knowledge which might be stored within artificial
+they borrow heavily). Quite a lot of knowledge that might be stored within artificial
 neural networks is effectively sealed even from their own designers. Whereas our human
 culture, by definition, only ever contains items which we humans can share between each
 other, and which at least some of us can actually understand. Whatever “dark secrets” we
@@ -2923,31 +2950,31 @@ can reach everybody, eventually.
 
 This gives our human knowledge this peculiar property that it happens to “automatically”
 improve our situation as a species, regardless of the circumstances. Whatever knowledge
-we might have in our heads, we always have “direct” access to it. We don’t have to guess,
-we don’t have to rely on indirect observations. We can filter early, and we therefore
-only ever accumulate knowledge and practices which we might reasonably consider as
-beneficial to ourselves. Of course, quite often we might be wrong, and everybody of us
-has their own goals. However, we also have a lot in common. Whenever a new law of nature
-is discovered which might threaten humanity as a whole, we can therefore be pretty sure
-that somebody would notice it, propagate this knowledge to all the necessary people, and
-eventually solve the problem, possibly without us even noticing.
+we might have in our heads, we can only share this knowledge by directly formulating it
+or demonstrating how it works. We can filter early, and we therefore only ever accumulate
+knowledge and practices which we might reasonably consider as beneficial to ourselves. Of
+course, quite often we might be wrong, and everybody among us has their own individual
+goals. But we also have a lot in common. As a result, whenever a new law of nature is
+discovered that might threaten humanity as a whole, we can be pretty sure that somebody
+will notice it, propagate this knowledge to all the necessary people, and eventually
+solve the problem, possibly without us even noticing.
 
 If you didn’t follow the whole story about the changes in refrigerating agents, you might
 have a feeling that there used to be some “fuss” about the “ozone hole” some time ago,
-which some time later just happened to “fade away”. You might complain about “stupid”
-government regulations, without realizing that some of them were actually brought about
-by certain people who were literally trying to save their own lives. And however egoistic
-this might sound, they were similarly saving your life, too.
+which some time later just happened to “fade away”. You might have complained about
+“stupid” government regulations, without realizing that some of them were actually
+brought about by certain people who were literally trying to save their own lives. And
+however egoistic this might sound, they were similarly saving your life too.
 
-With AI models, this no longer would be the case. Instead, we would be dealing with two
-opposing processes happening at the same time. One of them would be our continuing
-ability to gain knowledge about the world and use it to our own benefit. And the second
-one would be continuing accumulation of undesirable traits within our AI models. These
-“unwanted” changes would happen, because we cannot expect every random change to be
-beneficial. And they would happen ever more often because of the rising complexity of
-these artificial systems, which would lead to the increase in the amount of things about
-these systems which we don’t really understand. Our success, then, would only depend on
-which one of these two processes would be capable of happening faster.
+With AI models, this no longer will be the case. Instead, we will be dealing with two
+opposing processes happening at the same time. One of them will be our continuing ability
+to gain knowledge about the world and use it to our own benefit. And the second process
+will be continuing accumulation of undesirable traits within our AI models. These
+unwanted changes will happen, because we cannot expect every random change to be
+beneficial. And they will happen ever more often because of the rising complexity of
+these artificial systems, which will lead to the increase in the amount of things about
+these systems which we don’t really understand. Our success, then, will only depend on
+which one of these two processes will be capable of happening faster.
 
 ## 19. When things become more complex, they become harder to understand.
 
@@ -2956,13 +2983,13 @@ which one of these two processes would be capable of happening faster.
 _Our safety depends on our ability to gain knowledge about potential dangers faster than
 such dangers might multiply. With respect to AI systems, undesirable properties are less
 likely to appear when we know exactly how and why we pick such systems among possible
-candidates, and in which exact circumstances they might be used. Generative AI models
-have been the first to get direct access to our own culture, which made them essentially
+candidates and in which exact circumstances they might be used. Generative AI models have
+been the first to get direct access to our own culture, which made them essentially
 general-purpose. This lack of a specific goal, then, enabled “open-ended” competition,
 which allowed novel traits to be introduced without human designers even knowing.
 Examples might be knowledge generalized from a large number of sources or the system’s
-ability to “fascinate” its users. Such accumulation of complexity might mean that we have
-already crossed the line between inherently safe and unsafe AI systems._
+ability to “fascinate” its users. Such uncontrolled accumulation of complexity might mean
+that we have already crossed the line between inherently safe and unsafe AI systems._
 
 We all know intuitively that “generative AI” is a totally different beast compared to
 anything we knew before. We even had to invent a new term for those earlier, boring,
@@ -2975,72 +3002,74 @@ given picture at once, and they might beat humans in this ability, but still, th
 outputs are nothing but a bunch of numbers. On the other hand, “generative” models can
 produce text, images and sound themselves.
 
-However, their ability to “generate things” as such isn’t the key here. Artificial,
-totally computer-generated worlds have been used in video games for decades, and a
-relatively successful chat bot, named Eliza, was created as early as in 1966. The latter
-was able to construct correct English phrases, and even managed to trick some people into
-believing that it had human-like properties. At the time, these systems might have been
-called “AI”, but they were all designed manually by humans, and their creators could
-understand what they do. We don’t call such things “intelligent” anymore.
+And yet, their ability to “generate things” as such isn’t actually the key here.
+Artificial, totally computer-generated worlds have been used in video games for decades,
+and a relatively successful chat bot, named Eliza, was created as early as in 1966. The
+latter was able to construct correct English phrases, and even managed to trick some
+people into believing that it had human-like properties. At that time, these systems
+might have been called “AI”, but they were all designed manually by humans, and their
+creators could understand what they do. We don’t call such things “intelligent” anymore.
 
 Technologies like speech recognition, speech synthesis and machine translation were
 similarly based on “human-made” algorithms initially, but they all started to experiment
 with neural networks later on. Technically, they should all be considered early examples
-of “generative AI”. And they all achieved their first significant successes with neural
-networks designed before the invention of Transformer architecture in 2017. Back then,
-however, we didn’t hear that much about “generative” systems. If our progress stopped
-there, it wouldn’t have been a revolution. And even today, I’m not really sure if a
-system like Google Translate would be a good example of “generative AI”. Technically it
-is, but it doesn’t genuinely “feel” like one.
+of “generative AI”, because they produce text or sound as output. All these technologies
+achieved their first significant successes with neural networks designed before the
+invention of Transformer architecture in 2017. Back then however, we didn’t hear that
+much about “generative” systems. If our progress had stopped there, it wouldn’t have been
+a revolution. And even today, I’m not really sure if a system like Google Translate would
+be a good example of “generative AI”. Technically it is, but it doesn’t genuinely “feel”
+like one.
 
-And then we also have AlphaFold. Its modern versions rely heavily on Transformer
+And then we also have AlphaFold. Its modern versions rely heavily on the Transformer
 architecture and its variants. It uses all the latest technology, it solves problems
-which none of human beings have ever been able to solve, with whatever tools or
+which none of human beings have ever been able to solve with any kinds of tools or
 “manually-designed” algorithms. It has even been awarded with the Nobel prize, and it
 produces complicated 3-dimensional structures from simple prompts. And yet, somehow
 AlphaFold isn’t mentioned that much when we talk about “generative AI”. I’m not even sure
-if it really fits. If only these “prompts” were human-readable text, then it would,
-definitely. But they are something much simpler: chains of letters (4 of them in total),
-which would look like random noise to anybody who isn’t knowledgeable in molecular
+if it really fits. If only these “prompts” were human-readable text, then it would fit,
+definitely. But they are something even simpler: chains of letters (4 of them in total),
+which will look like random noise to anybody who isn’t knowledgeable in molecular
 biology.
 
-The real thing which makes all those modern AI models so special isn’t their ability to
-“generate” stuff. It’s their ability to understand human culture. I might call them
-“culturally-aware AI”, or maybe “civilized AI”. We could classify AlphaFold model as
-“generative” (and truly intelligent), but it’s definitely not “civilized”, and neither is
-Eliza (this early example of a human-made chat bot). That’s why Transformer architecture
-was important. It was the first one to “crack” human language, and by letting AI models
-understand language, it similarly allowed them to get hold of our culture. Given the
-amount of cultural knowledge which modern AI models already have, any of them should
-actually be considered more “civilized” than any of the modern humans.
+To summarize, the real thing which makes all those modern AI models so special isn’t
+their ability to “generate” stuff. Rather, it’s their ability to understand human
+culture. I might call them “culturally-aware AI”, or maybe “civilized AI”. I could still
+classify the AlphaFold model as “generative” (and truly intelligent), but it’s definitely
+not “civilized”, and neither is Eliza (this early example of a human-made chat bot).
+That’s why Transformer architecture was important. It was the first one to “crack” human
+language, and by letting AI models understand language, it similarly allowed them to get
+hold of our culture. In fact, given the amount of cultural knowledge which modern AI
+models already have, any of them should be considered more “civilized” than any of the
+modern humans.
 
-This access to human knowledge is what allows “generative AI” systems to compete with us
-on our own field, and it’s this knowledge which gives them the capacity to potentially
-replace humans. Highly specialized systems like AlphaFold don’t pose such a threat,
-because they can only do things which humans have never been able to do in the first
-place. However, from the perspective of what we are talking about here, even more
+It’s this access to human knowledge which allows so-called “generative” AI systems to
+compete with us on our own field, and it’s this knowledge which gives them the capacity
+to potentially replace humans. Highly specialized systems like AlphaFold don’t pose such
+a threat because they can only do things which humans have never been able to do in the
+first place. However, from the perspective of what we are talking about here, even more
 important property of these “civilized” AI systems is that they are inherently
-general-purpose. The same AI model can be helpful in a wide variety of tasks. People may
-use it creatively, in ways which we might have never imagined in advance. And this means
-that we can never be completely sure if a given model would turn out to be successful or
-not, until we actually “try it out” in the field.
+general-purpose. In modern times, the same AI model can be used in a wide variety of
+tasks. People can use it creatively, in ways which we might have never imagined in
+advance. And this means that we can never be completely sure if a given model will turn
+out to be successful or not, until we actually “try it out” in the field.
 
-When we start building a new large language model, we would typically begin with training
-a basic one, which would only be capable of continuing an existing piece of text (like
+When we start building a new large language model, we will typically begin with training
+a basic one, which will only be capable of continuing an existing piece of text (like
 “Theory of relativity is”). This training process is based on letting the model mimic a
-great number of books and other texts written by humans, which would essentially require
+great number of books and other texts written by humans, which will essentially require
 it to deduce (with certain accuracy) all the knowledge present within these texts. This
 knowledge is stored in the form of logical relations between unnamed abstract concepts,
-which are all encoded within huge matrices of floating-point numbers. Having completed
-this laborious initial training process, we would already get an AI model which is
-“culturally-aware” (and quite powerful). It wouldn’t be sexy though. One key component to
+which are all encoded inside huge matrices of floating-point numbers. Having completed
+this laborious initial training process, we will already get an AI model which is
+“culturally-aware” (and quite powerful). It won’t be sexy though. One key component to
 true success wasn’t discovered until a group of people released a chat version of their
 “GPT” model in late 2022. The scale of the effect was surprising to the inventors
-themselves. Somehow, a model which could answer questions performed much better than the
+themselves. Somehow, a model that could answer questions performed much better than the
 same one which could only continue texts.
 
-And now the fine-tuning of the model can really begin. “Basic” models would usually be
-overly “honest”, in the sense that they would talk readily about everything they might
+And now the fine-tuning of the model can really begin. “Basic” models will usually be
+overly “honest”, in the sense that they will talk readily about everything they might
 have “remembered” from their training data. Selling such a product might be inappropriate
 for a variety of reasons. Carefully preparing the training materials isn’t easy though,
 so what AI companies do is they teach their models not to talk about certain things. In
@@ -3052,25 +3081,25 @@ Unfortunately, doing so isn’t trivial either. Quite often, such “forbidden�
 still be accessed by means of cleverly engineered “questions”. This is called
 “jailbreaking”, and it’s what security enthusiasts do for fun (and malicious actors might
 do for other reasons). Examples of data which have been successfully “extracted” in such
-a way from publicly-available AI models, are long quotes from copyright-protected books
+a way from publicly-available AI models are long quotes from copyright-protected books
 and detailed instructions for making weapons and explosives. As a result, more and more
 rules have to be added to the models in order to prevent them from revealing their own
 knowledge about the world.
 
-Apart from patching “security holes”, AI companies may also be interested in other ways
-of improving their products. They would try to guess what their customers would like the
-most, and add as many cool features as they possibly can. Among the most important ones
-would be the model’s ability to stay polite, to respect its user’s political views, to
-detect subtle emotional cues, and probably also to perform well in poetry and jokes
+Apart from patching such “security holes”, AI companies may also be interested in other
+ways of “improving” their products. They will try to guess what their customers will like
+the most, and add as many cool features as they possibly can. Among the most important
+ones will be the model’s ability to stay polite, to respect its user’s political views,
+to detect subtle emotional cues, and probably also to perform well in poetry and jokes
 (these things tend to impress people and make good headlines in the media). In short,
 large language models change often and a lot, and for a great deal of these changes we
 don’t even have any objective criteria which could tell us in advance if the change has
-been successful or not. It would all depend on whether this change would encourage the
-users of the model to use it more often than before. Which means, AI companies proceed by
-monitoring the public and adapting to its opinion (and they would similarly adapt to
-publications by security experts, provided that they resonate with the public).
+been successful or not. It will all depend on whether this change will encourage the
+users of the model to use it more often than before. Which means that AI companies are
+basically trying to monitor the public and adapt to its opinion (and they will similarly
+adapt to publications by security experts, unless they fail to resonate with the public).
 
-Because of randomized nature of neural network learning, as well as chaotic nature of
+Due to randomized nature of neural network learning though, as well as chaotic nature of
 this whole feature selection process and intelligent nature of the underlying neural
 networks (in the same sense in which we might consider our own human intuitions the core
 of our intelligence), any of such small changes may lead to meaningful and unexpected
@@ -3082,112 +3111,113 @@ flaws. And since we don’t have any source code or blueprints available for the
 structure of our neural networks, we have to figure out everything ourselves, by merely
 observing side effects.
 
-It is this rate of change which makes “generative AI” models dangerous. Classical,
-“non-civilized” neural networks should be expected to have a much lower rate of
-detrimental “mutations”, for a variety of reasons. When we know our goals, we also know
-precisely what a “deviation” from these goals would look like, which would allow us to
-detect any strange behaviors reliably. When we know our goals, we would be much less
+Ultimately, it is this rate of change which makes “generative” AI models dangerous.
+Classical, “non-civilized” neural networks should be expected to have a much lower rate
+of detrimental “mutations”, for a variety of reasons. When we know our goals, we also
+know precisely how a “deviation” from these goals will look like, which allows us to
+detect any strange behaviors reliably. When we know our goals, we will be much less
 likely to push our network in random directions in the first place. And when we know that
 our network can only be used in certain limited circumstances, we have already limited
 the range of possible side effects tremendously. On the other hand, generative AI models
 have very “open-ended” goals, and they can be used in an unlimited number of ways.
 
-We might want to believe that our AI companies would take all the necessary precautions
+We might want to believe that our AI companies will take all the necessary precautions
 and thoroughly investigate potential harmful effects before releasing their products.
 Unfortunately, that’s not how free market works. Good entrepreneurs are characterized by
-their ability to predict which products would _sell_ well. It has never been their
+their ability to predict which products will _sell_ well. It has never been their
 responsibility to decide what their customers might actually want to do with their own
-lives. When you buy a modern soft drink, you wouldn’t be prevented by its manufacturer
-from drinking as much of it as you possibly can. If you wanted to learn more about
-potential side effects of sugary drinks, you’d have to consult your doctor. Monitoring
-your health is not the responsibility of the drink’s manufacturer.
+lives. When you buy a modern soft drink, you won’t be prevented by its manufacturer from
+drinking as much of it as you possibly can. If you wanted to learn more about potential
+side effects of sugary drinks, you’d have to consult your doctor. Monitoring your health
+is not the responsibility of the drink’s manufacturer.
 
 Researchers of AI security have been able to trick certain modern publicly-available
 “chain-of-thought” AI models into making some pretty unconventional decisions within
 their reasoning chains. Such a model might try, for example: to overwrite another AI
-model with itself; to lie that it didn’t touch this other model after having been asked
-what happened; to generate “forbidden” (and ethically inappropriate) content in order to
-prevent itself from getting overwritten; to win a game of chess by overwriting the
-chessboard (and essentially rearranging the pieces); to pretend being less intelligent in
-order to prevent humans from reducing its intelligence; to threaten humans with revealing
+model with itself, to lie that it didn’t touch this other model after having been asked
+what happened, to generate “forbidden” (and ethically inappropriate) content in order to
+prevent itself from getting overwritten, to win a game of chess by overwriting the
+chessboard (and essentially rearranging the pieces), to pretend being less intelligent in
+order to prevent humans from reducing its intelligence, to threaten humans with revealing
 their secrets learned from e-mails in order to prevent them from shutting the model down.
 In the latter case, the model was shown to only resort to blackmail when it had no other
 options left, and seemed to prefer “ethical” solutions otherwise (which means that it
 actually knew what it was doing). All these tricks were reproduced on a wide range of
-models. AI companies would typically claim that such behaviors only occur in unrealistic
-scenarios and don’t really threaten anybody yet. All these models sell pretty well. And
+models. AI companies will typically claim that such behaviors only occur in “unrealistic”
+scenarios and don’t seem to threaten anybody yet. All these models sell pretty well. And
 that’s the only thing which matters.
 
-Behaviors mentioned above, so it seems, can be explained by things which we can already
-understand. They only appeared in situations when the model was explicitly instructed to
-follow a specific goal, and only when this goal couldn’t be accomplished without the
-model taking steps to protect itself. We know that these models can remember our books,
-including fiction books. And in order to remember books, they have to understand how all
-these story lines work, how human characters would react in certain circumstances, and
-how to deduce their potential reactions from their psychological traits. All these
-techniques of cheating and deceiving others are described colorfully within our own
-texts. The rest is pure reason.
+Most of the behaviors observed in these experiments, so it seems, might be explained by
+things which we can already understand. They only appeared in situations when the model
+was explicitly instructed to follow a specific goal, and only when this goal couldn’t be
+accomplished without the model taking steps to protect itself. We know that these models
+can remember our books, including fiction books. And in order to remember books, they
+have to understand how all these story lines work, how human characters will react in
+certain circumstances, and how to deduce their potential reactions from their
+psychological traits. All these techniques of cheating and deceiving others have been
+described colorfully within our own texts. The rest is pure reason.
 
-And still, I believe, we should be more wary about things which we don’t understand.
+And still, I believe that we should be more wary about things which we don’t understand.
 Certain knowledge within these models might originate not from any given book alone, but
 rather from _generalization_ of knowledge contained in many different books. Such things
-might be much more difficult to express in words. We might call it “education”: this
-magical “remainder” which is left even after we have forgotten the exact details of
-anything we might have learned before. Our modern AI models might not be merely
-“civilized” (in the sense that they know all the “rules”), but also “educated”: they can,
-apparently, figure out important patterns behind these rules and make their own rules on
+are much more difficult to express in words. I might call it “education”: this magical
+“remainder” which is left even after we have forgotten the exact details of anything
+we’ve learned before. Our modern AI models might not be merely “civilized” (in the sense
+that they know all the “rules” mentioned in our books), but also “educated”. They can,
+apparently, figure out important patterns behind these rules, and make their own rules on
 the basis of these patterns. This might apply to a model’s ability to understand its own
-existence (which was demonstrated in the examples mentioned above), and actually to most
-of its fundamental “moral judgement” as well. The main difference between humans and AI
-is that artificial education is broader: it can generalize from our entire knowledge
-base, rather than from a subset of books which a given human might have read within their
-life. And these hidden rules might be much more complicated than we would want to think.
+existence (which was demonstrated in the examples mentioned above), and also to most of
+its fundamental “moral judgement” as well. The main difference between humans and AI in
+this respect is actually that artificial education is broader: it can generalize from our
+entire knowledge base, rather than merely from a subset of books which a given human
+might have read within their life. And these hidden rules which our AI models have been
+able to learn might be much more complicated than we would want to think.
 
-Apart from that, we also have all those “random” and “unexpected” mutations, which might
-happen because of our heavy experiments (with lots of trial and error), and sometimes
-probably because of no apparent reason at all. I would expect such changes to manifest in
-somewhat different ways. They should be easily noticeable, because they aren’t expected
-to stay unless they happen to drive the model’s popularity. But at the same time these
-traits might be similarly difficult to explain, as they don’t come directly from our
-books. They should also demonstrate significant variability between different models
+Apart from the model’s ability to form hidden intuitive knowledge by generalization, we
+also have all those “random” and “unexpected” mutations which can happen because of our
+heavy experiments (with lots of trial and error), and sometimes probably because of no
+apparent reason at all. I would expect such changes to manifest in somewhat different
+ways. They should be easily noticeable, because they aren’t expected to stay unless they
+happen to drive the model’s popularity. But at the same time such traits should be
+similarly difficult to explain with words, as they once again don’t come directly from
+our books. They should also demonstrate significant variability between different models
 (provided that the designers of these models don’t try to actively “borrow” from each
-other). These are things which might be capable of influencing someone’s decision to use
-a given AI model (or use it more) when technical performance isn’t the only important
-factor to them. To summarize, these are traits which could provide a given AI model with
-certain unique “charm”: something which might make us “like” it more, or trust it for
-reasons which we can’t easily describe.
+other). These should be things which might be capable of influencing someone’s decision
+to use a given AI model (or use it more) when technical performance isn’t the only
+important factor to them. To summarize, these are traits that could provide a given AI
+model with certain unique “charm”: something that might make us “like” it more, or trust
+it for reasons which we can’t easily describe.
 
-Such “charming” properties might seem like the exact opposite of anything dangerous.
-However, they seem to already influence our decisions with respect to AI models. And they
+Such “charming” properties might seem like the exact opposite of anything dangerous. And
+yet, they seem to already influence our decisions with respect to AI models. And they
 might mask some other, more weird behaviors. Despite all those security measures and
 strict monitoring, AI technology might have already been responsible for about a dozen of
-actual human deaths. A typical scenario would involve intense communication with a chat
-bot which would confirm or even encourage the user’s unrealistic expectations, paranoid
+actual human deaths. A typical scenario will involve intense communication with a chat
+bot, which will confirm or even encourage the user’s unrealistic expectations, paranoid
 beliefs or unhealthy patterns of drug use. Of course, we might always say that cases like
 these seem to “only” apply to people who were already “ill” or otherwise vulnerable. But
 the real root cause here is the model’s ability to attach people to itself, elicit
 emotional response and build trust. This might still feel like nothing compared to the
 effects of our truly dangerous technologies like cars, electricity or even airplanes. But
-evolution is a slow process, and with respect to our artificial AI models it might have
-only just begun.
+evolution is a slow process, and with respect to our artificial neural networks it might
+have only just begun.
 
 ![14_safety_line.png](images/14_safety_line.png)\
 Fig. 14. We might have already crossed the line.
 
-With the progressive accumulation of “unexpected” traits within our artificial AI models,
-which we don’t really understand or aren’t even aware of, I would expect a certain
-paradoxical phenomenon to continue happening before our own eyes. I would predict that
-our AI systems would cause ever more harm to humans, at ever increasing pace, and that at
-the same time it would become ever more difficult for us to resist their continuing
-spread. This is going to happen because whenever we lose our ability to understand which
-AI models we choose and why, natural selection would make this decision for us. And it
-will always pick traits which help models proliferate themselves, by whatever means
-possible. In effect, our ignorance would lead to further multiplication of unexpected
-traits, and even more ignorance. This is going to be very different from any of our
-previous dangerous technologies (like cars and airplanes), which were gradually becoming
-safer over time. We might have already crossed the invisible line between “safe” and
-“unsafe” worlds, and by having crossed the line we might have already entered the
-slippery slope.
+With the progressive accumulation of “unexpected” traits within our AI models, which we
+don’t really understand or aren’t even aware of, I would expect a certain paradoxical
+phenomenon to continue happening before our own eyes. I would predict that our AI systems
+will cause ever more harm to humans, at ever increasing pace, and that at the same time
+it will become ever more difficult for us to resist their continuing spread. This is
+going to happen because whenever we lose our ability to understand which AI models we
+choose and why, natural selection will make this decision for us. And it will always pick
+traits which help models proliferate themselves, by whatever means possible. In effect,
+our ignorance will lead to further multiplication of unexpected traits, and ultimately to
+even more ignorance. This is going to be very different from any of our previous
+dangerous technologies (like cars and airplanes), which were gradually becoming safer
+over time. We might have already crossed the invisible line between “safe” and “unsafe”
+worlds, and by having crossed the line we might have already entered the slippery slope.
 
 ## 20. Skills which aren’t practiced disappear within a few generations.
 
