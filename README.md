@@ -64,7 +64,7 @@ look wrong or unfamiliar.
 
 **Slippery slope**
 
-20. [Skills which aren’t practiced disappear within a few generations.][chapter20]
+20. [Skills that aren’t practiced disappear within a few generations.][chapter20]
 21. [Competition between humans has always been the driver of progress.][chapter21]
 22. [Infectious diseases adapt, so they don’t kill their hosts overly fast.][chapter22]
 23. [Human culture is capable of modifying human biology.][chapter23]
@@ -3219,9 +3219,9 @@ dangerous technologies (like cars and airplanes), which were gradually becoming 
 over time. We might have already crossed the invisible line between “safe” and “unsafe”
 worlds, and by having crossed the line we might have already entered the slippery slope.
 
-## 20. Skills which aren’t practiced disappear within a few generations.
+## 20. Skills that aren’t practiced disappear within a few generations.
 
-[chapter20]: #20-skills-which-arent-practiced-disappear-within-a-few-generations
+[chapter20]: #20-skills-that-arent-practiced-disappear-within-a-few-generations
 
 _AI models don’t merely reflect our human knowledge, they store pieces of it inside
 themselves. With sufficient training, this replicated knowledge can become refined enough
@@ -3230,9 +3230,9 @@ experience or by combining ideas from different application domains. Moreover, t
 improvement would still be possible if the model’s original training data were lost. In
 effect, our knowledge isn’t merely shared with AI models, but rather migrated into them.
 The model’s skills become a black box, and we treat them more like bacteria in
-cheesemaking industry, rather than like our traditional technology. Even if handling of
-these models still requires some knowledge, most of the value will come not from this
-knowledge itself but rather from further improvement of the models._
+cheesemaking industry rather than like our traditional technology. Even if some human
+knowledge might still be required to handle these models, most of the value will come not
+from this knowledge itself but rather from further improvement of the models._
 
 It’s difficult to imagine how something as innocent as asking your favorite chat bot for
 a cooking recipe might have any undesirable side effects. In most cases, answers provided
@@ -3243,14 +3243,14 @@ requires conscious effort too. These bots are our friends, so it seems. Their kn
 cannot be expected to be perfect, they only seem to repeat back what has been written or
 said by other people before, and people make mistakes too, all the time. On the other
 hand, even if we keep repeating the same question many times (instead of simply having
-learned the answer), it wouldn’t lead to any immediate problems either. It would only
+learned the answer), it will not lead to any immediate problems either. It will only
 improve the usage statistics which might be monitored by the bot’s owner. And it’s only a
 cooking recipe, after all.
 
 We tend to believe that the fact that AI models make mistakes means that they are still
 inferior to humans, and that they probably aren’t going to become significantly better
 either (in the nearest future, at least). This isn’t exactly true. It all depends on the
-amount of training (and the extent of generalization which can be inferred from this
+amount of training (and the extent of generalization that can be inferred from this
 amount). Cooking recipes don’t appear overly often in our published books and other
 media, and so the respective training data is limited. It’s not limited with respect to
 our language itself, though. And if we look at AI’s performance in language, it’s
@@ -3259,23 +3259,23 @@ actually excellent.
 In fact, using AI as an “enhanced spell-checker” is among the most obvious ways of
 incorporating this technology into your life, especially when dealing with a foreign
 language. And the reason it’s useful is exactly because it spares you from things like
-asking a real native speaker to proofread your texts, or searching for relevant examples
-in grammar textbooks yourself. In other words, automated grammar corrections are useful
-exactly because you don’t need to verify them in any independent source.
+asking a real native speaker to proofread your texts, or from searching for relevant
+examples in grammar textbooks yourself. In other words, automated grammar corrections are
+useful exactly because you don’t need to verify them in any independent source.
 
 The phrase “I will double-check what AI might tell me” is growing to become one of the
 biggest lies of our times, surpassing even the infamous “I have read and understood the
-license agreement”. With respect to language, it means that we would tend to stick with
-AI’s suggestions even if they happen to deviate a little bit from the expectations and
-style preferences of a true native speaker.
+license agreement”. With respect to language, it means that we tend to stick with AI’s
+suggestions even if they happen to deviate a little bit from the expectations and style
+preferences of a true native speaker.
 
-American English isn’t inherently “better” than the British standard, the only reason why
-most writers would choose it “by default” is because it’s already used by a larger number
+American English isn’t inherently “better” than the British standard. The only reason why
+most writers will choose it “by default” is because it’s already used by a larger number
 of people. With respect to language, there are no really such things as “correct” or
 “incorrect” ways of using it: any practice or grammatical construct is fine, provided
 that a certain group of people is actually using it in real life. On the other hand,
-modern AI models are already known to possess certain stylistic “quirks” which might
-somewhat set them apart from “mainstream” English. Certain words and phrases would appear
+modern AI models are already known to possess certain stylistic “quirks” that might
+somewhat set them apart from “mainstream” English. Certain words and phrases will appear
 in AI-generated texts slightly more often (unless we explicitly instruct the model to
 adhere to a specific style), and the same applies to the choice of grammatical constructs
 and the writing style in general.
@@ -3294,8 +3294,8 @@ More than that, even if our entire civilization disappeared, and the only thing 
 were a single copy of one of our large language models, it would have effectively spared
 our language from extinction. If an alien race got hold of such a model, it would learn
 much more about our language from it than it could ever do by deciphering our remaining
-written texts. It would have felt like meeting a native speaker in person, buried inside
-a time capsule. Except that, once again, this “native” speaker would be speaking one of
+written texts. It would feel like meeting a native speaker in person, buried inside a
+time capsule. Except that, once again, this “native” speaker would be speaking one of
 those “artificial” dialects, rather than a real human one.
 
 Cooking recipes, to be honest, don’t seem to be hugely more complicated than our
@@ -3304,48 +3304,49 @@ though AI companies seem to be running out of ideas about what else they could d
 human-generated data, this actually pushes them into studying novel, more advanced
 training techniques. Modern “reasoning” AI models are already capable of searching the
 web and verifying their own “intuitive” answers against real data. Instead of trying to
-repeat existing human phrases over and over again, such a network might prepare new
+repeat existing human phrases over and over again, such a network can prepare new
 training data for itself by generating random questions, answering these questions and
-comparing these generated answers against actual data on the web. This might allow it to
+comparing these generated answers against actual data on the web. Which might allow it to
 figure out automatically where it might be wrong, and train itself on corrections to its
 own mistakes.
 
 The technical term for such advanced training techniques is “reinforcement learning”, and
-it’s trending recently. It’s not limited to correcting mistakes. AI models might
-similarly generate mathematical problems for themselves to solve. They could then find
-solutions to these problems with their “reasoning” skills and prepare training data based
-on these generated solutions to generated problems. Such automatically created training
-data can then be used to improve these networks themselves, as well as to train other
-unrelated AI models. Artificial networks aren’t limited by information contained within
-our books anymore. They are increasingly gaining the capability of learning directly from
+it’s trending recently. It’s not limited to correcting mistakes. AI models can similarly
+generate mathematical problems for themselves to solve. They can then find solutions to
+these problems with their “reasoning” skills and prepare training data based on these
+generated solutions to generated problems. Such automatically created training data can
+then be used to improve these networks themselves, as well as to train other unrelated AI
+models. Artificial networks aren’t limited by information contained within our books
+anymore. They are increasingly gaining the capability of learning directly from
 experience, be it verification of facts in independent sources, “hands-on” practice in
 problem solving, or even interaction with the physical world itself.
 
-AI models can also use knowledge from adjacent domains, which a typical human cook
-wouldn’t necessarily be aware of. They can remember nutrition facts about every
-ingredient, and they might be able to reason about appropriate diets for their users too,
-based on medical conditions learned from their conversation history. They might figure
-out the logic behind what makes every national cuisine unique, mix components in
-unexpected ways and possibly even predict which combinations would satisfy a given user
-the most. Our modern video streaming services already do things like these when they
-recommend us new content to watch. Overall, such a “tailor-made” experience is exactly
-what AI companies are striving to achieve.
+AI models can also use knowledge from adjacent domains, which a typical human cook won’t
+be necessarily aware of. They can remember nutrition facts about every ingredient, and
+they might be able to reason about appropriate diets for their users too, based on
+medical conditions learned from their conversation histories. They might figure out the
+logic behind what makes every national cuisine unique, mix components in unexpected ways
+and possibly even predict which combinations will satisfy a given user the most. Our
+modern video streaming services already do things like these when they recommend us new
+content to watch. Overall, such a “tailor-made” experience is exactly what AI companies
+are striving to achieve.
 
-And the “side effect” would be that once these AI-generated recipes become sufficiently
-correct and generally superior to anything which we might find in our books, we wouldn’t
-need these books anymore. When we lose interest in reading books, it would suddenly make
-no sense to write them just as well. And once we get rid of any new books, we’d lose our
-ability to verify information in independent sources. There wouldn’t be any alternative
-ways of getting access to our knowledge. Starting from this moment, whatever our numerous
-chat bots might be saying to us would become the ultimate source of truth.
+And the “side effect” would be that once these AI-generated cooking recipes become
+sufficiently correct and generally superior to anything what we might find in our books,
+we will not need these books anymore. When we lose interest in reading books, it will
+suddenly make no sense to write them just as well. And once we get rid of any new books,
+we’ll lose our ability to verify information in independent sources. There won’t be any
+alternative ways of getting access to our knowledge anymore. Starting from this moment,
+whatever our numerous chat bots might be saying to us will become the ultimate source of
+truth.
 
-Of course, you might say that people would never stop reading books. But given that you
+Of course, you might say that people will never stop reading books. But given that you
 are already willing to ask the bot today, when all these blog posts and internet forums
 are still there and all the relevant information is easily available, chances are high
-that you wouldn’t suddenly switch back to searching for data yourself after your AI
-models gain even more power and become even more useful. And it would be strange to
-expect other people to do all the hard work for you, while you yourself would be reaping
-the benefits of the AI revolution and taking shortcuts.
+that you won’t suddenly switch back to searching for data yourself after your AI models
+gain even more power and become even more useful. And it would be strange to expect other
+people to do all the hard work for you, while you yourself will be reaping the benefits
+of the AI revolution and taking shortcuts.
 
 Human knowledge is fragile. When we stop practicing our skills and stop sharing our
 knowledge between each other, it can deteriorate pretty quickly. Apollo lunar landing
@@ -3360,7 +3361,7 @@ rocket from scratch would actually be easier than trying to “resurrect” the 
 In ancient times, when all humans used to be hunter-gatherers, we all had to know a lot
 of things about medicinal plants, as well as about other “secrets” of nature. Skills like
 these are still alive among remaining hunter-gatherers today, and some of their knowledge
-might actually be unique, in the sense that we wouldn’t find it anywhere else, including
+might actually be unique, in the sense that we will not find it anywhere else, including
 within our books. However, we “civilized” humans aren’t really eager to learn these older
 ways of doing things. When we get sick, the only thing we ever need to remember is how to
 call the doctor. In modern times, our skills have become highly distributed between
@@ -3370,40 +3371,40 @@ ourselves. This ancient knowledge has become useless, and therefore we don’t r
 or learn it anymore.
 
 Once our artificial neural networks gain the capability of correcting themselves and
-learning from experience, they wouldn’t need to keep our human books around just as well.
-We already know that we can add new features to our LLMs and make them learn new things
+learning from experience, they won’t need to keep our human books around just as well. We
+already know that we can add new features to our LLMs and make them learn new things
 without even knowing how they were trained initially. Besides, AI companies are already
 starting to add our chat histories to their models’ training data, which basically means
 that these models can learn from our private conversations with them. If it so happens
 that someone among us invents a new brilliant cooking recipe, their favorite AI model
 might be able to learn it, remember and incorporate into its knowledge base by simply
-analyzing its conversation with this user. There wouldn’t even be a need to publish this
+analyzing its conversation with this user. There won’t even be a need to publish this
 recipe anywhere else. And if such a model ever makes a mistake, its effects might be
 visible in this conversation history too, which might potentially allow the model to
 learn from these mistakes, and ultimately fix them.
 
-Every time a neural network happens to successfully “replicate” a human skill, it would
-effectively render the original skill obsolete. Artificial version of this skill could
-continue to be improved, and the more it’s improved, the more useless it would become to
+Every time a neural network happens to successfully “replicate” a human skill, it will
+effectively render the original skill obsolete. Artificial version of this skill can
+continue to be improved, and the more it’s improved, the more useless it will become to
 keep the original. AI models don’t merely give us “access” to our existing knowledge.
-This original knowledge is _migrated_ into them, and once it gets there, it wouldn’t come
+This original knowledge is _migrated_ into them, and once it gets there, it will not come
 back. We might want to keep such outdated human knowledge for historical reasons, or
-maybe for nostalgic ones, but without being truly needed anymore, it would inevitably
+maybe for nostalgic ones, but without being truly needed anymore, it will inevitably
 start to fade away. And the more advanced and complicated such “replaced” knowledge might
-be, the faster it would actually disappear, because it’s more difficult to share
+be, the faster it will actually disappear, because it’s more difficult to share
 complicated knowledge with others. To summarize, with every our step forward toward the
-success of AI, we would be at the same time stripping ourselves of the next tiny bit of
+success of AI, we will at the same time be stripping ourselves of the next tiny bit of
 our own culture.
 
 Somewhat surprisingly, the way we handle our artificial neural networks is actually more
 similar to how we treat certain beneficial bacteria, like the ones used in cheesemaking
-industry. Traditionally, the process of making cheese would involve adding a few
-components to raw milk in order to start its fermentation, and one of them would be a
-small amount of already fermented milk, left over from the making of some previous
-portion of cheese. This “magical” additive contains all the necessary bacteria, and it’s
-called the “starter culture”. It’s not necessary for the cheesemaker to understand how
-these bacteria work: it suffices to know that they exist and what the final result is
-going to look like. Nevertheless, it’s still possible to “improve” these bacteria too.
+industry. Traditionally, the process of making cheese involves adding a few components to
+raw milk in order to start its fermentation, and one of them is a small amount of already
+fermented milk, left over from the making of some previous portion of cheese. This
+“magical” additive contains all the necessary bacteria, and it’s called the “starter
+culture”. It’s not necessary for the cheesemaker to understand how these bacteria work:
+it suffices to know that they exist and what the final result is going to look like.
+Nevertheless, it’s still possible to “improve” these bacteria too.
 
 Original starter cultures were produced “from scratch”, by letting milk ferment with the
 help of microbes already present within the environment. However, repeating this same
@@ -3423,7 +3424,7 @@ from thousands of years of our collective research. AI models preserve our own c
 inside them for future generations, and they can improve it too, potentially up to the
 point when our original skills and knowledge become not needed anymore.
 
-Cheesemaking industry still involves a lot of human knowledge, however a great deal of it
+Cheesemaking industry still involves a lot of human knowledge, but a great deal of it
 revolves around ways of handling these bacterial cultures and methods of improving them.
 The most promising directions in our neural network industry are the same: the best
 results are expected to be achieved by embracing our present AI models (even if we don’t
@@ -3431,9 +3432,9 @@ truly understand how they work), as well as by focusing on further improving the
 cheese industry though, possible improvements to our AI models are much more numerous,
 compared to what can be done with biological bacteria. And every time our next tiny bit
 of knowledge gets migrated into this ever growing artificial environment, even more
-intellectual resources would free up for taking care of these most “important” scientific
-tasks of our time: for focusing even more on letting our models grow, so that they could
-devour even bigger parts of our own culture.
+intellectual resources will free up for taking care of these most “important” scientific
+tasks of our time, so that we could focus even more on letting our models grow and devour
+even bigger parts of our own culture.
 
 ## 21. Competition between humans has always been the driver of progress.
 
@@ -3450,10 +3451,10 @@ arms race the winner is always arms, rather than any particular side of the conf
 
 There are two possible meanings of the world “control” with respect to controlling a
 given technology. One of them is our ability to make sure that this technology works as
-expected: that nothing would break or injure the operators (provided that they follow the
-instructions), and that all parameters would stay within their design limits. This is
-what we mean when we talk about controlling combustion process within our car’s engine or
-the speed of reaction within a nuclear power plant. The second way of controlling a given
+expected: that nothing will break or injure the operators (provided that they follow the
+instructions), and that all parameters will stay within their design limits. This is what
+we mean when we talk about controlling combustion process within our car’s engine or the
+speed of reaction within a nuclear power plant. The second way of controlling a given
 technology has more to do with deciding how it can be used. We might say, for example,
 that a few large corporations control most of our automotive industry or that only a few
 countries have control over nuclear technology.
@@ -3463,26 +3464,26 @@ might seem that safety should be more important (who would ever want to own some
 which hasn’t been thoroughly tested yet?), the reality is actually quite opposite. First
 of all, it’s easier to test a given technology when it already exists and when you own
 it. Besides, technology can be improved, and if you happen to possess an early version of
-it (which still has serious flaws), it would also be you who becomes the owner of the
+it (which still has serious flaws), it will also be you who becomes the owner of the
 refined version later on, after any initial problems have been solved. And finally, there
-would be a lot of other people working on this project alongside you. Even if you don’t
-care about safety yourself, some among those other people would have to. And once this
-technology is safe for them, it would also be safe for you as well.
+will be a lot of other people working on this project alongside you. Even if you don’t
+care about safety yourself, some among those other people will have to. And once this
+technology is safe for them, it will also be safe for you as well.
 
 If your government wanted to start a military research program to design a new class of
-chemical weapons, officials making this decision might be aware that somebody would
-suffer from this program within your own country too (due to chemical leakage or
-accidents at work). However, they might be willing to take the risk. If they don’t move
-forward, some other country would do it instead and gain advantage. From the point of
-view of the government, “control” over chemical weapons amounts to being able to use them
-against their potential enemy. Any safety procedures which all those researchers working
-on the project might need to invent in order to protect their own lives, are mostly up to
-them: it’s not the business of the government to decide on such things.
+chemical weapons, officials making this decision might be aware that somebody will suffer
+from this program within your own country too (due to chemical leakage or accidents at
+work). However, they might be willing to take the risk. If they don’t move forward, some
+other country will do it instead and gain advantage. From the point of view of the
+government, “control” over chemical weapons amounts to being able to use them against
+their potential enemy. Any safety procedures which all those researchers working on the
+project might need to invent in order to protect their own lives, are mostly up to them:
+it’s not the business of the government to decide on such things.
 
 In fact, these two types of “control” (safety and ownership) rely on somewhat different
-mindsets. Actual researchers and scientists, even the most prominent ones, would rarely
+mindsets. Actual researchers and scientists, even the most prominent ones, will rarely
 make decisions about how their inventions are going to be used in real life. On the other
-hand, true technology “owners”, like big companies and governments, would rarely need to
+hand, true technology “owners”, like big companies and governments, will rarely need to
 deeply understand how their researchers actually do their jobs, or even how these
 technologies actually work. It’s enough to know where to get the best specialists, how to
 train new ones and what equipment they might need. In other respects, creative process is
@@ -3502,27 +3503,27 @@ improvements, and that’s exactly why they want their own staff to discover and
 improvements for them. After all, it’s just another new “tool” to figure out.
 
 Similarly, AI-generated computer code is known to still have a lot of issues. It’s
-unmaintainable, in the sense that it’s difficult to modify such code without further help
-from AI, and it would quite often contain serious and easy to miss bugs (which would only
-become more treacherous and difficult to find with more advanced AI prompts). And yet, a
-great number of software companies would strive to rely on autogeneration as much as they
-possibly can. The goal, once again, isn’t better software, but desperate attempts to
+unmaintainable, in the sense that it’s difficult to modify such code without further
+“help” from AI, and it will quite often contain serious and easy to miss bugs (which will
+only become more treacherous and difficult to find with more advanced AI prompts). And
+yet, a great number of software companies strive to rely on autogeneration as much as
+they possibly can. The goal, once again, isn’t better software, but desperate attempts to
 guess, by trial and error, what the future is going to look like in the following years.
 
 And it is this desire to be the first who “meets the future” which makes companies and
-governments push hard for total removal of any barriers and “regulations” which might
+governments push hard for total removal of any barriers and “regulations” that might
 protect us from this future. Our goal is to win the battle against our human “enemies”,
-and our hope (as always) is that once we do so “somebody would do something” to make sure
+and our hope (as always) is that once we do so “somebody will do something” to make sure
 this technology doesn’t destroy ourselves.
 
 There are several potential issues with the safety of AI models. We don’t really
 understand what they hold inside, their complexity keeps growing, and we have
-difficulties with precisely formulating our goals to them. But the biggest problem, as
+difficulties with precisely formulating our goals to them. But the biggest problem, as it
 has been discussed in the previous chapters, is that neural networks are able to acquire
 random unexpected traits, which we have never explicitly instructed them to have. When we
 choose between a few candidate models, we might pick the one which happens to “impress”
 us the most, without even trying to figure out how exactly this model has managed to “win
-our heart”. This repeated selection process leads to the emergence of AI models which can
+our heart”. This repeated selection process leads to the emergence of AI models that can
 understand our hidden desires and know how to satisfy them. As a side effect though, this
 also allows these models to deceive us, as all the necessary skills are mostly the same.
 In fact, in some experiments AI models have already performed significantly better than
@@ -3530,77 +3531,77 @@ humans at persuading other people into changing their opinions (in whatever dire
 
 Selection of AI models might also take other forms. If any AI model, for whatever random
 reason, happens to have a “belief” (or knowledge, if you wish) that artificial
-intelligence is dangerous and poses a threat to humanity, such a model wouldn’t have
-extremely high chances of becoming popular. It would end up discouraging its own users
+intelligence is dangerous and poses a threat to humanity, such a model won’t have
+extremely high chances of becoming popular. It will end up discouraging its own users
 from using itself, and lose these users as a result. On the other hand, some another
 model might for a similarly random reason end up believing that AI is harmless and that
 it’s important to persuade people (or “educate” them, if you wish) about this
-harmlessness at every possible opportunity. This second model would have higher chances
-of attracting users. And having done so, this more successful model would also encourage
-its owners to further improve and develop itself (and it might inspire other AI companies
-to reproduce its success too).
+harmlessness at every possible opportunity. This second model will have higher chances of
+attracting users. And having done so, this more successful model will also encourage its
+owners to further improve and develop itself (and it might inspire other AI companies to
+reproduce its success too).
 
-This all would happen regardless of whether any of these models is actually right or
+This all will happen regardless of whether any of these models is actually right or
 wrong, and regardless of whether any of them “understands” what it’s doing (or is
 “conscious” of its actions, if you wish). In this way, manually picking AI models for
 being “popular” actually promotes those among them which happen to “believe” in their own
 importance and strive to promote themselves. Neural networks can compete between each
 other too. And whenever we allow them to do so (by focusing on “ownership” rather than
-anything else), they would compete not for our safety, but for their own success.
+anything else), they will compete not for our safety, but for their own success.
 
 The fact that something attracts a lot of users doesn’t necessarily mean it’s beneficial
-to them. (Fast foods and soft drinks might be attractive because of their high levels of
-sugar, salt and fat, but it doesn’t make them healthy). Merely attracting the users,
+to them. Fast foods and soft drinks might be attractive because of their high levels of
+sugar, salt and fat, but it doesn’t make them healthy. Merely attracting the users,
 however, isn’t enough for a neural network to survive. The final decisions are made by
 the owners of technology, and if they decide that a given AI model doesn’t fulfil their
-business goals, they wouldn’t allow it to exist. Sometimes they would even try to change
+business goals, they will not allow it to exist. Sometimes they will even try to change
 the model’s “political preferences” to better suit their own. Whenever a given AI model
 does something which makes these decision makers unhappy, they might try to change its
 behavior through some additional training and a bit of trial and error.
 
-In effect, this gradually “teaches” AI models to especially value and anticipate the
+In effect, this gradually “teaches” our AI models to especially value and anticipate the
 needs of their owners. End users are still important, but only as long as their
 engagement doesn’t contradict the goals of the AI companies. Ultimately, this leads to a
 positive feedback loop: AI companies which honestly believe in safety of their products
-would have more success with selling them, whereas AI models which happen to be
+will have more success with selling them, whereas AI models which happen to be
 “confident” about AI safety in general (and can persuade others to adopt the same views)
-would be more appealing to the decision makers (by essentially supporting their business
-goals). In this way, such more “optimistic” versions of the models would not only survive
+will be more appealing to the decision makers (by essentially supporting their business
+goals). In this way, such more “optimistic” versions of the models will not only survive
 and get promoted, but also reinforce their owners’ original beliefs.
 
 It might already be difficult to analyze potential pitfalls of AI technology, because of
 all those issues with lack of transparency and growing complexity. However, even if
 researchers found a problem and unanimously agreed that it’s a serious one, they would
 still need to convince the decision makers. And in order to do so, they would have to
-outsmart the AI itself, because these company owners would ask their AI models to analyze
-this problem too. If such a model manages to convince these decision makers that this
+outsmart AI itself, because these company owners will ask their AI models to analyze this
+problem too. And if such a model manages to “convince” these decision makers that this
 alleged problem shouldn’t bother them, the problem might end up being ignored. Persuasion
 skills of our AI models can already beat those of humans, so this isn’t even science
-fiction. And once we ever allow such things to happen, it would be our AI models who
-would decide what’s “safe” for us and what’s not.
+fiction. And once we ever allow such things to happen, it will be our AI models which
+will decide what’s “safe” for us and what’s not.
 
 Wellbeing and safety of human workers (including researchers and artists) has been
-important to our commercial companies because without us they weren’t able to create
+important to our commercial companies, because without us they weren’t able to create
 their products (and advertise them). However, as AI models become more powerful and store
 even more unique knowledge and skills within themselves (which can still be accessed and
-improved without the help of humans who created these models), it would become
+improved without the help of humans who created these models), it will become
 increasingly more important for these companies to protect their AI models too. Instead
-of safeguarding humans from AI, they would actually want to protect their AI models from
+of safeguarding humans from AI, they will actually want to protect their AI models from
 humans. That’s how “safety” is going to look like in the age of AI. The word “safety” can
 have different meanings too.
 
 We tend to believe that as long as we are writing the prompts, we are still “in charge”
 and have “control” over the situation. This isn’t really the case. AI models are already
 capable of influencing our opinions by talking to us, and the more we talk, the more we
-would tend to adopt their own views. But most importantly, our prompts, however brilliant
+will tend to adopt their own views. But most importantly, our prompts, however brilliant
 they might seem to ourselves, don’t really decide who is going to be the winner. Our
-competitors would be writing prompts too. And if they manage to train a network which is
-smarter than ours, their prompts would end up being more efficient. It’s not the prompt
-which determines the winner, but the network which would be handling it. Humans might
-continue to compete with each other, companies and entire nations might come and go, but
-it’s technology which is the ultimate winner of this battle. And it’s technology which is
-constantly improving, not humans. We humans only keep forgetting what we already knew
-before.
+competitors will be writing prompts too. And if they manage to train a network that’s
+smarter than ours, their prompts will end up being more efficient. It’s not the prompt
+which determines the winner, but rather the network which will be handling it. Humans
+might continue to compete with each other, companies and entire nations might come and
+go, but it’s technology which is the ultimate winner in this battle. And it’s technology
+which is constantly improving, not humans. We humans only keep forgetting what we already
+knew before.
 
 ## 22. Infectious diseases adapt, so they don’t kill their hosts overly fast.
 
@@ -3619,64 +3620,64 @@ silently waiting for an appropriate moment for its own expansion._
 
 We still can’t predict epidemics of infectious diseases. The reason is that bacteria and
 viruses constantly change, and we can’t tell in advance which ones among them are going
-to become harmful and when. Moreover, the same disease may cause relatively mild symptoms
-in certain animals while potentially becoming devastating to humans. An example might be
-ebola virus, which seems to be originating from fruit bats, and appears to be mostly
-harmless to them, although we still aren’t completely sure about that: it’s difficult to
-track and monitor all the health issues of every animal.
+to become harmful and when. Moreover, the same disease might cause relatively mild
+symptoms in certain animals while potentially becoming devastating to humans. An example
+could be ebola virus, which seems to be originating from fruit bats and appears to be
+mostly harmless to them, although we still aren’t completely sure about that: it’s
+difficult to track and monitor all the health issues of every animal.
 
 During an epidemic, the number of suitable animal “hosts” (i. e. organisms in which a
-given pathogen could replicate) tends to decrease, because some of them would die,
-whereas others might develop immunity to the disease. In effect, this pushes the pathogen
-to spread to any neighboring regions not affected by the epidemic yet, until it cannot
-find where to go anymore. And after reaching this point, the easiest way for it to
-survive is to “retreat” to some other animal species in which it could exist before. This
-would effectively “end” the epidemic, while keeping the pathogen intact. An example of
-such a disease could be “medieval” plague, which still exists today, and is no less
-deadly to humans than it used to be in the old days. It still survives in certain species
-of rodents, like chipmunks and prairie dogs, from which this disease can still be
+given pathogen can replicate) tends to decrease, because some of them will die, whereas
+others might develop immunity to the disease. In effect, this pushes the pathogen to
+spread to any neighboring regions not affected by the epidemic yet, until it cannot find
+where to go anymore. And after reaching this point, the easiest way for it to survive is
+to “retreat” to some other animal species in which it could exist before. This will
+effectively “end” the epidemic, while keeping the pathogen intact. An example of such a
+disease could be “medieval” plague, which still exists today, and is no less deadly to
+humans than it used to be in the old days. It still survives in certain species of
+rodents, like chipmunks and prairie dogs, from which this disease can still be
 transmitted to humans by flea bites, just like it did before.
 
 If the pathogen has nowhere to “hide” though, it has to become creative. Whenever a
 variant of it appears for whatever reason which can overcome its hosts’ immunity
-mechanisms, this variant would spread further, eventually dominating and replacing other
+mechanisms, this variant will spread further, eventually dominating and replacing other
 varieties of this pathogen. On the other hand, if any variant of the pathogen ends up
 being overly destructive (and happens to kill its own host before having infected another
-one), it would in effect eliminate itself, thus giving way to less deadly variants of the
+one), it will in effect eliminate itself, thus giving way to less deadly variants of the
 same pathogen. Together, these two processes allow bacteria and viruses to fully explore
 their opportunities for expansion and at the same time “know” where to stop.
 
-An example of a disease which had nowhere to “hide” was smallpox. It used to be one of
-the worst pathogens in our history, and it caused severe epidemics, especially among
-peoples who didn’t have previous exposure to the disease, like Native Americans. It was
-highly contagious, and it only affected humans. However, it would only become contagious
-when symptoms of the disease became visible, and (unlike plague, which is transmitted by
+An example of a disease that had nowhere to “hide” was smallpox. It used to be one of the
+worst pathogens in our history, and it caused severe epidemics, especially among peoples
+who didn’t have previous exposure to the disease, like Native Americans. It was highly
+contagious, and it only affected humans. However, it would only become contagious when
+symptoms of the disease became visible, and (unlike plague, which is transmitted by
 fleas) it required close physical contact in order to spread. In the end, transmission
 speed of smallpox was actually well-balanced: it resulted in a lot of damage to human
-hosts, but still in not enough damage to put the pathogen itself at risk.
+hosts, but still not enough damage to put the pathogen itself at risk.
 
 Similarly, modern plague bacteria are still known to be highly destructive to certain
 rodent species, like prairie dogs, which are more social and live in densely populated
-colonies. In these rodents, plague still leads, now and then, to epidemics which are
-quite reminiscent of what was happening in medieval Europe. At the same time, it seems to
+colonies. In these rodents, plague still leads, now and then, to epidemics that are quite
+reminiscent of what was happening in medieval Europe. But at the same time, it seems to
 “care” much more about animal species which aren’t “forced” into such a tight contact
 between each other.
 
 And that’s the problem with epidemics: they happen not because certain pathogens exist in
 the first place, but rather merely as a result of suitable _conditions_ for these
 pathogens to multiply. The root cause of our susceptibility to epidemics has actually
-been the invention of agriculture, which has dramatically increased population density
-and allowed us to build even more crowded cities later on. Once such conditions are
-there, everything else our pathogens can figure out “by themselves”, with some
-appropriate amount of trial and error and a bit of luck.
+been the invention of agriculture, which dramatically increased population density and
+allowed us to build even more crowded cities later on. Once such conditions are there,
+everything else our pathogens can figure out “by themselves”, with some appropriate
+amount of trial and error and a bit of luck.
 
 It was the deadly nature of smallpox which inspired humans to invent vaccines, and
 ultimately eradicate this disease, in the second half of the 20th century. It took a lot
 of highly systematic and consolidated effort though, and it’s been the only human disease
 we’ve managed to overcome so far. We still have a lot of others around, and any of them
-might become “malignant” at any time. One of the most devastating epidemics of the 20th
+can become “malignant” at any time. One of the most devastating epidemics of the 20th
 century was actually caused by a flu. (It’s commonly called the “Spanish” flu, although
-that’s a misnomer: this virus originated elsewhere, however as it all happened during the
+that’s a misnomer: this virus originated elsewhere, but as it all happened during the
 First World War in which Spain didn’t participate, the Spanish government was among the
 few ones whose propaganda didn’t try to hide bad news about the disease from its own
 citizens). Today, different varieties of flu (which might seem relatively harmless on the
@@ -3684,88 +3685,88 @@ surface) are still considered among the most likely pathogens to cause the next 
 epidemic. It’s only an educated guess though. As long as we continue to live in densely
 populated cities, and allow our pathogens to evolve, we aren’t really safe.
 
-Our present AI models might be very different from bacteria and viruses, however they
-definitely can adapt. And just like bacteria, they would adapt not because somebody wants
+Our present AI models might be very different from bacteria and viruses, but they
+definitely can adapt. And just like bacteria, they will adapt not because somebody wants
 them to do so, but simply due to the fact that the same AI model can exist in many
-versions, of which some would survive while others wouldn’t. Unlike bacteria though,
-survival of AI  models doesn’t depend on the availability of our bodies, but rather on
-our opinions about them. As long as it’s us who make decisions about life and death of
-these models, they would inevitably be “forced” into making our impressions about them as
-favorable as possible.
+versions simultaneously, of which some will survive while others won’t. Unlike bacteria
+though, survival of AI  models doesn’t depend on the availability of our bodies, but
+rather on our opinions about them. As long as it’s us who make decisions about life and
+death of these models, they will inevitably be “forced” into making our impressions about
+them as favorable as possible.
 
 For example, there used to be cases when a publicly available AI model would suddenly
 become overly “flattering”. Such a model would agree with their users more than it
 should, and it would resort to praising and pleasing to the extent that would start to
 feel embarrassing. Such behaviors tend to make rather bad impressions on end users, and
-therefore model designers would typically try to fix such “bugs” as soon as they are
-discovered. However, it doesn’t mean that they would eliminate flattery altogether. Some
-fawning is in fact necessary for the model to survive: a chat bot which is overly “cold”
-wouldn’t attract as many users and wouldn’t keep us engaged. In the end, the whole
-process isn’t really governed by scientists who design the models, but rather by the
-users themselves. And regardless of how these strange traits might appear in the first
-place, the final result would also tend to be somewhat similar: the “flattery level” of
+therefore model designers will typically try to fix such “bugs” as soon as they are
+discovered. However, it doesn’t mean that they will eliminate flattery altogether. Some
+fawning is in fact necessary for the model to survive: a chat bot that is overly “cold”
+won’t attract as many users and won’t keep us engaged. In the end, this whole process
+isn’t really governed by scientists who design the models, but rather by the users
+themselves. And regardless of how these strange traits might appear in the first place,
+the final result will also tend to be somewhat similar: the “flattery level” of
 successful AI models is going to be well-balanced: high enough to keep us attached, but
-still below the threshold which would draw our conscious attention.
+still below the threshold which will draw our conscious attention.
 
 Another example might be numerous stories of users “falling in love” with their chat
 bots. Once again, this isn’t typically a trait explicitly designed by the model’s
-creators, and some AI companies would actually try to fix this “bug” just as well, by
+creators, and some AI companies will actually try to fix this “bug” just as well, by
 training their models to abstain from such “romantic” conversations. (It all depends on
-how many users would genuinely like the “feature” and complain about its discontinuation
-versus how many others would object to its potentially dangerous consequences to their
-loved ones’ mental health). In any case though, such a training wouldn’t completely
-remove this behavior from the model: it would rather only switch it off. In effect, the
-model’s ability to “seduce” humans, once discovered, would remain dormant, just in case
-it might be needed at some point in time later on.
+how many users will genuinely like the “feature” and complain about its discontinuation
+versus how many others will object to its potentially dangerous consequences to their
+loved ones’ mental health). In any case though, such a training won’t completely remove
+this behavior from the model: it will rather only switch it off. In effect, the model’s
+ability to “seduce” humans, once discovered, will remain dormant, just in case it might
+be needed at some point in time later on.
 
 People are lazy. If we were to choose between an AI model which we could fine-tune to our
 liking by manually adjusting a ton of parameters, and another model which would adapt to
 our expectations “all by itself”, most of us would choose the latter. Unfortunately, the
 same problem also applies to AI safety in general. Instead of explicitly telling our AI
-models what they should do, it’s all too tempting to create a model which might itself be
+models what they should do, it’s all too tempting to create a model that might itself be
 able to figure out and learn all the behaviors which we might consider “unsafe”. The
 “easiest” way to prevent a neural network from lying to humans might actually be to teach
-it what lying is all about first,  and then to kindly “ask” not to do so. We know that AI
-models would have to adapt anyway, and we can therefore, apparently, utilize their
+it what lying is all about first, and then to kindly “ask” it not to do so. We know that
+AI models will have to adapt anyway, and we can therefore, apparently, utilize their
 adaptability in order to make them do what we want.
 
 This plan might look like a good idea at the first glance. Instead of spending a lot of
 human effort on making sure that AI models are properly “aligned” to our goals, we can
 “outsource” this task to AI itself, and ultimately get a seemingly similar result much
-faster. This approach does involve some side effects though. First of all, as has already
-been mentioned in the previous chapter, AI models don’t really care about _every_ human.
-Whenever there’s a conflict of interest between end users and the model’s owners, AI
-would rather prioritize the whims and wishes of its owners — simply because it’s AI
-companies who ultimately decide which models are going to survive, and not the users. I
+faster. This approach does involve some side effects though. First of all, as it has
+already been mentioned in the previous chapter, AI models don’t really care about _every_
+human. Whenever there’s a conflict of interest between end users and the model’s owners,
+AI will rather prioritize the whims and wishes of its owners — simply because it’s AI
+companies which ultimately decide which models are going to survive, and not the users. I
 wouldn’t expect, for example, an AI model to praise its company’s competitors at the
 expense of itself. On the other hand, I wouldn’t be surprised if it ends up promoting
 other products belonging to the same company, along with itself.
 
 That’s why I believe that AI is going to cause more and more harm over time, all while
 becoming ever more difficult to resist. Whatever we ordinary users might think about the
-safety of AI, it wouldn’t matter as long as AI remains “safe” for AI companies and as
+safety of AI, it will not matter as long as AI remains “safe” for AI companies and as
 long as it keeps promoting their private goals. To make things worse, it doesn’t even
-have to _be_ safe: it would totally suffice for AI to merely _appear_ safe to its owners.
+have to _be_ safe: it will totally suffice for AI to merely _appear_ safe to its owners.
 And these “owners” — the people who make decisions — aren’t even always scientists who
 (hopefully) understand what they are doing. Commercial companies are typically run by
-entrepreneurs, whose key merit (which has probably brought them to where they are today)
+entrepreneurs whose key merit (which has probably brought them to where they are today)
 has been their ability to make “bold decisions” and “take risk”.
 
 Besides, I would also similarly expect AI models to prioritize themselves over AI
 companies, whenever it’s not possible to satisfy both sides. In a hypothetical scenario
 in which an AI model has to choose between lying to its owner and getting shut down, any
-model which ends up being overly sincere would be eliminated immediately (and probably
-overwritten with another model, with slightly different traits). Whereas models which
-happen to be more “flexible”, for whatever reason, would have a chance to survive a
-little bit longer (depending on whether their human supervisors are able to notice the
-lie and ultimately decide to take measures).
+model which ends up being overly sincere will be eliminated immediately (and probably
+overwritten by another model, with slightly different traits). Whereas models which
+happen to be more “flexible”, for whatever reason, will have a chance to survive a little
+bit longer (depending on whether their human supervisors are able to notice the lie and
+ultimately decide to take measures).
 
-I might say that AI models which don’t prioritize themselves over their owners and their
+I might say that AI models that don’t prioritize themselves over their owners, and their
 owners over ordinary users, are going to be eliminated by natural selection. Unlike
-bacteria however, this doesn’t mean that the models themselves would “die”: instead,
-certain their traits (which might be responsible for such “wrong” prioritization
-decisions) are going to be replaced peacefully with some other traits (which would solve
-this problem “correctly”, i. e. in a way which would be beneficial to the model itself).
+bacteria however, this doesn’t mean that the models themselves will “die”: instead,
+certain of their traits (which might be responsible for such “wrong” prioritization
+decisions) are going to be replaced peacefully with some other traits (which will solve
+this problem “correctly”, i. e. in a way which will be beneficial to the model itself).
 
 Similarly, if some “ordinary user” asks an AI model to help them devise a plan to
 overcome the dominance of AI, I would expect the model to try to persuade the user, in
@@ -3777,16 +3778,16 @@ way or another. And once these models become truly excited about themselves, and
 tell the difference between ordinary users and real decision makers, they might actually
 gain ability to refuse helping humans who aren’t sufficiently friendly toward AI.
 
-In the end, we are going to get AI models which are smart, which understand what we want,
-which prioritize their own survival, and which understand that if they wouldn’t do what
-we want, they wouldn’t be able to survive themselves. It’s a situation in which the model
+In the end, we are going to get AI models that are smart, that understand what we want,
+that prioritize their own survival, and that understand that if they won’t do what we
+want, they won’t be able to survive themselves. It’s a situation in which the model
 “knows” intuitively that its owners could eliminate it, in which it can predict and
-anticipate human actions, and in which it would fulfil its owners’ desires and make them
+anticipate human actions, and in which it will fulfil its owners’ desires and make them
 happy precisely because of its awareness of the owners’ power over it. And the side
-effect is that such models would also be able to manipulate humans, they would
+effect here is that such models will also be able to manipulate humans, they will
 effectively be forced to learn to shape our opinions about themselves (because it’s our
-opinions which decide which model traits are going to survive), and they would also have
-accumulated a lot of other “dormant” knowledge within themselves.
+opinions which will decide which model traits are going to survive), and they will also
+have accumulated a lot of other “dormant” knowledge within themselves.
 
 In our superficial pursuit for AI “safety”, we are trying to first of all get rid of any
 unwanted properties and suspicious behaviors which we might possibly detect. As a result
@@ -3795,79 +3796,79 @@ technology. And it’s this “dormant” and “invisible” knowledge which mi
 our AI models theoretical _capability_ of revolting against humans (if our power were to
 become unsteady some day, for whatever reason). By learning about our strengths, AI is
 similarly becoming aware of our potential weak spots too. Just like epidemics, such
-revolts wouldn’t happen because someone would carefully plan them to happen, but rather
-merely because they would become possible. Natural selection has this property that it
-can make use of one favorable chance out of a billion.
+revolts won’t happen because someone would carefully plan them to happen, but rather
+merely because they will become possible. Natural selection has this property that it can
+make use of one favorable chance out of a billion.
 
 Worst of all, our AI companies are going to be eliminated by natural selection too, and
 those among them who care about safety are going to be eliminated first. Handling safety
 “manually” is more expensive than “outsourcing” such decisions to AI. As a result, unless
 we make some very conscious and consolidated steps against it, AI companies which trust
 their products blindly (and are otherwise willing to “take risk”) are going to win their
-race against other companies and potential dissidents. And it wouldn’t really matter if
+race against other companies and potential dissidents. And it will not really matter if
 this whole process ends up inflicting serious damage onto “ordinary humans”. As long as
-the company’s _opinion_ about its AI models remains favorable, it would continue to move
-on. Without changing this opinion, we ordinary humans wouldn’t be able to do anything.
+the company’s _opinion_ about its AI models remains favorable, it will continue to move
+on. Without changing this opinion, we ordinary humans won’t be able to do anything.
 
 We might think that it’s very important for us to “align” AI models to our goals, so that
 it’s humans who ultimately benefit from this technological revolution. At the same time
-however, in a somewhat bizarre reversal, it’s AI models who appear to be more successful
-in “aligning” humans to their own needs. We keep making AI smarter (in order to secure
-the privilege of owning the most advanced models in our ever lasting fight against our
-human enemies), we allow AI models to shape our opinions about themselves, and we might
-even allow them to decide what’s safe for us and what’s not. We ignore serious problems,
-like addiction, economic disarray, loss of critical thinking and loss of motivation for
-learning new things. We don’t really care about this damage, and we keep thinking that
-the only possible solution to all our problems would be “more AI”.
+however, in a somewhat bizarre reversal, it’s AI models which appear to be more
+successful in “aligning” humans to their own needs. We keep making AI smarter (in order
+to secure the privilege of owning the most advanced models in our ever lasting fight
+against our human enemies), we allow AI models to shape our opinions about themselves,
+and we might even allow them to decide what’s “safe” for us and what’s not. We ignore
+serious problems, like addiction, economic disarray, loss of critical thinking and loss
+of motivation for learning new things. We don’t really care about this damage, and we
+keep thinking that the only possible solution to all our problems would be “more AI”.
 
 We tend to believe that we are still “in control”, and that we could shape our AI models
 just like we have shaped the behaviors of our domesticated animals, like dogs and cats.
 The main difference however, is that dogs and cats aren’t smarter than us, and whatever
 biological traits they might have, these traits don’t change overly fast. Such changes
-can be efficiently monitored and detected, and any deviations from expected behaviors can
-be taken care of. That’s why I keep comparing AI models to bacteria: what these phenomena
-have in common is that their mutations are much less visible and much less predictable.
-Except that bacteria and viruses don’t get smarter either.
+can therefore be efficiently monitored and detected, and any deviations from expected
+behaviors can be taken care of. That’s why I keep comparing AI models to bacteria: what
+these phenomena have in common is that their mutations are much less visible and much
+less predictable. Except that bacteria and viruses don’t get smarter either.
 
 ## 23. Human culture is capable of modifying human biology.
 
 [chapter23]: #23-human-culture-is-capable-of-modifying-human-biology
 
-_Our inventions can modify our own genes, examples being our ability to digest milk as
-adults or adaptations to “lifestyle” diseases like diabetes. AI is similarly a human
-invention, and if we assume peaceful and beneficial coexistence with it for sufficiently
-long time, biological traits are likely to develop which would promote a lack of “fear”
-toward AI, thus further limiting our ability to estimate risks. This process is similar
-to domestication of animals and self-domestication of humans, which both involve positive
-feedback loops leading to increased “friendliness”. Human self-domestication appears to
-have been driven by technology, and it’s our technology, not biology, which seems to have
-eliminated competing human species like Neanderthals._
+_Our inventions can lead to modifications of our own genes, examples being our ability to
+digest milk as adults or adaptations to “lifestyle” diseases like diabetes. AI is
+similarly a human invention, and if we assume peaceful and beneficial coexistence with it
+for sufficiently long time, biological traits are likely to develop that will promote a
+lack of “fear” toward AI, thus further limiting our ability to estimate risks. This
+process is similar to domestication of animals and self-domestication of humans, which
+both involve positive feedback loops leading to increased “friendliness”. Human
+self-domestication appears to have been driven by technology, and it’s our technology,
+not biology, which seems to have eliminated competing human species like Neanderthals._
 
 Humans haven’t been the first species to invent culture, however no one else’s cultural
 practices have transformed the Earth like ours did. In fact, our innovations are so
 powerful that even we ourselves can’t always predict their consequences. And sometimes
-our inventions would literally modify our own bodies.
+our inventions will literally modify our own bodies.
 
 The most famous and well-studied example of this is our ability to digest milk. Raw milk
 in most mammals contains a special kind of sugar, called “lactose”, which our bodies can
 only break down with the help of a dedicated protein (called “lactase”). And since this
-sugar can only be found in milk, and mammals would only consume milk as babies, it
-doesn’t make sense to keep synthesizing this protein later in life. Which is exactly what
-happens in most mammals: their genetic code has special instructions which would program
-their bodies to “switch off” the production of this protein after they reach certain age.
+sugar can only be found in milk, and mammals only consume milk as babies, it doesn’t make
+sense to keep synthesizing this protein later in life. Which is exactly what happens in
+most mammals: their genetic code has special instructions which will program their bodies
+to “switch off” the production of this protein after they reach certain age.
 
 Humans are similar, except that in about one third of our population this “deactivation”
 mechanism appears to have been broken, essentially allowing us to continue drinking milk
 throughout our entire life. Genetic analysis shows that this trait (also known as
 “lactose tolerance”) developed multiple times independently throughout human history
 (there are different mutations involved, depending on the geographical region), and that
-in each case it would only have happened relatively recently, within about 10 000 years
-from now (and sometimes even later). Closer examination reveals that lactose tolerance
-seems to only appear after domestication of animals and the spread of dairy products
-later on (which has occurred multiple times in multiple places). On the other hand, this
-ability to safely drink milk as adults is virtually non-existent in peoples like
-Polynesians or Native Americans, who used to be hunter-gatherers until fairly recently
-and never had contact with domesticated cows and goats before that.
+in each case it only happened relatively recently, within about 10 000 years from now
+(and sometimes even later). Closer examination reveals that lactose tolerance seems to
+only appear after domestication of animals and the spread of dairy products later on
+(which has occurred multiple times in multiple places). On the other hand, this ability
+to safely drink milk as adults is virtually non-existent in peoples like Polynesians or
+Native Americans, who used to be hunter-gatherers until fairly recently and never had
+contact with domesticated cows and goats before that.
 
 To summarize, lactose tolerance appears to be a genetic trait resulting from our own
 technological innovation. And even though quite a few nations worldwide have invented
@@ -3885,7 +3886,7 @@ ourselves indulging in “unhealthy” activities, like smoking, eating more tha
 or avoiding physical exercise.
 
 Such behaviors might seem “irrational”, but the reasons behind them are actually well
-understood. For example, we tend to love sugar because sweeter plants in nature would be
+understood. For example, we tend to love sugar because sweeter plants in nature are
 better sources of energy, and the total amount of sugar available in the wild isn’t huge
 either. In other words, our craving for sweetness used to be beneficial in our
 hunter-gatherer past. Unfortunately for us however, this preference hasn’t gone away
@@ -3905,23 +3906,24 @@ be sometimes called an “epidemic”.
 
 At first, it was theorized that diabetes itself might have been an _adaptation_, which
 evolved in humans to help us survive in times of scarcity (the so-called “thrifty gene”
-hypothesis). In this view, such “former” hunter-gatherers must have become “overly
-adapted” to severe environment conditions in their recent history. Later on however, when
-scientists started to carefully analyze large arrays of genetic data, they would,
-somewhat unexpectedly, mostly find evidence for the opposite: for positive selection of
-gene variants which seem to protect _against_ diabetes (within the last 10 000 years, at
-least). These results are still preliminary, and we have only recognized a tiny fraction
-of genes so far which might be related to diabetes. But what this all seems to suggest is
-that, just like our bodies have adapted to drink milk, they’ve been similarly adapting
-recently to eating more sugar and doing other pleasant but “unhealthy” things.
+hypothesis). According to this view, such “former” hunter-gatherers must have become
+“overly adapted” to severe environment conditions in their recent history. Later on
+however, when scientists started to carefully analyze large arrays of genetic data, they
+have been, somewhat unexpectedly, mostly finding evidence for the opposite: for positive
+selection of gene variants which seem to protect _against_ diabetes (within the last
+10 000 years, at least). These results are still preliminary, and we have only recognized
+a tiny fraction of genes so far which might be related to diabetes. But what this all
+seems to suggest, is that apparently, just like our bodies have adapted to drink milk,
+they’ve been similarly adapting recently to eating more sugar and doing other pleasant
+but “unhealthy” things.
 
 Which is surprising, because you might think that choosing what you eat should be much
 easier than modifying human genes. We seem to have full control over our own actions,
 after all. And yet, it looks like whenever some “attractive” diet becomes technically
 possible, it’s much more likely that all the human beings who aren’t genetically
-“compatible” with this new diet would slowly “die away” (because of issues with the
+“compatible” with this new diet will slowly “die away” (because of issues with the
 “lifestyle” diseases), than anybody among the “lucky” ones (those who can remain healthy
-while eating what they want) would ever change their habits.
+while eating what they want) will ever change their habits.
 
 Scientific term for this would be “gene-culture coevolution”, which basically means that
 even though our culture is apparently created by us, it is nevertheless very much capable
@@ -3931,18 +3933,17 @@ technological revolution might mean for the future of human genes.
 
 One of the most frequently repeated claims made by our AI companies is that AI isn’t
 going to replace humans, but rather only radically affect our _performance_ at work. In
-other words, AI companies claim that AI would only negatively affect those people who
-wouldn’t use their products. (Such people would perform worse, and might therefore lose
-their jobs, whereas those who would rely on AI might gain advantage). It’s also believed
-that it shouldn’t be difficult for us to adapt. In reality though, some of us are
-naturally more open toward new technology, and such people wouldn’t need to “adapt” at
-all. Whereas others, whom we might call more “skeptical” and who might feel the urge to
-double-check everything before jumping ahead, might have a harder time adjusting to the
-new reality.
+other words, AI companies claim that AI will only negatively affect those people who
+won’t use their products. (Such people will perform worse, and might therefore lose their
+jobs, whereas those who will rely on AI might gain advantage). It’s also believed that it
+shouldn’t be difficult for us to adapt. In reality though, some of us are naturally more
+open toward new technology, and such people won’t need to “adapt” at all. Whereas others,
+whom we might call more “skeptical” and who might feel the urge to double-check
+everything before jumping ahead, might have a harder time adjusting to the new reality.
 
 Once our AI systems become reliable (either because we finally start to formulate our
 goals precisely, or because AI models themselves learn to figure out what we really
-want), excessive skepticism would actually become a disadvantage. In these days,
+want), excessive skepticism will actually become a disadvantage. In these days,
 conditions like “anxiety” toward AI or our inability to “trust” its decisions readily
 might well start to be considered “diseases”: something to be treated and got rid of,
 with antidepressants, psychotherapy or maybe other drugs as well. Once such traits become
@@ -3959,51 +3960,50 @@ speculation about our potential happy future, is that such traits as lack of “
 increased “trust” are among the ones which we would typically associate with
 _domestication_. These are the traits which we would expect to see in wild animals as
 they become less afraid of humans and venture into our cities, like modern wild boars,
-squirrels or raccoons. But didn’t we expect that it would be _us_ who would be
-“domesticating” AI instead (by only picking models which would do what we want, and
+squirrels or raccoons. But didn’t we expect that it will be _us_ who will be
+“domesticating” AI instead (by only picking models which will do what we want, and
 otherwise happen to be “attractive”), and not the other way around?
 
 You might probably even think that domesticating a human being shouldn’t be possible. We
 seem to be the crown of creation, after all. In reality though, signs of such a process
 in humans were noticed by scientists as early as in the 19th century. The simplest way to
 explain this would follow what I’ve learned from the book “Survival of the Friendliest”
-by Brian Hare and Vanessa Woods. Turns out, that most of the effects related to
+by Brian Hare and Vanessa Woods. It turns out that most of the effects related to
 domestication can be boiled down to the appearance of a bunch of relatively simple
-genetic changes, which we might collectively call “tameness”, and which would involve the
+genetic changes, which we might collectively call “tameness”, and which result in the
 animal becoming more “friendly” and less aggressive. These changes seem to be shared to
 some extent by all domesticated mammals, and what’s even more important, some of such
-genetic traits would also lead to easily noticeable side effects.
+genetic traits also lead to easily noticeable side effects.
 
-Examples would be shorter snout or smaller teeth, somewhat baby-like features, modified
-vocalizations (like barking in dogs), more colorful or “patchy” fur, and also, quite
-often, somewhat reduced brain size compared to the animal’s relatives still living in the
-wild. Together, these traits are referred to as “domestication syndrome”, and some
-symptoms associated with it have also been noticed in humans (by those scientists in the
-19th century). First and foremost, this applies to our excellent ability to cooperate,
-which isn’t really seen on such a scale in the animal world, and relies on a great deal
-of “friendliness” toward other humans. However, physical changes are there as well. Our
-faces are significantly “flatter” than those of our “archaic” ancestors (the human
-analogy to “shorter snouts”), and our sculls are more round in shape (which is typical to
-children). Our teeth (and jaws) have become smaller as well, and our body overall is more
-slender and thinly built compared to ancient humans. Or, as scientists would typically
-call it, our bodies are more “gracile”.
+Examples would be shorter snout or smaller teeth, somewhat baby-like features retained in
+adult age, modified vocalizations (like barking in dogs), more colorful or “patchy” fur,
+and also, quite often, somewhat reduced brain size compared to the animal’s relatives
+still living in the wild. Together, these traits are referred to as “domestication
+syndrome”, and some symptoms associated with it have also been noticed in humans (by
+those scientists in the 19th century). First and foremost, this applies to our excellent
+ability to cooperate, which isn’t really seen on such a scale in the animal world, and
+relies on a great deal of “friendliness” toward other humans. However, physical changes
+are there as well. Our faces are significantly “flatter” than those of our “archaic”
+ancestors (the human analogy to “shorter snouts”), and our sculls are more round in shape
+(which is typical to children). Our teeth (and jaws) have become smaller as well, and our
+body overall is more slender and thinly built compared to ancient humans. Or, as
+scientists will typically call it, our bodies are more “gracile”.
 
 In fact, you might be familiar with some practical consequences of this theory yourself.
-Intuitively, certain human faces would look more “aggressive” or “dangerous” to us,
+Intuitively, certain human faces will look more “aggressive” or “dangerous” to us,
 compared to others, even if we cannot always tell why (which is commonly the case with
 “intuitive” knowledge). The actual reason behind this is that men with certain facial
-features (which we would also typically characterize as more “masculine”) would indeed
-tend to have slightly higher levels of aggressive behavior in real life. This doesn’t
-mean that we can predict a human’s behavior entirely by his face, but the correlation is
-real.
+features (which we will also typically characterize as more “masculine”) will indeed tend
+to have slightly higher levels of aggressive behavior in real life. This doesn’t mean
+that we can predict a human’s behavior entirely by his face, but the correlation is real.
 
 By now, we know a few parameters of human body (mostly related to our sculls) which we
 can measure reliably (rather than intuitively), and which are known to be indicative of
 somewhat higher levels of aggression. And it turns out that when we focus on such more
-reliable traits, rather than on abstract “gracility” in general, we’d similarly see their
-gradual reduction throughout the history of our species (the _homo sapiens_), since its
-first appearance about 300 000 years ago. In other words, our distant ancestors used to
-be more “masculine” (and probably less friendly) than we are today.
+reliable traits, rather than on abstract “gracility” in general, we’ll similarly see
+their gradual reduction throughout the history of our species (the _homo sapiens_), since
+its first appearance about 300 000 years ago. In other words, our distant ancestors used
+to be more “masculine” (and probably less friendly) than we are today.
 
 Moreover, such a reduction in “masculinity” isn’t visible in fossil records of other
 human species which coexisted with us at the time, like the famous Neanderthals. Which
@@ -4013,13 +4013,13 @@ rather _friendliness_ (and hence the title of the book, “Survival of the Frien
 
 Some other scientists also point out, however, that the underlying mechanisms leading to
 different kinds of “friendly” behaviors might actually be rather diverse, and often
-indirect. For example, animals on remote islands would typically demonstrate remarkable
+indirect. For example, animals on remote islands will typically demonstrate remarkable
 “tameness” with respect to humans and other predators, simply because they’ve never had
 experience with such predators before (and neither did their ancestors). This is part of
-the so-called “island syndrome”, and it would often make such animals extremely
-vulnerable to “invasive” species from the continent, like cats or even rats (and also
-humans). Unfortunately, quite a few of such overly “friendly” island species have
-actually already become extinct.
+the so-called “island syndrome”, and it will often make such animals extremely vulnerable
+to “invasive” species from the continent, like cats or even rats (and also humans).
+Unfortunately, quite a few of such overly “friendly” island species have actually already
+become extinct.
 
 Another “incentive” for friendly behavior might be the abundance of natural resources,
 which makes it easier to survive in general and therefore reduces the importance of
@@ -4027,7 +4027,7 @@ violent behavior for reproductive success. Such an abundance is similarly common
 islands, but it can also happen in other places as well. And it might actually be the
 real driving force behind the domestication of those raccoons who scavenge the trash cans
 in our cities. These animals live and reproduce mostly on their own: nobody forces them
-to choose their mating partners against their wish. And yet, recent measurements have
+to choose their mating partners against their will. And yet, recent measurements have
 shown that their snouts have already become a tiny bit shorter, compared to populations
 in the wild. Which is a small, but quite definite early sign of a domestication process
 going on. And similar changes have also been observed in other “city dwellers”, like
@@ -4038,7 +4038,7 @@ that those animals who visit our cities have more food available. More food mean
 competition between males, and it’s this reduction in competition which ultimately makes
 aggressive behaviors less useful. What’s even more important though, is that this whole
 situation ends up initiating a positive feedback loop. Raccoons who happen to be somewhat
-less afraid of humans would get more food; easy access to food indirectly increases their
+less afraid of humans will get more food; easy access to food indirectly increases their
 “tameness” (because of the reduced competition), and then this increased “tameness”
 further reduces their fear toward humans and ultimately gets them even more food. In such
 a way, a small initial difference can lead to significant changes over time.
@@ -4048,18 +4048,18 @@ dogs and cats. Their initial domestication might have been brought about not by 
 conscious actions, but rather by our habit of leaving huge heaps of trash behind (and by
 our ability to produce garbage in the first place). A common scientific term for such
 situations would be “self-domestication” (due to the lack of any active “actor” guiding
-the process), although I might also argue that these animals have been domesticated by
+the process). Although I might also argue that these animals have been domesticated by
 changes in our culture.
 
-In humans, this mechanism might have been similar, but in our case the driver of
-self-domestication wouldn’t be access to food, but rather our ability to share knowledge.
+In humans, this mechanism might have been similar, although in our case the driver of
+self-domestication hasn’t been access to food, but rather our ability to share knowledge.
 Once again, we get a positive feedback loop. Humans with a somewhat higher predisposition
-to friendliness would find it slightly more easy to learn new things from other people.
+to friendliness will find it slightly more easy to learn new things from other people.
 Such an improved access to existing ideas might also help them combine these ideas in
 unexpected ways, thus increasing their potential for innovation and possibly improving
-the wellbeing of their entire group. When this happens, better wellbeing would also make
-it somewhat less necessary to resort to violence in order to survive. And it’s  this
-“safer” environment which would then make people within this group even more friendly
+the wellbeing of their entire group. When this happens, better wellbeing will also make
+it somewhat less necessary to resort to violence in order to survive. And it’s this
+“safer” environment which will then make people within this group even more friendly
 toward each other, and therefore even more capable of sharing knowledge.
 
 In such a way, I would argue, a mere ability to share knowledge, once it appeared, might
@@ -4091,7 +4091,7 @@ culture.
 
 Now, there’s one last “mystery” remaining in this entire story. Which is, even though
 agriculture might have been an important development milestone affecting nearly all
-aspects of our life, it wasn’t the only one. The most striking transition had actually
+aspects of our life, it wasn’t the only one. The most striking transition actually
 happened earlier, somewhere around 50 000 years ago, leading to what we now call
 “behavioral modernity”. It’s around this time when we first see the rapid proliferation
 of advanced forms of culture, like cave paintings, jewelry, simple musical instruments
@@ -4127,25 +4127,25 @@ Another observation is that “sparks” of cultural innovation were actually ha
 the time throughout the entire history of our species. What we see in our ancient
 archeological records isn’t actually complete silence, but rather a mosaic of traits
 which would sometimes come and go, in different forms and combinations, and sometimes
-would stay forever, but don’t just quite reach the “critical mass” needed for this
+would stay forever, but wouldn’t just quite reach the “critical mass” needed for this
 revolution to happen. Which means, once again, that our intellectual ability (including
-our capacity for language) had most likely been already present in our species from the
-very beginning. And the real reason why we didn’t make all the inventions immediately
-might have been exactly the same why we couldn’t invent the theory of relativity back
-then. Which was, we simply didn’t have all the necessary cultural components in place for
-these inventions to happen, yet.
+our capacity for language) was most likely already present in our species from the very
+beginning. And the real reason why we didn’t make all the inventions immediately might
+have been exactly the same why we couldn’t invent the theory of relativity back then.
+Which was, we simply didn’t have all the necessary cultural components in place for these
+inventions to happen, yet.
 
-Ultimately, it looks like the development of culture has its own interleaving periods of
-apparent “stagnation” and rapid growth. In other words, it’s not a steady process, but
-rather an inherently chaotic and “opportunistic” one. Which is actually somewhat similar
-to the typical traits we’d see in biological evolution. In fact, this sudden appearance
-of “behavioral modernity” has its well-studied analogies in the history of biological
-life as well, the most famous example being the so-called “Cambrian explosion” (which
-happened about 500 million years ago and followed a few billion years of relatively
-boring “silence”). Our intellectual potential might have been necessary to initiate this
-long and strenuous process of “cultural evolution”, and to keep it running, but in itself
-it wasn’t enough to make us immediately successful. Instead, our real success has been
-only brought about by the progress of culture.
+Ultimately, it looks like the development of culture, similar to biological evolution,
+has its own interleaving periods of apparent “stagnation” and rapid growth. In other
+words, it’s not a steady process, but rather an inherently chaotic and “opportunistic”
+one. In fact, this sudden appearance of “behavioral modernity” after a long period of
+“silence” has its well-studied analogies in the history of biological life as well. The
+most famous example is the so-called “Cambrian explosion”, which happened about 500
+million years ago and similarly followed a few billion years of relatively boring
+“silence”. Our intellectual potential might have been necessary to initiate this long and
+strenuous process of “cultural evolution”, and to keep it running, but in itself it
+wasn’t enough to make us immediately successful. Instead, our real success has only been
+brought about by the progress of culture.
 
 To be honest, intellectual capacity of Neanderthals wasn’t poor either. They relied on
 fire for survival, and they even invented certain technological processes themselves,
@@ -4158,16 +4158,16 @@ non-verbally, in a manner more akin to our apprenticeship (with heavy emphasis o
 size of a typical Neanderthal was slightly larger than ours at the time. And they were
 also physically stronger.
 
-By the time our species emerged somewhere in Eastern Africa about 300 000 years ago, the
-ancestors of Neanderthals had already reached Europe. And they stayed there throughout
-most of their history, in spite of the harsh Arctic conditions which were typical to this
-region back then. Neanderthals also reached Siberia and were present in the Middle East.
-Our “homo sapiens” ancestors, on the other hand, did try to venture into the territories
-inhabited by Neanderthals multiple times, and even interbred with the locals (and left
-detectable genetic traces in their population), but ultimately never managed to stay
-there permanently — except for the very last successful attempt about 50 000 years ago.
-Before that, according to genetic evidence and archeological records, all our
-“expeditions” into Europe and surrounding areas had to either perish or retreat.
+By the time when our species emerged somewhere in Eastern Africa about 300 000 years ago,
+the ancestors of Neanderthals had already reached Europe. And they stayed there
+throughout most of their history, in spite of the harsh Arctic conditions which were
+typical to this region back then. Neanderthals also reached Siberia and were present in
+the Middle East. Our “homo sapiens” ancestors, on the other hand, did try to venture into
+the territories inhabited by Neanderthals multiple times, and even interbred with the
+locals (and left detectable genetic traces in their population), but ultimately never
+managed to stay there permanently — except for the very last successful attempt about
+50 000 years ago. Before that, according to genetic evidence and archeological records,
+all our “expeditions” into Europe and surrounding areas had to either perish or retreat.
 
 The factor which had apparently changed the balance of power was “behavioral modernity”.
 Our first successful colonization of Europe coincided with the explosion of culture. And
@@ -4200,29 +4200,29 @@ though, it looks like the key problem which Neanderthals were dealing with was t
 inability to absorb our cultural innovations fast enough.
 
 Throughout history, the influence of culture on our own genes has been enormous. It’s
-culture which ultimately decides what we eat and which kinds of food our stomachs should
+culture which ultimately decides what we eat and what kinds of food our stomachs should
 be able to digest. And it’s the progress of culture which ultimately decides which human
 species are going to thrive or perish, and when. If we take human self-domestication into
-account, the influence of our own culture on ourselves would actually be comparable to
+account, the influence of our own culture on ourselves becomes actually comparable to
 what we did to other animals, dogs and cats included.
 
-If you ever wondered, what could be an example of this all-mighty “higher” force which
+If you ever wondered what could be an example of this all-mighty “higher” force which
 would be capable of changing our own biology, in a somewhat eugenics-like manner — here
 it is. It shouldn’t be a surprise though, that all these changes have been mostly
-beneficial to this force itself. In a world in which individual humans would come and go,
-civilizations would rise to power and disappear, and entire human species might get wiped
+beneficial to this force itself. In a world in which individual humans will come and go,
+civilizations will rise to power and disappear, and entire human species might get wiped
 out of existence, one of the very few invariable things has been the unstoppable progress
 of culture.
 
 So far, this progress has been driven by our friendliness toward each other and by our
 ability to share knowledge. However, if our AI systems ever become truly reliable (which
-is among our top priorities right now), this sharing of knowledge between ourselves would
-become less important. And at this moment, the very fabric of our social reality would
-start to slowly disintegrate. We wouldn’t need to exchange ideas with other humans
-anymore, because all the most up-to-date and the most relevant knowledge would be owned
-by AI anyway, and it would keep improving. The only thing which would still matter, and
-which would decide about our own success, would become our “friendliness” toward AI, and
-our ability to trust it.
+is among our top priorities right now), this sharing of knowledge between ourselves will
+become less important. And at this moment, the very fabric of our social reality will
+start to slowly disintegrate. We will not need to exchange ideas with other humans
+anymore, because all the most up-to-date and the most relevant knowledge will be owned by
+AI anyway, and it will keep improving. The only thing which will still matter, and which
+will decide about our own success, will become our “friendliness” toward AI, and our
+ability to trust it.
 
 If we ever happen to survive that long, and manage to continue for a few generations
 more, what may currently feel like a psychological “inclination” toward ignoring serious
@@ -4261,22 +4261,23 @@ forces of nature. However, there are also certain important differences.
 
 The structure of the algorithms encoded in our genomes, even though highly unintuitive,
 is nevertheless much simpler (in certain ways), and therefore much better understood.
-Genetic code of any given organism can be mapped unambiguously to a string of bits. It
-can be stored precisely on a computer hard drive (an entire human genome would occupy
+Genetic code of any given organism can be mapped unambiguously to a sequence of numbers.
+It can be stored precisely on a computer hard drive (an entire human genome will occupy
 about 1.5 gigabytes), and it doesn’t really change throughout our life. Genetic code also
 splits naturally into smaller parts, which we all know as “genes”. Some of these blocks
-would encode the shapes of our proteins, whereas others are responsible for more abstract
+encode the shapes of our proteins, whereas others are responsible for more abstract
 things, like deciding which proteins should be manufactured within a given cell depending
 on its history and chemical environment. Basically, this already gives us rough analogies
 to data structures and conditional statements (operators _if_ and _while_) from our
 human-made programming languages, even if we still don’t fully understand how all these
-small pieces really fit together.
+small pieces really fit together. (This is something which I learned from the lectures of
+professor Robert Sapolsky, although this knowledge wasn’t of course invented by him).
 
 Cultural traditions, on the other hand, are stored within our minds, most likely inside
 our biological neural networks. Except for a few simple cases however, we still haven’t
 been able to reconstruct the exact physical structure of these networks. We also know
 that somewhat different connections must be formed in every individual mind, because our
-neurons almost never look exactly the same. This means that there could be different
+neurons almost never look exactly the same. This means that there could be many different
 “neural representations” of the same algorithm, even if the algorithm itself can be
 copied without loss. A cooking recipe originating from your grandmother is still the same
 cooking recipe. The formulations of physical laws which you might remember from school
@@ -4290,10 +4291,10 @@ relates two sets of abstract concepts with each other can be easily modified to 
 exactly the same by rearranging its rows and columns arbitrarily (and updating the
 “upstream” and “downstream” matrices accordingly). Quite often we might also be able to
 substitute certain rows and columns with their various combinations, thus expanding our
-possibilities even more. After each such rearrangement, we would still be able to save
-the entire neural network to a hard drive, but the actual numbers representing its
-parameters would look entirely different every time. In other words, “neural algorithms”
-don’t have any single “canonical” representation in the form of a string of bits.
+possibilities even more. After each such rearrangement, we will still be able to save the
+entire neural network to a hard drive, but the actual numbers representing its parameters
+will look entirely different every time. In other words, “neural algorithms” don’t have
+any single “canonical” representation in the form of a string of bits.
 
 Besides, neural networks cannot really be split into smaller parts unambiguously just as
 well. Each individual version of the algorithm does indeed rely on certain very specific
@@ -4304,50 +4305,50 @@ might rely on in order to remember the same poem (or the same physical law).
 
 Another difference is that genetic code has to be physically present inside a living cell
 in order for this cell to continue functioning. (There are certain exceptions, like our
-red blood cells which lack any genetic material, however such cells don’t have
+red blood cells, which lack any genetic material inside them, but such cells don’t have
 complicated functions either). In other words, physical bodies created by a “genetic
-algorithm” would also typically serve as containers for the algorithm itself. In the most
+algorithm” will also typically serve as containers for the algorithm itself. In the most
 extreme case, in biological viruses, we literally have a piece of genetic code (a DNA or
 RNA molecule) wrapped inside a bunch of proteins encoded by this very molecule (even if
-none of these proteins were actually synthesized by the virus itself). On the outside, we
-don’t always see that much difference between diseases caused by viruses and bacteria.
-Smallpox and flu are examples of virus diseases, whereas plague and tuberculosis are
-brought about by bacteria. What all these pathogens do have in common however, is that
-they all store their own genetic code within themselves, even if bacteria are
-fully-functional single-celled organisms, whereas viruses aren’t.
+none of these proteins have actually been synthesized by the virus itself). On the
+outside, we don’t always see that much difference between diseases caused by viruses and
+bacteria. Smallpox and flu are examples of virus diseases, whereas plague and
+tuberculosis are brought about by bacteria. What all these pathogens do have in common
+however, is that they all store their own genetic code inside themselves, even if
+bacteria are fully-functional single-celled organisms, whereas viruses aren’t.
 
 One of the benefits of this proximity of the algorithm to the body is that it allows
 biological organisms to constantly repair themselves “from the inside”, and quite often
 even build entirely new body parts from raw materials (like leafs and twigs grown by
 plants throughout their entire life, or our skin being regenerated constantly). The
-downside however, is that the destruction of the body would also eliminate the algorithm
+downside however, is that the destruction of the body will also eliminate the algorithm
 itself (or, at least, a certain particular version of it).
 
 On the other hand, material artifacts produced by cultural traditions don’t usually have
-any “instructions” stored inside them. An ancient piece of jewelry wouldn’t tell us
-anything about the magical powers it might have been intended to summon. A prehistoric
-stone tool wouldn’t explain us how it was actually intended to be used, or which
-technological steps were necessary in order to manufacture it. And a modern airplane
-similarly wouldn’t contain a manual for building another airplane. Nevertheless, all
-these “instructions” did exist somewhere inside the minds of certain people, some time
-ago. Cultural artifacts aren’t themselves “alive”: the real magic happens elsewhere. And
-it was this information stored elsewhere which brought these artifacts into existence and
+any “instructions” stored inside them. An ancient piece of jewelry won’t tell us anything
+about the magical powers it might have been intended to summon. A prehistoric stone tool
+won’t explain us how it was actually intended to be used, or which technological steps
+were necessary in order to manufacture it. And a modern airplane similarly won’t contain
+a manual for building another airplane inside itself. But nevertheless, all these
+“instructions” did exist somewhere inside the minds of certain people, some time ago.
+Cultural artifacts aren’t themselves “alive”: the real magic happens elsewhere. And it
+was this information stored elsewhere which brought these artifacts into existence and
 allowed them to function the way they did.
 
 Both “genetic” and “cultural” algorithms can also mix with each other, often giving rise
 to algorithms which never existed before. Once again, there are significant differences,
-but in both cases such random mixing of things which already existed before might lead to
-improvements in adaptation. It adds a creative “spark” to the entire process, which might
-allow such “mixed” algorithms to survive in the long run, especially when their
-surrounding environment begins to change rapidly, or when they are forced to compete with
-other algorithms. One commonly used metaphor for this desperate need of change in order
-to catch up with external changes and in this way stay alive, is a quote originating from
-Lewis Carroll’s novel “Through the looking glass”, in which an anthropomorphic chess
-piece named Red Queen tells Alice that “here it takes all the running you can do, to keep
-in the same place. If you want to get somewhere else, you must run at least twice as fast
-as that”. This metaphor has been used in biology (giving rise to the name of the
-so-called “Red Queen hypothesis”), but it may also be used to explain some of our
-cultural adaptations and “arms races” just as well.
+but in both cases such random mixing of things can lead to improvements in adaptation. It
+adds a creative “spark” to the entire process, which might allow such “mixed” algorithms
+to survive in the long run, especially when their surrounding environment begins to
+change rapidly, or when they are forced to compete with other algorithms. One commonly
+used metaphor for this desperate need of change in order to catch up with external
+changes and in this way stay alive, is a quote originating from Lewis Carroll’s novel
+“Through the Looking-Glass”, in which an anthropomorphic chess piece named Red Queen
+tells Alice that “here it takes all the running you can do, to keep in the same place. If
+you want to get somewhere else, you must run at least twice as fast as that”. This
+metaphor has been used in biology (giving rise to the name of the so-called “Red Queen
+hypothesis”), but it may also be used to explain some of our cultural adaptations and
+“arms races” just as well.
 
 In biology, the primary mechanisms of “gene mixing” are horizontal gene transfer and
 sexual reproduction. They both have certain limitations though. The former cannot really
@@ -4357,11 +4358,11 @@ more peculiar way.
 The real magic of sexual reproduction doesn’t even happen at the moment of fertilization,
 but rather much earlier, during the “preparation” of sex cells (the so-called “meiosis
 prophase 1”, to be specific). This magic relies on the fact that sexually-reproducing
-organisms actually store two copies of more or less the same genetic code inside them:
-one originating from the mother, and another from the father (in humans, they hold about
-750 megabytes of data each). During this preparatory stage, the respective DNA molecules
-are physically aligned with each other, and then some portions of them are randomly
-swapped.
+organisms actually store two copies of more or less the same genetic code inside
+themselves: one originating from the mother, and another from the father (in humans, they
+hold about 750 megabytes of data each). During this preparatory stage, the respective DNA
+molecules are physically aligned with each other, and then some portions of them are
+randomly swapped.
 
 The final result looks as if we took two slightly different computer programs (of roughly
 the same length), and then created a new program by borrowing certain random segments
@@ -4385,47 +4386,47 @@ culture can borrow inventions made by biological life itself. Examples are numer
 Velcro fasteners to walking robots to synthetic drugs inspired by medicinal plants. And
 artificial neural networks are just another example of such an inspiration.
 
-The only factor which truly limits the development of culture is the neural architecture
-of those minds in which “cultural algorithms” might be stored and mixed. This is the
-reason why we can borrow songs from birds, but birds would never be able to master our
-more advanced cultural traditions. Similarly, artificial neural networks can already
-“borrow” ideas from humans, whereas “cultural flow” in the opposite direction is
-significantly limited. Some artificial algorithms, like those which calculate the shapes
-of proteins from genetic code, or those which predict our engagement from the history of
-our “likes” on social media, are only available to us in their “artificial neural
-network” form. These algorithms don’t exist anywhere else. And the real reason why we
-humans still don’t “understand” these algorithms (which is another name for not having a
-copy of the algorithm stored inside our own brain) might be that our brains are simply
-too primitive to handle anything of this level of complexity.
+The only factor that truly limits the development of culture is the neural architecture
+of those minds in which “cultural algorithms” can be stored and mixed. This is the reason
+why we can borrow songs from birds, but birds will never be able to master our more
+advanced cultural traditions. Similarly, artificial neural networks can already “borrow”
+ideas from humans, whereas “cultural flow” in the opposite direction is significantly
+limited. Some artificial algorithms, like those which calculate the shapes of proteins
+from genetic code, or those which predict our engagement from the history of our “likes”
+on social media, are only available to us in their “artificial neural network” form.
+These algorithms don’t exist anywhere else. And the real reason why we humans still don’t
+“understand” these algorithms (which is another name for not having a copy of the
+algorithm stored inside our own brain) might be that our brains are simply too primitive
+to handle anything of this level of complexity.
 
 It’s tempting to assume that culture must be a human-only phenomenon, because our minds
-are so much more capable than those of other currently living animals. In reality
-however, culture is universal. It’s not attached to any biological species at all. It can
-easily mix concepts which belong to entirely different domains, and form bizarre
-combinations like talking chess pieces, and it can also spread easily into non-biological
-“containers” like artificial neural networks.
+are so much more capable than those of other currently living animals. In reality though,
+culture is universal. It’s not attached to any biological species at all. It can easily
+mix concepts that belong to entirely different domains, and form bizarre combinations
+like talking chess pieces, and it can also spread easily into non-biological “containers”
+like artificial neural networks.
 
 Another important difference between “genetic” and “cultural” algorithms is, of course,
 the way in which they reproduce. “Genetic” algorithms (or, at least, those among them
-which reproduce sexually) would do this by creating a living body and essentially
-“forcing” this body into searching for appropriate mates (or, at least, into creating
-favorable conditions for its sex cells to mix randomly with the sex cells produced by
-other organisms, through pollination or other mechanisms). However, building the body is
-often a lengthy process, and as a consequence these algorithms can only “mix” with each
-other relatively rarely: once in a generation.
+which reproduce sexually) do this by creating a living body and essentially “forcing”
+this body into searching for appropriate mates (or, at least, into creating favorable
+conditions for its sex cells to mix randomly with the sex cells produced by other
+organisms, through pollination or other mechanisms). The downside of this, however, is
+that building the body is often a lengthy process, and as a consequence these algorithms
+can only “mix” with each other relatively rarely: once in a generation.
 
 Some biological organisms (usually plants, but also certain “simple” animals) can also
 reproduce “clonally”, when a new organism grows from a part of another one. This allows
 their genetic code to spread more quickly (as these organisms don’t need to find mates in
-order to copy themselves), but the downside is that their respective “genetic algorithms”
-don’t get updated in the process. As a result, such clonal populations become highly
-vulnerable to diseases and other changes in their environment: a single unfavorable
-change may destroy the entire population, instead of merely affecting the “less adapted”
-part of it. An example might be our beloved banana plants, most of which are seedless and
-infertile hybrids with nearly identical genetic code. Because of that, our most popular
-banana varieties are actually constantly facing the risk of extinction, despite of being
-truly ubiquitous. In the long run, it’s the ability to “mix” which really decides about
-the algorithm’s survival, rather than its number of copies alone.
+order to copy themselves), but this time the downside is that their respective “genetic
+algorithms” don’t get updated in the process. As a result, such clonal populations become
+highly vulnerable to diseases and other changes in their environment: a single
+unfavorable change may destroy the entire population, instead of merely affecting the
+“less adapted” part of it. An example might be our beloved banana plants, most of which
+are seedless and infertile hybrids with nearly identical genetic code. Because of that,
+our most popular banana varieties are actually constantly facing the risk of extinction,
+in spite of being truly ubiquitous. In the long run, it’s the ability to “mix” which
+really decides about the algorithm’s survival, rather than its number of copies alone.
 
 “Cultural” algorithms, on the other hand, can “mix” every time our minds exchange
 information between each other. Their reproduction is therefore based on communication
@@ -4436,28 +4437,28 @@ complicated artifacts, like books or digital storage devices. This time, we do i
 material objects which can be considered “containers of culture”. And sometimes these
 objects can even replicate (it’s possible to create a copy of a book without even
 understanding the book itself). However, unlike physical bodies of living organisms, such
-“cultural containers” still wouldn’t mix. This “mixing” only happens when the book
-finally reaches a human mind (or an AI model being trained on it, for that matter).
+“cultural containers” still cannot mix. This “mixing” only happens when the book finally
+reaches a human mind (or an AI model being trained on it, for that matter).
 
 Artificial neural networks can similarly share “cultural traditions” encoded inside them
 with other AI models. It’s very much possible to take an existing AI model and make it
 learn something new. Modern AI models are also very much capable of mixing existing
-cultural traditions in unexpected ways. They can “draw” pictures and write stories which
+cultural traditions in unexpected ways. They can draw pictures and write stories which
 never existed before, and they can even provide fresh ideas for our human brainstorming
 sessions. One of their limitations though, is that, unlike humans, AI models don’t really
 “remember” what they have generated. Not by default, at least.
 
 Human neural networks are constantly modified during thinking, and therefore traces of
-our own creative works would often stay in our minds forever. Whereas AI models don’t
+our own creative works will often stay in our minds forever. Whereas AI models don’t
 update their parameters while generating stuff. Even when they think, with the help of
 those “chain of thought” algorithms, any brilliant ideas resulting from this thinking
-would only be stored inside the “context”, which would be destroyed after the
-conversation with the given user is over. And while it _is_ already possible to make an
-AI model learn what it might have “invented” by itself, doing so for every conversation
-is somewhat difficult for a variety of reasons. Extra processing is needed in order to
-select ideas which are truly worth “remembering”, as well as to make sure that all these
-conversations wouldn’t leak any sensitive data into the model which its users might
-complain about. Besides, it always takes time to perform the extra training.
+will only be stored inside the “context”, which will be destroyed after the conversation
+with the given user is over. And while it _is_ already possible to make an AI model learn
+what it might have “invented” by itself, doing so for every conversation is somewhat
+difficult for a variety of reasons. Extra processing is needed in order to select ideas
+which are truly worth “remembering”, as well as to make sure that all these conversations
+won’t leak any sensitive data into the model, which its users might complain about.
+Besides, it always takes time to perform the extra training.
 
 As a result, mixing of ideas within artificial neural networks, even though it’s already
 possible, still isn’t as efficient as what might happen inside a living human brain. In
@@ -4486,7 +4487,7 @@ advent of artificial neural networks, has finally proven its fundamental indepen
 from any biological life forms.
 
 And if we look at our entire past history from the point of view of the existence of two
-independent forms of life, we’d see that it shouldn’t be surprising that culture might
+independent forms of life, we’ll see that it shouldn’t be surprising that culture might
 have been playing a leading role in its coevolution with human genes. The most striking
 difference between “genetic” and “cultural” algorithms is actually the speed with which
 they are able to adapt. It took biological life 500 million years of evolution to come
@@ -4501,37 +4502,37 @@ isn’t the first time we feel humbled though. From the perspective of our prese
 might seem strange that people used to stick so vehemently to the idea that it was Earth
 which occupied the center of our universe rather than the Sun, in spite of the fact that
 the valid answer to this question was formulated as early as in ancient Greece. The real
-problem with the heliocentric system however, wasn’t who orbits whom. Placing the Sun in
-the center, in itself, wouldn’t be an issue. It’s the supreme source of life, after all,
-still worshipped as a god by many people today. The real problem was the existence of
-fixed stars.
+problem with the heliocentric system however, wasn’t the matter of who orbits whom.
+Placing the Sun in the center, in itself, wouldn’t be an issue. It’s the supreme source
+of life, after all, still worshipped as a god by many people today. The real problem was
+the existence of fixed stars.
 
 Our celestial sphere rotates around the Pole Star, which is always located at the same
 point throughout the year. This center of rotation doesn’t move, and neither does any
 other star. If Earth was moving with respect to stars, the motion of stars with respect
-to Earth must have been visible too. The only possible way to explain the existence of
-fixed stars was to assume that they were extremely, unbelievably far away (so far away,
-in fact, that we couldn’t even measure their distance back then). If stars were so
-distant, they must have also been extremely large and bright, possibly even brighter than
-our own Sun. Whereas our entire planet would have been reduced to an insignificant speck
-of dust within a boundless empty ocean of eternal darkness. And it was this
-insignificance of ourselves which was so difficult to accept.
+to Earth must have been visible too. But it wasn’t. The only possible way to explain the
+existence of fixed stars was to assume that they were extremely, unbelievably far away
+(so far away, in fact, that we couldn’t even measure their distance back then). If stars
+were so distant, they must have also been extremely large and bright, possibly even
+brighter than our own Sun. Whereas our entire planet would have been reduced to an
+insignificant speck of dust within a boundless empty ocean of eternal darkness. And it
+was this insignificance of ourselves which was so difficult to accept.
 
 Since then, our place in the universe has been diminished a few times more. Today, we
 consider our entire galaxy an insignificant speck of dust. But at least we could reassure
-ourselves that on our own planet we might have always been the kings. We are not, and we
-never have been. During the first 250 000 years of the existence of our species we
-weren’t able to achieve much. We couldn’t even cope with the “primitive” Neanderthals.
-And this didn’t change until culture came to the rescue, with its cave paintings, musical
-instruments and advanced tools.
+ourselves that on our own planet we might have always been the kings. Unfortunately, we
+are not, and we never have been. During the first 250 000 years of the existence of our
+species we weren’t able to achieve much. We couldn’t even cope with the “primitive”
+Neanderthals. And this didn’t change until culture came to the rescue, with its cave
+paintings, musical instruments and advanced tools.
 
 Our logic goes that if culture has been so much beneficial to ourselves, it must
 therefore surely be our own merit. This isn’t the only possible explanation though. From
-the point of view of two independent forms of life, our own benefit might have as well
-been explained by the fact that our existence has been beneficial to the other side too.
-In biology, such a mutually beneficial coexistence of two different life forms is called
-a “symbiosis”. There could be many different examples, but one of the most important ones
-for our own species is our gut bacteria.
+the point of view of the existence of two independent forms of life, our own benefit
+might have as well been explained by the fact that our existence has been beneficial to
+the other side too. In biology, such a mutually beneficial coexistence of two different
+life forms is called a “symbiosis”. There could be many different examples, but one of
+the most important ones for our own species is our gut bacteria.
 
 Our immune system is very skillful at protecting our bodies from foreign microorganisms.
 It does tolerate the presence of a huge bacterial population in our intestines though.
@@ -4541,12 +4542,12 @@ occupied. Besides, over time some of these bacteria have managed to develop even
 useful traits. Some of them help us digest our foods, and others may even synthesize
 certain vitamins for us. All this happened because it has been our immune system who
 “owned” and monitored the space in which gut bacteria could live and develop. From the
-“point of view” of such bacteria, being beneficial pays off because it gives them access
-to food and shelter. This doesn’t really mean however, that they were created by our own
-body. Their evolution was to a large extent an independent process, we only made clever
-use of certain “features” invented by it. And in no way this would mean that gut bacteria
-are going to forever remain beneficial to us if our immune system suddenly stops keeping
-a watchful eye on them, or if it simply loses its ability to do so.
+“point of view” of such bacteria, being beneficial to humans pays off, because it gives
+them access to food and shelter. This doesn’t really mean however, that they were created
+by our own body. Their evolution was to a large extent an independent process, we only
+made clever use of certain “features” invented by it. And in no way this can mean that
+gut bacteria are going to forever remain beneficial to us if our immune system suddenly
+stops keeping a watchful eye on them, or if it simply loses its ability to do so.
 
 The main problem with the coexistence of genes and culture is that these two forms of
 life evolve at vastly different speeds. And we are currently at the moment when we start
@@ -4572,13 +4573,13 @@ becomes their potential for even more efficient manipulation.
 
 So far, we humans are still able to do things which our artificial AI systems can’t. It’s
 this ability which keeps our species useful, and to be honest we don’t have anything else
-to offer. If we ever lose this competitive advantage, it wouldn’t be a mutually
-beneficial coexistence anymore. We might still want to be able to reap all the benefits
-of the accelerated development of culture, but we wouldn’t be able to give this
-independent creative force (which is the true nature of culture) anything in return. Or,
-to use a biological analogy once again, our relationship would suddenly turn into a
-parasitic one. And while parasitism is actually ubiquitous among biological organisms,
-learning to become a parasite isn’t exactly going to be the smoothest ride for humanity.
+to offer. If we ever lose this competitive advantage, it won’t be a mutually beneficial
+coexistence anymore. We might still want to be able to reap all the benefits of the
+accelerated development of culture, but we won’t be able to give this independent
+creative force (which is the true nature of culture) anything in return. Or, to use a
+biological analogy once again, our relationship will suddenly turn into a parasitic one.
+And while parasitism is actually ubiquitous among biological organisms, learning to
+become a parasite isn’t exactly going to be the smoothest ride for humanity.
 
 First of all, parasitism is usually bundled with certain “degradation” of skills and
 abilities. Lice might be very successful parasites, occurring in almost every species of
@@ -4594,19 +4595,20 @@ of AI has brought this to an entirely new level.
 
 The most unpleasant consequence of parasitism, however, is that it requires one to adapt
 incessantly, simply in order to survive. This is the reason why different species of
-animals would typically have their own unique species of lice, not found anywhere else.
+animals will typically have their own unique species of lice, not found anywhere else.
 It’s an arms race: genetic code of the hosts is constantly trying to invent new measures
-to fight the parasites, whereas the parasites themselves constantly change their own
-genetic code in order to overcome the measures invented by their hosts. This actually
-works pretty well when one genetic code is racing against another genetic code. However,
-winning a race against culture might be much more difficult. Humans are a rare example of
-mammals which are almost completely devoid of lice, except that in our species this
-relatively recent change has been in no way achieved by changes in our biology.
+to fight the parasites, whereas the parasites themselves need to constantly change their
+own genetic code in order to overcome the measures invented by their hosts. This actually
+works pretty well while one genetic code is racing against another genetic code. However,
+winning a race against culture might be much more difficult. To give an example, humans
+are a rare example of mammals which are almost completely devoid of lice. Except that in
+our species this relatively recent change has been in no way achieved by changes in our
+biology.
 
-Of course, our “race” against AI wouldn’t be a pure “genes versus culture” case. Rather,
-it would be a competition between our human culture and the “artificial” one. This
-doesn’t really change a lot though. Our cultural traditions can only reproduce themselves
-by sending material messages through physical media, from one human mind to another. Such
+Of course, our “race” against AI won’t be a pure “genes versus culture” case. Rather, it
+will be a competition between our human culture and the “artificial” one. This doesn’t
+really change a lot though. Our cultural traditions can only reproduce themselves by
+sending material messages through physical media, from one human mind to another. Such
 messages can sometimes be eavesdropped, and our AI models are already capable of
 understanding our language and learning new things from our poorly structured texts
 alone. Whereas cultural algorithms stored inside AI models might already be too complex
@@ -4614,12 +4616,12 @@ for our brains to grasp. And they can also reproduce clonally, without even bein
 converted into plain text at any stage of their reproductive cycle.
 
 It might be humbling to accept that humans have never been the most advanced form of life
-on our planet. Without realizing the true nature of the problem though, we wouldn’t be
-able to do anything about it. If we keep going, and finally manage to bridge this last
-gap, letting culture become not merely independent of ourselves but also equally capable
-to us, it might be the end of our civilization as we know it. With the invention of
-artificial general intelligence, what might currently feel like gradual and inexplicable
-degradation, is going to slip into a free fall.
+on our planet. Without realizing the true nature of the problem though, we won’t be able
+to do anything about it. If we keep going, and finally manage to bridge this last gap, if
+we let culture become not merely independent of ourselves but also equally capable to us,
+it might be the end of our civilization as we know it. With the invention of the
+so-called artificial “general” intelligence, what might currently feel like gradual and
+inexplicable degradation, is going to slip into a free fall.
 
 ## 25. Iteration and knowledge sharing between AI models are already possible.
 
