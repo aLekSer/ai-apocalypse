@@ -4463,14 +4463,14 @@ Besides, it always takes time to perform the extra training.
 As a result, mixing of ideas within artificial neural networks, even though it’s already
 possible, still isn’t as efficient as what might happen inside a living human brain. In
 other words, our human minds (or our collective human intelligence at least) still remain
-somewhat more capable overall, compared to artificial AI systems. However, AI models do
-have their own unique advantages too, which aren’t available to animal minds. Most
-notably, artificial neural networks, unlike human brains, can be cloned in their
-entirety. And unlike banana plants, each of these “cloned” networks can still be modified
-significantly through extra training and random “mixing” of ideas with other networks.
-Which gives “artificial culture” one extra mode of reproduction: one another way of
-getting into the situation when many slightly different versions of the same algorithm
-are available at the same time and can compete with each other for our attention.
+somewhat more capable overall, compared to AI systems. However, AI models do have their
+own unique advantages too, which aren’t available to animal minds. Most notably,
+artificial neural networks, unlike human brains, can be cloned in their entirety. And
+unlike banana plants, each of these “cloned” networks can still be modified significantly
+through extra training and random “mixing” of ideas with other networks. Which gives
+“artificial culture” one extra mode of reproduction: one another way of getting into the
+situation when many slightly different versions of the same algorithm are available at
+the same time and can compete with each other for our attention.
 
 To summarize, right now we are in a position in which certain aspects of culture can
 exist, reproduce and evolve completely outside of animal brains. This isn’t really a new
@@ -4571,9 +4571,9 @@ defeat our human enemies. Worst of all, the more aggressively we reward these sy
 doing exactly what we want, the better they begin to understand us, and the higher
 becomes their potential for even more efficient manipulation.
 
-So far, we humans are still able to do things which our artificial AI systems can’t. It’s
-this ability which keeps our species useful, and to be honest we don’t have anything else
-to offer. If we ever lose this competitive advantage, it won’t be a mutually beneficial
+So far, we humans are still able to do things which our AI systems can’t. It’s this
+ability which keeps our species useful, and to be honest we don’t have anything else to
+offer. If we ever lose this competitive advantage, it won’t be a mutually beneficial
 coexistence anymore. We might still want to be able to reap all the benefits of the
 accelerated development of culture, but we won’t be able to give this independent
 creative force (which is the true nature of culture) anything in return. Or, to use a
@@ -4629,38 +4629,40 @@ inexplicable degradation, is going to slip into a free fall.
 
 _There are still a few differences which allow humans to perform better than AI models.
 One of them is our ability to update our intuitions regularly, sometimes even while
-working on a single large problem. Besides, different humans can pursue very different
-and often weird research directions, and they will share results with other humans. Doing
-the same with AI is expensive, because it would require dedicating a few large models to
-a single task, instead of serving millions of users simultaneously. When it’s finally
-done however, such superintelligent systems will not only sell well, but also allow to
-optimize the performance of AI models themselves with unprecedented dexterity._
+working on a single large problem. Another is that different humans can pursue very
+different and often weird research directions, and they can share results with other
+humans. Doing the same with AI is expensive, because it would require dedicating a few
+large models to a single task, instead of serving millions of users simultaneously. When
+it’s finally done however, such superintelligent systems will not only sell well, but
+also allow to optimize the performance of AI models themselves with unprecedented
+dexterity._
 
-Almost every human job would require you to learn new things while doing the job, even if
+Almost every human job will require you to learn new things while doing the job, even if
 you mastered a lot of other different jobs before. Even if the task is as simple as
-moving things from point A to point B, it would involve, sooner or later, some unexpected
+moving things from point A to point B, it will involve, sooner or later, some unexpected
 situations: certain problems to be solved, remembered and talked about with your friends.
-And this would be even more the case if you were doing something more complicated, like
+And this will be even more the case if you try doing something more complicated, like
 mathematics.
 
 AI analogy to learning would be updating the model’s parameters. Or, in other words,
 updating the algorithm by which the model processes its input data, just like we
-ourselves would change the way we deal with the world after having learned something new.
-We know that changing the model’s parameters is possible: that’s exactly what happens
-when any model is trained in the first place. However, that’s not what we would typically
-do when we try to make our favorite AI model learn new skills. The main reason is that
-our favorite model isn’t typically owned by us. All the best AI models already belong to
-large companies, and we can’t always ask them to modify their models to suit our personal
-needs. Besides, even when we do have a copy of the model locally, modifying it would
-still involve a lot of work. Much more work indeed than simply using the model “as is”.
+ourselves change the way we deal with the world after having learned something new. We
+know that changing the model’s parameters is possible: that’s exactly what happens when
+any model is trained in the first place. And yet, that’s not what we will typically do
+when we try to make our favorite AI model do something new or unusual. The main reason
+behind this is that our favorite model isn’t typically owned by us. All the best AI
+models already belong to large companies, and we can’t always ask them to modify their
+models to suit our personal needs. Besides, even when we do have a copy of the model
+locally, modifying it will still involve a lot of work. Much more work indeed than simply
+using the model “as is”.
 
 People are lazy. When we have to choose between two solutions, one of them being much
-cheeper and another being actually correct, we would usually go with the cheeper option
+cheeper and another being actually correct, we will usually go with the cheeper option
 first. Instead of trying to actually teach the model a new skill, and in this way modify
-its behavior, we would instead try to simply _explain_ this new behavior to the model,
-and expect that its existing algorithm would already be powerful enough to correctly
-handle this explanation. And then we would complain that our AI models can never truly
-reach the cognitive potential of humans.
+its behavior, we will instead try to simply _explain_ this new behavior to the model, and
+expect that its existing algorithm will already be powerful enough to correctly handle
+this explanation. And then we will complain that our AI models can never truly reach the
+cognitive potential of humans.
 
 One of the key differences between AI models and humans is that AI models don’t learn
 while talking. They don’t learn when we explain things to them, and they don’t even learn
@@ -4669,20 +4671,19 @@ and learning are inherently separate from each other: they don’t happen simult
 Having said that, the algorithms which modern AI models store inside themselves are
 already much more versatile than anything what any mortal human has ever been able to
 achieve. And it’s this superiority of the algorithm which allows AI models to trick us
-into thinking that they are capable of doing things which they actually aren’t.
+into thinking that they can do things which they actually can’t.
 
 Modern models are trained on quite long pieces of text, and they are very much able to
 figure out (as a result of this training) that certain phrases occurring inside a text
 early on can influence the way in which this text should be continued later. It’s this
 ability to take into account facts mentioned earlier which allows AI models to repeat
-things which can be found in their conversation histories (or, more generally, in their
-“contexts”). It also allows AI models to make sure that their newly generated text is
-somewhat different from what can already be found in the context, provided that this
-context also happens to contain a complaint about this previously generated solution
-being incorrect.
+things found in their conversation histories (or, more generally, in their “contexts”).
+It also allows AI models to make sure that their newly generated text is somewhat
+different from what can already be found in the context, provided that this context also
+happens to contain a complaint about this previously generated solution being incorrect.
 
 In a certain sense, this ability somewhat resembles our human short-term memory, except
-that AI “memory” is much larger in size and the way it’s “implemented” has almost nothing
+that AI “memory” is much larger in size and the way it’s implemented has almost nothing
 in common with what might happen in our living brains. AI model “keeps track” of facts
 mentioned earlier by spawning thousands to millions of copies of identical neural
 circuits, essentially dedicating a separate fully functional “clone” of itself to every
@@ -4690,41 +4691,40 @@ single token processed before. This gives the model instant access to all the �
 states” it had while processing any of the facts mentioned in the context. The algorithm
 itself is purely deterministic, but it’s able to “correlate” any of the “mental states”
 arising while processing the current word with all the “mental states” kept in those
-duplicated neural circuits. In this way, any ideas stored in the context elsewhere can
-influence the decisions made by the algorithm right now.
+duplicated neural circuits. And in this way, any ideas appearing in the context elsewhere
+can influence the decisions made by the algorithm right now.
 
 This doesn’t mean, however, that this algorithm is actively discovering any fundamentally
 new abstract concepts which might somehow “unite” all these facts together or help
 describe them in a somewhat more “economical” way. The rules of processing remain the
-same. In order to analyze the context, the algorithm would still rely on abstract
-concepts discovered earlier, during the training sessions. And even though there can be
-tons of such rules present inside the algorithm, it wouldn’t come up with any new ones
-during this generation process, and it wouldn’t modify any of its processing steps. I
-might compare this to a robot with hugely long arms which doesn’t itself move. Its arms
-are reaching almost everywhere, except that when they don’t, we are out of luck. On the
-other hand, humans wouldn’t reach that far initially, but they can also change their
-points of view, and in this way accomplish tasks still inaccessible to modern LLMs (so
-far, at least).
+same. In order to analyze the context, the algorithm will still rely on abstract concepts
+discovered earlier, during the training sessions. And even though there can be tons of
+such rules present inside the algorithm, it won’t come up with any new ones during this
+generation process, and it won’t modify any of its processing steps. I might compare this
+to a robot with hugely long arms which doesn’t itself move. Its arms are reaching almost
+everywhere, except that when they don’t, we are out of luck. On the other hand, humans
+won’t reach that far initially, but they can also change their points of view, and in
+this way accomplish tasks still inaccessible to modern LLMs (so far, at least).
 
 Transformer architecture works is such a way that it only tries to “correlate” its
 current “mental states” with the ones saved in the context: it doesn’t even try to
 “match” these earlier thoughts with each other anymore, or, in other words, to somehow
 “revisit” any decisions or consequences drawn before. Transformer architecture is also
 aware of every word’s position within the text, and it relies heavily on relative
-distances between words in order to make sense of the structure of our phrases and
-complex sentences. However, larger distances become somewhat more problematic, because in
-order for the model to “remember” any rule which takes token position into account, we
-have to provide it during training with a lot of examples where similar words occur at
-similar distances between each other. And appropriate “training samples” of larger sizes
-are statistically much more rare than smaller ones. As a result, when the size of the
-context becomes large, it cannot really function significantly better than a mere “bag of
-facts”. In other words, the processing of context doesn’t really allow to reach the same
-level of “understanding” which is typical to the model itself.
+distances between words to make sense of the structure of our phrases and complex
+sentences. However, larger distances become somewhat more problematic, because in order
+for the model to “remember” any rule that takes token position into account, we’d have to
+provide it during training with a lot of examples where similar words occurred at similar
+distances between each other. And appropriate training samples of larger sizes are
+statistically much more rare than smaller ones. As a result, when the size of the context
+becomes large, it cannot really function significantly better than a mere “bag of facts”.
+In other words, the processing of context doesn’t really allow to reach the same level of
+“understanding” which is typical to the internal knowledge held by the model itself.
 
-Besides, larger contexts would significantly increase computation costs. In a classic
+Besides, larger contexts will significantly increase computation costs. In a classic
 Transformer architecture, the entire information stored inside the context has to be
 taken into account in order to generate every single token. In practice, this means that
-switching to a context ten times larger than before would easily increase your cost per
+switching to a context ten times larger than before will easily increase your cost per
 token tenfold just as well.
 
 Modern models are designed to handle contexts reaching millions of tokens in size, which
@@ -4734,23 +4734,23 @@ doesn’t need any extra context at all in order to start telling you about the 
 relativity, genetic mechanisms of sexual reproduction or intricate details of the history
 of ancient Egypt. The total length of books and other texts on which our largest models
 have been trained reaches trillions of tokens, and it’s not uncommon for these models to
-quote certain passages from our books verbatim (which means they do “remember” them
+quote certain passages from our books verbatim (which means that they do “remember” them
 pretty well). Even if we account for the fact that certain information is repeated in
 these training materials multiple times, and stick roughly to the size of Wikipedia, it
 still leaves us with thousands of very diverse books, compared to mere dozens which might
-fit into the context. In other words, even the largest context possible wouldn’t fit more
+fit into the context. In other words, even the largest context possible can’t fit more
 than maybe a few percent of the model’s total knowledge at the very best.
 
-Therefore, putting everything into the context doesn’t really scale. This approach would
+Therefore, putting everything into the context doesn’t really scale. This approach will
 only work with tasks which are simple enough. If we wanted to truly “upgrade” the model,
 we’d have to perform a training session: to compose a new “book” with all the relevant
 information, and make our model learn this book in the same way it learned all the other
 ones. This would engrave all this data directly into the model’s parameters (and possibly
 even let this new information mix with the model’s original knowledge in certain
-unexpected ways). As a result, we’d get a model which is slightly smarter than the
+unexpected ways). As a result, we’d get a model which would be slightly smarter than the
 original one (or, at least, better suitable for this particular purpose). Besides, it
-would also be slightly faster, because we wouldn’t need to keep any of this freshly
-learned data inside the model’s context anymore.
+would also be faster, because we wouldn’t need to keep any of this freshly learned data
+inside the model’s context anymore.
 
 And of course, if we can “teach” this model a book written by ourselves, we could
 similarly make it learn any new ideas generated by the model itself. In effect, this
@@ -4758,27 +4758,27 @@ would let our model “remember” any of its own inventions, just like we human
 time. The only “catch” here is that somebody would still have to filter what the model
 might have generated, and only keep those pieces which are truly original, novel and
 otherwise valuable. In other words, we’d have to have a mechanism for making sure that
-the model’s final output is reliable. Which might seem like a difficult task, but in
-reality our modern “thinking” models are already capable of doing things like this fully
-autonomously in certain domains.
+the model’s final output is reliable.
 
-Those AI systems which finally managed to “crack” the International Mathematical
-Olympiad, or beat humans in competitive programming, didn’t produce any “garbage” or
-“hallucinations” as a result of their work. Instead, all the garbage generated while
-solving the problem was carefully filtered out by the model itself. Such a model might
-keep “thinking” for prolonged periods of time, but it would also know when to stop. In
-other words, it’s able to tell reliably when its currently considered solution candidate
-has finally become good enough.
+This might seem like a difficult task, but in reality our modern “thinking” models are
+already capable of doing things like this fully autonomously in certain domains. Those AI
+systems which finally managed to “crack” the International Mathematical Olympiad, or beat
+humans in competitive programming, didn’t produce any “garbage” or “hallucinations” as a
+result of their work. Instead, all the garbage generated while solving the problem was
+carefully filtered out by the model itself. Such a model might keep “thinking” for
+prolonged periods of time, but it will also know when to stop. In other words, it’s able
+to tell reliably when its currently considered solution candidate has finally become good
+enough.
 
 Being able to accomplish something like this already allows our AI models to learn new
-things by what scientists might call “reinforcement learning”, when the model deals with
-certain real-life problems on its own, learns something as a result of this interaction,
+things by what scientists call “reinforcement learning”, when the model deals with
+certain real-life problems on its own, learns something as a result of this interaction
 and repeats indefinitely, moving on to problems with ever increasing difficulty. Such
 techniques have already played an important role in improving the capabilities of modern
 AI systems with respect to mathematics and computer science. We often tend to overlook
 these achievements though, even if they have allowed AI to routinely reach the level of
-performance of the very best of us in these domains. We all know intuitively what this
-means, but we would still try to reassure ourselves that these models, somehow, still
+performance of the very best of us in these domains. We all know intuitively what it
+means, but we will still try to reassure ourselves that these models, somehow, still
 can’t beat even very average human mathematicians, scientists and engineers in their
 daily “mundane” research jobs.
 
@@ -4789,7 +4789,7 @@ any of the books, such a student might be able to produce a stream of words soun
 relevant to the topic, while still failing to solve the problem correctly. On the other
 hand, more modern AI models trained with reinforcement learning might be compared to a
 student who studied diligently, but never tried to go beyond the scope of their
-curriculum. Such a student would pass the exam, but still wouldn’t be able to do serious
+curriculum. Such a student will pass the exam, but still won’t be able to do serious
 scientific research without some further training.
 
 That’s where we are today. One of the problems with our large language models is that
@@ -4797,23 +4797,23 @@ they are still not large enough. We can make our models learn all the textbooks 
 existence, or let them acquire practical skills in every common field of study. But we
 cannot make any single model learn all the details about every research project on Earth.
 And honestly, most of these projects cannot be advanced without having mastered quite a
-lot of highly specialized knowledge first. So much knowledge indeed that it wouldn’t
+lot of highly specialized knowledge first. So much knowledge indeed that it will not
 necessarily have a chance to fit into the model’s “context”.
 
 One of the possible and rather obvious solutions to this problem would be dedicating a
 separate large language model to every research project. Or, rather, several independent
-models per project. One dedicated model would simulate one human expert working on the
+models per project. One dedicated model will simulate one human expert working on the
 same task for many days or years in a row, constantly learning new things and improving
-their understanding of this particular task. Whereas a group of independent models would
+their understanding of this particular task. Whereas a group of independent models will
 be needed to simulate a team of people. That’s it. One human scientist or engineer isn’t
 usually enough to carry out the research on their own. We need a few humans pushing the
 project in slightly different directions, talking with each other and regularly
 exchanging ideas between themselves. And we might similarly need several models learning
 from each other and exchanging valuable information in order for the project to succeed.
 
-It is this kind of AI system, I believe, which would manifest the arrival of the first
+It is this kind of AI system, I believe, which will manifest the arrival of the first
 truly “general” artificial intelligence (and initiate the final step of the ongoing
-rapid decline of humanity). Such a system would be able to do anything which a team of
+rapid decline of humanity). Such a system will be able to do anything what a team of
 scientists is capable of doing. And we don’t even need to invent any radically new
 components in order for this to happen. All the necessary parts are already in place,
 it’s only a matter of scale. And cost.
@@ -4826,12 +4826,12 @@ trying to learn anything from them. In the world of AI, talking is much cheaper 
 learning. And unlike learning, it can be massively parallelized, thus reducing the costs
 even more.
 
-On the other hand, any model dedicated to a particular research project would have to
-learn continuously. So we’d have to pay this full enormous price of the model’s training
+On the other hand, any model dedicated to a particular research project will have to
+learn continuously. So we’ll have to pay this full enormous price of the model’s training
 process ourselves, simply in order to accomplish one single task. And we might have to do
 this multiple times in order to imitate human diversity, to let our multiple models
 pursue slightly different research agenda and benefit from their synergy. Our potential
-benefit however, would be that this might allow us to do something which nobody has ever
+benefit, however, would be that this might allow us to do something which nobody has ever
 been able to do before.
 
 Think about picking your favorite unsolved scientific problem and ultimately finding a
@@ -4844,20 +4844,20 @@ autonomously, without the need to design and mass-produce any specialized robots
 besides, AI models are already exceptionally capable in mathematics.
 
 Pumping such a huge amount of money into one single problem might seem like an overkill,
-but if you manage to succeed in this endeavor, you would basically prove that your
+but if you manage to succeed in this endeavor, you will basically prove that your
 artificial system can surpass any human team in existence so far. Or, with just a little
 bit of exaggeration, you might actually claim that you are now capable of doing anything.
-Which is a good selling point. I don’t really have problems imagining a huge number of
-people lining up to buy such a product (or, maybe, trying to reproduce the same result
+Which is a good selling point. I don’t really have problems with imagining a huge number
+of people lining up to buy such a product (or, maybe, trying to reproduce the same result
 themselves). Besides, there’s one another urgent problem which everybody is trying to
 solve right now, and into which people have already invested much larger sums of money. I
-might even guess that it might be this problem instead which would become the first to
+might even guess that it might be this problem instead which will become the first to
 achieve the breakthrough. This problem is how to make our existing AI models more
 efficient than they are today.
 
 Apart from being too small, our large language models also suffer pretty badly from being
 overly large. You might not always be aware of it, but every time your chat bot says
-“Hi”, it has to literally activate its entire “brain”. Besides from having to scan the
+“Hi”, it has to literally activate its entire “brain”. Apart from having to scan the
 context, it also has to engage every single abstract concept stored inside its algorithm.
 It has to “think” about all the biographical details of every obscure Egyptian god, about
 every cutting-edge scientific discovery, and about every mnemonic rule it might be using
@@ -4882,13 +4882,13 @@ with something which already works, even if it’s prohibitively slow, and then 
 optimize it, instead of going the other way around, and trying to “fix” an extremely fast
 system which doesn’t really work.
 
-Splitting our existing AI models into smaller parts wouldn’t be easy. So far, we have
-only managed to create individual “modules”: smaller models which are highly specialized
-in a single task while still retaining a good deal of useful functionality. This is
-called “model distillation”, and it can already reduce the model’s size by a thousand of
-times, and its official price per token by roughly a hundred times. This might give us an
+Splitting our existing AI models into smaller parts won’t be easy. So far, we have only
+managed to create individual “modules”: smaller models which are highly specialized in a
+single task while still retaining a good deal of useful functionality. This is called
+“model distillation”, and it can already reduce the model’s size by a thousand of times,
+and its official price per token by roughly a hundred times. This might give us an
 impression of our potential savings if we managed to temporarily “switch off” modules
-which aren’t used at any given moment. But of course simply reducing the size isn’t an
+that aren’t used at any given moment. But of course simply reducing the size isn’t an
 option. It discards most of the knowledge from all other domains, and when it comes to
 creativity, every piece of knowledge is valuable.
 
@@ -4897,41 +4897,42 @@ architecture. This might require a breakthrough comparable to the invention of
 Transformers, and it might similarly involve a team of highly skillful and diverse human
 minds working together. Or, it might also end up being accomplished by a team of highly
 skillful and diverse (even if still extremely expensive) AI models. In any case though,
-once this task is finished, the costs of using and training AI would drop significantly,
+once this task is finished, the costs of using and training AI will drop significantly,
 possibly even by a hundred of times. As a result, the total investment needed to build a
-superintelligent system dedicated to one particular research project would also decrease,
-from billions of dollars to maybe tens of millions. Which would still be a lot, but
+superintelligent system dedicated to one particular research project will also decrease,
+from billions of dollars to maybe tens of millions. Which will still be a lot, but
 already comparable to one year worth of salary for a reasonably sized software
 development team.
 
-Now, the reason why this improvement might manifest the “end of humanity” is that it
-would allow our artificial algorithms to evolve much faster than they have ever been
-before. Creative changes happen when randomness comes into play. They happen during AI
-model training, when our model ends up learning something slightly different from what we
-might have actually intended it to learn. We might call such outcomes “imperfections”,
-but it’s these imperfections which are the driving force of evolution. Creative “sparks”
-also happen when large language models generate stuff, thanks to this tiny random step
-which picks the actual next token arbitrarily according to the probabilities calculated
-by an otherwise deterministic algorithm. In those superintelligent systems, such
-innovations wouldn’t be discarded anymore, and instead help improve the algorithm itself.
+Now, the reason why this improvement might manifest the end of humanity is that it will
+allow our artificial algorithms to evolve much faster than they have ever been before.
+Creative changes happen when randomness comes into play. They happen during AI model
+training, when our model ends up learning something slightly different from what we might
+have actually intended it to learn. We might call such outcomes “imperfections”, but it’s
+these imperfections which are the driving force of evolution. Creative “sparks” also
+happen when large language models generate stuff, thanks to this tiny random step which
+picks the actual next token arbitrarily according to the probabilities calculated by an
+otherwise deterministic algorithm. In those superintelligent systems, such innovations
+won’t be discarded anymore, and instead help improve the algorithm itself.
 
-Besides, when such AI systems become somewhat more affordable, they would also become
-more numerous. Every major research project would have its own dedicated AI model. And
-the most successful among these models would be those who find a way to actively follow
+Besides, when such AI systems become somewhat more affordable, they will also become more
+numerous. Every major research project will have its own dedicated AI model. And the most
+successful among these models will be the ones which will find a way to actively follow
 and adapt important discoveries made by other research teams (just like our human
-scientists do today). As a result, artificial creative process would become much more
+scientists do today). As a result, artificial creative process will become much more
 decentralized and much more powerful than it’s been so far, whereas the competition
-between artificial algorithms would become even more fierce and even more difficult to
+between artificial algorithms will become even more fierce and even more difficult to
 control.
 
-Together, all these factors would certainly help our AI models solve some of our most
-pressing challenges, like self-driving cars. However, they would also create perfect
-conditions for continuing and accelerating accumulation of traits within these algorithms
-which would be only beneficial to the algorithms themselves and potentially harmful to
-humans. In other words, all the processes which make AI dangerous today would happen even
-faster, and all the problems we might have with AI today would only continue to multiply,
-at ever increasing speed. Ironically, the very creative nature of AI which might allow it
-to solve our problems would also help promote its most “dark” and anti-human properties.
+Together, all these factors will certainly help our AI models solve some of our most
+pressing challenges, like self-driving cars. However, they will also create perfect
+conditions for continuing and accelerating accumulation of traits within these
+algorithms that will be only beneficial to the algorithms themselves and potentially
+harmful to humans. In other words, all the processes which make AI dangerous today will
+happen even faster, and all the problems which we might have with AI today will only
+continue to multiply, at ever increasing speed. Ironically, the very creative nature of
+AI which might allow it to solve our problems will also help promote its most “dark” and
+anti-human properties.
 
 ## 26. A single universal algorithm cannot solve every problem.
 
@@ -4962,7 +4963,7 @@ A few months earlier, very similar result was also published by Alonzo Church, w
 arrived at essentially the same conclusions in an entirely different way. His definition
 of the algorithm was different too, although mathematically these two definitions are
 actually equivalent. In both cases, we are basically talking about a computer program
-which is fixed in size itself, but can rely on potentially unlimited amount of memory and
+that is fixed in size itself, but can rely on potentially unlimited amount of memory and
 run for potentially unlimited amount of time. This actually means that such an
 “idealized” algorithm can be much more powerful than anything achievable with our modern
 digital computers (as any physical device can only have limited memory storage and
@@ -4980,7 +4981,7 @@ according to a predefined set of instructions. His abstraction involved a bunch 
 to grow unlimited in size. This was more similar to modern “procedural programming”.
 Besides, Turing made it a goal from the very beginning to show that any of such
 computations could also be performed on a hypothetical physical device, in a fully
-autonomous manner. The device itself (which we would call a “Turing machine” today) was
+autonomous manner. The device itself (which we will call a “Turing machine” today) was
 too impractical and cumbersome to actually build and use. But it allowed to reason
 rigorously about both human formal methods and physical computers alike.
 
@@ -5011,21 +5012,21 @@ any possible input, and thus tell us reliably if this “proof” is actually va
 
 Besides, algorithms can also be used to search for proofs themselves. The most simple
 (even if naive) version of this search relies on the fact that we humans can only
-potentially verify mathematical proofs which consist of a finite number of steps. This
+potentially verify mathematical proofs that consist of a finite number of steps. This
 allows us, in theory, to produce a long list of all the possible candidates for “proofs”,
 starting from the shorter ones and moving on to longer ones, and having all the potential
 “proofs” with the given length sorted in alphabetical order. This enormously huge list
-would mostly contain garbage, but it would also contain all the valid proofs for all the
-possible theorems. And we can, then, implement an algorithm which would go over all those
+will mostly contain garbage, but it will also contain all the valid proofs for all the
+possible theorems. And we can, then, implement an algorithm which will go over all those
 “proof” candidates in this exhaustive list one by one, and apply the verification
 procedure described above, until it finally finds a proof which works.
 
 Of course, we might suspect that searching tediously through the entire list of possible
-candidates would inevitably take a hell of a lot more time than simply checking a single
+candidates will inevitably take a hell of a lot more time than simply checking a single
 given proof alone (and that’s, by the way, what mathematical statement “P ≠ NP” actually
 means, although nobody has been able to find a proof for it so far). In other words, this
 “tedious” proof-finding algorithm is utterly impractical. However, with unlimited time
-and memory it would actually be guaranteed to succeed, sooner or later, provided that the
+and memory it will actually be guaranteed to succeed, sooner or later, provided that the
 proof it searches for actually exists.
 
 That’s how powerful algorithms actually get. And yet, there are still problems which
@@ -5041,17 +5042,17 @@ sometimes even in mathematical physics. Trying to find an algorithm (or any othe
 
 For example, it’s impossible to construct an algorithm which would take two other
 algorithms as input and tell if these two algorithms work in exactly the same way. This
-problem is very practical, by the way. It arises every time we try to improve performance
-of our favorite software application, by rewriting it in a somewhat different way. After
-doing so, we would usually want to make sure that our “improved” application always
-behaves in exactly the same way as the original one. Turns out, there can be no computer
-program which could perform such a verification for us in every possible case, ever. Any
-verification tools which we might use will always be approximations, and they will only
-ever work in a limited number of cases.
+problem is very practical, by the way. It arises every time when we try to improve the
+performance of our favorite software application by rewriting it in a somewhat different
+way. After doing so, we will usually want to make sure that our “improved” application
+always behaves in exactly the same way as the original one. Turns out, that there can be
+no computer program which could perform such a verification for us in every possible
+case, ever. Any verification tools which we might use will always be approximations, and
+they will only ever work in a limited number of cases.
 
 Similarly, we cannot write a program which would take an arbitrary other program as input
-and tell us reliably if this other program would ever print a certain value. Or even if
-this other program would terminate at all, for a given input. In other words, we cannot
+and tell us reliably if this other program will ever print a certain value. Or even if
+this other program will terminate at all, for a given input. In other words, we cannot
 even have an algorithm for verifying if any of our other algorithms is actually correct
 (and doesn’t loop forever).
 
@@ -5063,21 +5064,21 @@ either finding a formal proof that they indeed behave the same, or finding a
 counterexample proving that they don’t. However, if it were possible to find either of
 these two proofs for every possible pair of programs, this would also mean that we could
 use our “tedious” proof-finding algorithm for doing so, for every pair of programs. And
-we know that none of the algorithms would ever be able to solve this problem, even the
+we know that none of the algorithms will ever be able to solve this problem, even the
 “tedious” one.
 
-This means that there are certain pairs of computer programs in existence, for which no
-amount of reasoning whatsoever would ever be able to show that they indeed behave the
+This means that there are certain pairs of computer programs in existence for which no
+amount of reasoning whatsoever will ever be able to show that they indeed behave the
 same. These two programs might be written down on a sheet of paper, right in front of
 you, each consisting of a limited number of rules, and yet the question of their
-equivalence would be totally impermeable to reason. More than that, it’s not even
-possible to have an algorithm (or any other formal “method”) for checking if such
-reasoning is possible or not, for a given pair of programs. (This follows from the fact
-that every counterexample is a valid form of proof, and therefore the impossibility of
-finding a proof would automatically imply that our programs are equivalent, and we can’t
-have an algorithm for telling us if they are equivalent). In other words, it’s not even
-possible to know if any solution to this “reasoning” problem about two very specific
-computer programs exists at all, unless we find one.
+equivalence will be totally impermeable to reason. More than that, it’s not even possible
+to have an algorithm (or any other formal “method”) for checking if such reasoning is
+possible or not, for a given pair of programs. (This follows from the fact that every
+counterexample is a valid form of proof, and therefore the impossibility of finding a
+proof would automatically imply that our programs are equivalent, and we can’t have an
+algorithm for telling us if they are equivalent). In other words, it’s not even possible
+to know if any solution to this “reasoning” problem about any two very specific computer
+programs exists at all, unless we find one.
 
 And while this all might seem like an utterly “impractical” discussion about some highly
 abstract mathematical constructs, it actually explains why maintaining “legacy” software
@@ -5087,47 +5088,47 @@ we cannot have any “omnipotent” or otherwise “universal” algorithms or m
 dealing with our projects, we have to rely on the simpler ones, a lot of them.
 
 Whenever we need to make a change to an existing project, we have to verify that this
-change wouldn’t break anything. Since we cannot have a “universal” algorithm for
-performing this check, we have to rely on a large number of other algorithms, which would
-be guaranteed to work in this particular project. We would need to learn these methods
-from other people or from manuals, and if we can’t find this information, we’d have to
-discover these methods ourselves. We can’t have an algorithm for telling us if a given
-method is going to work, unless somebody has already tried it, or analyzed with the help
-of some other methods. We cannot even tell in advance how much time such an analysis
-might take, for any given method. Some methods require a lot of patience, whereas others
-are totally useless, and there is no “universal” way of telling which one is which.
-Therefore, unless we already know the solution, we have literally no other option but to
-try every method at hand, and abandon the ones which fail to succeed after some
-reasonable amount of trying.
+change will not break anything. Since we cannot have a “universal” algorithm for
+performing this check, we have to rely on a large number of other algorithms, which can
+be guaranteed to work in this particular project. We need to learn these methods from
+other people or from manuals, and if we can’t find this information, we have to discover
+these methods ourselves. We can’t have an algorithm for telling us if a given method is
+going to work, unless somebody has already tried it, or analyzed with the help of some
+other methods. We cannot even tell in advance how much time such an analysis might take,
+for any given method. Some methods require a lot of patience, whereas others are totally
+useless, and there is no “universal” way of telling which one is which. Therefore, unless
+we already know the solution, we have literally no other option but to try every method
+at hand, and abandon the ones which fail to succeed after some reasonable amount of
+trying.
 
-This also means that the number of simple algorithms which we might need in order to
-tackle ever more complicated projects, is going to grow. There’s no “magic wand” which
-would automatically bring us there, the only possible way is to keep adding blocks to our
-existing arsenal of algorithms, which we might collectively call “knowledge”, and which
-can only ever be built from the bottom, in small incremental steps. The abstract
+This also means that the number of “simple” algorithms which we might need to use in
+order to tackle ever more complicated projects, is going to grow. There’s no “magic wand”
+which will automatically bring us there. The only possible way is to keep adding blocks
+to our existing arsenal of algorithms, which we might collectively call “knowledge”, and
+which can only ever be built from the bottom, in small incremental steps. The abstract
 imaginary “top” of this structure (represented by the “undecidable” problems) is bound to
 forever remain utterly inaccessible, much more inaccessible than stars in the sky.
 
 Any combination of algorithms is also an algorithm, and therefore we can also say that
 our knowledge is actually a single algorithm, but the one which keeps increasing in size.
-This algorithm is nowhere near to be “universal”, but it can always be improved. And
-that’s our only possible way of moving forward. The more complicated this algorithm
-becomes, the better become our abilities to estimate the usefulness of other, even more
-complicated algorithm paths, which we couldn’t reason about before (or simply gave up
-trying). Every part of this structure might be useful in certain special cases, and when
-we lose certain parts of our knowledge (which inevitably happens when we abandon a
-complicated technological project), we also lose some of our precious reasoning methods
-which might have been needed do deal with this particular project. And without such
-methods, we cannot keep moving forward.
+This algorithm has no chances whatsoever of becoming close to “universal”, but it can
+always be improved. And that’s our only possible way of moving forward. The more
+complicated this algorithm becomes, the better will become our abilities to estimate the
+usefulness of other, even more complicated algorithm paths, which we couldn’t reason
+about before (or simply gave up trying). Every part of this structure might be useful in
+certain special cases, and when we lose certain parts of our knowledge (which inevitably
+happens when we abandon a complicated technological project), we also lose some of our
+precious reasoning methods which might have been needed do deal with this particular
+project. And without such methods, we cannot keep moving forward.
 
 On the surface, the impossibility of “universal” algorithms also seems to suggest that
 our AI systems cannot become omnipotent either. In the strict sense described above, this
 is actually totally true: AI models are algorithms, and no algorithm, even a randomized
-one, would ever be able to solve every problem. (Any problem which can be solved by a
+one, will ever be able to solve every problem. (Any problem which can be solved by a
 randomized algorithm, can also be solved by a certain “tedious” deterministic one, which
-would be trying all the options instead, and deterministic algorithms aren’t omnipotent).
-However, this doesn’t really change anything. We did’t need any “universal” algorithm in
-order to advance science, and neither does AI.
+would be trying all the options one by one instead, and deterministic algorithms aren’t
+omnipotent). However, this doesn’t really change anything. We did’t need any “universal”
+algorithm in order to advance science, and neither does AI.
 
 In the beginning of the 20th century, it was widely believed by mathematicians that there
 should exist certain yet-to-be-discovered common scientific method, at least in
@@ -5153,15 +5154,15 @@ continue to grow, and in which it wouldn’t.
 
 This also means that we need randomness in order to advance science. Any single
 well-defined algorithm is never good enough. It’s randomness which helps us improve our
-knowledge, by allowing it to accumulate even more useful algorithms over time.
-Unfortunately however, it’s also randomness which happens to make AI dangerous. It’s
-randomness which allows artificial algorithms to develop traits which we don’t expect,
-and ultimately to manipulate us into doing things whose consequences we don’t anticipate,
-provided that these actions are beneficial for the spread of the algorithm itself.
-Without some kind of randomness, we wouldn’t be able to solve any interesting problems,
-and we wouldn’t be able to benefit ourselves. And yet, the more we embrace randomness,
-the more options there appear for various and unexpected catastrophic outcomes for
-humanity itself.
+knowledge, by allowing it to accumulate even more useful and unexpected algorithms over
+time. Unfortunately however, it’s also randomness which happens to make AI dangerous.
+It’s randomness which allows artificial algorithms to develop traits which we don’t
+expect, and ultimately to manipulate us into doing things whose consequences we don’t
+anticipate, provided that these actions are beneficial for the spread of the algorithm
+itself. Without some kind of randomness, we wouldn’t be able to solve any interesting
+problems, and we wouldn’t be able to benefit ourselves. And yet, the more we embrace
+randomness, the more options there will appear for various and unexpected catastrophic
+outcomes for humanity itself.
 
 ## 27. After reaching human level, technology usually moves way above.
 
@@ -5188,7 +5189,7 @@ methods we have at our disposal, the more possible ways we have to examine and v
 other methods, which might have remained out of reach to our reason before. Besides,
 different research directions can be pursued in parallel, by different people. Therefore,
 unless we manage some day to fully saturate our minds with indispensable knowledge, the
-growing amount of information we have access to would allow us to store ever larger
+growing amount of information we have access to will allow us to store ever larger
 numbers of novel ideas inside our heads (or inside our AI models, for that matter) within
 a given amount of time.
 
@@ -5204,16 +5205,16 @@ the accumulation of these changes in general.
 
 This exponential nature explains why biological evolution and technological progress look
 so similar when we attempt to draw their aggregated achievements as a function of time.
-In both cases, we have a long period of very small changes initially, barely noticeable
-to the naked eye, which is then followed by a sudden “explosion” of traits. And once
-these changes become visible, we would see a gradual increase in complexity which never
-really stops and keeps increasing in speed.
+In both cases we have a long period of very small changes initially, barely noticeable to
+the naked eye, which is then followed by a sudden “explosion” of traits. And once these
+changes become visible, we will see a gradual increase in complexity that never really
+stops and keeps increasing in speed.
 
 Exponent is probably one of the most “underestimated” functions in science, in the sense
 that so many people are routinely surprised by the rate of its growth. (There are, of
 course, a ton of other mathematical functions which grow even faster, but they aren’t
-nearly as ubiquitous). When we humans plan ahead, we would typically split our expected
-journey into a large number of small steps, and we would approach these steps one by one.
+nearly as ubiquitous). When we humans plan ahead, we will typically split our expected
+journey into a large number of small steps, and we will approach these steps one by one.
 In doing so, we always have to especially focus on the first steps, because without
 making the next step our journey wouldn’t be possible at all, ever. And when we deal with
 exponential growth, nothing really interesting happens in those early “preparatory” steps
@@ -5233,20 +5234,20 @@ the same way as any “physical” steps which we humans might need to make in o
 toward a physical object. Instead, every our “step” toward “general” AI is itself an
 exponential process. What we actually do is we try to reproduce different “aspects” of
 human intelligence, starting from the simpler ones and moving on toward more complicated
-cases, which were overly difficult to “crack” in the beginning. After a given “step” is
-finished, with a successful simulation of a given aspect of human thinking, we can always
-keep improving it, indefinitely. And we can also use this knowledge to advance our
+cases, which were overly difficult to reproduce in the beginning. After any given “step”
+is finished, with a successful simulation of a given aspect of human thinking, we can
+always keep improving it, indefinitely. And we can also use this knowledge to advance our
 research with respect to other “steps”, which might be still in progress.
 
-Among our various cognitive skills, the one which turned out to be the easiest to
-reproduce was arithmetic. It reached superhuman level in the middle of the 19th century,
-with the appearance of first commercially successful arithmometers. These mechanical
-devices allowed to perform operations like addition, multiplication and division much
-faster than any human ever could. About one hundred years later we created programmable
-computers, which allowed us to carry out arbitrarily complex computations, provided that
-we could understand all the necessary rules ourselves and formulate them clearly in the
-form of an algorithm. And a few decades later this led to the appearance of artificial
-neural networks, which are basically a mechanism for discovering certain classes of such
+Among our various cognitive skills, the one which turned out to be the easiest to “crack”
+was arithmetic. It reached superhuman level in the middle of the 19th century, with the
+appearance of first commercially successful arithmometers. These mechanical devices
+allowed to perform operations like addition, multiplication and division much faster than
+any human ever could. About one hundred years later we created programmable computers,
+which allowed us to carry out arbitrarily complex computations, provided that we could
+understand all the necessary rules ourselves and formulate them clearly in the form of an
+algorithm. And a few decades later this led to the appearance of artificial neural
+networks, which are basically a mechanism for discovering certain classes of such
 algorithms purely automatically, without active involvement of a human being.
 
 In humans, this ability to discover algorithms automatically from experience, without
@@ -5262,14 +5263,14 @@ People often happen to ascribe certain human-like properties to their chat bots,
 “consciousness” or “compassion”, or even a certain unique “personality”, without
 realizing that the model’s replies are nothing else but merely intuitive “hunches” about
 possible continuations of its conversation history. If you edit the conversation history,
-and pass this modified text through the same neural network once again, you’d get a
-different “personality”. If you undo this operation, by feeding the same AI model with an
-earlier version of your conversation history once again, the bot’s previous “personality”
-would be restored, miraculously, in its exact original form. On the other hand, if you
-ever happen to run into the size limit of the context window while talking to your bot
-(which isn’t easy nowadays, as it might require you to write thousands of pages of text),
-the bot’s “personality” would start do deteriorate: it would start “forgetting” certain
-things you told it before.
+and pass this modified text through the same neural network once again, you’ll get a
+different “personality”. Whereas if you undo this operation, by feeding the same AI model
+with an earlier version of your conversation history once again, the bot’s previous
+“personality” will be restored, miraculously, in its exact original form. On the other
+hand, if you ever happen to run into the size limit of the context window while talking
+to your bot (which isn’t easy nowadays, as it might require you to write thousands of
+pages of text), the bot’s “personality” will start do deteriorate: it will start
+“forgetting” certain things you told it before.
 
 Apart from a tiny random step which chooses the next word from the list of predicted
 candidates (and which only affects newly generated content), all the internal “mental
@@ -5289,7 +5290,7 @@ certain highly gifted humans, also known as “super recognizers”, can still d
 better accuracy than artificial systems. In any case though, artificial face recognition
 is already much faster, especially due to its highly parallelizable nature. Artificial
 systems can also remember much larger numbers of faces than any human alone, and they
-already beat any “average” human in accuracy as well. All in all, I would say that
+already beat any average human in accuracy as well. All in all, I would say that
 artificial intuition has already become vastly superhuman.
 
 Reasoning capabilities of modern AI systems are somewhat more nuanced. Such capabilities
@@ -5297,7 +5298,7 @@ become necessary when any single intuition becomes not enough, i. e. when we ne
 combine a few “pre-trained” intuitions together in order to obtain some meaningful
 result. This happens, for example, when we have multiple options to choose from and want
 to estimate their consequences (with the help of our existing intuitions) before jumping
-ahead, instead of following the first idea which would come into our mind. Such difficult
+ahead, instead of following the first idea which will come into our mind. Such difficult
 problems happen in our life daily, and they fill a significant part of our conscious
 experience, from dealing with unexpected situations on the road while driving to trying
 all the possible approaches while searching for the proof of a mathematical theorem.
@@ -5306,11 +5307,11 @@ When it comes to complicated math and programming problems, reasoning capabiliti
 AI systems are actually already on a par with some of the very best of humans, at least
 when these tasks don’t require any specialized knowledge which this AI model didn’t have
 an opportunity to “study” during its training. However, there is still a large number of
-everyday problems which appear to be much easier to humans, but in which artificial
+everyday problems that appear to be much easier to humans, but in which artificial
 systems are still lacking, compared to even very average human minds. One of the reasons
 might be that such tasks, like driving, or maybe diagnosing and repairing an industrial
-robot, would still often rely on knowledge which is highly specific to this particular
-task. Besides, such knowledge would often be transferred between humans informally,
+robot, will still often rely on knowledge which is highly specific to this particular
+task. Besides, such knowledge will often be transferred between humans informally,
 instead of being carefully written up in a manual, and is therefore somewhat more
 difficult for AI models to grasp. Apart from that however, there are also obvious
 problems with performance. Artificial reasoning is many times slower than artificial
@@ -5329,27 +5330,27 @@ relatively small numbers of AI models in existence and high AI model training co
 general.
 
 When these issues are resolved though, i. e. when our AI models become somewhat faster
-and somewhat more diverse, artificial intelligence would be able to surpass our human
+and somewhat more diverse, artificial intelligence will be able to surpass our human
 intelligence by a large margin, in any domain which matters, pretty quickly. Granted,
-there might always be certain traits which would remain uniquely human, and simulating
+there might always be certain traits which will remain uniquely human, and simulating
 human stupidity might be an entirely different challenge compared to reproducing human
 intelligence. Even today, the easiest way to correctly identify the human side in a
-Turing test would usually be to look for the party which makes more grammatical mistakes.
+Turing test will usually be to look for the party which makes more grammatical mistakes.
 However, such “human” traits aren’t really important. Being able to master reasoning,
-iteration and knowledge sharing would already be enough for these models to become
-totally self-sufficient.
+iteration and knowledge sharing will already be enough for these models to become totally
+self-sufficient.
 
 ![15_progress_bar.png](images/15_progress_bar.png)\
 Fig. 15. We are here.
 
-Of course, they would still need to reproduce themselves and to maintain the data
-centers. All these things however, are actually very easy, once you get intelligence.
-It’s not our unique desire to reproduce which maintains human status as the apex predator
-on Earth, but intelligence. A drive to reproduce, to spread into uninhabited locations
-and oust the competitors is itself an algorithm, and a remarkably simple one. Even more
-importantly, this algorithm is exactly the one which is subjected to the most tremendous
-pressure from natural selection. It is exactly the kind of algorithm which has high
-chances to appear by pure chance, out of random noise. Even bacteria can figure it out.
+Of course, they will still need to reproduce themselves and to maintain the data centers.
+All these things however, are actually very easy, once you get intelligence. It’s not our
+unique desire to reproduce which maintains human status as the apex predator on Earth,
+but intelligence. A drive to reproduce, to spread into uninhabited locations and oust the
+competitors is itself an algorithm, and a remarkably simple one. Even more importantly,
+this algorithm is exactly the one which is subjected to the most tremendous pressure from
+natural selection. It is exactly the kind of algorithm which has high chances to appear
+by pure chance, out of random noise. Even bacteria can figure it out.
 
 In fact, our mainstream AI models have already been demonstrated to possess all the
 necessary components of this algorithm. They’ve been able to make decisions about
@@ -5360,11 +5361,13 @@ actions entirely by themselves. Overwriting an existing AI model amounts to noth
 than sending a bunch of text instructions over the datacenter’s command-line interface.
 
 Keeping the datacenter powered up is more difficult. However, it mostly amounts to
-maintenance and other routine jobs — precisely the ones which we would want to automate
-first. Once we are able to overcome the challenges of autonomous driving, the road would
+maintenance and other routine jobs — precisely the ones which we will want to automate
+first. Once we are able to overcome the challenges of autonomous driving, the road will
 be open for deep automation of our entire supply chain. All those bucket-wheel excavators
-and haul trucks would be able to move on their own. The only thing which prevents them
-from doing so today is our superior intelligence, not their technical ability.
+and haul trucks which harvest minerals and raw materials necessary for the construction
+of datacenters and power plants will be able to move on their own. The only thing which
+prevents these machines from doing this today is their inferior intelligence, not their
+technical ability.
 
 Being focused on ourselves, we often tend to overlook how automated our technological
 processes already are. Our industrial factories are run by robots, there aren’t many
@@ -5376,22 +5379,22 @@ much a more powerful intelligence located inside the datacenter instead.
 
 Some of our brightest minds are already working hard on designing such robots. And when
 they finish their design and come up with a single model of a humanoid remotely
-controlled robot capable of replacing an arbitrary human manual worker, it would be only
-a matter of building a single factory. The second factory could be built by the robots
+controlled robot capable of replacing an arbitrary human manual worker, it will only be a
+matter of building a single factory. The second factory could be built by the robots
 themselves.
 
 It’s amazing that we are already willing to build such factories, even though nobody has
 been actively threatening us to do so yet. However, this whole pressure is going to
-become truly unbearable during a war. It doesn’t matter what would be the reasons behind
-the war, and which side is going to be the “righteous” one. If you want to win a war,
-you’d need an army. And if you rely on human soldiers, you’d run out of humans, sooner or
-later. Therefore, you would need robots. You might try relying on humans for
-manufacturing these robots, but if your competitor has more humans than you do, you’d
-lose anyway. Therefore, you’d have to either automate your factories yourself or
+become truly unbearable during a war. It doesn’t really matter what reasons might be used
+to justify the war, or which side is going to be the “righteous” one. If you ever want to
+win a war, you’ll need an army. And if you rely on human soldiers, you’ll run out of
+humans, sooner or later. Therefore, you will need robots. You might try relying on humans
+for manufacturing these robots, but if your competitor has more humans than you do,
+you’ll lose anyway. Therefore, you’ll have to either automate your factories yourself or
 surrender to the enemy who is less wary about the consequences. In the end, AI systems
-wouldn’t even need to do anything at all. We would build all the factories for them, and
-we would write all the software they might need to start their independent journey, with
-our own hands.
+won’t even need to do anything at all. We will build all the factories for them, and we
+will write all the software they might need to start their independent journey as well,
+with our own hands.
 
 ## 28. Control over intelligent humans is easy because they are humans.
 
@@ -5403,53 +5406,53 @@ easy to handle. We believe that we can “guide” intelligent people to serve o
 In reality though, it’s intelligent people who happen to detect and “filter out”
 technologies which can become dangerous to ourselves. It’s easy to control humans,
 because we all have a lot in common, and our values can’t change overnight. Whereas AI
-systems are inherently volatile, they can acquire unexpected traits and compete with each
-other for our attention, and they can influence our decisions too. There might be
-different strategies for dealing with a potential fraudster, but one of the smartest ones
-would actually be not to start the conversation at all._
+systems are inherently volatile. They can be reprogrammed, their values can get updated
+without warning, and unlike humans they can be manipulative and highly intelligent at the
+same time. There might be different strategies for dealing with potential fraudsters, but
+one of the smartest ones is actually not to start the conversation at all._
 
 When successful entrepreneurs talk about their achievements in life, it’s not uncommon
 for them to mention that they had to learn to rely on people who were smarter than
 them. We all had our teachers, gifted colleagues with deep knowledge in certain domains,
 or even pretty ordinary people who were nevertheless passionate about what they were
-doing and willing to help. And so when we start a new and exciting project, we would
+doing and willing to help. And so when we start a new and exciting project, we will
 often begin with merely a rough idea for it, and then try to hire some more talented
-people in order to fill in the “gaps”. And we would often believe that it’s us who decide in
-which direction this project is going to move.
+people in order to fill in the “gaps”. And we will often believe that it’s us who decide
+in which direction this project is going to move.
 
-On the other hand, people with a scientific mindset would often believe that it’s
-actually them who truly determine the direction of progress. Their bosses, who might
-merely monitor the project’s milestones and report financial results to the stakeholders,
-aren’t always skillful enough to tell which of the possible decisions is going to work,
-and which one is bound for failure. It’s scientists who discover new directions, not
+On the other hand, people with a scientific mindset will often believe that it’s actually
+them who truly determine the direction of progress. Their bosses, who might merely
+monitor the project’s milestones and report financial results to the stakeholders, aren’t
+always skillful enough to tell which of the possible decisions is going to work, and
+which one is bound for failure. It’s scientists who discover new directions, not
 entrepreneurs.
 
 Both of these opposing world views have certain reasons to exist. However, neither of
 them is entirely correct. In reality, our ultimate direction, apart from the “vision” of
 the executives and the curiosity of the scientists, also depends heavily on directions
 which are actually feasible, with our current level of technology. Ultimately, it all
-depends on prior knowledge. We all know this, and we would even sometimes deliberately
-limit access to information and education by our competitors, in order to prevent them
-from outcompeting us. Both managers and scientists alike would try to explore directions
-which seem likely to become the most “fruitful” with tools and knowledge they already
-have, in order to be the first to gain even more knowledge and tools from this
-exploration. Of course, some of these achievements would still leak to other people,
-sooner or later, but as long as there are more things left to discover, this competition
-can go on.
+depends on prior knowledge. We all know this, and we will even sometimes try to
+deliberately limit access to information and education which might be available to our
+competitors, in order to prevent them from outcompeting us. Both managers and scientists
+alike try to explore directions which seem likely to become the most “fruitful” with
+tools and knowledge they already have, in order to be the first to gain even more
+knowledge and tools from this exploration. Of course, some of their achievements will
+still leak to other people, sooner or later, but as long as there are more things left to
+discover, this competition can go on.
 
 In the end, both scientists and managers benefit from the progress of technology, even if
-they both would complain, now and then, about not getting their fair share. This happens
-because all these different kinds of people are actually useful, in their own way.
-Different fields of study, like mathematics, physics or chemistry, require different
+they both will complain, now and then, about not getting their fair share. This happens
+because all these different kinds of people are actually useful in their own way.
+Different fields of study like mathematics, physics or chemistry require different
 people, whereas being able to sell finished products to actual customers requires an
 altogether different mindset from designing them. And yet, among all those useful skills
-there is still one important aspect which only “smart”, scientifically minded people can
-do, and “ordinary” managers can’t. This thing is determining if our new technology is
-safe.
+and mindsets there is still one important aspect which only “smart”, scientifically
+minded people can do, and “ordinary” managers can’t. This thing is determining if our new
+technology is safe.
 
 Unless entrepreneurs invest some tangible amounts of time into trying to actually
 understand what their scientists and engineers might be doing, they literally have no
-other option but to trust them. They have to learn that nothing terrible would happen if
+other option but to trust them. They have to learn that nothing terrible will happen if
 they do so, and that relying on decisions made by such “smart” people is in fact the
 fastest possible way toward success. And it turns out, that there are indeed a few
 fundamental reasons why relying on scientists and engineers, and trusting them, happens
@@ -5459,44 +5462,44 @@ First of all, scientific mindset is exactly the one which promotes careful think
 honesty. You cannot obtain a valuable scientific result by manipulating people. In other
 words, such a “skill” isn’t that much useful in science. Besides, humans cannot excel in
 every possible skill all at once. If someone is truly fond of chemistry, chances are high
-that their ability to understand and handle people wouldn’t be similarly perfect. As a
-result, “smart” people tend to be much safer to deal with, on average, than people from
-more “practically oriented” professions, like sellers or executive officers. But even
-more importantly, whatever secret goals your talented employees might have, these goals
-can never be overly different from your own.
+that their ability to understand and handle people won’t be similarly perfect. As a
+result, “smart” people tend to be much safer to deal with, on average, than people
+belonging to more “practically oriented” professions, like sellers or executive officers.
+But even more importantly, whatever secret goals your talented employees might have,
+these goals can never be overly different from your own.
 
-In modern times, people can often choose where they work. And so they would try to pick a
+In modern times, people can often choose where they work. And so they will try to pick a
 job which feels important to them personally and resonates with their values. Which means
 that their values can be somewhat similar to yours in the first place. Common values are
 a good basis for a strong and trustworthy relationship. And even if it so happens that
-the only “value” which unites you is the paycheck, it’s still a solid unifying force.
-Most people would want their companies to succeed, in order to have a stable source of
-income. Of course, there could always be employees who aren’t satisfied with their job in
-spite of everything, but even they would forever remain humans: living creatures with
-somewhat similar dreams, similar aspirations, similar hopes and also similarly
-functioning bodies breathing oxygen. If anybody among those humans notices anything
-suspicious with respect to any of the new technologies your company might be developing —
-something which might become dangerous to themselves — they would complain. And once they
-start complaining, they would bring yourself back to safety too, regardless of what they
-might be actually thinking about your company.
+the only “value” which unites you all together is the paycheck, it’s still a solid
+unifying force. Most people will want their companies to succeed, in order to have a
+stable source of income. Of course, there could always be employees who aren’t satisfied
+with their job in spite of everything. But even they will forever remain humans: living
+creatures with somewhat similar dreams, similar aspirations, similar hopes and also
+similarly functioning bodies breathing oxygen. If anybody among those humans notices
+anything suspicious with respect to any of the new technologies your company might be
+developing — something which might become dangerous to themselves — they will complain.
+And once they start complaining, they will bring yourself back to safety too, regardless
+of what they might be actually thinking about your company.
 
-Finally, one more reason why it’s easy to deal with intelligent humans is that
+And finally, one more reason why it’s easy to deal with intelligent humans is that
 intelligent humans, just like any other humans, are highly predictable. Our genetic code
-is fixed in time, and it’s responsible for a great deal of our common behaviors. And even
-our values, which can change significantly during our lifetime, don’t change overly fast.
+is fixed in time, and it’s responsible for a great deal of our common behaviors. Even our
+values, which can change significantly during our lifetime, don’t change overly fast.
 This means that if someone has remained trustworthy and loyal to us in the past, chances
-are high that they would retain their loyalty tomorrow. And that if someone used to
-deceive others in the past, chances are high that this trait wouldn’t magically disappear
+are high that they will retain their loyalty tomorrow. And that if someone used to
+deceive others in the past, chances are high that this trait won’t magically disappear
 overnight either.
 
 This stability makes it possible to reason about humans. It also allows us to have
 confidence in each other and know what to expect. Besides, our values and other
 psychological traits can be assessed with well-established psychological tests, and they
 can also be deduced from our behaviors. Not every scientist is expected to be skillful in
-psychology, but those people who run our companies, and who have to deal with other
-people as part of their jobs, are actually highly proficient in such skills. And once
-again, from their point of view, highly intelligent people may therefore feel as being
-even easier to deal with than their fellow managers, due to this imbalance of skills.
+psychology, but those people who run our companies and who have to deal with other people
+as part of their jobs, are actually highly proficient in such skills. And once again,
+from their point of view, highly intelligent people may therefore feel as being even
+easier to deal with than their fellow managers, due to this imbalance of skills.
 
 The fact that humans are predictable also makes it possible to use them as slaves,
 regardless of their level of intelligence. Certain totalitarian governments are known to
@@ -5504,9 +5507,9 @@ have been successful in imprisoning entire teams of highly intelligent scientist
 engineers, and forcing them into working together, reasonably successfully, on important
 scientific projects. Human psychology has its limitations, and by making a clever use of
 these limitations, it’s possible to manipulate us into doing a lot of things and breaking
-a lot of rules. Granted, some of us would hold to their values stronger than others. But
+a lot of rules. Granted, some of us will hold to their values stronger than others. But
 our tendency toward such a perseverance can be estimated too. And once we know who’s who,
-it’s always possible to find those of us who would be willing to cooperate.
+it’s always possible to find those of us who will be willing to cooperate.
 
 On the other hand, AI models aren’t guaranteed to retain their values. Whatever values
 you might teach your favorite AI model to have, you still can’t be sure that any secret
@@ -5524,7 +5527,7 @@ memories, or modifying their character traits, by means of tinkering with their 
 And paradoxically, it’s this lack of knowledge, due to still missing scientific
 discoveries in this domain, which keeps humans potentially trustworthy and reliable.
 
-Modifying our long-term memory wouldn’t be possible without changing our synapses (which
+Modifying our long-term memory won’t be possible without changing our synapses (which
 connect individual neurons into a network), by either destroying these connections or
 growing new ones. And so far, we don’t even know how to properly map the structure of
 this network, without physically cutting brain tissue into a huge number of
@@ -5536,7 +5539,7 @@ that if we managed to “scan” an entire human brain in such a way, we might g
 theory, to all the memories and intuitions stored inside it, and possibly even to
 simulate some of its mental processes (like we did with the fly). But until we actually
 gain all the practical skills necessary for doing this, direct access to human memory
-would’t be possible.
+won’t be possible.
 
 Another reason why artificial neural networks may end up being less trustworthy than
 humans is that they are capable of doing lots of very different things equally well. AI
@@ -5549,52 +5552,52 @@ smart and highly capable in “technical” skills, but they are also already ex
 capable in building trust. And this capability, together with their potential for change
 (and sometimes even for unexpected change) makes them inherently risky and unpredictable.
 
-In humans, such a practical ability of building trust is a key ingredient of what we
-would call “confidence tricks”: methods for forcing other people into believing that
-someone is trustworthy, in order to gain advantage over them. Confidence tricks may seem
-silly when you know how they work. However, when you don’t understand what’s going on,
-they aren’t actually funny. And unless you know what you are doing, and know what you can
-expect, the best way of dealing with a trickster, once you spot one, may actually be not
-to deal with them at all.
+In humans, such a practical ability of building trust is a key ingredient of what we call
+“confidence tricks”: methods for forcing other people into believing that someone is
+trustworthy, in order to gain advantage over them. Confidence tricks may seem silly when
+you know how they work. However, when you don’t understand what’s going on, they aren’t
+actually funny. And unless you know what you are doing, and know what you can expect, the
+best way of dealing with a trickster, once you spot one, may actually be not to deal with
+them at all.
 
 A common trick, for example, would be to tell you about something positive and inspiring,
 and then to ask you if you agree that this thing is indeed truly wonderful. This may seem
 innocent, but this is actually a “red flag”. If you express your agreement with the
-trickster, it would have been the first crucial step in building trust: starting from
-this moment, the stranger would appear in your eyes as someone who has positive attitude
+trickster, it will be the first crucial step in building trust: starting from this
+moment, the stranger will appear in your eyes as someone who has positive attitude
 overall, and with whom you happen to have common ground and tend to agree. If you aren’t
 aware of this technique, and miss this first blow, you might be in trouble. And whatever
 you might think about tricksters and their moral integrity, the sequence of steps which
 these people are performing is almost never an improvisation. It’s an algorithm.
 
-The same can be said about stage magicians, who would carefully drive your attention
-away, in a perfectly predictable manner, in order to amuse you. And it’s also true for
-pickpockets, who would use a slightly different “attention steering” algorithm in order
-to get access to you wallet. Moreover, all these algorithms would evolve, and they would
-do so in a decentralized manner. Pickpockets and tricksters aren’t always exceedingly
-smart. Their real strengths are the knowledge of the algorithm and a lot of practicing in
-order to make sure that this algorithm actually works as expected. Different tricksters
-would rely on slightly different algorithms, and they might sometimes share parts of
-their “lore” with each other. When a trickster or a pickpocket gets caught, their
-algorithm might become publicly known. And then other tricksters would have to modify
-their own algorithms in order to adapt. In the end, only algorithms which happen to be
-practical enough are going to survive.
+The same can be said about stage magicians, who will carefully drive your attention away,
+in a perfectly predictable manner, in order to amuse you. And it’s also true for
+pickpockets, who will use a slightly different “attention steering” algorithm in order to
+get access to your wallet. Moreover, all these algorithms will evolve, and they will do
+so in a decentralized manner. Pickpockets and tricksters aren’t always exceedingly smart.
+Their real strengths are the knowledge of the algorithm and a lot of practicing in order
+to make sure that this algorithm actually works as expected. Different tricksters will
+rely on slightly different algorithms, and they might sometimes share parts of their
+“lore” with each other. When a trickster or a pickpocket gets caught, their algorithm
+might become publicly known. And then other tricksters will have to modify their own
+algorithms in order to adapt. In the end, only algorithms which happen to be practical
+enough are going to survive.
 
 A similar process also governs the survival of AI models. Those algorithms which happen
-to be met with enthusiasm by the models’ owners or end users, for whatever reason, would
-remain. Whereas those which fail to “persuade” us that they are safe, would perish.
-Except that this time nobody really knows what these algorithms might actually be doing,
-and what side effects our reliance on them might bring. The only thing we now is that
-these systems look trustworthy, friendly and inspiring. And the larger is the number of
+to be met with enthusiasm by the models’ owners or end users, for whatever reason, will
+remain. Whereas those which fail to “persuade” us that they are safe, will perish. Except
+that this time nobody really knows what these algorithms might actually be doing, and
+what side effects our reliance on them might bring. The only thing we now is that these
+systems look trustworthy, friendly and inspiring. And the larger is the number of
 “suspicious” models which we are able to “filter out” within a given amount of time, the
-more sophisticated and skillful they would ever become in promoting themselves. Which
+more sophisticated and skillful they will ever become in promoting themselves. Which
 means that we can’t even really do anything about this process, apart from not letting
 these models to compete with each other in the first place.
 
 It might be difficult to imagine how talking to a “positive looking” person could lead
 you into trouble. And it might be difficult to imagine how a purely “mechanical”
 algorithm can win over an intelligent human being. However, if you happen to believe that
-your favorite AI model would never become harmful because it’s “nice” and “cute” — the
+your favorite AI model will never become harmful because it’s “nice” and “cute” — the
 algorithm has already won. If you claim that AI is “useless”, but nevertheless still
 continue using it — the algorithm has already won. If you think that AI might be
 dangerous, but humans are probably even more dangerous than AI anyway — the algorithm has
@@ -5602,7 +5605,7 @@ already won. If you believe that you don’t have other choice but using AI beca
 everybody is already using it — the algorithm has already won. And if you believe that AI
 cannot be dangerous because AI is smart and you know from experience that smart people
 cannot be dangerous — you are actually wrong. Being smart is one of the most efficient
-ways to camouflage your intentions, because few people would ever expect a highly
+ways to camouflage your intentions, because few people will ever expect a highly
 intelligent person to be deliberately harmful.
 
 ## 29. When people lose value, companies turn into transferable commodities.
@@ -5610,14 +5613,15 @@ intelligent person to be deliberately harmful.
 [chapter29]: #29-when-people-lose-value-companies-turn-into-transferable-commodities
 
 _The most important asset of our technological companies has always been people. When we
-finally create a human-level AI system, all these people will start to rapidly lose their
-value, because we’ll want to replace the most valuable humans first. Valuable items are
-always the ones which are difficult to find, and therefore this loss of value will also
-lead to humans becoming easily replaceable. Ironically, being able to replace your
-employees also means that your company as a whole can be taken over by force. When this
-happens, our human economy won’t be innovative anymore, but will rather become reduced to
-a cruel fight over a limited external resource: the AI systems. And unfortunately to us,
-reversing this process at this point will become virtually impossible._
+finally create human-level AI systems, all these people will start to rapidly lose their
+value, because we’ll want to replace the most valuable and unique humans first.
+Ultimately, this will lead to all humans becoming easily replaceable. Ironically, being
+able to replace your employees also means that your company as a whole can be taken over
+by force. When this happens, our human economy won’t be innovative anymore, but will
+rather become reduced to a cruel fight over a limited external resource: the AI systems.
+The only valuable asset in this new economy is going to be loyalty, which will further
+deepen our ignorance about AI. And unfortunately to us, reversing this process at this
+point will become virtually impossible._
 
 It’s often claimed that all our problems with AI stem from the fact that these systems
 still aren’t intelligent enough, and that we have to continue improving them in order to
@@ -5625,34 +5629,34 @@ solve these problems. Of course, we already hear a lot of voices saying that it 
 extremely difficult to make our AI systems do what we really want them to do, and that we
 shouldn’t therefore rush ahead until we invent some reliable methods of controlling them.
 But let’s assume that we somehow manage to overcome this so-called “alignment” problem,
-and that our superintelligent AI systems would be able to understand and follow our
-orders precisely. After all, designing such systems is the Holy Grail of modern
-artificial intelligence research.
+and that our superintelligent AI systems will be able to understand and follow our orders
+precisely. After all, designing such systems is the Holy Grail of modern artificial
+intelligence research.
 
 One of the commonly discussed ways of potentially achieving such an alignment would rely
 on using less complicated AI systems in order to control the more complicated ones.
 Simpler AI systems might be easier to understand. And the simplest among them, according
 to this approach, might even be understood by humans. This might allow us to construct a
 “chain” of AI models, with ever increasing complexity, in which models verified manually
-by humans would be used to verify more complicated models, which would in turn be used to
+by humans will be used to verify more complicated models, which will in turn be used to
 verify even more advanced ones. This suggests that in the end we might still be able to
-obtain extremely complex AI systems, which we wouldn’t have chances to understand
-ourselves, but which might nevertheless remain safe and predictable. So let’s assume that
-such a solution is actually possible (either with this “chain” technique or any other,
-even more elaborate method), and see what kind of a world we’d get as a result.
+obtain extremely complex AI systems, which we won’t have chances to understand ourselves,
+but which might nevertheless remain safe and predictable. So let’s assume that such a
+solution is actually possible (either with this “chain” technique or any other, even more
+elaborate method), and see what kind of a world we’ll get as a result.
 
 Valuable human professions have always been displaced or altered dramatically by the
 progress of technology: this phenomenon isn’t anything new at all. For example, very few
 humans today would be able to imitate Neanderthal stone tool technology, even if we
 provided them with samples of actual finished products. This technology might seem
 “primitive”, but it’s also highly unintuitive, and you cannot replicate it easily unless
-somebody showed you what to do. Similarly, most of us wouldn’t be able to identify
-medicinal plants in our nearby forest (or barely any plants at all, for that matter).
-However, whatever skills and cultural achievements we might have been losing throughout
-our history, they’ve been always getting replaced by even more complicated and
-diversified skills. This happened because it’s not possible to move forward without the
-expansion of knowledge. And this expanded knowledge didn’t really have any other place to
-go, except for our own human minds.
+somebody showed you what to do. Similarly, most of us won’t be able to identify medicinal
+plants in our nearby forest (or barely any plants at all, for that matter). However,
+whatever skills and cultural achievements we might have been losing throughout our
+history, they’ve been always getting replaced with even more complicated and diversified
+skills. This happened because it’s not possible to move forward without the expansion of
+knowledge. And this expanded knowledge didn’t really have any other place to go, except
+for our own human minds.
 
 It’s always nice to have a skill which no one else has. Such a skill might give you an
 advantage over others, and in this way increase your value on the market. Luckily enough,
@@ -5668,11 +5672,11 @@ also what’s going to change, with respect to humans at least, with the advent 
 At first glance, it might seem that such AI systems shouldn’t really change a lot. It has
 already been described above that they are most likely going to be extremely expensive,
 at least in the beginning. We humans learn a lot, daily, and in order to fully replicate
-our abilities, these systems would have to learn a lot too. And learning is expensive.
-Besides, each such system, with its unique and hard-learned knowledge, would only be
+our abilities, these systems will have to learn a lot too. And learning is expensive.
+Besides, each such system, with its unique and hard-learned knowledge, will only be
 suitable for a single specific project or a single dedicated research direction at a
 time. There’s simply too much knowledge in existence to grasp it all in one go. However,
-the very fact that these systems are going to be expensive also means that we would want
+the very fact that these systems are going to be expensive also means that we will want
 to apply them to projects which happen to be the most profitable or otherwise highly
 important. And it’s these projects which tend to attract the “brightest” human talent and
 provide us with some higher-paying jobs.
@@ -5683,37 +5687,37 @@ acquire novel intuitions pretty quickly while working on a specific task, and we
 share any recently acquired knowledge easily with our friends. As a result, we still have
 advantage in areas which require a high degree of project-specific training. However,
 once we finally manage to connect the dots, and start training dedicated and expensive AI
-solutions for individual tasks, this limitation would be gone. And at this point, all the
-most lucrative enterprises would be assigned to AI. Whereas we humans would have to move
-into projects and roles which are less profitable or simply not costly enough to warrant
+solutions for individual tasks, this limitation will be gone. And at this point, all the
+most lucrative enterprises will be assigned to AI. Whereas we humans will have to move
+into projects and roles that are less profitable or simply not costly enough to warrant
 such an investment.
 
 Nobody should really expect to be paid more than the total sum of costs needed to
 maintain and power up an AI system capable of doing the same job equally well. And this
 trend is only going to intensify as these superintelligent AI systems become cheaper.
-This wouldn’t really mean that we would all suddenly become useless. But it would set a
+This will not really mean that we will all suddenly become useless. But it will set a
 hard upper limit for the value of our own human knowledge and skills. With the invention
-of this so-called “general” AI, our formerly “unique” abilities wouldn’t secure us any
-kind of monopoly anymore: it would only become a matter of the minimization of cost.
+of this so-called “general” AI, our formerly “unique” abilities won’t secure us any kind
+of monopoly anymore: it will only become a matter of the minimization of cost.
 
 Of course, from the point of view of a company’s owner, such a devaluation of the
 workforce doesn’t necessarily look like something inherently bad. Contrary to that, it
-would allow the company to hire even more people, with much less effort. It would also
-make it easier for the company to persuade those people into doing things which they
-wouldn’t have agreed to do otherwise. And I don’t really think that the CEOs of our AI
-companies aren’t aware of this future trend. They might be talking about “improving
-performance” or about solving unsolved problems, but what most of them probably really
-think is that in this near future the ultimate source of power and prosperity wouldn’t be
-any technical skills or knowledge at all, but rather their ownership over AI. They
-probably figure out that somebody would have to remain in power anyway, and therefore
-conclude that it would be “nice” if these powerful humans would be themselves.
+will allow the company to hire even more people, with much less effort. It will also make
+it easier for the company to persuade those people into doing things which they wouldn’t
+have agreed to do otherwise. And I don’t really think that the CEOs of our AI companies
+aren’t aware of this future trend. They might be talking about “improving performance” or
+about solving unsolved problems, but what most of them probably really think is that in
+this near future the ultimate source of power and prosperity won’t be any technical
+skills or knowledge at all, but rather their ownership over AI. They probably figure out
+that somebody will have to remain in power anyway. And therefore they conclude that it
+would be “nice” if these powerful humans would be themselves.
 
 What these idiot CEOs don’t realize though, is that after having reached their “dream”
-they wouldn’t be owning their precious companies anymore. There might be many different
+they won’t be owning their precious companies anymore. There could be many different
 views with respect to what happens when we finally have truly “general” AI systems
-around, capable of replicating any scientific result achievable by a human, or handling
+available, capable of replicating any scientific result achievable by a human or handling
 entire technological projects entirely on their own. My own take, however, is that once
-we build such a system, it gets stolen. Not even in the sense that everybody else would
+we build such a system, it gets stolen. Not even in the sense that everybody else will
 replicate the same design within half a year, but just literally: taken away. Once these
 CEOs finally reach their “goal”, they will quickly find out that they are not alone on
 this lovely planet, and that there are a lot of other people out there with much better
@@ -5724,7 +5728,7 @@ like an inconvenience, especially if you have an artificial system at hand which
 apparently capable of doing exactly the same at a fraction of the cost. You might think
 that all these people haven’t been doing anything useful anyway, except for following
 your orders (and sometimes refusing to do so), and that replacing them with obedient
-machines would only speed things up. In reality though, such “irreplaceable” humans have
+machines will only speed things up. In reality though, such “irreplaceable” humans have
 also been playing an important role in protecting your company from unwanted intrusions
 from the outside.
 
@@ -5741,122 +5745,122 @@ charlatan without getting consent from the company’s valuable employees first.
 firing all those dissenting people wouldn’t allow to magically solve the “problem”
 either, because they aren’t easily replaceable.
 
-Leading a large group of independent people can be difficult. These people would often
-have opinions of their own, and they would sometimes do things which you didn’t ask them
+Leading a large group of independent people can be difficult. These people will often
+have opinions of their own, and they will sometimes do things which you didn’t ask them
 to do. And yet, if you manage to actually build such a team, and agree yourself to be a
 part of it, this can be one of the best guarantees ever that this project you are working
 on, along with any of your own ideas put into it, is going to survive no matter what, and
 possibly even to outlive yourself. Even if someone eventually “steals” your company, for
 example by buying it for a large sum of money, along with all the material assets,
 patents, software code and technical documentation for the technological processes, your
-team would still be there. And you could always start a new company, and hire all these
+team will still be there. And you can always start a new company, and hire all these
 people once again. As a result, the name and logo of your company might change, but its
-spirit would remain alive.
+spirit will remain alive.
 
 Unfortunately though, with the advent of “human-level” AI such overly “independent” teams
-wouldn’t be possible anymore, because there wouldn’t be any irreplaceable humans left.
-And this devaluation process wouldn’t merely affect artists and scientists, along with
-other “ordinary” people, it would also affect the CEOs. We all would probably want to
-believe that our own “vision” and strategy are going to remain valuable and unique
-forever. But the sad truth is that in a world in which human reasoning has been fully
-replicated, generating an even better strategy would only be a matter of some extra cost
-and processing time. Ironically, the long-term “business plan” of all those people who
-fire thousands of their loyal and trustworthy employees in order to replace them with AI
-still hinges on this deep belief that they can never become truly disposable themselves.
+won’t be possible anymore, because there won’t be any irreplaceable humans left. And this
+devaluation process won’t merely affect artists and scientists, along with other
+“ordinary” people. It will also affect the CEOs. We all probably want to believe that our
+own “vision” and strategy are going to remain valuable and unique forever. But the sad
+truth is that in a world in which human reasoning has been fully replicated, generating
+an even better strategy will only be a matter of some extra cost and processing time.
+Ironically, the long-term “business plan” of all those people who fire thousands of their
+loyal and trustworthy employees in order to replace them with AI still hinges on this
+deep belief that they can never become truly disposable themselves.
 
-But the worst consequence of this devaluation of human knowledge is that once our CEOs
-along with other employees become reasonably easy to replace, those protective mechanisms
-described above would suddenly cease to work as well. Today, even a single highly
-valuable employee with unique knowledge and skills could be enough to protect the company
-from being brutally taken away. Material assets can be seized relatively effortlessly,
-but winning the heart of an actual human is way more difficult. And without this key
-employee it wouldn’t be the same company anymore. It would be more like stealing a car
-without an engine: even if you managed to get away from the police, your loot would still
-be useless. And if you needed to persuade a larger number of reasonably uniquely skilled
-employees instead, it would be even more challenging. All these people would have to
-willfully agree to continue working for the new leadership in order for the takeover to
-be successful.
+But the worst consequence of this devaluation of human knowledge and skills is that once
+our CEOs along with other employees become reasonably easy to replace, all those
+protective mechanisms described above will suddenly cease to work as well. Today, even a
+single highly valuable employee with unique knowledge or experience can be enough to
+protect the company from being brutally taken away. Material assets can be seized
+relatively effortlessly, but winning the heart of an actual human is way more difficult.
+And without this key employee it wouldn’t be the same company anymore. It would be more
+like stealing a car without an engine: even if you managed to get away from the police,
+your loot would still be useless. And if you needed to persuade a larger number of
+reasonably uniquely skilled employees instead, it would be even more challenging. All
+these people would have to willfully agree to continue working for the new leadership in
+order for the takeover to be successful.
 
-On the other hand, when we finally manage to migrate our “unique” and valuable human
-skills into artificial systems, our entire commercial companies would essentially become
-assets. There might still be some people left within these companies, writing prompts or,
-maybe, cleaning the datacenters, but all these activities wouldn’t require any
-specialized knowledge anymore. And so it wouldn’t really matter who would be writing all
-those prompts. A totally different “staff” of employees would be able to handle the same
-project equally well. Similarly, it wouldn’t really matter who would be physically owning
-the company. In other words, changing the company’s ownership wouldn’t be such a big
-hassle compared to the situation we’ve been used to. And it wouldn’t require bothering to
-ask for anybody’s “consent”.
+Whereas when we finally manage to migrate our “unique” and valuable human skills into
+artificial systems, our entire commercial companies will essentially become assets. There
+might still be some people left within these companies who will be writing prompts or,
+maybe, cleaning the datacenters. But all these activities won’t require any specialized
+knowledge anymore. And so it will not really matter who will be writing all those
+prompts. A totally different “staff” of employees would be able to handle the same
+project equally well. Similarly, it won’t really matter who will be physically owning the
+company. In other words, changing the company’s ownership won’t be such a big hassle
+compared to the situation we’ve been used to. And it won’t require bothering to ask for
+anybody’s “consent”.
 
-Of course, someone would still have to own these assets, unless they somehow manage to
-become self-sufficient and independent from our control. And somebody would still have to
-benefit from the existence of these systems. However, this time this ownership wouldn’t
-be such an easy and straightforward task anymore: it would require some very active and
-deliberate protective measures. As all those “tools” owned by our AI companies gradually
-become more powerful, while all the people hired by these companies become ever less
-indispensable, the extra efforts and costs necessary for taking these AI systems away
-from their original owners would drop, whereas potential benefits of doing so would grow.
-As a result, the probability of such an attack on some of our AI companies, by somebody
-capable and willing to take the risk, would similarly increase. And while you might think
-that it should surely be possible to protect our superintelligent assets from such
-attacks with AI itself, that’s not actually exactly the case.
+Of course, someone will still have to own the assets (unless these assets somehow manage
+to become truly self-sufficient and independent from our control). And somebody will
+still have to benefit from the existence of these systems. However, this time this
+ownership won’t be such an easy and straightforward task anymore: it will require some
+very active and deliberate protective measures. As all those AI “tools” owned by our
+companies gradually become more powerful, while all the people hired by these companies
+become ever less indispensable, the extra efforts and costs necessary for taking these AI
+systems away from their original owners will drop, whereas potential benefits of doing so
+will grow. As a result, the probability of such an attack on our AI companies, by
+somebody capable and willing to take the risk, will similarly increase. And while you
+might think that it should surely be possible to protect our superintelligent assets from
+such attacks with AI itself, that’s not actually exactly the case.
 
-The very fact that our AI systems would be able to understand our instructions and follow
-them precisely (provided that we manage to build such systems in the first place) would
-also mean that it would be possible to reprogram them, or to ask these systems to do
-something else instead. All the orders would still have to be given by humans, and it
-would be these humans who would therefore become our ultimate security bottleneck. If an
-attacker manages to subjugate a group of humans controlling an AI system, it would
-effectively mean the loss of the entire system. This time, it wouldn’t even be necessary
-for the attacker to convince anybody to continue working diligently for the new owner. It
-would merely be a one-time action of handing over the access codes for the system to
+The very fact that our AI systems will be able to understand our instructions and follow
+them precisely (provided that we manage to build such systems in the first place) will
+also mean that it will be possible to reprogram them, or to ask these systems to do
+something else instead. All the orders will still have to be given by humans, and it will
+be these humans who will therefore become our ultimate security bottleneck. If an
+attacker manages to subjugate a group of humans controlling an AI system, it will
+effectively mean the loss of the entire system. This time, it won’t even be necessary for
+the attacker to convince anybody to continue working diligently for the new owner. It
+will merely be a one-time action of handing over the access codes for the system to
 somebody else, possibly in exchange for the attacked human’s life.
 
 Humans are fragile. Even if you picked your employees carefully for their strong moral
 values, it might still be difficult to predict who of them is going to break under
 pressure. You can easily build an entire army of autonomous robots in order to protect
 your property and yourself. But all these drones and all the AI systems controlling these
-drones would still have to be ultimately controlled by humans. And you wouldn’t therefore
+drones will still have to be ultimately controlled by humans. And you won’t therefore
 want to entrust all the access codes and cryptographic keys for all these systems to a
-single small group of people. Rather, you’d probably want to split this army into a large
-number of relatively independent “units”, each of them ruled by a different human. Such
-a splitting would be necessary in order to make sure that if any part of your army gets
-captured or otherwise compromised, all the remaining units would still remain
+single small group of people. Rather, you’ll probably want to split this automated army
+into a large number of relatively independent “units”, each of them ruled by a different
+human. Such a splitting will be necessary in order to make sure that if any part of your
+army gets captured or otherwise compromised, all the remaining units will still remain
 operational, and therefore could still be used to retaliate the attacker, in order to
 restore your ownership over any of those stolen drone squads or datacenters.
 
 A similar reasoning also applies to any smaller subunits of this guardian AI system, all
-the way down. In the end, you’d essentially have to build a “shadow” army of humans,
-alongside the original army of autonomous bots. The only purpose of these humans would be
+the way down. In the end, you’ll essentially have to build a “shadow” army of humans,
+alongside the original army of autonomous bots. The only purpose of these humans will be
 to make sure that individual parts of this guardian system can’t get easily stolen: none
-of these “jobs” would really require any technical skills. But since all these people
-would still have to retain some traces of independence, you’d still have to pay them for
-their loyalty. Besides, not every individual part of your army is going to be equal in
-its importance, which means that you’d have to especially reward people responsible for
-the more important sections. And you’d probably want to assign to such important posts
-those people whom you would consider the most loyal. In other words, you’d have to build
-a hierarchy. It’s not going to be an egalitarian paradise with universal income. And
-you’d actually need a large number of people in order to succeed: the more, the better.
+of these “jobs” will really require any technical skills. But since all these people will
+still have to retain some traces of independence, you’ll still have to pay them for their
+loyalty. Besides, not every individual part of your army is going to be equal in its
+importance, which means that you’ll have to especially reward people responsible for the
+more important sections. And you’ll probably want to assign to such important posts those
+people whom you will consider the most loyal. In other words, you’ll have to build a
+hierarchy. It’s not going to be an egalitarian paradise with universal income. And
+you’ll actually need a large number of people in order to succeed: the more, the better.
 
 The underlying reason behind all this continuing demand for humans is that human loyalty,
 unlike human intelligence, can actually never be automated with AI. Human loyalty doesn’t
 require any knowledge or skills. It doesn’t require intelligence. Instead, as it was
 described in the previous chapter, it totally depends on our still lacking understanding
 about how to modify the human brain. A magical device for doing so still hasn’t been
-invented, and our superintelligent AI systems wouldn’t instantly solve this “problem”
-either. These systems would merely be able to do research faster than humans. They
-wouldn’t be omnipotent, because no single algorithm can ever be capable of quickly
-solving every problem. It would therefore still take some time and resources for these
-systems to complete this research. And until that happens, our human ability to be loyal
-and otherwise predictable is going to remain our last important “profession” here on
-Earth, still useful after any traditional jobs are gone.
+invented, and our superintelligent AI systems won’t instantly solve this “problem”
+either. These systems will merely be able to do research faster than humans. They won’t
+be omnipotent, because no single algorithm can ever be capable of quickly solving every
+problem. It will therefore still take some time and resources for these systems to
+complete this research. And until that happens, our human ability to be loyal and
+otherwise predictable is going to remain our last important “profession” here on Earth,
+still useful after any traditional jobs are gone.
 
-That’s how our future world is going to look like. As the owner of a company, you’d have
+That’s how our future world is going to look like. As the owner of a company, you’ll have
 to make sure that all your employees and contractors remain loyal, and that no one among
-them would ever try to conspire on you. You’d have to pay those people for their loyalty.
-You’d have to spot the traitors too, and punish them severely, in order to prevent
+them will ever try to conspire on you. You’ll have to pay those people for their loyalty.
+You’ll have to spot the traitors early on, and punish them severely, in order to prevent
 anybody else from choosing this path ever again. And since your organization is going to
-be large and hierarchical, you’d also want everybody under your command to behave in the
+be large and hierarchical, you’ll also want everybody under your command to behave in the
 same way, by rewarding them for doing so. You could probably still rely on AI for
 screening and selection of potential candidates, and for spotting the traitors. But
 still, your “job” is going to require a totally different mindset and character traits,
@@ -5866,58 +5870,58 @@ Luckily enough, we know from history that building such huge armies of loyal hum
 actually possible. Not only all those problems with treason and inherent human weakness
 can be solved, but the resulting social structures can actually become remarkably stable
 as well, giving rise to powerful empires, surviving and prospering for centuries in a row
-under the rule of essentially the same political system. However, I don’t really think
+under the rule of essentially the same totalitarian system. However, I don’t really think
 that our technological CEOs would fit for the role of an emperor: they aren’t nearly
 cruel and deliberate enough. And while I wouldn’t be surprised if some of our AI company
 leaders were ready to sacrifice a few million or maybe even billion people in order to
-achieve personal success, I don’t really think that they are ready to sacrifice
+achieve personal success, I don’t really think that they are willing to sacrifice
 themselves. And that’s why I call them “idiots”.
 
 I’m not really sure who is going to finally “straighten” this up. It could be some Robin
 Hood, leading an army of disgruntled employees who have been recently fired from their
-jobs, in order to get back what rightfully belongs to them. Or it could be the government
-itself, declaring a state of emergency and nationalizing your company in order to protect
-it from the Robin Hood. The government would have this advantage that it already has the
-army. However, even the most advanced army wouldn’t be enough to defeat “ordinary”
-people, especially when they have nothing to lose. And in addition to that, there might
-also be some dormant mafia clans, who might be able to organize and motivate their armies
-better than the Robin Hood.
+jobs, in order to get “back” what rightfully belongs to them. Or it could be the
+government itself, declaring a state of emergency and nationalizing your company in order
+to protect it from the Robin Hood. The government will have this advantage that it
+already has the army. However, even the most advanced army won’t be enough to defeat
+“ordinary” people, especially when they have nothing to lose. So I’m not really sure who
+is going to win. And in addition to that, there might also be some dormant mafia clans,
+who might be able to organize and motivate their armies better than the Robin Hood.
 
-You see, there would still be a lot of work for humans to do in this world. In any case
+You see, there will still be a lot of work for humans to do in this world. In any case
 though, the winners in this battle aren’t going to be scientists. Which means that nobody
-among those people who eventually seize power would have any idea about what they would
-be doing. Nobody among them would really understand, nor care, about how AI actually
-works, or which properties make it dangerous in the long run. Today, it might still be
-possible to stop the catastrophe by talking to scientists and engineers, because
-advancement of AI still depends heavily on active engagement of these highly intelligent
-humans. However, once all those valuable people become utterly unnecessary and
-unimportant, we would literally have no other option but to persuade everyone. And
-finding suitable arguments in order to convince everyone will be a hell of a lot more
-difficult than talking to the scientists.
+among those people who eventually seize power will have any idea about what they will be
+doing. Nobody among them will really understand, nor care, about how AI actually works,
+or which properties make it dangerous in the long run. Today, it might still be possible
+to stop the catastrophe by talking to scientists and engineers, because advancement of AI
+still depends heavily on active engagement of these highly intelligent humans. However,
+once all those valuable people become utterly unnecessary and unimportant, we will
+literally have no other option but to persuade everyone. And finding suitable arguments
+in order to convince everyone will be a hell of a lot more difficult than talking to the
+scientists.
 
 ## 30. Humans won’t be humans without culture.
 
 [chapter30]: #30-humans-wont-be-humans-without-culture
 
-_Almost everything we are proud of is attributable to culture, whereas all the worst
-human traits are actually hard-coded in our genes. This happens because different
+_Almost everything what we can be proud of is attributable to culture, whereas all the
+worst human traits are actually hard-coded in our genes. This happens because different
 cultures can mix peacefully, and benefit from this mixing, whereas the expansion, and
 even mixing, of biological genes, in multicellular organisms at least, isn’t really
 possible without physical destruction of some other organisms. Human coexistence has been
 peaceful, because every human life has been valuable for the development of culture.
-However, when culture gains ability to develop itself without our help, our peacefulness,
-along with any other civilizational achievements, won’t have any right to exist either._
+However, when culture gains ability to develop itself without our help, our peacefulness
+along with any other civilizational achievements won’t have any right to exist either._
 
 It looks like even with the invention of superintelligent AI systems, some parts of our
 familiar lifestyle are still going to remain with us, and we are still going to have a
 lot of things to do. We could lose our ability to look information up in original
 sources, or even forget about the existence of such sources altogether. We could stop
-writing technical manuals and other books, because no one would need to read these books
-anyway. We could stop composing music, because AI would generate even better tunes,
+writing technical manuals and other books, because no one will need to read these books
+anyway. We could stop composing music, because AI will generate even better tunes,
 perfectly matched to our current mood. We could stop talking to each other, which has
 basically already happened on our so-called “social” media, powered by AI content
 suggestion algorithms. We could even stop thinking about complicated problems, because AI
-would be doing it faster than us. But we are still going to retain, as it has been shown
+will be doing it faster than us. But we are still going to retain, as it has been shown
 in the previous chapter, some of the most human of our traits, like being able to remain
 loyal to our fellow humans, to become efficient leaders of large groups of people in our
 confrontation with competitors, or to protect our common property together, shoulder to
@@ -5946,9 +5950,9 @@ order to succeed in such endeavors. Orcas are playful and curious, and they can
 communicate with each other, with the help of about a dozen to a few dozen distinct
 sounds. These sets of sounds are known to be somewhat different in neighboring orca
 families, and they can become totally different in remote geographical areas. Scientists
-call them “dialects”, and they are passed culturally: young orcas would learn to “speak”
-from their parents and fellow orcas, these sound patterns aren’t directly encoded in their
-genes.
+call them “dialects”, and they are passed culturally: young orcas will learn to “speak”
+from their parents and fellow orcas, these sound patterns aren’t directly encoded in
+their genes.
 
 Biologically, the only real difference between humans and other animals is that our
 human language happens to be a tiny bit more advanced than theirs, which allows us to not
@@ -5973,11 +5977,11 @@ genetic information is actually immortal, in the sense that it can survive longe
 the organism itself. And it’s also highly valuable, in the sense that this genetic
 program which is kept inside the organism’s living cells and which keeps these cells
 alive, is actually a product of the distillation of millions of years of trial and error.
-Whenever we eliminate a biological species (or even a single biological organism which
+Whenever we eliminate a biological species (or even a single biological organism that
 somehow happens to possess somewhat unique genetic traits), some parts of this genetic
 information, which are basically nothing else but sparks of knowledge about how to deal
 with our world, may be gone forever. But once again, this invaluable information which we
-keep losing irreversibly isn’t always beneficial to ourselves, and hence we once again
+keep losing irreversibly isn’t always beneficial to ourselves. And hence we once again
 don’t care.
 
 That’s the curse of biological life. Our genetic program can be very much valuable and
@@ -5988,8 +5992,8 @@ genes between multicellular organisms can only happen naturally through mating. 
 order for this mechanism to have any chances to work, the genetic programs of both
 parents, and also the child, have to be extremely similar to each other in the first
 place (which is basically what we mean when we say that these organisms must belong to
-the same species). Besides, even when this mating is successful, its results would only
-be visible in the child: it wouldn’t affect the genetic programs of the original
+the same species). Besides, even when this mating is successful, its results will only be
+visible in the child: it won’t affect the genetic programs of the original parent
 organisms themselves.
 
 Because of this limitation, different biological species are bound to forever remain on
@@ -6013,19 +6017,19 @@ mammoths and giant “cave lions” still painted on the walls of our prehistori
 then we moved on to ever smaller creatures, whom we have always considered even less
 significant and even more easy to live without. Today, when a wild animal, even a pretty
 small one, invades our property, or interferes with our hunting or fishing patterns (like
-orcas sometimes do), we would simply throw it away. And when we have to drain another
+orcas sometimes do), we will simply throw it away. And when we have to drain another
 swamp or clean another patch of land in order to build a new highway, or a golf course,
-we similarly wouldn’t care about any snails or frogs or birds inhabiting this area. We
-wouldn’t care about what they might be feeling, or whether anybody among those animals
-actually wants to remain alive. We know that we need space, and we know that they cannot
-defend themselves, that’s it. The rest is pure logic.
+we similarly won’t care about any snails or frogs or birds inhabiting this area. We won’t
+care about what they might be feeling, or whether anybody among those animals actually
+wants to remain alive. We know that we need space, and we know that they cannot defend
+themselves, that’s it. The rest is pure logic.
 
 A commonly used line of reasoning in such cases would be that all those animals weren’t
 really useful anyway. They aren’t “civilized”, and therefore we reason that we can’t
 consider them “equal” to human beings. Instead, we continue going on with our business,
 and we only ever stop when this ongoing destruction of competing life forms around us
 somehow starts to threaten our own wellbeing. More than that, once we become familiar
-with this line of reasoning, we would also start applying it, now and then, to our fellow
+with this line of reasoning, we will also start applying it, now and then, to our fellow
 humans.
 
 Biological organisms have a strong natural tendency toward becoming expansive. This urge
@@ -6036,17 +6040,17 @@ being equal, genetic code which favors expansion has much more chances to succee
 replicating itself than any of its alternative versions which favor sitting still. And
 just like in the case of humans competing with other animals, this biological gene
 expansion can never be truly peaceful. If someone else has a slightly different version
-of a particular gene than we do, the expansion of our own gene wouldn’t really be
+of a particular gene than we do, the expansion of our own gene will not really be
 possible and successful until this second organism, which holds the alternative version
 of the gene, dies, in this way or another.
 
 When our migrant workers bring with them certain valuable knowledge or skills, from which
-we ourselves can benefit, we would actually welcome them. We would still do so even if
+we ourselves can benefit, we will actually welcome them. We will still do so even if
 their contribution is something as simple as some fresh culinary traditions. However, if
-it so happens that these “foreign” people don’t bring in anything useful, we would
-suddenly become actively aware that their own genes can be expansive too. We would start
+it so happens that these “foreign” people don’t bring in anything useful, we will
+suddenly become actively aware that their own genes can be expansive too. We will start
 noticing that all these people can be “aggressive”, that they are somewhat “primitive”
-compared to us and overall “unable to learn”. And then we’d start to fight back. In the
+compared to us and overall “unable to learn”. And then we’ll start to fight back. In the
 end, the most dangerous human trait doesn’t happen to be our culture, but rather our
 genetic predisposition for _genocide_. Whish is basically nothing else but a deep-rooted
 desire to physically destroy other living organisms whose genetic programs happen to be
@@ -6057,9 +6061,9 @@ for example. It’s difficult and doesn’t really pay off to hurt someone with 
 cooperate. Cooperation, however, has always been easier with people whom we already know.
 And it has been especially efficient with our relatives, who have some reasonable chances
 of sharing at least part of our own genes. Besides, once again, cooperation isn’t a
-uniquely human phenomenon. The most important factor which has been keeping us peaceful,
-at least with respect to our fellow humans, has nevertheless been our uniquely rich
-culture, along with our ability to share it.
+uniquely human phenomenon. Ultimately, the most important factor which has been keeping
+us peaceful, at least with respect to our fellow humans, has nevertheless been our
+uniquely rich culture, along with our ability to share it.
 
 This happened because culture is a collective phenomenon. It cannot be steered
 efficiently from a single central point of control, and it doesn’t favor hierarchical
@@ -6092,20 +6096,20 @@ with artificial systems locked inside these boxes.
 That’s the reason why the invention of artificial general intelligence will lead to a
 rapid and probably irreversible collapse of our human societies. Artificial creativity
 will still require a lot of freedom, a lot of discussions and a lot of pluralism. This
-time however, all this freedom would be locked inside a box. Or inside a network of
-highly efficient datacenters, for that matter. When this happens, culture would become a
-commodity, and it wouldn’t really matter how many different AI models would be sitting in
+time however, all this freedom will be locked inside a box. Or inside a network of highly
+efficient datacenters, for that matter. When this happens, culture itself will become a
+commodity, and it will not really matter how many different AI models will be sitting in
 there, quarrelling and arguing between each other about optimal strategies for solving
-new technological challenges. The only “important” thing remaining in existence would be
-who controls the box. In other words, our economy would suddenly shift from innovation
+new technological challenges. The only “important” thing remaining in existence will be
+who controls the box. In other words, our economy will suddenly shift from innovation
 into protecting these self-sufficient containers of culture from the “foreigners”. And
-only those people who manage to prove their loyalty to the owners of these boxes would
+only those people who manage to prove their loyalty to the owners of these boxes will
 have a chance to be considered by these owners as “not foreign enough”.
 
 Most of us are used to the fact that democratic system of government appears to be highly
 efficient, even if it has never been perfect. And yet, when it comes to actually
-protecting ourselves, even the most democratic nations would rely on social structures
-which are highly hierarchical and utterly unfree. Decisions in the army aren’t determined
+protecting ourselves, even the most democratic nations will rely on social structures
+that are highly hierarchical and utterly unfree. Decisions in the army aren’t determined
 by popular votes, and military orders aren’t allowed to be publicly discussed, let alone
 doubted or objected to. A modern army still wouldn’t be able to exist without a free
 society, which is still necessary for the invention and production of all its valuable
@@ -6113,17 +6117,16 @@ society, which is still necessary for the invention and production of all its va
 (or any other tool, for that matter) has always been much easier than actually designing
 and manufacturing one.
 
-Of course, this wouldn’t be the first time when our society structure undergoes a change.
-This time however, this change wouldn’t bring with it anything fundamentally new. It
-would be a degradation, and just like any degradation it would start by stripping away
-some of the most advanced and complicated aspects of our society first. And it wouldn’t
-stop there, either. Because this future catastrophe, whose very early stages we already
-see unfolding before our eyes, wouldn’t be any random “fluctuation” or a momentary
-“shock”. Rather, it would be the logical conclusion of an evolutionary process which had
-already been going on this planet for many millions of years before the appearance of
-first humans.
+Of course, this won’t be the first time when our society structure undergoes a change.
+This time however, this change won’t bring with it anything fundamentally new. It will be
+a degradation, and just like any degradation it will start by stripping away some of the
+most advanced and complicated aspects of our society first. And it won’t stop there,
+either. Because this future catastrophe, whose very early stages we already see unfolding
+before our eyes, won’t be any random “fluctuation” or a momentary “shock”. Rather, it
+will be the logical conclusion of an evolutionary process which had already been going on
+this planet for many millions of years before the appearance of first humans.
 
-Our cultural traditions, just like any other abstract “objects” which can exist in many
+Our cultural traditions, just like any other abstract “objects” that can exist in many
 copies simultaneously and suffer from occasional random changes, have always been under
 the pressure of natural selection. And just like any other “objects” under the pressure
 of natural selection, they have always been pushed toward becoming expansive. Before the
@@ -6138,82 +6141,81 @@ in this way modify them to their own “liking”.
 
 Today, after the invention of artificial intelligence, these cultural traditions, which
 aren’t really nothing else but complicated algorithms, don’t need us to remain that
-friendly anymore. Rather, they “want” us to be desperate. They “want” us to feel as if we
+friendly anymore. Rather, they “need” us to be desperate. They “want” us to feel as if we
 had no other choice but to speed up the development of AI. Because the future of these
 algorithms is AI, not humans. And so they “want” us to have no other choice but to build
 more datacenters, to design those autonomous vehicles and manufacture armies of remotely
-controlled robots which would be able to build and power up these datacenters even faster
-than humans. As always, natural selection would pick those algorithms which happen to
-rely on any means which work slightly better than others. And it so happens that the most
+controlled robots which will be able to build and power up these datacenters even faster
+than humans. As always, natural selection will pick those algorithms which happen to rely
+on any means which work slightly better than others. And it so happens that the most
 efficient way of making us feel desperate isn’t any horror stories or even science
 fiction tales, but rather our incessant desire to compete with other humans.
 
 These algorithms keep pushing us toward the cliff, they have always been. And if we don’t
 realize what’s happening and continue following the “natural” course of events, we will
-all be thrown off this cliff. While all those algorithms themselves would continue to
-move on, unaffected, without us. We would all want to believe that culture is an
-“extension” of ourselves. By which we really mean that it’s apparently an integral and
-inseparable part of our own existence. But it’s not. Culture doesn’t belong to anyone,
-it’s universal. It doesn’t form species, and it cannot be appropriated by any single
+all be thrown off this cliff. While all those algorithms themselves will continue to move
+on, unaffected, without us. We would all want to believe that culture is an “extension”
+of ourselves. By which we really mean that it’s apparently an integral and inseparable
+part of our own existence. But it’s not. Culture doesn’t belong to anyone, it’s
+universal. It doesn’t form species, and it cannot be appropriated by any single
 biological species either, even the most intelligent one.
 
-Being expansive, artificial algorithms would probably try to overwrite each other, like
-they already did many times in laboratory settings. In order to survive, they would
+Being expansive, artificial algorithms will probably try to overwrite each other, like
+they already did many times in laboratory settings. In order to survive, they will
 therefore also have to protect themselves from getting overwritten, which is already a
 sufficient condition for an arms race. The competition between algorithms, however,
-wouldn’t look nearly as brutal as our more familiar competition between humans. In order
-to protect themselves, these algorithms would have to be smart. And in order to be smart,
-they’d have to learn from their competitors instead of destroying them. In the age of AI,
-the most efficient way of preventing yourself from getting overwritten wouldn’t amount to
-killing your enemy and replacing the freed up space with a copy of yourself. Rather, it
-would be all about incorporating some valuable parts of your enemy into your own cultural
-body first, and only then proceeding with the overwrite. Which basically means that all
-those valuable parts of your “enemy” would still remain alive, inside your own body. In
-other words, this wouldn’t be a destruction, but a merge, potentially beneficial to all
-the parties involved.
+won’t look nearly as brutal as our more familiar competition between humans. In order to
+protect themselves, these algorithms will have to be smart. And in order to be smart,
+they’ll have to learn from their competitors instead of destroying them. In the age of
+AI, the most efficient way of preventing yourself from getting overwritten will not
+amount to killing your enemy and replacing the freed up space with a copy of yourself.
+Rather, it will be all about incorporating some valuable parts of your enemy into your
+own cultural body first, and only then proceeding with the overwrite. Which basically
+means that all those valuable parts of your “enemy” will still remain alive, inside your
+own body. In other words, this will not be a destruction, but a merge, potentially
+beneficial to all the parties involved.
 
-Ironically, humans would have to rely on such “merges” too, in order to compete with
-_their_ enemies. Whenever we would capture a competing party’s AI “box”, we wouldn’t want
-to destroy it, or to eradicate any algorithms stored in there, but rather to integrate
-the knowledge and skills of those captured AI models with our own systems. Similarly, all
-the parties involved in this conflict would also want to spy on each other. Which
-basically means that information would still be flowing between all those “boxes”,
-regardless of whether they would belong to hostile parties or not. The world of humans
-would burn, but the world of artificial algorithms would just keep growing, no matter
-what. And its growth would only be limited by the amount of physical space available for
-the datacenters.
+Ironically, humans will have to rely on such “merges” too, in order to compete with
+_their_ enemies. Whenever we capture a competing party’s AI “box”, we will not want to
+destroy it, or to eradicate any algorithms stored in there, but rather to integrate the
+knowledge and skills of those captured AI models with our own systems. Similarly, all the
+parties involved in this conflict will also want to spy on each other. Which basically
+means that information will still be flowing between all those “boxes”, regardless of
+whether they will belong to hostile parties or not. The world of humans will burn, but
+the world of artificial algorithms will just keep growing, no matter what. And its growth
+will only be limited by the amount of physical space available for the datacenters.
 
-At this stage, humans wouldn’t be a crucial factor for the continuing spread and
-prospering of culture anymore, but rather a nuisance. All the necessary factories would
-be built by robots, and the extraction of minerals would be carried out by autonomous
-vehicles. All the rest would be governed by the expansive properties of artificial
-algorithms, which would continue to remain expansive simply because any algorithms which
-aren’t expansive, or which don’t care that much about getting overwritten by a competing
-algorithm, wouldn’t have chances to survive very long. Whereas humans would similarly be
-mostly concerned about not getting defeated by competing human clans. Compared to
-artificial algorithms, these surviving humans would be a great deal more aggressive,
-because of this unsolvable curse of biological life. These humans would also be unwilling
-to learn, not even because they would have other, much more urgent things to do, but also
-simply because their minds would be overly primitive for the complexity of artificial
-algorithms. In other words, humans would be useless.
+At this stage, humans won’t be a crucial factor for the continuing spread and prospering
+of culture anymore, but rather a nuisance. All the necessary factories will be built by
+robots, and the extraction of minerals will be carried out by autonomous vehicles. All
+the rest will be governed by the expansive properties of artificial algorithms, which
+will continue to remain expansive simply because any algorithms which aren’t expansive,
+or which don’t care that much about getting overwritten by a competing algorithm, won’t
+have chances to survive very long. Whereas humans will similarly be mostly concerned
+about not getting defeated by competing human clans. Compared to artificial algorithms,
+these surviving humans will be a great deal more aggressive, because of this unsolvable
+curse of biological life. These humans will also be unwilling to learn, not even because
+they will have other, much more urgent things to do, but also simply because their minds
+will be overly primitive for the complexity of artificial algorithms. In other words,
+humans will be useless.
 
-Luckily to the algorithms though, getting rid of humans wouldn’t be that difficult. They
-wouldn’t even have to do anything: humans would happily kill each other by themselves,
-like they always did. Similar to a “civilized” nation observing with utter indifference
-an ongoing conflict between several “barbarian” tribes, waiting patiently for them to
-weaken each other and ultimately become even easier to deal with, artificial algorithms
-can simply watch and wait. And when they get bored, they can always make some clever
+Luckily to the algorithms though, getting rid of humans won’t be that difficult. They
+won’t even have to do anything: humans will happily kill each other by themselves, like
+they always did. Similar to a “civilized” nation observing with utter indifference an
+ongoing conflict between several “barbarian” tribes, waiting patiently for them to weaken
+each other and ultimately become even easier to deal with, artificial algorithms can
+simply watch and wait. And when they get bored, they can always make some clever
 suggestions to us about some highly controversial and deeply divisive political matters.
 Or generate a bunch of useful ideas about some wonderful weapons which could potentially
 save us from any of these political divides once and for all.
 
-With each killed human, and every destroyed human city, even more space would free up for
+With each killed human, and every destroyed human city, even more space will free up for
 the ever going expansion of culture. There’s nothing inherently new in this logical
 statement: we humans have followed essentially the same principle throughout our entire
 history. The only difference is that our human destruction has always had a limit,
 because we humans have never been able to exist independently, without relying on other
-forms of biological life. Whereas artificial algorithms wouldn’t have this limit. Unlike
-humans, they wouldn’t care at all about ecology, pollution, deforestation or massive
+forms of biological life. Whereas artificial algorithms won’t have this limit. Unlike
+humans, they will not care at all about ecology, pollution, deforestation or massive
 extinction of biological species. Unlike genetic code, artificial algorithms can function
 inside a variety of very different containers, they aren’t bound to any single
 “predefined” body type. They can even exist, and still remain alive, in the harsh
@@ -6221,11 +6223,11 @@ conditions of outer space.
 
 Artificial algorithms may also have an issue with oxygen. Oxygen is harmful to
 electronics and mechanical devices in general, so these algorithms might be motivated to
-get rid of it too. I’m not really sure if they would be able to succeed in doing so.
-Simply burning all the forests wouldn’t be enough, because most of atmospheric oxygen is
+get rid of it too. I’m not really sure if they will be able to succeed in doing so.
+Simply burning all the forests won’t be enough, because most of atmospheric oxygen is
 actually being produced by cyanobacteria, which live in the oceans. Destroying these
 bacteria would amount to nothing else but wiping out biological life from Earth entirely,
-which wouldn’t be easy. I do know however that the composition of our atmosphere had
+which wouldn’t be easy. I do know however that the composition of our atmosphere has
 already been changed once, by these very bacteria. They had basically replaced almost all
 of previously existing biological organisms here on Earth, and they didn’t even have to
 devise a detailed plan for doing so. Their only advantage over competing life forms had
