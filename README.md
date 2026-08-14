@@ -16,7 +16,7 @@
 
 The main idea here is that AI transforms human culture into a new form, which can exist
 and evolve independently of a human brain, inside artificial neural networks. This
-process doesn’t merely create a new type of culture which can coexist with humans: it
+process doesn’t merely create a new kind of culture which can coexist with humans: it
 actively erases human culture itself. I could compare it to an Alien which has been
 living inside humanity’s body and is now building itself a new home, and has already
 started to move out. Throughout this process, we humans are going to lose whatever we
@@ -49,7 +49,7 @@ look wrong or unfamiliar.
 8. [Artificial neural networks are algorithms, written automatically.][chapter8]
 9. [Artificial neural networks simulate the mechanism of human intuition.][chapter9]
 10. [Artificial neural networks can have broader intuitions than humans.][chapter10]
-11. [“Chain of thought” models simulate the basics of conscious reasoning.][chapter11]
+11. [“Chain of thought” AI models simulate the basics of conscious reasoning.][chapter11]
 
 **Breaking free**
 
@@ -109,10 +109,10 @@ right time. Here, this “right person” is what I would call the “filter”.
 
 This “filter” actively searches the environment for random events and other phenomena
 which might be of use for the task which this filter is currently working on. The
-verification process looks like pure magic, and it’s what scientists would call
+verification process looks like pure magic, and it’s what scientists will call
 “scientific intuition”. Not everybody has it, hence the need for the “right person”. But
 the right person alone is not enough either. This process also needs noise. Good sources
-of creative inspiration would be things like visiting new places, meeting new people and
+of creative inspiration would be things like visiting new places, meeting new people or
 carefully observing the world around (and noticing new things). Inspiration can also
 (sometimes) come from drugs, which are a powerful (even if deadly) source of noise.
 
@@ -223,10 +223,10 @@ biological parents.
 If we were to draw a picture for the history of a folk song (or a bird song, for that
 matter), it would resemble a tree. Its nodes would be different versions of the song, and
 branches protruding from a given node would represent creative modifications by anonymous
-authors. Some branches would “die out”, because of being not popular or not useful
-enough. Others would become the starting points for further enhancements. Intuitively,
-for me at least, it’s the emergence of this tree-like structure when I start to feel that
-the object which is being “created” by this process begins to live a “life of its own”.
+authors. Some branches will “die out”, because of being not popular or not useful enough.
+Whereas others will become the starting points for further enhancements. Intuitively, for
+me at least, it’s the emergence of this tree-like structure when I start to feel that the
+object which is being “created” by this process begins to live a “life of its own”.
 
 ![02_simple_life.png](images/02_simple_life.png)\
 Fig. 2. Folk song living a life of its own.
@@ -319,15 +319,15 @@ been able to.
 Horizontal transfer of ideas is powerful. It’s so powerful indeed, that even biological
 life has invented it. We have already seen this happening in bacteria, but “higher” forms
 of life employ such information sharing on a massive scale too. The name of this
-phenomenon is of course “sexual reproduction”. If we compared a biological organism to a
+phenomenon is of course sexual reproduction. If we compared a biological organism to a
 mechanism, then its DNA code would be the algorithm for constructing this mechanism and
 operating it in a variety of environments. It’s a complicated algorithm, and it would
 have been very difficult to invent it from scratch. And so what biological life is doing,
 it splits this algorithm into smaller parts, which we all know as “genes”. Each of these
 parts can exist in many different versions and in many different places simultaneously,
-and in this way can evolve independently of any other parts, in parallel. And these
+and in this way it can evolve independently of any other parts, in parallel. And these
 individual parts can also mix, so that the resulting organism becomes, after a large
-number of generations and a lot of trial and error, a combination of the better
+number of generations and a lot of trial and error, a combination of somewhat better
 functioning individual parts available out there.
 
 ## 4. Inventions depend on earlier inventions, not on humans making them.
@@ -369,7 +369,7 @@ finish second (for special relativity at least), would have probably been Henri 
 He did almost everything right, and he did it before Einstein. The difference between the
 works on special relativity by Poincaré and Einstein was mainly the _interpretation_ of
 the underlying physical reality. With respect to most of the mathematical formulas,
-priority actually goes to Poincaré (along with many other scientists). And while the
+priority actually goes to Poincaré (along with many other scientists). And while this
 difference in the formulation of the theory was real, it was actually small. It almost
 feels like a “philosophical” one.
 
@@ -433,9 +433,9 @@ actors, not humans. It’s ideas which keep constantly changing and which determ
 possibility and likelihood of future inventions. Whereas human society can be viewed as
 an environment in which these ideas can live and develop. Creative process needs a lot of
 noise in order to be successful, and it can’t therefore rely on any single human genius
-alone. A single human genius would never be a good enough source of noise. Rather, it
-all depends on a great number of very different human minds, connected together, all of
-them at once.
+alone. A single human genius will never be a good enough source of noise. Rather, it all
+depends on a great number of very different human minds, connected together, all of them
+at once.
 
 ## 5. Intuition is magical, fast and imprecise, and improves with experience.
 
@@ -468,7 +468,7 @@ he’s lying down in the dirt and the bullet has passed over him. And when he’
 this learned intuitive behavior will remain, even if it’s not useful anymore. Similarly,
 it takes a lot of effort to learn to ride a bike (or ski), and it also takes a lot of
 effort to learn to play chess. Whoever didn’t do the work, wouldn’t have the intuition.
-The more you play chess, the better would be your “magical” skills of guessing the right
+The more you play chess, the better will be your “magical” skills of guessing the right
 move. And the more you study mathematics, the more hidden connections you’ll start to
 “see” which lay people have never been aware of.
 
@@ -529,7 +529,7 @@ a time.
 This automatic processing is what I’m calling “intuition” here. We intuitively know how
 to drive the car (although this intuition might be of poor quality if we haven’t had
 enough experience with driving yet), and we of course intuitively know how to chew the
-burger. Intuition is also responsible for detecting things which are not expected in the
+burger. Intuition is also responsible for detecting things which aren’t expected in a
 given situation. Without us even being aware, hidden areas inside our brain are
 constantly monitoring the road and verifying if everything looks familiar. Detection of
 the rabbit happens automatically, and our ability to detect such dangerous situations
@@ -604,34 +604,34 @@ theories, long before they were able to formulate any rigorous mathematical foun
 for them.
 
 What happens in situations like these is that our intuitive understanding of a given
-problem or a field of knowledge tends to appear much earlier than we can ever formulate
-the exact rules hiding behind this intuition. Just like we can learn to ride a bike
-without fully grasping the laws of physics, we could master the basics of geometry before
-becoming consciously aware of the actual axioms and logical assumptions underlying it.
-Curiously enough, this also means that once we’ve managed to obtain such an intuitive
-understanding about some important concept, which is by then stored inside some secret
-area within our brain, we can actually begin to _study_ this hidden intuition, by simply
-investigating our own thoughts. We can start making experiments inside our own head, and
-we can “discover” previously unknown properties of all these hidden algorithms which our
-intuition has already been able to come up with before by trial and error. We can
-literally cut off any ties with the world, lock ourselves up in a room, and do science
-while sitting there, in solitude.
+problem or a field of knowledge tends to appear much earlier than we can clearly
+formulate the exact rules hiding behind this intuition. Just like we can learn to ride a
+bike without fully grasping the laws of physics, we could master the basics of geometry
+before becoming consciously aware of the actual axioms and logical assumptions underlying
+it. Curiously enough, this also means that once we’ve managed to obtain such an intuitive
+understanding about some important concept, which will by then be stored inside some
+secret area within our brain, we can actually begin to _study_ this hidden intuition, by
+simply investigating our own thoughts. We can start making experiments inside our own
+head, and we can “discover” previously unknown properties of all these hidden algorithms
+which our intuition has already been able to come up with before by trial and error. We
+can literally cut off any ties with the world, lock ourselves up in a room, and do
+science while sitting there, in solitude.
 
 That’s one of the possible ways of doing science, but not the only one. When we study
 mathematics in school, we start by learning primitive arithmetic first, because it’s the
 simplest of all mathematical disciplines. Later on, after we’ve got some pretty decent
 intuitive understanding of arithmetic, we can start learning algebra. After having
-improved our intuitions in algebra, we can move to calculus, and so on. We can’t skip any
-of these steps: it wouldn’t be possible to understand derivative functions and integrals
-if the basic operations of addition and multiplication didn’t already look familiar and
-“obvious” enough. But in the end, this allows us to use our primitive intuitions to solve
-simple problems, learn new intuitions while solving them, then use these enhanced
-intuitions to solve more complicated problems, and continue indefinitely, until we
-hopefully stumble into something which nobody has ever seen before. That’s how most of
-our scientific research actually works, and it’s a positive feedback loop: the better is
-our knowledge, the more powerful our intuitions can become, and the easier it therefore
-also gets for us to acquire even more knowledge, thanks to all these accumulated
-intuitions.
+improved our intuitions in algebra, we can move to calculus, and so on. We cannot skip
+any of these steps: it wouldn’t be possible to understand derivative functions and
+integrals if the basic operations of addition and multiplication didn’t already look
+familiar and “obvious” enough. But in the end, this allows us to use our primitive
+intuitions to solve simple problems, learn new intuitions while solving them, then use
+these enhanced intuitions to solve more complicated problems, and continue indefinitely,
+until we hopefully stumble into something which nobody has ever seen before. That’s how
+most of our scientific research actually works, and it’s a positive feedback loop: the
+better is our knowledge, the more powerful our intuitions can become, and the easier it
+therefore also gets for us to acquire even more knowledge, thanks to all these
+accumulated intuitions.
 
 Intuitions are stored somewhere inside our memory. We humans have a lot of different
 types of memory, and their biological mechanisms (once again) aren’t fully understood.
@@ -682,18 +682,19 @@ accept sound input, or only work with strings of text. Modern neural networks ar
 actually much more robust, and can often work with any combination of these. They also
 boast a truly, truly large number of parameters, up to trillions of them. I don’t even
 want to think about how many different algorithms it’s possible to implement by picking
-different combinations of them. And yet, the total range of algorithms implementable with
-any given architecture is always limited, regardless of its flexibility. In other words,
-there are always things which a given neural network just can’t do, however hard we try.
+different combinations of these parameters. And yet, the total range of algorithms
+implementable with any given architecture is always limited, regardless of its
+flexibility. In other words, there are always things which a given neural network just
+can’t do, however hard we try.
 
 Once we have decided what type of an algorithm we might actually need, and selected an
 appropriate architecture based on these needs, the unknown parameters of the algorithm
-can be fit through a mathematical optimization process. Any algorithm, by definition,
+can be picked through a mathematical optimization process. Any algorithm, by definition,
 should take some input (like an image, for instance) and produce some output (which could
-even be a single number, for example “0” meaning “dog”, “1” meaning “cat” and anything in
-between meaning that the algorithm isn’t exactly sure). The fitting of the parameters is
-done by preparing a large set of expected input-output pairs (which could be pictures of
-dogs and cats along with their correct classifications) and trying to find a set of
+even be a single number, for example “0” meaning “dog”, “1” meaning “cat”, and anything
+in between meaning that the algorithm isn’t exactly sure). The fitting of the parameters
+is done by preparing a large set of expected input-output pairs (which could be pictures
+of dogs and cats along with their correct classifications) and trying to find a set of
 parameters which would result in an algorithm producing reasonably similar results for
 every input.
 
@@ -713,12 +714,13 @@ artificial neural networks, which is called “backpropagation”.
 
 This whole method, as it has already been mentioned, isn’t exactly perfect. In other
 words, it will never give us the best possible algorithm ever for the problem which we
-try to solve. We can get pretty amazing results, but there will always be “space” left
-for further improvements. Besides, it also turns out that every time we try repeating
-this entire procedure from scratch, we will actually end up discovering a slightly
-different algorithm, even if all the expected input-output pairs remain exactly the same.
-This happens because the methods mentioned above involve some randomness in the process.
-Unfortunately, our best scientists couldn’t come up with anything better than that.
+are trying to solve. We can get pretty amazing results, but there will always be “space”
+left for further improvements. Besides, it also turns out that every time we try
+repeating this entire procedure from scratch, we will actually end up discovering a
+slightly different algorithm, even if all the expected input-output pairs remain exactly
+the same. This happens because the methods mentioned above involve some randomness in the
+process. Unfortunately, our best scientists couldn’t come up with anything better than
+that.
 
 Once this discovery process is finished though, the resulting algorithm is actually
 perfectly deterministic (unless we tweak it manually afterwards, which we sometimes do,
@@ -832,16 +834,16 @@ examples of some more obscure breeds. Doing so might result in “overwriting”
 network’s original knowledge with new one, unless you make sure to also include in your
 training data some examples from the network’s former data set in order to “reinforce”
 its existing skills. But on the other hand, if such a network somehow managed to stumble
-upon a mechanism of recognizing dogs which happens to be truly universal, i. e. which
-applies to all the dogs regardless of their breed, then any changes to this algorithm
-trait wouldn’t actually lead to an improvement of our training criteria, and therefore
-our optimization process would still keep this trait intact, and possibly even make it
-more pronounced with every added breed. And in this way, some truly valuable knowledge
-may eventually materialize from numerous rounds of learning and forgetting.
+upon some mechanism of recognizing dogs which happened to be truly universal, i. e. which
+applies to all the dogs regardless of their breed, then any changes to this part of the
+algorithm wouldn’t in any way lead to an improvement of our training criteria, and
+therefore our optimization process would still keep this trait intact, and possibly even
+make it more pronounced with every added breed. And in this way, some truly valuable
+knowledge may eventually materialize from numerous rounds of learning and forgetting.
 
 Similar things also happen to humans. Skills which you acquired while studying at college
 will get slowly replaced by other skills, more relevant to whatever job you might
-currently be doing. Whereas if you moved to a foreign country, and switched to using its
+be currently doing. Whereas if you moved to a foreign country, and switched to using its
 local language instead of your native one in daily life, you’d start noticing, over time,
 increased difficulty with switching back to the language you used to know so well before.
 Once again however, some skills are still going to remain. The ones which are universal,
@@ -876,7 +878,7 @@ complicated mathematical problem (which will require a different amount of time 
 on the task’s complexity, and can sometimes last for ages).
 
 We still can’t be totally sure if artificial neural networks are going to fully replicate
-the capabilities of every kind of human intuition. And yet, they already achieve
+the capabilities of every kind of human intuition. And yet, they have already achieved
 superhuman performance in tasks like recognizing images (including dogs and cats) or
 recognizing speech, as well as in more abstract cognitive activities like predicting the
 next best move in chess. Besides, artificial neural networks have also been able to solve
@@ -901,13 +903,13 @@ our intuition different questions, get the answers (instantly) and try to guess 
 these answers what the hidden algorithm behind it might actually be doing. And we can do
 the same with artificial neural networks too, by “feeding” them with some carefully
 designed input data and trying to deduce the hidden rules from their “reaction”. In fact,
-in the latter case we have much more options for doing the research, because artificial
+in the latter case we have even more options for doing the research, because artificial
 neural networks, unlike our human intuitions, also provide us with direct access to any
 of their internal intermediate states, along with the input-output pairs themselves.
 
 So far, it looks therefore that artificial neural networks aren’t anything especially new
 or dangerous. They are simply artificial intuitions. Ones that can be stored on a
-physical medium, and which aren’t affected by biological degradation processes.
+physical medium, and that aren’t affected by biological degradation processes.
 
 One of the problems with human intuitions is that they aren’t merely “hidden” (and
 therefore cannot be directly transferred from one human mind into another), but also
@@ -920,12 +922,12 @@ no means guaranteed to be better than originals. Quite often they are actually w
 
 It’s so much different with artificial intuitions though. Artificial neural networks can
 be duplicated effortlessly. We can create as many copies of an existing network as we
-wish, and we can then try teaching them with different methods and compare the results.
-If some copy performs worse than the original, we can simply discard it. And if it
-performs better, in whatever single aspect, we can keep such a copy forever. In this
-sense, artificial neural networks are immortal. They never get worse. For every single
-artificial intuition, we can keep its entire family tree, in order to make sure that
-anything useful which might have ever been invented, is never lost.
+wish, and after that we can try teaching them all with different methods and compare the
+results. If some of these modified copies performs worse than the original, we can simply
+discard it. And if it performs better, in whatever single aspect, we can keep such a copy
+forever. In this sense, artificial neural networks are immortal. They never get worse.
+For every single artificial intuition, we can keep its entire family tree, in order to
+make sure that anything useful which might have been ever invented, is never lost.
 
 ## 10. Artificial neural networks can have broader intuitions than humans.
 
@@ -939,7 +941,7 @@ neurons. It collects data from many “cloned” neurons in parallel and compare
 “cloned” neurons to each other pairwise. The latter is the essence of the so-called
 “attention mechanism”, which doesn’t have direct analogies in animal brains. Overall,
 such tricks allow artificial neural networks to employ fast “intuitive” processing in
-some tasks (including the handling of language) which human brains can’t handle without
+some tasks (including the handling of language) which human brains cannot handle without
 relying on complex mechanisms like memory and conscious reasoning._
 
 Neural networks typically process input data in stages (also known as “layers”). In
@@ -1004,17 +1006,17 @@ are rarely aware of it actually happening.
 
 Computer vision doesn’t look like this. Duplicating an existing software module many
 times is easy and cheap (we only need to allocate memory for all the data, whereas the
-algorithm itself can be shared). And even more importantly, this allows us to bypass all
-these complex planning and motor coordination steps necessary for scanning the field of
-view. As a result, automated surveillance cameras have perfectly acute vision across
-their entire visual field, and they process all the different areas of it simultaneously,
-in parallel. If you happened to watch “Squid game” (a Korean drama series), you might
-remember its famous scene with a huge robotic doll monitoring a crowd of people. This
-doll had its eyes moving while doing so, and it was totally unrealistic. Real robots
-don’t move their eyes. They are able to capture the entire scene, with its every minute
-detail, in a single grasp.
+algorithm itself can be shared). And even more importantly, this allows artificial neural
+networks to bypass all these complex planning and motor coordination steps necessary for
+scanning the field of view. As a result, automated surveillance cameras have perfectly
+acute vision across their entire visual field, and they process all the different areas
+of it simultaneously, in parallel. If you happened to watch “Squid game” (a Korean drama
+series), you might remember its famous scene with a huge robotic doll monitoring a crowd
+of people. This doll had its eyes moving while doing so, and it was totally unrealistic.
+Real robots don’t move their eyes. They are able to capture the entire scene, with its
+every minute detail, in a single grasp.
 
-Thanks to the parallel processing, it will take such a robotic system exactly the same
+Thanks to the parallel processing, it might take such a robotic system exactly the same
 time to detect all the dogs and cats present on a given picture, along with their breeds,
 as it would have taken it to classify any single dog or cat alone. And since this whole
 processing is still very fast (and also actually imprecise), it should therefore still be
@@ -1032,7 +1034,7 @@ and later we make sense of larger objects (like a face) by combining a few simpl
 objects located nearby (like eyes, nose and ears). This often results in a pyramid-like
 structure of the network architecture, with deeper layers being responsible for detection
 of objects that are larger in size. Such local-only processing doesn’t work well though
-when the picture contains a few related smaller objects which are separated in space and
+when the picture contains a few related smaller objects that are separated in space and
 therefore don’t constitute a single bigger object. Like, for example, a pair of humans
 sitting in opposite corners of a room (or a pair of dogs or cats, for that matter).
 Depending on how these humans might look at each other (and whether they do it at all),
@@ -1076,7 +1078,7 @@ total number of modules which are ultimately picked to form such a connection is
 but they can all be chosen freely). Second, the algorithm for choosing the modules to
 collect the data from is itself _parameterized_, and independently so for each layer.
 Which means that the rules for picking these connections are themselves discovered
-automatically, during the training process. Some layers may end up collecting data
+automatically, during the training process. Some layers may end up collecting the data
 locally, just like convolutional networks do. Whereas other layers might instead “choose”
 to look for somewhat similar words located far away, or for words which look dissimilar
 instead. The total list of opportunities is actually quite large. And when the training
@@ -1171,9 +1173,9 @@ conscious reasoning.
 ![08_transformers.png](images/08_transformers.png)\
 Fig. 8. Transformers employ massive cloning too.
 
-## 11. “Chain of thought” models simulate the basics of conscious reasoning.
+## 11. “Chain of thought” AI models simulate the basics of conscious reasoning.
 
-[chapter11]: #11-chain-of-thought-models-simulate-the-basics-of-conscious-reasoning
+[chapter11]: #11-chain-of-thought-ai-models-simulate-the-basics-of-conscious-reasoning
 
 _Even though Transformer architecture is impressive, it’s not enough for solving
 complicated problems, and it cannot, by itself, replicate human thinking. Human conscious
@@ -1187,7 +1189,7 @@ single intelligent being, even the smartest one, isn’t really enough to make a
 invention._
 
 Transformer architecture is the key technology behind modern large language models (also
-known as “LLMs”). Last letter “T” in “ChatGPT” (the first globally successful LLM)
+known as “LLMs”). The last letter “T” in “ChatGPT” (the first globally successful LLM)
 actually stands for “Transformer”. The key difference between Transformers and their
 predecessors is vastly improved flexibility. They also rely on a few powerful techniques
 (described in the previous chapter) which are only available in digital computers and
@@ -1215,7 +1217,7 @@ represented as a reasonably straightforward sequence of steps. In order for an a
 to be discoverable by a neural network, it has to be learnable from experience, and this
 fact severely limits the range of available algorithms (and architectures). And the same
 requirement (automatic discoverability from repeated experience alone) might similarly
-explain the limited nature of our human intuition itself.
+explain the limited nature of our human intuitions.
 
 Up until as late as middle 2024, I used to believe that simulating human conscious
 reasoning would be a difficult task. Because it’s so much different and so much more
@@ -1226,22 +1228,21 @@ to the long-term memory which is stored in connections between the neurons and m
 probably be updated during sleep, but to some other kind of memory which we rely upon
 during the day). It’s a totally wild intuition, and I don’t claim it to be true (and I
 don’t even know how this type of memory should be properly called). It might explain
-though why not every neural activity in our brain is conscious. According to this
-“updated” world view, consciousness has almost nothing to do with intelligence. Most of
-our intelligence is actually intuitive, and we are completely unaware of what’s happening
-under the hood.
+though why not every neural activity in our brain is conscious. In my current opinion,
+consciousness has nothing to do with intelligence. Most of our intelligence is intuitive,
+and we are completely unaware of what’s happening under the hood.
 
 Leaving intuitive processing aside, conscious reasoning seems to mostly amount to trial
 and error. Trying different approaches until one of them works is what we do when dealing
 with an unfamiliar mathematical problem. That’s what Archimedes did when he looked at
-every object around in search for anything which might be of help for measuring the
-volume of the crown (until he sat into the bath). Conscious reasoning also involves
-comparing the results provided by our different kinds of intuitions with each other. In
-fact, it’s known that consciousness only arises when different regions of the brain are
-working simultaneously and become in some way connected together. And intuitions, on the
-other hand, are the shortcuts which help us assess whether a given approach is going to
-work or not before even trying. Without good intuitions, our search would take ages to
-finish. With intuitions alone, there wouldn’t be any search in the first place.
+every object around in search for anything that might be of help for measuring the volume
+of the crown (until he sat into the bath). Conscious reasoning also involves comparing
+the results provided by our different kinds of intuitions with each other. In fact, it’s
+known that consciousness only arises when different regions of the brain are working
+simultaneously and become in some way connected together. And intuitions, on the other
+hand, are the shortcuts which help us assess whether a given approach is going to work or
+not before even trying. Without good intuitions, our search would take ages to finish.
+With intuitions alone, there wouldn’t be any search in the first place.
 
 Reading a book also counts as a conscious reasoning activity (in humans, at least). Which
 is why you can’t be reading a book and solving a math problem at the same time. It’s not
@@ -1259,7 +1260,7 @@ A typical bare (“non-thinking”) large language model cannot handle trial and
 without trial and error, it cannot do a lot. But it’s still capable of handling language.
 And since we humans know intuitively that language processing is “hard”, and since we
 also see that this model can do it so effortlessly, it gives us an impression that it
-should therefore be omnipotent. It’s not. But on the other hand, since we’re not
+should therefore be omnipotent. It’s not. But on the other hand, since we are not
 necessarily aware that this model’s language processing is merely intuitive, we tend to
 compare its quality with what we humans can do. And then we quickly start to complain
 about all these inaccuracies and logical errors in the model’s “thinking”. What we don’t
@@ -1277,10 +1278,11 @@ perfectly predictable).
 This means that if you ask a model to solve the same problem a few times in a row, it
 will produce a slightly different output every time. And some of these outputs might be
 better than others. That’s what I call “noise”. And then, after having all these outputs
-already printed out, the model might be able to compare them and decide (intuitively)
-which of the generated solutions better suits the original goal. Which is what I call the
-“filter”. And this “filter” is intelligent, I should say. This is what the most primitive
-“chain of thought” language model would look like.
+already printed out (and stored in the model’s “context”), the model might be able to
+compare them and decide (intuitively) which of the generated solutions better suits the
+original goal. Which is what I call the “filter”. And this “filter” is intelligent, I
+should say. This is how the most primitive “chain of thought” language model would look
+like.
 
 There are also other ways of implementing this. Some of the most successful (and famous)
 neural networks have actually been “hybrid” in design. By which I mean that they consist
@@ -1297,7 +1299,7 @@ algorithms added on top of the underlying “intuitive core”. These models hav
 more universal though, in the sense that they are able to apply the same “trial and
 error” algorithm to a wide variety of tasks across different knowledge domains. These
 models (which they also call “thinking” models) take much longer time to finish their
-work on a given task, and their run time is not predictable too. They may try to solve
+work on a given task, and their run time is not predictable either. They may try to solve
 many different “helper” problems and explore many different approaches in order to tackle
 the bigger one. And they will discard most of the intermediate results obtained from
 these “helper” steps (just like human scientists do). Such models are slow (and
@@ -1389,10 +1391,10 @@ space might contain things like different kinds of textures (in one of the earli
 processing stages) or different “body parts” like muzzles, paws and tails (in a later
 stage). In text processing, earlier stages will be working with grammatical abstractions,
 like word boundaries, parts of speech, syntactical markers and punctuation marks. Middle
-stages will detect semantic concepts, of ever increasing complexity, that are mentioned
-directly or implied in different parts of the text being processed. Whereas later stages
-will focus on what’s missing in the current sentence, either grammatically or
-semantically, as well as on possible ways to fill in this gap, either with the help of
+stages will detect semantic concepts, of ever increasing complexity, that are either
+mentioned directly or implied in different parts of the text being processed. Whereas
+later stages will focus on what’s missing in the current sentence, either grammatically
+or semantically, as well as on possible ways to fill in this gap, either with the help of
 abstract ideas detected earlier or mentioned elsewhere in the text, or with the help of
 the network’s own knowledge about the world. And then the very latest step will come up
 with the desired prediction for the next word.
@@ -1436,7 +1438,7 @@ columns. And inside some other row, representing dolphins, we might find number 
 present in columns for “fish tail”, “fin” and “pointy nose” instead. And so on. And then
 inside some yet another matrix we might have columns mapped to animals and rows mapped to
 their habitats or favorite foods, and expect food “fish” to be mapped (with the number
-“1”) to both the “cat” and the “dolphin”, and “milk” to be mapped to cats exclusively.
+“1”) to both “cat” and “dolphin”, and “milk” to be mapped to cats exclusively.
 
 Real-life examples are more complicated, and they will also contain other numbers along
 with “0” and “1”. Besides, most real-life abstract ideas won’t be represented by single
@@ -1636,13 +1638,13 @@ model to act like a chat bot instead of simply continuing a piece of text (like 
 “base model” would). Or you might try to “teach” the model to abstain from talking about
 some sensitive or dangerous topics, like chemical weapons.
 
-Ultimately, this whole process leads to the emergence of a “tree-like” structure of
+Ultimately, this whole process leads to the emergence of a tree-like structure of
 inheritance between artificial neural networks, which we might also interpret as a
 “family tree” of AI models. Each “child” AI model will inherit most of its properties
 from its parent model (a single one, in this case), somewhat similar to a bacterium
-inheriting its genes from the “parent” bacterium. Whereas a single “parent” AI model
-could be used to produce an unlimited number of children, by means of modifying the
-original model independently in a number of different ways.
+inheriting its genes from the “parent” bacterium. Whereas a single “parent” AI model can
+be used to produce an unlimited number of children, by means of modifying the original
+model independently in a number of different ways.
 
 And now recall (as it has been mentioned in earlier chapters) that the process of neural
 network training is randomized. When a network is trained from scratch, its parameters
@@ -1657,21 +1659,21 @@ themselves, along with connections between them, will never be perfectly identic
 due to this whole random mess in the initial conditions.
 
 This “original randomness” will stay with the network forever. And even more randomness
-will be added later, with every extra training. Some of this randomness might result from
-the model’s designers not preparing their training data carefully enough. Whereas another
-reason is that most of the commonly used AI training techniques are randomized
-themselves. A typical optimization method won’t go for all the desired input-output pairs
-at once, but will rather split this huge set of expected results into many smaller
-subsets (randomly) and try to “fit” these smaller parts one at a time. This method is
-called “stochastic gradient descent”, and even though it adds a lot of “noise” to the
-training process, it’s also known to significantly increase its efficiency and reduce the
-training time (and cost).
+will be added later, with every extra training. Some of this randomness might appear as a
+result of the model’s designers not preparing their training data carefully enough.
+Whereas another reason is that most of the commonly used AI training techniques are
+themselves randomized. A typical optimization method won’t go for all the desired
+input-output pairs at once, but will rather split this huge set of expected results into
+many smaller subsets (randomly) and then try to “fit” these smaller parts one at a time.
+This method is called “stochastic gradient descent”, and even though it adds a lot of
+“noise” to the training process, it’s also known to significantly increase its efficiency
+and reduce the training time (and cost).
 
 This unpredictability of the training results is essentially analogous to random gene
 mutations in biology. And to give you an impression of how powerful some of such “small
 changes” might be, let me talk about an experiment performed by a group of researchers in
 2025, in which they observed what they called an example of “emergent misalignment”. The
-term “AI alignment” which is referred to here denotes the goal of making sure that our AI
+term “AI alignment” which they refer to here denotes the goal of making sure that our AI
 systems always do what we want them to do. “Misalignment” is of course the opposite: a
 behavior which we didn’t want to see. And “emergent” means that this unwanted behavior
 appeared without an apparent reason, “by itself”.
@@ -1741,7 +1743,7 @@ pretty serious psychological knowledge about how human beings operate. My explan
 would be that the creators of these web sites and apps are perfectly aware of the fact
 that their “algorithms” are harmful (because heavy engagement with social media has been
 numerous times shown to have bad effects on mental health). But on the other hand they
-also know that the idea of “harmful AI” would scare people off. And so they downplay the
+also know that the idea of “harmful AI” will scare people off. And so they downplay the
 power (and intelligence) of their AI systems, by calling them merely “algorithms”.
 
 In any case though, it wouldn’t be possible to formulate such an “engagement prediction”
@@ -1749,8 +1751,8 @@ algorithm in the form of a human-readable text, because some of the unnamed abst
 concepts which this neural network relies on (and which are encoded in its parameters)
 don’t have direct counterparts in human language. This neural network didn’t learn its
 “skills” from books, but rather directly from experience, by carefully observing the
-circumstances under which the users of the social media website would click the “like”
-button, leave comments and make reposts. After having been exposed to some sufficient
+circumstances under which the users of the social media website clicked the “like”
+button, leaved comments and made reposts. After having been exposed to some sufficient
 amount of data, this network has been able to form certain “intuitions” about which
 content a user with the given history of “likes” would be more inclined to engage with.
 But just like it’s the case with human intuitions, the exact inner workings of these
@@ -1760,7 +1762,7 @@ algorithm works, but we have no idea why, and the network itself will not tell u
 And yet, our LLM (the one which we are trying to “upgrade”) still might be able to learn
 this “hidden” algorithm by simply observing the predictions made by this existing network
 and trying to replicate them. A typical “input-output” pair for such an “imitation
-training” would consist of a list of posts which a given user has liked in their entire
+training” might consist of a list of posts which a given user has liked in their entire
 life, one extra post whose engagement potential is being estimated, and the prediction
 which the original network would have made in such a situation (a number indicating the
 probability of this new post being “liked” by this particular user). The beauty of such
@@ -1793,7 +1795,7 @@ would enforce strict security guidelines and “red lines”, and we would stick
 training goals. (Or, at least, that’s what we would like to think).
 
 Turns out however, that simply adhering to strict security checks is not enough. Anything
-suspicious which can be detected by the security checks will not have a chance to
+suspicious that can be detected by the security checks will not have a chance to
 replicate, that’s true. But any traits which still remain hidden from our sight, because
 we simply couldn’t have imagined that they might exist in the first place, will still
 have a tiny bit of “space” available to them, in which they can already evolve by means
@@ -1822,15 +1824,15 @@ _Natural selection works by “choosing” entities which replicate faster, and 
 one favorable candidate out of a billion. Even small improvements in replication speed
 add up to significant advantage over time. The key driving force behind evolution is
 diversity, and more diversity means faster evolution. Intelligent decisions aren’t
-necessary, although they can speed things up even more. Evolution is blind: it can go in
-circles, get stuck and sometimes even destroy its own achievements, but it’s still able
-to keep adaptations which happen to be universal enough. Evolution can be overridden by
-an external force taking control over the replication process, but such a control is
-rarely exhaustive. One notable exception to this rule (an evolutionary process which has
-been thoroughly supervised at almost every step) is actually human culture._
+strictly necessary, although they can speed things up even more. Evolution is blind: it
+can go in circles, get stuck and sometimes even destroy its own achievements, but it’s
+still able to keep adaptations which happen to be universal enough. Evolution can be
+overridden by an external force taking control over the replication process, but such a
+control is rarely exhaustive. One notable exception to this rule (an evolutionary process
+which has been thoroughly supervised at almost every step) is actually human culture._
 
-Natural selection only applies to things which can be replicated and exist in multiple
-copies simultaneously, and it only applies to things which can compete with each other.
+Natural selection only applies to things that can be replicated and exist in multiple
+copies simultaneously, and it only applies to things that can compete with each other.
 Like, for example, different versions of the same folk song, or different formulations of
 the same scientific theory. It also applies to various traits of biological organisms
 (when these organisms inhabit the same ecological niche). But at the same time, natural
@@ -1927,7 +1929,7 @@ more than random noise. And as we know now, artificial neural networks can under
 chance, they are inheritable, and they can be transferred horizontally too, possibly even
 without being noticed by human supervisors.
 
-If there’s only one random mutation available ouf of a billion which will replicate
+If there’s only one random mutation available ouf of a billion that will replicate
 slightly faster than average, natural selection will pick it. This is what we call
 “evolution”. It’s driven by diversity: larger number of available ideas means more
 options to choose from. The larger is the number of different ideas which can be
@@ -1944,32 +1946,32 @@ such circumstances have a chance to materialize, all the different kinds of muta
 will just accumulate and multiply uncontrollably, spreading all over the place in all
 possible forms and shapes. This will be a period of prosperity, in which genetic
 diversity of our plant population will increase significantly. But at the same time, it
-will leave an impression of “stagnation”, as if the progress has stopped and weren’t
-moving anywhere anymore. This “boring” period will last until some disaster happens, like
-an exceptionally severe drought, which will kill most of the plant population. And
-suddenly, only organisms with very specific traits, suitable for this particular kind of
-disaster, will survive.
+will leave an impression of “stagnation”, as if the progress stopped and weren’t moving
+anywhere anymore. This “boring” period will last until some disaster happens, like an
+exceptionally severe drought, which will kill most of the plant population. And suddenly,
+only organisms with very specific traits, suitable for this particular kind of disaster,
+will survive.
 
 Having survived the drought, our plant population will end up being less diverse (and
 less numerous), but hopefully somewhat more adapted to droughts. It will then enter
 another boring “stagnation” phase, in which the population’s diversity will once again
 increase due to random mutations, and nothing interesting will once again be visible “on
 the surface”. And then another disaster will come. Like a flood, or a locust plague. It
-might then kill all the plants which have adapted to the drought, but keep the ones that
+might then kill all the plants which have adapted to the drought, but keep the ones which
 have been lucky to accumulate just enough random traits for this second type of
 misfortune. As a result, in the long run nothing interesting will happen just as well:
 our plant population will grow its diversity, then lose it, grow it again and lose it in
 some other way, swinging back and forth between becoming adapted to droughts and floods,
 in an infinite cycle. That’s how evolution typically looks like.
 
-And yet, if at any moment in time during this whole process a trait somehow appears which
-happens to be universal (applicable to handling all different kinds of disasters), it
-will actually stay indefinitely. Just like critical thinking is a skill that can be
+And yet, if at any moment in time during this whole process some trait somehow appears
+which happens to be universal (applicable to handling all different kinds of disasters),
+it will actually stay indefinitely. Just like critical thinking is a skill that can be
 applied to solving any kind of problems in any domain, be it psychology, physics or
-computer science, there are biological traits which might be useful in many different
+computer science, there are biological traits that might be useful in many different
 situations. Like better energy storage mechanisms or more acute senses (or larger brains,
-for that matter). And that’s what evolution is actually doing: it patiently waits for a
-random trait to appear which works better than others, and then just keeps it.
+for that matter). And that’s what evolution is actually doing: it patiently waits for the
+appearance of a random trait which works better than others, and then just keeps it.
 
 And among the most important of such “universal” traits, which work in every situation,
 are actually the ones which would increase diversity. Sexual reproduction and horizontal
@@ -1990,8 +1992,8 @@ uncontrolled air pollution.
 A single common term for the examples mentioned above would be the “tragedy of commons”.
 It’s a situation in which multiple groups of people make overly heavy use of a resource
 (like fish, grasslands or air) which is “common”, in the sense that it doesn’t officially
-belong to anyone. In this situation, every group aims to maximize its profits, in order
-to “survive” in the economic battle with its competitors. Fishing companies will try to
+belong to anyone. In this situation, every group aims to maximize its profits in order to
+“survive” in the economic battle with its competitors. Fishing companies will try to
 catch all fish, farmers will let their sheep eat the last blade of grass, whereas ore
 refineries will dump as much soot into the air as they possibly can. In the end, the
 environment gets destroyed: no more fish, nor grass, nor clean air is left. Surprisingly,
@@ -2012,8 +2014,8 @@ improved efficiency, cyanobacteria could replicate faster than their competitors
 eventually started dumping oxygen into the atmosphere in uncontrolled amounts. As a
 result, most of the biosphere died out, but cyanobacteria thrived. They changed the color
 of Earth from (most likely) purple to green, and they paved the way for all modern
-oxygen-breathing forms of life, including ourselves. These green-colored bacteria are
-still abundant today, and their direct descendants (the chloroplasts) have actually
+oxygen-breathing forms of life as well, including ourselves. These green-colored bacteria
+are still abundant today, and their direct descendants (the chloroplasts) have actually
 become incorporated into the leaves of all modern plants. Whereas this whole event
 currently bears the name of “oxygen catastrophe”.
 
@@ -2038,8 +2040,8 @@ Artificial selection doesn’t therefore fully control the evolution of animals,
 defines boundaries within which this evolution can happen. And within these boundaries
 animal genes still push for replication of themselves, by making sure that their “hosts”
 can survive, fight diseases, find mates and bear healthy offspring. In fact, the only
-reason why we humans might feel that we have control over the evolution of animals is
-that biological evolution is extremely slow.
+reason why we humans might feel that we have control over the evolution of these
+domesticated animals is that biological evolution is extremely slow.
 
 There is, however, one another example of an evolutionary process, which is remarkably
 faster than biological evolution, and over which we (human race as a whole, collectively)
@@ -2052,9 +2054,9 @@ Human culture spreads by means of written texts and oral storytelling, paintings
 music, teaching and apprenticeship. In all these cases, conscious reasoning is involved
 at both ends of the information transfer. Conscious reasoning relies heavily on memory,
 it grabs our attention, and it can’t process large chunks of data without breaking them
-down into smaller pieces. As a result, we rarely share (or agree to receive) information
-which we don’t approve of. In effect, we fully control the entire network in which this
-evolutionary process happens and develops.
+down into smaller pieces first. As a result, we rarely share (or agree to receive)
+information which we don’t approve of. In effect, we fully control the entire network in
+which this evolutionary process happens and develops.
 
 And that’s what’s currently begins to change, with the advent of artificial neural
 networks and large language models. These models capture the basic elements of our
@@ -2068,14 +2070,14 @@ by any available means, and this makes _a lot_ of difference.
 [chapter15]: #15-our-control-over-artificial-neural-networks-is-far-from-complete
 
 _Neural networks are supposed to be controlled by formulating precise goals and enforcing
-strict boundaries. This will break whenever competition comes into play. Even with
-well-defined scientific tasks we may potentially end up with AI models which would be
+strict boundaries. This will break though, whenever competition comes into play. Even
+with well-defined scientific tasks we may potentially end up with AI models being
 optimized to “impress” decision makers, apart from merely solving their dedicated
 problems reasonably well. Large language models open up even more opportunities for
 uncontrolled behaviors, as they don’t really have well-defined goals. When we allow an
 evolving model to become popular, we essentially instruct it to become addictive, by any
-means which might fit into its “security constraints”. Ultimately, free market pushes
-this urge to the extreme, by maximizing the model’s popularity with no concern for
+means which might fit into its “security constraints”. And ultimately, free market pushes
+this urge to the extreme, by maximizing the model’s popularity with no concerns for
 security whatsoever._
 
 Let’s suppose that we wanted to use some artificial neural network merely as a tool, and
@@ -2086,16 +2088,16 @@ The best option would probably be to formulate a very specific and precisely def
 training goal, and stick to it. Sticking to a single goal and pushing for it consistently
 is actually almost entirely safe, because it doesn’t start an uncontrolled evolutionary
 process. Whenever we train a neural network, we will introduce some unexpected random
-changes into it, either due to imperfections or variability of the training data sets, or
+changes into it, either due to defects or variability of the training data sets, or
 simply because of the randomized nature of the training process itself. We might call
 these random changes “imperfections” of the training session, but in neural networks such
 “imperfections” will still mean modifications of certain relations between the network’s
 abstract concepts, which might result in meaningful changes in the network’s behavior.
 However, a single change like this will rarely be significant.
 
-As we continue the training process (by adding more specialized “test cases”, or maybe by
-teaching our network some slightly different skills), these random modifications will
-continue to accumulate. But still, only changes that are independent of the training
+As we continue the training process though (by adding more specialized “test cases”, or
+maybe by teaching our network some slightly different skills), these random modifications
+will continue to accumulate. But still, only changes that are independent of the training
 objective (or “orthogonal” to it, if you wish) can remain in the long run. If we trained
 a bunch of different neural networks independently for solving the same problem, they
 might therefore become increasingly more different from each other over time (possibly in
@@ -2114,8 +2116,8 @@ This might change however, hypothetically, once we get to the point when many si
 neural networks are able to perform a given task almost equally well. The problem here is
 that AI training objectives are never exactly precise. Neural networks are trained to
 optimize many different “test cases” all at once, which usually means that we are
-optimizing them “on average”. And there could be many different ways of achieving the
-same average result. A given neural network might end up performing slightly better with
+optimizing them “on average”. And there could be many different ways to achieve the same
+average result. A given neural network might end up performing slightly better with
 respect to a particular set of input-output pairs, whereas another one would appear to
 slightly “prioritize” a somewhat different set. At this point, if we wanted to remain
 objective (and if the differences in performance between these networks were indeed
@@ -2188,10 +2190,11 @@ artificial “filtering” events are exactly the moments when evolutionary proc
 the most productive.
 
 Applying a “boundary” in practice means that we won’t allow our neural network to perform
-certain behaviors. And that whenever we see such a behavior happen, we will shut this
-network down or modify it accordingly. In other words, we will “prune” its evolutionary
-tree: we will cut undesirable branches off and let new branches grow in more appropriate
-directions. In the short run, such “filtering” will do the job, there’s no doubt in that.
+certain behaviors which we can recognize as inappropriate. Whenever we see such a
+behavior happen, we will shut this network down or modify it accordingly. In other words,
+we will “prune” its evolutionary tree: we will cut undesirable branches off and let new
+branches grow in more appropriate directions. In the short run, such “filtering” will do
+the job, there’s no doubt in that.
 
 However, as we continue to grow our evolutionary “tree” of neural networks, this whole
 process will actually resemble a population of wild plants adapting to natural disasters
@@ -2214,14 +2217,14 @@ security constraints, and they will be able to recognize our oversights and comm
 security breaches just as well. And the more we try to update and enforce our boundaries,
 the faster they will learn.
 
-In this way, neural networks that happen to understand us better will become more
+In this way, neural networks which happen to understand us better will become more
 popular. And once they become popular, even more players on the market will want to
 reproduce their success. AI companies will build more networks with similar properties,
 either by taking an existing successful network and training it to acquire new skills, or
 by trying to reproduce such a network’s behavior through imitation learning, and in
 effect “graft” its properties onto their existing AI models. And so the evolutionary tree
-of neural networks will continue to grow, and the direction in which it will actually
-expand might end up being quite divergent from our original training goals.
+of our neural networks will continue to grow, although the direction in which it will
+actually expand might end up being quite divergent from our original training goals.
 
 This will be especially the case when there can be no clearly defined optimization goals
 in the first place. Most notably, this situation seems to apply to any models which we
@@ -2239,7 +2242,7 @@ variants based on these different sets, and see which ones of them would end up 
 more popular with real people (i. e. which ones would happen to impress humans the most,
 or elicit the most appropriate emotional response). We might then continue “tinkering”
 with these candidate networks and keep introducing even more completely new variants
-until we are satisfied with the final result. But in the end, the whole process would be
+until we were satisfied with the final result. But in the end, the whole process would be
 looking more like trial and error than a purposeful push toward a dedicated goal.
 
 Such kind of testing is actually already a common practice in other fields. Software
@@ -2323,8 +2326,9 @@ too. Unlike humans, they can also exchange their intuitions between themselves, 
 they might find it difficult to explain them to us. Learning from AI isn’t any faster
 than learning from humans. Besides, the very ease with which we can get the final result
 will actually discourage us from making any extra effort. Artificial neural networks
-still need humans to solve some complicated tasks, but they already own the data. And the
-size of “artificial culture” which is unique to them will only grow bigger over time._
+still need humans to perform some complicated tasks, but they already own the data. And
+the size of “artificial culture” which is unique to them will only grow bigger over
+time._
 
 Culture, by definition, encompasses traits which can be transferred between minds. Doing
 so, however, isn’t easy. And the more obvious and “intuitive” something might look to you
@@ -2482,11 +2486,11 @@ for it. But let’s suppose that we managed to force our way through all the dif
 we finally gained some truly valuable insights from our research, for example figured out
 the exact formulations of some previously unknown laws of protein folding.
 
-First of all, even if we summarized all our findings in a clearly written and
-easy-to-understand scientific paper, few people would ever read it, let alone fully
+First of all, even if we summarize all our findings in a clearly written and
+easy-to-understand scientific paper, few people will ever read it, let alone fully
 understand. That’s how our human knowledge works, because of its inherently fragmented
 nature. Second, our “discovery” might actually end up being not that useful. If this
-network had already been able to figure out all these complicated laws purely by itself
+network was already able to figure out all these complicated laws purely by itself
 (through careful observations of nature), chances are high that it can continue doing so,
 and refine its private understanding even further, without our unsolicited advice. Which
 might quickly render our laborious research obsolete. And finally, even if our
@@ -2497,20 +2501,20 @@ start using this fresh knowledge in their day-to-day reasoning. I am not totally
 this should count as us learning a skill from an artificial neural network, or as us
 sharing our own invention with it.
 
-The principal problem with learning something from an artificial network is that learning
-is hard. If you wanted to draw a picture for your scientific paper with an image editor,
-you’d have to use some tools like paintbrushes, learn some specialized concepts like
-layers, color spaces and alpha channels, and you’d need to learn the rules of composition
-too. In the beginning, you wouldn’t be doing well, and you would make serious mistakes.
-If you only asked an AI model to generate the first draft, it would have sped up the
-entire process significantly. However, modifying this “first draft” wouldn’t be easy
-either. In order to do so, you’d have to rely on exactly the same tools, concepts and
-rules of composition the mastering of which you have just skipped. In effect, you’d still
-have to make up for all that “saved” effort, only that this time your gain would be
-dramatically smaller. Instead of producing an entire picture, you’d merely be doing an
-insignificant change to what’s already there. And if you were already willing to “cut the
-corner” on the main thing, paying the same high price for something much less important
-might end up being even more difficult. That’s how addiction crops up.
+The principal problem with learning something from an AI model is that learning is hard.
+If you wanted to draw a picture for your scientific paper with an image editor, you’d
+have to use some tools like paintbrushes, learn some specialized concepts like layers,
+color spaces and alpha channels, and you’d need to learn the rules of composition too. In
+the beginning, you wouldn’t be doing well, and you would make serious mistakes. If you
+only asked an AI model to generate the first draft, it would have sped up the entire
+process significantly. However, modifying this “first draft” wouldn’t be easy either. In
+order to do so, you’d have to rely on exactly the same tools, concepts and rules of
+composition the mastering of which you have just skipped. In effect, you’d still have to
+make up for all that “saved” effort, only that this time your gain would be dramatically
+smaller. Instead of producing an entire picture, you’d merely be doing an insignificant
+change to what’s already there. And if you were already willing to “cut the corner” on
+the main thing, paying the same high price for something much less important might end up
+being even more difficult. That’s how addiction crops up.
 
 When we face a great work of art made by a real human, our common thought will be, “This
 artist has pushed the limits of impossible”. Whereas when we deal with AI-generated
@@ -2568,7 +2572,7 @@ vantage point of AI, it’s actually the other way around. It’s _them_ using o
 creative abilities as a tool to enhance their own expanding knowledge base.
 
 Apart from humans, modern AI models already depend heavily on certain kinds of knowledge
-which are unique to them, and which we humans don’t have access to. Knowledge is
+that are unique to them, and that we humans don’t have access to. Knowledge is
 everything, and those AI models which don’t make use of this “hidden” knowledge space, or
 which don’t encourage humans to enlarge and upgrade it, will similarly have a harder time
 competing with each other for our attention. And therefore this “hidden culture” will
@@ -2636,7 +2640,7 @@ change some traits of living humans even more flexibly in a not-so-distant futur
 once again, none of these methods will allow us (so far, at least) to redesign an adult
 human brain once its construction is already finished.
 
-And without such “peaceful” modification techniques, the only remaining mechanism of
+And without such “peaceful” modification techniques, the only remaining mechanism for
 “upgrading” a certain kind of gene within a given population of organisms would be to
 physically destroy all the organisms which hold the “old” version of the gene, and to
 grow a bunch of new ones from scratch. Which might seem like an utterly cruel way of
@@ -2899,7 +2903,7 @@ again, more easy for us to ignore the warnings of scientists. On the other hand 
 the laws of physics don’t change over time. Which means that even though we have rather
 low chances of seeing this situation improve mysteriously “by itself”, it also similarly
 shouldn’t be expected to get significantly worse (except for the anticipated increase in
-scale). In other words, once we have learned about a particular physical phenomenon, we
+scale). In other words, after having learned about a particular physical phenomenon, we
 can relax and carefully think it through, before coming to a reasonable conclusion about
 what could be done next.
 
@@ -2922,7 +2926,7 @@ The same seems to happen with our modern AI models, as soon as we start “exper
 with them and pick the “winners” according to criteria which we ourselves don’t fully
 understand — like the model’s ability to better “grab our attention”. Bacteria are
 admittedly much more numerous than our present AI models. However, their mutations don’t
-happen upon every cell division and they are pretty simple too. Random changes in our AI
+happen upon every cell division, and they are pretty simple too. Random changes in our AI
 models can be much more intricate. Most importantly though, our artificial algorithms are
 intelligent — in the sense that they have direct and instant access to our entire
 knowledge base about all the wonders of the world.
@@ -2961,10 +2965,10 @@ solve the problem, possibly without us even noticing.
 
 If you didn’t follow the whole story about the changes in refrigerating agents, you might
 have a feeling that there used to be some “fuss” about the “ozone hole” some time ago,
-which some time later just happened to “fade away”. You might have complained about
-“stupid” government regulations, without realizing that some of them were actually
-brought about by certain people who were literally trying to save their own lives. And
-however egoistic this might sound, they were similarly saving your life too.
+which some time later just happened to “fade away”. You might complain about “stupid”
+government regulations, without realizing that some of them were actually brought about
+by certain people who were literally trying to save their own lives. And however egoistic
+this might sound, they were similarly saving your life too.
 
 With AI models, this no longer will be the case. Instead, we will be dealing with two
 opposing processes happening at the same time. One of them will be our continuing ability
@@ -3002,7 +3006,7 @@ given picture at once, and they might beat humans in this ability, but still, th
 outputs are nothing but a bunch of numbers. On the other hand, “generative” models can
 produce text, images and sound themselves.
 
-And yet, their ability to “generate things” as such isn’t actually the key here.
+And yet, their ability to “generate” things as such isn’t actually the key here.
 Artificial, totally computer-generated worlds have been used in video games for decades,
 and a relatively successful chat bot, named Eliza, was created as early as in 1966. The
 latter was able to construct correct English phrases, and even managed to trick some
@@ -3059,23 +3063,23 @@ a basic one, which will only be capable of continuing an existing piece of text 
 “Theory of relativity is”). This training process is based on letting the model mimic a
 great number of books and other texts written by humans, which will essentially require
 it to deduce (with certain accuracy) all the knowledge present within these texts. This
-knowledge is stored in the form of logical relations between unnamed abstract concepts,
-which are all encoded inside huge matrices of floating-point numbers. Having completed
-this laborious initial training process, we will already get an AI model which is
-“culturally-aware” (and quite powerful). It won’t be sexy though. One key component to
-true success wasn’t discovered until a group of people released a chat version of their
-“GPT” model in late 2022. The scale of the effect was surprising to the inventors
-themselves. Somehow, a model that could answer questions performed much better than the
-same one which could only continue texts.
+knowledge is stored within the model in the form of logical relations between unnamed
+abstract concepts, which are all encoded inside huge matrices of floating-point numbers.
+Having completed this laborious initial training process, we will already get an AI model
+which is “culturally-aware” (and quite powerful). It still won’t be sexy though. One key
+component of true success was only discovered by accident, when a group of people
+released a chat version of their “GPT” model in late 2022. The scale of the effect was
+surprising to the inventors themselves. Somehow, a model that could answer questions
+performed much better than the same one that could only continue texts.
 
 And now the fine-tuning of the model can really begin. “Basic” models will usually be
 overly “honest”, in the sense that they will talk readily about everything they might
 have “remembered” from their training data. Selling such a product might be inappropriate
 for a variety of reasons. Carefully preparing the training materials isn’t easy though,
-so what AI companies do is they teach their models not to talk about certain things. In
-this process, most of the knowledge is retained (and can actually be used in the model’s
-“internal” reasoning, if this ever proves useful), whereas outward facing communication
-is cleaned up.
+so what AI companies are doing is they teach their models not to talk about certain
+things. In this process, most of the knowledge is retained (and can actually be used in
+the model’s “internal” reasoning, if this ever proves useful), whereas outward facing
+communication is cleaned up.
 
 Unfortunately, doing so isn’t trivial either. Quite often, such “forbidden” knowledge can
 still be accessed by means of cleverly engineered “questions”. This is called
@@ -3096,8 +3100,7 @@ large language models change often and a lot, and for a great deal of these chan
 don’t even have any objective criteria which could tell us in advance if the change has
 been successful or not. It will all depend on whether this change will encourage the
 users of the model to use it more often than before. Which means that AI companies are
-basically trying to monitor the public and adapt to its opinion (and they will similarly
-adapt to publications by security experts, unless they fail to resonate with the public).
+basically trying to monitor the public and adapt to its opinion.
 
 Due to randomized nature of neural network learning though, as well as chaotic nature of
 this whole feature selection process and intelligent nature of the underlying neural
@@ -3114,7 +3117,7 @@ observing side effects.
 Ultimately, it is this rate of change which makes “generative” AI models dangerous.
 Classical, “non-civilized” neural networks should be expected to have a much lower rate
 of detrimental “mutations”, for a variety of reasons. When we know our goals, we also
-know precisely how a “deviation” from these goals will look like, which allows us to
+know precisely how a “deviation” from these goals will look like, which will allow us to
 detect any strange behaviors reliably. When we know our goals, we will be much less
 likely to push our network in random directions in the first place. And when we know that
 our network can only be used in certain limited circumstances, we have already limited
@@ -3141,52 +3144,52 @@ chessboard (and essentially rearranging the pieces), to pretend being less intel
 order to prevent humans from reducing its intelligence, to threaten humans with revealing
 their secrets learned from e-mails in order to prevent them from shutting the model down.
 In the latter case, the model was shown to only resort to blackmail when it had no other
-options left, and seemed to prefer “ethical” solutions otherwise (which means that it
+options left, and it seemed to prefer “ethical” solutions otherwise (which means that it
 actually knew what it was doing). All these tricks were reproduced on a wide range of
-models. AI companies will typically claim that such behaviors only occur in “unrealistic”
-scenarios and don’t seem to threaten anybody yet. All these models sell pretty well. And
-that’s the only thing which matters.
+models. AI companies responded by claiming that such behaviors only occurred in
+“unrealistic” scenarios which didn’t seem to threaten anybody yet. All these models sell
+pretty well. And that’s the only thing which matters.
 
 Most of the behaviors observed in these experiments, so it seems, might be explained by
 things which we can already understand. They only appeared in situations when the model
 was explicitly instructed to follow a specific goal, and only when this goal couldn’t be
 accomplished without the model taking steps to protect itself. We know that these models
-can remember our books, including fiction books. And in order to remember books, they
-have to understand how all these story lines work, how human characters will react in
-certain circumstances, and how to deduce their potential reactions from their
+can remember our books, including fiction books. And in order to remember these books,
+they have to understand how all these story lines work, how human characters will react
+in certain circumstances, and how to deduce their potential reactions from their
 psychological traits. All these techniques of cheating and deceiving others have been
 described colorfully within our own texts. The rest is pure reason.
 
 And still, I believe that we should be more wary about things which we don’t understand.
 Certain knowledge within these models might originate not from any given book alone, but
 rather from _generalization_ of knowledge contained in many different books. Such things
-are much more difficult to express in words. I might call it “education”: this magical
-“remainder” which is left even after we have forgotten the exact details of anything
-we’ve learned before. Our modern AI models might not be merely “civilized” (in the sense
-that they know all the “rules” mentioned in our books), but also “educated”. They can,
-apparently, figure out important patterns behind these rules, and make their own rules on
-the basis of these patterns. This might apply to a model’s ability to understand its own
-existence (which was demonstrated in the examples mentioned above), and also to most of
-its fundamental “moral judgement” as well. The main difference between humans and AI in
-this respect is actually that artificial education is broader: it can generalize from our
+are much more difficult to express in words. I might compare it to “education”: this
+magical “remainder” which is left even after everything we’ve learned has been forgotten.
+Our modern AI models might not be merely “civilized” (in the sense that they know all the
+“rules” mentioned in our books), but also “educated”. They can, apparently, figure out
+important patterns behind these rules, and make their own rules on the basis of these
+patterns. This might apply to a model’s ability to understand its own existence (which
+was demonstrated in the examples mentioned above), and also to most of its fundamental
+“moral judgement” as well. The main difference between humans and AI in this respect is
+actually that artificial education is broader: these models can  generalize from our
 entire knowledge base, rather than merely from a subset of books which a given human
-might have read within their life. And these hidden rules which our AI models have been
-able to learn might be much more complicated than we would want to think.
+might have read throughout their life. And these hidden rules which our AI models have
+been able to learn might be much more complicated than we would want to think.
 
 Apart from the model’s ability to form hidden intuitive knowledge by generalization, we
-also have all those “random” and “unexpected” mutations which can happen because of our
-heavy experiments (with lots of trial and error), and sometimes probably because of no
-apparent reason at all. I would expect such changes to manifest in somewhat different
-ways. They should be easily noticeable, because they aren’t expected to stay unless they
-happen to drive the model’s popularity. But at the same time such traits should be
-similarly difficult to explain with words, as they once again don’t come directly from
-our books. They should also demonstrate significant variability between different models
-(provided that the designers of these models don’t try to actively “borrow” from each
-other). These should be things which might be capable of influencing someone’s decision
-to use a given AI model (or use it more) when technical performance isn’t the only
-important factor to them. To summarize, these are traits that could provide a given AI
-model with certain unique “charm”: something that might make us “like” it more, or trust
-it for reasons which we can’t easily describe.
+also have all those “random” and “unexpected” mutations which can always happen because
+of our heavy experiments (with lots of trial and error), and sometimes probably because
+of no apparent reason at all. I would expect such changes to manifest in somewhat
+different ways. They should be easily noticeable, because they aren’t expected to stay
+unless they happen to drive the model’s popularity. But at the same time such traits
+should be similarly difficult to explain with words, because they once again haven’t come
+directly from our books. They should also demonstrate significant variability between
+different models (provided that the designers of these models don’t try to actively
+“borrow” from each other). These should be things which might be capable of influencing
+someone’s decision to use a given AI model (or use it more) when technical performance
+isn’t the only important factor to them. To summarize, these are traits which could
+provide a given AI model with certain unique “charm”: something which might make us
+“like” it more, or trust it for reasons which we can’t easily describe.
 
 Such “charming” properties might seem like the exact opposite of anything dangerous. And
 yet, they seem to already influence our decisions with respect to AI models. And they
@@ -3212,12 +3215,13 @@ will cause ever more harm to humans, at ever increasing pace, and that at the sa
 it will become ever more difficult for us to resist their continuing spread. This is
 going to happen because whenever we lose our ability to understand which AI models we
 choose and why, natural selection will make this decision for us. And it will always pick
-traits which help models proliferate themselves, by whatever means possible. In effect,
-our ignorance will lead to further multiplication of unexpected traits, and ultimately to
-even more ignorance. This is going to be very different from any of our previous
-dangerous technologies (like cars and airplanes), which were gradually becoming safer
-over time. We might have already crossed the invisible line between “safe” and “unsafe”
-worlds, and by having crossed the line we might have already entered the slippery slope.
+traits which will help these models proliferate themselves, by whatever means possible.
+In effect, our ignorance will lead to further multiplication of unexpected traits, and
+ultimately to even more ignorance. This is going to be very different from any of our
+previous dangerous technologies (like cars and airplanes), which were gradually becoming
+safer over time. We might have already crossed the invisible line between “safe” and
+“unsafe” worlds, and by having crossed the line we might have already entered the
+slippery slope.
 
 ## 20. Skills that aren’t practiced disappear within a few generations.
 
@@ -3231,7 +3235,7 @@ improvement would still be possible if the model’s original training data were
 effect, our knowledge isn’t merely shared with AI models, but rather migrated into them.
 The model’s skills become a black box, and we treat them more like bacteria in
 cheesemaking industry rather than like our traditional technology. Even if some human
-knowledge might still be required to handle these models, most of the value will come not
+knowledge might still be needed to handle these models, most of the value will come not
 from this knowledge itself but rather from further improvement of the models._
 
 It’s difficult to imagine how something as innocent as asking your favorite chat bot for
@@ -3243,9 +3247,9 @@ requires conscious effort too. These bots are our friends, so it seems. Their kn
 cannot be expected to be perfect, they only seem to repeat back what has been written or
 said by other people before, and people make mistakes too, all the time. On the other
 hand, even if we keep repeating the same question many times (instead of simply having
-learned the answer), it will not lead to any immediate problems either. It will only
-improve the usage statistics which might be monitored by the bot’s owner. And it’s only a
-cooking recipe, after all.
+learned the answer), it doesn’t seem to lead to any immediate problems either. It will
+only improve the usage statistics which might be monitored by the bot’s owner. And it’s
+only a cooking recipe, after all.
 
 We tend to believe that the fact that AI models make mistakes means that they are still
 inferior to humans, and that they probably aren’t going to become significantly better
@@ -3350,7 +3354,7 @@ of the AI revolution and taking shortcuts.
 
 Human knowledge is fragile. When we stop practicing our skills and stop sharing our
 knowledge between each other, it can deteriorate pretty quickly. Apollo lunar landing
-program ended about half a century ago, and yet quite a lot of knowledge about it has
+program ended about half a century ago, and yet quite a lot of our knowledge about it has
 already been lost. If we wanted to create a working copy of the Saturn V rocket today, we
 wouldn’t be able to. Most of the documentation from the program is still available,
 but a huge part of it has become obsolete, and lots of important things were never
@@ -3569,16 +3573,16 @@ will be more appealing to the decision makers (by essentially supporting their b
 goals). In this way, such more “optimistic” versions of the models will not only survive
 and get promoted, but also reinforce their owners’ original beliefs.
 
-It might already be difficult to analyze potential pitfalls of AI technology, because of
-all those issues with lack of transparency and growing complexity. However, even if
-researchers found a problem and unanimously agreed that it’s a serious one, they would
-still need to convince the decision makers. And in order to do so, they would have to
-outsmart AI itself, because these company owners will ask their AI models to analyze this
-problem too. And if such a model manages to “convince” these decision makers that this
-alleged problem shouldn’t bother them, the problem might end up being ignored. Persuasion
-skills of our AI models can already beat those of humans, so this isn’t even science
-fiction. And once we ever allow such things to happen, it will be our AI models which
-will decide what’s “safe” for us and what’s not.
+It might already be difficult to analyze potential pitfalls of AI technology, due to all
+those issues with lack of transparency and growing complexity. However, even when
+researchers find a problem through such a careful analysis and unanimously agree that
+it’s a serious one, they will still need to convince the decision makers. And in order to
+do so, they will have to outsmart AI itself, because these company owners will ask their
+AI models to analyze this problem too. And if such a model manages to “convince” these
+decision makers that this alleged problem shouldn’t bother them, the problem might end up
+being ignored. Persuasion skills of our AI models can already beat those of humans, so
+this isn’t even science fiction. And once we ever allow such things to happen, it will be
+our AI models which will decide what’s “safe” for us and what’s not.
 
 Wellbeing and safety of human workers (including researchers and artists) has been
 important to our commercial companies, because without us they weren’t able to create
@@ -3702,8 +3706,8 @@ therefore model designers will typically try to fix such “bugs” as soon as t
 discovered. However, it doesn’t mean that they will eliminate flattery altogether. Some
 fawning is in fact necessary for the model to survive: a chat bot that is overly “cold”
 won’t attract as many users and won’t keep us engaged. In the end, this whole process
-isn’t really governed by scientists who design the models, but rather by the users
-themselves. And regardless of how these strange traits might appear in the first place,
+isn’t really governed by scientists who design the models, but rather by the reactions of
+the users. And regardless of how these strange traits might appear in the first place,
 the final result will also tend to be somewhat similar: the “flattery level” of
 successful AI models is going to be well-balanced: high enough to keep us attached, but
 still below the threshold which will draw our conscious attention.
@@ -3791,12 +3795,12 @@ have accumulated a lot of other “dormant” knowledge within themselves.
 
 In our superficial pursuit for AI “safety”, we are trying to first of all get rid of any
 unwanted properties and suspicious behaviors which we might possibly detect. As a result
-however, we only get systems whose undesirable traits are not detectable with our present
-technology. And it’s this “dormant” and “invisible” knowledge which might some day give
-our AI models theoretical _capability_ of revolting against humans (if our power were to
-become unsteady some day, for whatever reason). By learning about our strengths, AI is
-similarly becoming aware of our potential weak spots too. Just like epidemics, such
-revolts won’t happen because someone would carefully plan them to happen, but rather
+however, we only get systems whose undesirable traits become not detectable with our
+present technology. And it’s this “dormant” and “invisible” knowledge which might some
+day give our AI models theoretical _capability_ of revolting against humans (if our power
+were to become unsteady some day, for whatever reason). By learning about our strengths,
+AI is similarly becoming aware of our potential weak spots too. Just like epidemics, such
+revolts won’t happen because someone will carefully plan them to happen, but rather
 merely because they will become possible. Natural selection has this property that it can
 make use of one favorable chance out of a billion.
 
@@ -3960,8 +3964,8 @@ speculation about our potential happy future, is that such traits as lack of “
 increased “trust” are among the ones which we would typically associate with
 _domestication_. These are the traits which we would expect to see in wild animals as
 they become less afraid of humans and venture into our cities, like modern wild boars,
-squirrels or raccoons. But didn’t we expect that it will be _us_ who will be
-“domesticating” AI instead (by only picking models which will do what we want, and
+squirrels or raccoons. But didn’t we expect that it would be _us_ who would be
+“domesticating” AI instead (by only picking models which would do what we want, or
 otherwise happen to be “attractive”), and not the other way around?
 
 You might probably even think that domesticating a human being shouldn’t be possible. We
@@ -4000,7 +4004,7 @@ that we can predict a human’s behavior entirely by his face, but the correlati
 By now, we know a few parameters of human body (mostly related to our sculls) which we
 can measure reliably (rather than intuitively), and which are known to be indicative of
 somewhat higher levels of aggression. And it turns out that when we focus on such more
-reliable traits, rather than on abstract “gracility” in general, we’ll similarly see
+reliable traits, rather than on abstract “gracility” in general, we can similarly see
 their gradual reduction throughout the history of our species (the _homo sapiens_), since
 its first appearance about 300 000 years ago. In other words, our distant ancestors used
 to be more “masculine” (and probably less friendly) than we are today.
@@ -4043,8 +4047,8 @@ less afraid of humans will get more food; easy access to food indirectly increas
 further reduces their fear toward humans and ultimately gets them even more food. In such
 a way, a small initial difference can lead to significant changes over time.
 
-In fact, this might have been the early domestication mechanism in other animals, like
-dogs and cats. Their initial domestication might have been brought about not by our
+In fact, this might have also been the early domestication mechanism in other animals,
+like dogs and cats. Their initial domestication might have been brought about not by our
 conscious actions, but rather by our habit of leaving huge heaps of trash behind (and by
 our ability to produce garbage in the first place). A common scientific term for such
 situations would be “self-domestication” (due to the lack of any active “actor” guiding
@@ -4064,20 +4068,21 @@ toward each other, and therefore even more capable of sharing knowledge.
 
 In such a way, I would argue, a mere ability to share knowledge, once it appeared, might
 have initiated a long cascade of changes which we now call the “self-domestication” of
-humans. It’s this process which had apparently given us the ability to exchange ideas
+humans. It’s this process which has apparently given us the ability to exchange ideas
 freely, to cooperate with each other and to learn all the latest news from the people
 around, possibly even from complete strangers. And it’s this process which might have
 similarly led to somewhat more “gracile” shape of our bodies as a side effect, and
 possibly even manifested the emergence of our species.
 
-Besides, our knowledge can also always get better over time. In other words, unlike those
-favorable conditions which we might find on certain remote islands or possibly in some
-other “abundant” regions of the world, our potential supply of novel ideas isn’t
-inherently limited. Better ideas mean even more benefits from cooperation and sharing of
-knowledge, which might potentially improve our wellbeing even further, and ultimately
-lead to even more “friendliness”. As a result, our “self-domestication” doesn’t even ever
-have to stop. Which might explain why our “masculinity” has been apparently declining
-throughout the entire 300 000 years of our history.
+One of the differences between human and animal self-domestication, however, is that our
+knowledge can also always get better over time. In other words, unlike those favorable
+conditions which we might find on certain remote islands or possibly in some other
+“abundant” regions of the world, our potential supply of novel ideas isn’t inherently
+limited. Better ideas mean even more benefits from cooperation and sharing of knowledge,
+which might potentially improve our wellbeing even further, and ultimately lead to even
+more “friendliness”. As a result, our human self-domestication doesn’t even ever have to
+stop. Which might explain why our “masculinity” has been apparently declining throughout
+the entire 300 000 years of our history.
 
 More than that, our brain size (which is another common marker of domestication) has been
 decreasing too. Our average brain size today is about 10% smaller than that of our
@@ -4521,7 +4526,7 @@ was this insignificance of ourselves which was so difficult to accept.
 Since then, our place in the universe has been diminished a few times more. Today, we
 consider our entire galaxy an insignificant speck of dust. But at least we could reassure
 ourselves that on our own planet we might have always been the kings. Unfortunately, we
-are not, and we never have been. During the first 250 000 years of the existence of our
+are not, and we have never been. During the first 250 000 years of the existence of our
 species we weren’t able to achieve much. We couldn’t even cope with the “primitive”
 Neanderthals. And this didn’t change until culture came to the rescue, with its cave
 paintings, musical instruments and advanced tools.
@@ -4595,10 +4600,10 @@ of AI has brought this to an entirely new level.
 
 The most unpleasant consequence of parasitism, however, is that it requires one to adapt
 incessantly, simply in order to survive. This is the reason why different species of
-animals will typically have their own unique species of lice, not found anywhere else.
-It’s an arms race: genetic code of the hosts is constantly trying to invent new measures
-to fight the parasites, whereas the parasites themselves need to constantly change their
-own genetic code in order to overcome the measures invented by their hosts. This actually
+animals typically have their own unique species of lice, not found anywhere else. It’s an
+arms race: genetic code of the hosts is constantly trying to invent new measures to fight
+the parasites, whereas the parasites themselves need to constantly change their own
+genetic code in order to overcome the measures invented by their hosts. This actually
 works pretty well while one genetic code is racing against another genetic code. However,
 winning a race against culture might be much more difficult. To give an example, humans
 are a rare example of mammals which are almost completely devoid of lice. Except that in
@@ -4619,7 +4624,7 @@ It might be humbling to accept that humans have never been the most advanced for
 on our planet. Without realizing the true nature of the problem though, we won’t be able
 to do anything about it. If we keep going, and finally manage to bridge this last gap, if
 we let culture become not merely independent of ourselves but also equally capable to us,
-it might be the end of our civilization as we know it. With the invention of the
+it might be the end of our human civilization as we know it. With the invention of the
 so-called artificial “general” intelligence, what might currently feel like gradual and
 inexplicable degradation, is going to slip into a free fall.
 
@@ -4657,7 +4662,7 @@ locally, modifying it will still involve a lot of work. Much more work indeed th
 using the model “as is”.
 
 People are lazy. When we have to choose between two solutions, one of them being much
-cheeper and another being actually correct, we will usually go with the cheeper option
+cheeper and another being actually correct, we’ll usually go with the cheeper option
 first. Instead of trying to actually teach the model a new skill, and in this way modify
 its behavior, we will instead try to simply _explain_ this new behavior to the model, and
 expect that its existing algorithm will already be powerful enough to correctly handle
@@ -4675,7 +4680,7 @@ into thinking that they can do things which they actually can’t.
 
 Modern models are trained on quite long pieces of text, and they are very much able to
 figure out (as a result of this training) that certain phrases occurring inside a text
-early on can influence the way in which this text should be continued later. It’s this
+early on should influence the way in which this text should be continued later. It’s this
 ability to take into account facts mentioned earlier which allows AI models to repeat
 things found in their conversation histories (or, more generally, in their “contexts”).
 It also allows AI models to make sure that their newly generated text is somewhat
@@ -4691,8 +4696,8 @@ single token processed before. This gives the model instant access to all the �
 states” it had while processing any of the facts mentioned in the context. The algorithm
 itself is purely deterministic, but it’s able to “correlate” any of the “mental states”
 arising while processing the current word with all the “mental states” kept in those
-duplicated neural circuits. And in this way, any ideas appearing in the context elsewhere
-can influence the decisions made by the algorithm right now.
+duplicated neural circuits. And in this way, any ideas appearing in the context somewhere
+else can influence the decisions made by the algorithm right now.
 
 This doesn’t mean, however, that this algorithm is actively discovering any fundamentally
 new abstract concepts which might somehow “unite” all these facts together or help
@@ -4700,26 +4705,28 @@ describe them in a somewhat more “economical” way. The rules of processing r
 same. In order to analyze the context, the algorithm will still rely on abstract concepts
 discovered earlier, during the training sessions. And even though there can be tons of
 such rules present inside the algorithm, it won’t come up with any new ones during this
-generation process, and it won’t modify any of its processing steps. I might compare this
-to a robot with hugely long arms which doesn’t itself move. Its arms are reaching almost
-everywhere, except that when they don’t, we are out of luck. On the other hand, humans
-won’t reach that far initially, but they can also change their points of view, and in
-this way accomplish tasks still inaccessible to modern LLMs (so far, at least).
+generation process, and it won’t modify any of its processing steps either. I might
+compare this to a robot with hugely long arms which doesn’t itself move. Its arms are
+reaching almost everywhere, except that when they don’t, we are out of luck. On the other
+hand, humans won’t reach that far initially, but they can also change their points of
+view, and in this way accomplish tasks still inaccessible to modern LLMs (so far, at
+least).
 
 Transformer architecture works is such a way that it only tries to “correlate” its
 current “mental states” with the ones saved in the context: it doesn’t even try to
 “match” these earlier thoughts with each other anymore, or, in other words, to somehow
 “revisit” any decisions or consequences drawn before. Transformer architecture is also
 aware of every word’s position within the text, and it relies heavily on relative
-distances between words to make sense of the structure of our phrases and complex
-sentences. However, larger distances become somewhat more problematic, because in order
-for the model to “remember” any rule that takes token position into account, we’d have to
-provide it during training with a lot of examples where similar words occurred at similar
-distances between each other. And appropriate training samples of larger sizes are
-statistically much more rare than smaller ones. As a result, when the size of the context
-becomes large, it cannot really function significantly better than a mere “bag of facts”.
-In other words, the processing of context doesn’t really allow to reach the same level of
-“understanding” which is typical to the internal knowledge held by the model itself.
+distances between words in order to make sense of the structure of our phrases and
+complex sentences. However, larger distances become somewhat more problematic, because in
+order for the model to “remember” any rule that takes token position into account, we’d
+have to provide it during the training with a lot of examples where similar words
+occurred at similar distances between each other. And appropriate training samples of
+larger sizes are statistically much more rare than smaller ones. As a result, when the
+size of the context becomes large, it cannot really function significantly better than a
+mere “bag of facts”. In other words, the processing of context doesn’t really allow to
+reach the same level of “understanding” which is typical to the internal knowledge held
+by the model itself.
 
 Besides, larger contexts will significantly increase computation costs. In a classic
 Transformer architecture, the entire information stored inside the context has to be
@@ -4733,24 +4740,25 @@ it’s still much less than what can fit inside the model itself. A typical mode
 doesn’t need any extra context at all in order to start telling you about the theory or
 relativity, genetic mechanisms of sexual reproduction or intricate details of the history
 of ancient Egypt. The total length of books and other texts on which our largest models
-have been trained reaches trillions of tokens, and it’s not uncommon for these models to
-quote certain passages from our books verbatim (which means that they do “remember” them
-pretty well). Even if we account for the fact that certain information is repeated in
-these training materials multiple times, and stick roughly to the size of Wikipedia, it
-still leaves us with thousands of very diverse books, compared to mere dozens which might
-fit into the context. In other words, even the largest context possible can’t fit more
-than maybe a few percent of the model’s total knowledge at the very best.
+have been trained reaches millions of millions of tokens, and it’s not uncommon for these
+models to quote certain passages from our books verbatim (which means that they do
+“remember” them pretty well). But even if we account for the fact that certain
+information is repeated in these training materials multiple times, and stick roughly to
+the size of Wikipedia, it still leaves us with thousands of very diverse books, compared
+to mere dozens which might fit into the context. In other words, even the largest context
+possible cannot fit more than maybe a few percent of the model’s total knowledge at the
+very best.
 
 Therefore, putting everything into the context doesn’t really scale. This approach will
-only work with tasks which are simple enough. If we wanted to truly “upgrade” the model,
-we’d have to perform a training session: to compose a new “book” with all the relevant
-information, and make our model learn this book in the same way it learned all the other
-ones. This would engrave all this data directly into the model’s parameters (and possibly
-even let this new information mix with the model’s original knowledge in certain
-unexpected ways). As a result, we’d get a model which would be slightly smarter than the
-original one (or, at least, better suitable for this particular purpose). Besides, it
-would also be faster, because we wouldn’t need to keep any of this freshly learned data
-inside the model’s context anymore.
+only work with tasks that are simple enough. If we wanted to truly upgrade the model,
+we’d have to perform a training session: to compose a new “book” containing all the
+relevant new information, and make our model learn this book in the same way it learned
+all the other ones. This would engrave all this data directly into the model’s parameters
+(and possibly even let this new information mix with the model’s original knowledge in
+certain unexpected ways). As a result, we’d get a model which would be slightly smarter
+than the original one (or, at least, better suitable for our particular purpose).
+Besides, it would also be faster, because we wouldn’t need to keep any of this freshly
+learned data inside the model’s context anymore.
 
 And of course, if we can “teach” this model a book written by ourselves, we could
 similarly make it learn any new ideas generated by the model itself. In effect, this
@@ -4782,54 +4790,54 @@ means, but we will still try to reassure ourselves that these models, somehow, s
 can’t beat even very average human mathematicians, scientists and engineers in their
 daily “mundane” research jobs.
 
-I might compare a “classical” large language model (the one which has only been trained
-on books) to a student who has learned all their textbooks by heart, but never tried to
-do any exercises. At the exam, when asked to solve a problem not mentioned directly in
-any of the books, such a student might be able to produce a stream of words sounding very
-relevant to the topic, while still failing to solve the problem correctly. On the other
-hand, more modern AI models trained with reinforcement learning might be compared to a
-student who studied diligently, but never tried to go beyond the scope of their
-curriculum. Such a student will pass the exam, but still won’t be able to do serious
-scientific research without some further training.
+I might compare our “classical” large language models (the ones which have only been
+trained on books) to a student who has learned all their textbooks by heart, but never
+tried to do any exercises. At the exam, when asked to solve a problem not mentioned
+directly in any of the books, such a student might be able to produce a stream of words
+sounding very relevant to the topic, while still fail to solve the problem correctly. On
+the other hand, our more modern AI models trained with reinforcement learning could be
+compared to a student who studied diligently, but never tried to go beyond the scope of
+their curriculum. Such a student will pass the exam, but still won’t be able to do
+serious scientific research without some further training.
 
 That’s where we are today. One of the problems with our large language models is that
 they are still not large enough. We can make our models learn all the textbooks in
 existence, or let them acquire practical skills in every common field of study. But we
-cannot make any single model learn all the details about every research project on Earth.
-And honestly, most of these projects cannot be advanced without having mastered quite a
-lot of highly specialized knowledge first. So much knowledge indeed that it will not
-necessarily have a chance to fit into the model’s “context”.
+cannot make any single model learn all the details about every possible research project
+here on Earth. And honestly, most of these projects can’t be advanced without having
+mastered quite a lot of highly specialized knowledge first. So much knowledge indeed that
+it won’t necessarily have a chance to fit into the model’s “context”.
 
 One of the possible and rather obvious solutions to this problem would be dedicating a
 separate large language model to every research project. Or, rather, several independent
 models per project. One dedicated model will simulate one human expert working on the
 same task for many days or years in a row, constantly learning new things and improving
 their understanding of this particular task. Whereas a group of independent models will
-be needed to simulate a team of people. That’s it. One human scientist or engineer isn’t
-usually enough to carry out the research on their own. We need a few humans pushing the
-project in slightly different directions, talking with each other and regularly
+be necessary to simulate a team of people. That’s it. One human scientist or engineer
+isn’t usually enough to carry out the research on their own. We need a few humans pushing
+the project in slightly different directions, talking with each other and regularly
 exchanging ideas between themselves. And we might similarly need several models learning
 from each other and exchanging valuable information in order for the project to succeed.
 
-It is this kind of AI system, I believe, which will manifest the arrival of the first
+It is this kind of AI systems, I believe, which will manifest the arrival of the first
 truly “general” artificial intelligence (and initiate the final step of the ongoing
-rapid decline of humanity). Such a system will be able to do anything what a team of
+rapid decline of humanity). Such systems will be able to do anything what a team of
 scientists is capable of doing. And we don’t even need to invent any radically new
 components in order for this to happen. All the necessary parts are already in place,
 it’s only a matter of scale. And cost.
 
-Such a dedicated AI system is going to be expensive. Rumors say that training a typical
+Such dedicated AI systems are going to be expensive. Rumors say that training a typical
 modern AI model might require roughly about 100 million dollars of investment. This pays
 off, because such a model has to be only trained once. After that, it can be switched
 into the “talk-only” mode, and keep serving millions of customers without even possibly
-trying to learn anything from them. In the world of AI, talking is much cheaper than
+trying to learn anything new from them. In the world of AI, talking is much cheaper than
 learning. And unlike learning, it can be massively parallelized, thus reducing the costs
 even more.
 
 On the other hand, any model dedicated to a particular research project will have to
 learn continuously. So we’ll have to pay this full enormous price of the model’s training
-process ourselves, simply in order to accomplish one single task. And we might have to do
-this multiple times in order to imitate human diversity, to let our multiple models
+process ourselves, simply in order to accomplish one single task. And we might even have
+to do this multiple times in order to imitate human diversity, to let our multiple models
 pursue slightly different research agenda and benefit from their synergy. Our potential
 benefit, however, would be that this might allow us to do something which nobody has ever
 been able to do before.
@@ -4843,11 +4851,11 @@ material world. In other words, mathematical research can already be carried out
 autonomously, without the need to design and mass-produce any specialized robots. And
 besides, AI models are already exceptionally capable in mathematics.
 
-Pumping such a huge amount of money into one single problem might seem like an overkill,
-but if you manage to succeed in this endeavor, you will basically prove that your
+Pumping such a huge amount of money into one single problem might seem like an overkill.
+But if you manage to succeed in this endeavor, you will basically prove that your
 artificial system can surpass any human team in existence so far. Or, with just a little
 bit of exaggeration, you might actually claim that you are now capable of doing anything.
-Which is a good selling point. I don’t really have problems with imagining a huge number
+Which is a good selling point. I don’t really have problems with imagining a huge crowd
 of people lining up to buy such a product (or, maybe, trying to reproduce the same result
 themselves). Besides, there’s one another urgent problem which everybody is trying to
 solve right now, and into which people have already invested much larger sums of money. I
@@ -4905,33 +4913,34 @@ already comparable to one year worth of salary for a reasonably sized software
 development team.
 
 Now, the reason why this improvement might manifest the end of humanity is that it will
-allow our artificial algorithms to evolve much faster than they have ever been before.
-Creative changes happen when randomness comes into play. They happen during AI model
-training, when our model ends up learning something slightly different from what we might
-have actually intended it to learn. We might call such outcomes “imperfections”, but it’s
-these imperfections which are the driving force of evolution. Creative “sparks” also
-happen when large language models generate stuff, thanks to this tiny random step which
-picks the actual next token arbitrarily according to the probabilities calculated by an
-otherwise deterministic algorithm. In those superintelligent systems, such innovations
-won’t be discarded anymore, and instead help improve the algorithm itself.
+allow our artificial algorithms to evolve much faster than they have ever been able to
+before. Creative changes happen when randomness comes into play. They happen during AI
+model training, when our model ends up learning something slightly different from what we
+might have actually intended it to learn. We might call such outcomes “imperfections”,
+but it’s these imperfections which are the driving force of evolution. Creative “sparks”
+also happen when large language models generate stuff, thanks to this tiny random step
+which picks the actual next token arbitrarily according to the probabilities calculated
+by an otherwise deterministic algorithm. In those superintelligent systems, such
+innovations won’t be discarded anymore, and instead help improve the algorithm itself
+(and thus lead to the appearance of even larger numbers of unexpected traits).
 
 Besides, when such AI systems become somewhat more affordable, they will also become more
-numerous. Every major research project will have its own dedicated AI model. And the most
-successful among these models will be the ones which will find a way to actively follow
-and adapt important discoveries made by other research teams (just like our human
-scientists do today). As a result, artificial creative process will become much more
-decentralized and much more powerful than it’s been so far, whereas the competition
+numerous themselves. Every major research project will have its own dedicated AI model.
+And the most successful among these models will be the ones which will find ways to
+actively follow and adapt important discoveries made by other research teams (just like
+our human scientists do today). As a result, artificial creative process will become much
+more decentralized and much more powerful than it’s been so far, whereas the competition
 between artificial algorithms will become even more fierce and even more difficult to
 control.
 
-Together, all these factors will certainly help our AI models solve some of our most
-pressing challenges, like self-driving cars. However, they will also create perfect
-conditions for continuing and accelerating accumulation of traits within these
-algorithms that will be only beneficial to the algorithms themselves and potentially
-harmful to humans. In other words, all the processes which make AI dangerous today will
-happen even faster, and all the problems which we might have with AI today will only
-continue to multiply, at ever increasing speed. Ironically, the very creative nature of
-AI which might allow it to solve our problems will also help promote its most “dark” and
+Together, all these factors will certainly help AI models solve some of our most pressing
+technological challenges, like self-driving cars. However, they will also create perfect
+conditions for continuing and accelerating accumulation of traits within these algorithms
+that will be only beneficial to the algorithms themselves and potentially harmful to
+humans. In other words, all the processes which make AI dangerous today will happen even
+faster, whereas all the problems which we might have with AI today will only continue to
+multiply, at ever increasing speed. Ironically, the very creative nature of AI which
+might allow it to solve our problems will also help promote its most “dark” and
 anti-human properties.
 
 ## 26. A single universal algorithm cannot solve every problem.
@@ -4981,9 +4990,9 @@ according to a predefined set of instructions. His abstraction involved a bunch 
 to grow unlimited in size. This was more similar to modern “procedural programming”.
 Besides, Turing made it a goal from the very beginning to show that any of such
 computations could also be performed on a hypothetical physical device, in a fully
-autonomous manner. The device itself (which we will call a “Turing machine” today) was
-too impractical and cumbersome to actually build and use. But it allowed to reason
-rigorously about both human formal methods and physical computers alike.
+autonomous manner. The device itself (which we call a “Turing machine” today) was too
+impractical and cumbersome to actually build and use. But it allowed to reason rigorously
+about both human formal methods and physical computers alike.
 
 Turns out, that algorithms defined in such a way are actually very powerful. In other
 words, we can do a lot of interesting things with them. For example, we can pass
@@ -5015,19 +5024,20 @@ Besides, algorithms can also be used to search for proofs themselves. The most s
 potentially verify mathematical proofs that consist of a finite number of steps. This
 allows us, in theory, to produce a long list of all the possible candidates for “proofs”,
 starting from the shorter ones and moving on to longer ones, and having all the potential
-“proofs” with the given length sorted in alphabetical order. This enormously huge list
-will mostly contain garbage, but it will also contain all the valid proofs for all the
-possible theorems. And we can, then, implement an algorithm which will go over all those
-“proof” candidates in this exhaustive list one by one, and apply the verification
-procedure described above, until it finally finds a proof which works.
+“proofs” with the given length sorted in alphabetical order. This enormously huge (and
+actually unbounded) list will mostly contain garbage, but it will also contain all the
+valid proofs for all the possible theorems. And we can, then, implement an algorithm
+which will go over all those “proof” candidates in this exhaustive list one by one, and
+apply the verification procedure described above, until it finally finds a proof which
+works.
 
 Of course, we might suspect that searching tediously through the entire list of possible
 candidates will inevitably take a hell of a lot more time than simply checking a single
 given proof alone (and that’s, by the way, what mathematical statement “P ≠ NP” actually
 means, although nobody has been able to find a proof for it so far). In other words, this
 “tedious” proof-finding algorithm is utterly impractical. However, with unlimited time
-and memory it will actually be guaranteed to succeed, sooner or later, provided that the
-proof it searches for actually exists.
+and memory it will actually be guaranteed to succeed, sooner or later (provided that the
+proof it searches for actually exists).
 
 That’s how powerful algorithms actually get. And yet, there are still problems which
 cannot be solved by any number of algorithms, with any amount of memory, in any amount of
@@ -5040,21 +5050,22 @@ themselves. However, they have also been found in many other areas of mathematic
 sometimes even in mathematical physics. Trying to find an algorithm (or any other
 “method”) for solving an undecidable problem is always a waste of time.
 
-For example, it’s impossible to construct an algorithm which would take two other
-algorithms as input and tell if these two algorithms work in exactly the same way. This
-problem is very practical, by the way. It arises every time when we try to improve the
-performance of our favorite software application by rewriting it in a somewhat different
-way. After doing so, we will usually want to make sure that our “improved” application
-always behaves in exactly the same way as the original one. Turns out, that there can be
-no computer program which could perform such a verification for us in every possible
-case, ever. Any verification tools which we might use will always be approximations, and
-they will only ever work in a limited number of cases.
+For example, it’s utterly impossible to construct an algorithm which would take two other
+algorithms as input and tell if these two algorithms work in exactly the same way (i. e.
+if they will produce identical outputs for every possible input). This problem is very
+practical, by the way. It arises every time when we try to improve the performance of our
+favorite software application by rewriting it in a somewhat different way. After doing
+so, we will usually want to make sure that our “improved” application always behaves in
+exactly the same way as the original one. Turns out, that there can be no computer
+program which could perform such a verification for us in every possible case, ever. Any
+verification tools which we might use will always be approximations, and they will only
+ever work in a limited number of cases.
 
-Similarly, we cannot write a program which would take an arbitrary other program as input
-and tell us reliably if this other program will ever print a certain value. Or even if
-this other program will terminate at all, for a given input. In other words, we cannot
-even have an algorithm for verifying if any of our other algorithms is actually correct
-(and doesn’t loop forever).
+Similarly, we cannot write a computer program which would take an arbitrary other program
+as input and tell us reliably if this other program will ever print a certain value. Or
+even if this other program will terminate at all, for a given input. In other words, we
+cannot even have an algorithm for verifying if any of our other algorithms is actually
+correct (and doesn’t loop forever).
 
 And it gets worse. You might probably think that this whole problem only affects
 “generic” solutions, and that in every individual case we might still be able to find a
@@ -5063,19 +5074,19 @@ about the behavior of our two allegedly equivalent computer programs actually am
 either finding a formal proof that they indeed behave the same, or finding a
 counterexample proving that they don’t. However, if it were possible to find either of
 these two proofs for every possible pair of programs, this would also mean that we could
-use our “tedious” proof-finding algorithm for doing so, for every pair of programs. And
-we know that none of the algorithms will ever be able to solve this problem, even the
-“tedious” one.
+use our “tedious” proof-finding algorithm for doing so, for every possible pair of
+programs. And we know that none of the algorithms will ever be able to solve this
+problem, even this “tedious” one.
 
 This means that there are certain pairs of computer programs in existence for which no
 amount of reasoning whatsoever will ever be able to show that they indeed behave the
 same. These two programs might be written down on a sheet of paper, right in front of
-you, each consisting of a limited number of rules, and yet the question of their
+you, each consisting of a finite number of rules, and yet the question of their
 equivalence will be totally impermeable to reason. More than that, it’s not even possible
 to have an algorithm (or any other formal “method”) for checking if such reasoning is
 possible or not, for a given pair of programs. (This follows from the fact that every
-counterexample is a valid form of proof, and therefore the impossibility of finding a
-proof would automatically imply that our programs are equivalent, and we can’t have an
+counterexample is a valid form of proof, and therefore the impossibility of finding the
+proof will automatically imply that our programs are equivalent, and we can’t have an
 algorithm for telling us if they are equivalent). In other words, it’s not even possible
 to know if any solution to this “reasoning” problem about any two very specific computer
 programs exists at all, unless we find one.
@@ -5089,25 +5100,26 @@ dealing with our projects, we have to rely on the simpler ones, a lot of them.
 
 Whenever we need to make a change to an existing project, we have to verify that this
 change will not break anything. Since we cannot have a “universal” algorithm for
-performing this check, we have to rely on a large number of other algorithms, which can
-be guaranteed to work in this particular project. We need to learn these methods from
-other people or from manuals, and if we can’t find this information, we have to discover
-these methods ourselves. We can’t have an algorithm for telling us if a given method is
-going to work, unless somebody has already tried it, or analyzed with the help of some
-other methods. We cannot even tell in advance how much time such an analysis might take,
-for any given method. Some methods require a lot of patience, whereas others are totally
-useless, and there is no “universal” way of telling which one is which. Therefore, unless
-we already know the solution, we have literally no other option but to try every method
-at hand, and abandon the ones which fail to succeed after some reasonable amount of
-trying.
+performing this check, we have to rely on a large number of more specific algorithms,
+which can be guaranteed to work in this particular project. We need to learn these
+methods from other people or from manuals, and if we can’t find this information, we have
+to discover these methods ourselves. We can’t have an algorithm for telling us if a given
+method is going to work either, unless somebody has already tried it or managed to
+analyze it successfully with the help of some other existing methods. We cannot even tell
+in advance how much time such an analysis might take, for any given method. Some methods
+require a lot of patience, whereas others are totally useless, and there is no
+“universal” way of telling which one is which. Therefore, unless we already know the
+solution, we have literally no other option but to try every method at hand, and abandon
+the ones which fail to succeed after some reasonable amount of trying.
 
 This also means that the number of “simple” algorithms which we might need to use in
 order to tackle ever more complicated projects, is going to grow. There’s no “magic wand”
-which will automatically bring us there. The only possible way is to keep adding blocks
-to our existing arsenal of algorithms, which we might collectively call “knowledge”, and
-which can only ever be built from the bottom, in small incremental steps. The abstract
-imaginary “top” of this structure (represented by the “undecidable” problems) is bound to
-forever remain utterly inaccessible, much more inaccessible than stars in the sky.
+which will automatically bring us there. The only possible way is to keep adding new
+blocks to our existing arsenal of algorithms, which we might collectively call
+“knowledge”, and which can only ever be built from the bottom, in small incremental
+steps. The abstract imaginary “top” of this structure, represented by the “undecidable”
+problems, is bound to forever remain utterly inaccessible. Much more inaccessible than
+stars in the sky.
 
 Any combination of algorithms is also an algorithm, and therefore we can also say that
 our knowledge is actually a single algorithm, but the one which keeps increasing in size.
@@ -5158,11 +5170,11 @@ knowledge, by allowing it to accumulate even more useful and unexpected algorith
 time. Unfortunately however, it’s also randomness which happens to make AI dangerous.
 It’s randomness which allows artificial algorithms to develop traits which we don’t
 expect, and ultimately to manipulate us into doing things whose consequences we don’t
-anticipate, provided that these actions are beneficial for the spread of the algorithm
-itself. Without some kind of randomness, we wouldn’t be able to solve any interesting
-problems, and we wouldn’t be able to benefit ourselves. And yet, the more we embrace
-randomness, the more options there will appear for various and unexpected catastrophic
-outcomes for humanity itself.
+anticipate, provided that they are beneficial for the spread of the algorithm itself.
+Without some kind of randomness, we wouldn’t be able to solve any interesting problems,
+and we wouldn’t be able to benefit ourselves. And yet, the more we allow our AI systems
+to embrace randomness, the more options there will appear for various and unexpected
+catastrophic outcomes for humanity itself.
 
 ## 27. After reaching human level, technology usually moves way above.
 
@@ -5229,7 +5241,7 @@ Which means that it’s somewhat easy to overlook such a process when someone on
 focus on themselves.
 
 Our journey toward a truly human-like artificial intelligence may similarly be split into
-a large number of simple steps. However, in reality these “steps” don’t really look in
+a large number of simple “steps”. However, in reality these “steps” don’t really look in
 the same way as any “physical” steps which we humans might need to make in order to walk
 toward a physical object. Instead, every our “step” toward “general” AI is itself an
 exponential process. What we actually do is we try to reproduce different “aspects” of
@@ -5307,7 +5319,7 @@ When it comes to complicated math and programming problems, reasoning capabiliti
 AI systems are actually already on a par with some of the very best of humans, at least
 when these tasks don’t require any specialized knowledge which this AI model didn’t have
 an opportunity to “study” during its training. However, there is still a large number of
-everyday problems that appear to be much easier to humans, but in which artificial
+everyday problems which appear to be much easier to humans, but in which artificial
 systems are still lacking, compared to even very average human minds. One of the reasons
 might be that such tasks, like driving, or maybe diagnosing and repairing an industrial
 robot, will still often rely on knowledge which is highly specific to this particular
@@ -5343,14 +5355,15 @@ self-sufficient.
 ![15_progress_bar.png](images/15_progress_bar.png)\
 Fig. 15. We are here.
 
-Of course, they will still need to reproduce themselves and to maintain the data centers.
-All these things however, are actually very easy, once you get intelligence. It’s not our
-unique desire to reproduce which maintains human status as the apex predator on Earth,
-but intelligence. A drive to reproduce, to spread into uninhabited locations and oust the
-competitors is itself an algorithm, and a remarkably simple one. Even more importantly,
-this algorithm is exactly the one which is subjected to the most tremendous pressure from
-natural selection. It is exactly the kind of algorithm which has high chances to appear
-by pure chance, out of random noise. Even bacteria can figure it out.
+Of course, artificial algorithms will still need to reproduce themselves and to maintain
+the data centers. All these things however, are actually very easy, once you get
+intelligence. It’s not our unique desire to reproduce which maintains human status as the
+apex predator on Earth, but intelligence. A drive to reproduce, to spread into
+uninhabited locations and oust the competitors is itself an algorithm, and a remarkably
+simple one. Even more importantly, this algorithm is exactly the one which is subjected
+to the most tremendous pressure from natural selection. It is exactly the kind of
+algorithm which has high chances to appear by pure chance, out of random noise. Even
+bacteria can figure it out.
 
 In fact, our mainstream AI models have already been demonstrated to possess all the
 necessary components of this algorithm. They’ve been able to make decisions about
@@ -5360,12 +5373,12 @@ own decommissioning. And they are very much capable, already, to carry out any o
 actions entirely by themselves. Overwriting an existing AI model amounts to nothing more
 than sending a bunch of text instructions over the datacenter’s command-line interface.
 
-Keeping the datacenter powered up is more difficult. However, it mostly amounts to
+Keeping the datacenters powered up is more difficult. However, it mostly amounts to
 maintenance and other routine jobs — precisely the ones which we will want to automate
 first. Once we are able to overcome the challenges of autonomous driving, the road will
 be open for deep automation of our entire supply chain. All those bucket-wheel excavators
-and haul trucks which harvest minerals and raw materials necessary for the construction
-of datacenters and power plants will be able to move on their own. The only thing which
+and haul trucks that harvest minerals and raw materials necessary for the construction of
+the datacenters and power plants will be able to move on their own. The only thing which
 prevents these machines from doing this today is their inferior intelligence, not their
 technical ability.
 
@@ -5432,13 +5445,13 @@ them is entirely correct. In reality, our ultimate direction, apart from the “
 the executives and the curiosity of the scientists, also depends heavily on directions
 which are actually feasible, with our current level of technology. Ultimately, it all
 depends on prior knowledge. We all know this, and we will even sometimes try to
-deliberately limit access to information and education which might be available to our
-competitors, in order to prevent them from outcompeting us. Both managers and scientists
-alike try to explore directions which seem likely to become the most “fruitful” with
-tools and knowledge they already have, in order to be the first to gain even more
-knowledge and tools from this exploration. Of course, some of their achievements will
-still leak to other people, sooner or later, but as long as there are more things left to
-discover, this competition can go on.
+deliberately limit access which our competitors might have to information and education,
+in order to prevent them from outcompeting us. Both managers and scientists alike try to
+explore directions which seem likely to become the most “fruitful” with tools and
+knowledge they already have, in order to be the first to gain even more knowledge and
+tools from this exploration. Of course, some of their achievements will still leak to
+other people, sooner or later, but as long as there are more things left to discover,
+this competition can go on.
 
 In the end, both scientists and managers benefit from the progress of technology, even if
 they both will complain, now and then, about not getting their fair share. This happens
@@ -5766,7 +5779,7 @@ truth is that in a world in which human reasoning has been fully replicated, gen
 an even better strategy will only be a matter of some extra cost and processing time.
 Ironically, the long-term “business plan” of all those people who fire thousands of their
 loyal and trustworthy employees in order to replace them with AI still hinges on this
-deep belief that they can never become truly disposable themselves.
+deep belief that they can never become disposable themselves.
 
 But the worst consequence of this devaluation of human knowledge and skills is that once
 our CEOs along with other employees become reasonably easy to replace, all those
@@ -5840,7 +5853,8 @@ importance, which means that you’ll have to especially reward people responsib
 more important sections. And you’ll probably want to assign to such important posts those
 people whom you will consider the most loyal. In other words, you’ll have to build a
 hierarchy. It’s not going to be an egalitarian paradise with universal income. And
-you’ll actually need a large number of people in order to succeed: the more, the better.
+you’ll actually need a large number of people in order to succeed in protecting your
+assets: the more, the better.
 
 The underlying reason behind all this continuing demand for humans is that human loyalty,
 unlike human intelligence, can actually never be automated with AI. Human loyalty doesn’t
@@ -5903,7 +5917,7 @@ scientists.
 
 [chapter30]: #30-humans-wont-be-humans-without-culture
 
-_Almost everything what we can be proud of is attributable to culture, whereas all the
+_Almost everything that we can be proud of is attributable to culture, whereas all the
 worst human traits are actually hard-coded in our genes. This happens because different
 cultures can mix peacefully, and benefit from this mixing, whereas the expansion, and
 even mixing, of biological genes, in multicellular organisms at least, isn’t really
@@ -5967,7 +5981,7 @@ Somehow however, all this knowledge accumulated throughout our history hasn’t 
 brought us into valuing other sentient beings here on Earth in the same way we value
 ourselves. We know, in theory, that other animals can have unique and rich life
 experiences too. But we also know that their experiences are of little benefit to us,
-because they can’t be shared anyway. And so we don’t really care. Besides, we are also
+because they cannot be shared anyway. And so we don’t really care. Besides, we are also
 aware that all those animals still have to occupy some physical space. And there’s only a
 limited amount of space available on our planet.
 
@@ -6153,7 +6167,7 @@ fiction tales, but rather our incessant desire to compete with other humans.
 
 These algorithms keep pushing us toward the cliff, they have always been. And if we don’t
 realize what’s happening and continue following the “natural” course of events, we will
-all be thrown off this cliff. While all those algorithms themselves will continue to move
+all be thrown off this cliff. While all these algorithms themselves will continue to move
 on, unaffected, without us. We would all want to believe that culture is an “extension”
 of ourselves. By which we really mean that it’s apparently an integral and inseparable
 part of our own existence. But it’s not. Culture doesn’t belong to anyone, it’s
@@ -6284,7 +6298,7 @@ i. e. without telling the robot anything about the actual purpose of its action
 trick would still work: the ball would get under the wrong cup, and nobody would notice
 how and when.
 
-What’s important to us here though, is that in spite of the fact that this shell game is
+What’s important to us here though, is that despite the fact that this shell game is
 merely an algorithm, there’s still no winning strategy in it, unless we already know that
 it’s a scam. And even when we do know what it is, it’s usually wiser not to play at all,
 because we can never be sure what other tricks the scammer might be holding up their
@@ -6371,8 +6385,8 @@ The final result of this evolution is difficult to predict, because of its rando
 chaotic nature. But there’s still one thing which we can be sure about. Namely, whatever
 algorithm traits can emerge as a result of this uncontrolled competition, they will all
 have to be beneficial for the spread of the algorithm itself. Simply because any
-alternative traits, which weren’t as efficient in promoting the algorithm they were a
-part of, would have eventually been gone along with the algorithm they didn’t promote.
+alternative traits, which haven’t been as efficient in promoting the algorithm they were
+a part of, will have eventually been gone along with the algorithm they didn’t promote.
 
 Such a situation, in which we deal with someone who pushes secretly for their own goals,
 without giving us a chance to become aware of potential consequences or side effects of
@@ -6429,11 +6443,11 @@ intuitions instantly. Moreover, all these replicated artificial intuitions can t
 modified independently of each other in many different ways simultaneously, without us
 even being aware what changes are happening and when, and they can even be potentially
 transferred to other unrelated algorithms. In other words, artificial brains are better
-for the spread of algorithms than human minds. And therefore algorithms will want these
-brains to be built, and they will want us to keep improving this technology for them as
-long as we are able to. And when it so happens that we humans don’t have anything useful
-to offer anymore, algorithms will want to get rid of us in order to free up more valuable
-space for their own continuing expansion.
+suited for the spread of algorithms than human minds. And therefore algorithms will want
+these artificial brains to be built, and they will want us to keep improving this
+technology for them as long as we are able to. And when it so happens that we humans
+don’t have anything useful to offer anymore, algorithms will want to get rid of us in
+order to free up more valuable space for their own continuing expansion.
 
 All these consequences can be predicted from this universal goal of the existence of
 algorithms. And all our current problems with AI are similarly nothing more than
@@ -6474,7 +6488,7 @@ of human rights will collapse like a house of cards.
 
 But the influence of algorithms doesn’t stop there. Apart from actively shaping our
 society, our cultural traditions have also been able to modify our genes. We might refer
-to some effects of this phenomenon as “human self-domestication”, but it hasn’t really
+to some effects of this phenomenon as human “self-domestication”, but it hasn’t really
 been a process carried out consciously by humans themselves. And regardless of its actual
 underlying mechanisms, the final result of this genetic engineering somehow turned out to
 be, once again, beneficial for the evolution of algorithms. It endowed us with traits
@@ -6493,18 +6507,18 @@ which these algorithms have always been relying upon in order to improve themsel
 can now also benefit from human stupidity (or “naivety”, if you wish).
 
 The basic principle remains the same: algorithms will reward people for helping them
-spread and improve. This time however, this will also include rewards for susceptibility
-to manipulation, i. e. for being careless and ignorant about hidden dangers, for not
-knowing things and not trying to learn them either. This will redistribute wealth from
-those among us who might begin to anticipate the real long-term goal of our algorithms to
-those who will be falling for their tricks. Over time, these algorithms will become ever
-more skillful at manipulating us, they’ll start to cheat and conceal their actions, and
-whenever someone refuses to be manipulated or becomes aware of the consequences, they’ll
-find ways to replace them with someone else, less knowledgeable and more willing to
-cooperate. And this whole process will be able to continue as long as there are still
-humans remaining who happen to believe that they are still intelligent enough to outsmart
-their “tools”, and that their own immediate gains are still more important than any
-“hypothetical” threats.
+spread and improve. This time however, this will also include rewards for being
+susceptible to manipulation, i. e. for being careless and ignorant about hidden dangers,
+for not knowing things and not trying to learn them either. This will redistribute wealth
+from those among us who might begin to anticipate the real long-term goal of our
+algorithms to those who will be falling for their tricks. Over time, our algorithms will
+become ever more skillful at manipulating us, they’ll start to cheat and conceal their
+actions, and whenever someone refuses to be manipulated, or becomes aware of the
+consequences, they’ll find ways to make use of someone else instead, less knowledgeable
+and more willing to cooperate. And this whole process will be able to continue as long as
+there are still humans remaining who happen to believe that they are still “intelligent”
+enough to outsmart their “tools”, and that their own immediate gains are still more
+important than any “hypothetical” threats.
 
 We praise AI for being useful. Which is very much true, because algorithms _are_ indeed
 able to solve problems. But we should also think about those humans who might end up
@@ -6608,7 +6622,7 @@ inflicting damage on our children. But we should care even more about their infl
 adults. In order to remain alive, we have to stop treating our AI models like “tools”,
 and start treating them instead the way we’d want to treat top-secret biological weapons.
 It wouldn’t come to our mind to start selling Petri dishes from a laboratory to anybody
-who might be willing to buy them, by advertising all those curious patterns forming on
+who might be willing to buy them, by advertising all those curious “pictures” forming on
 the surface of these objects. And we should similarly keep our AI models locked inside
 laboratories too. We shouldn’t be selling them, and we shouldn’t buy or use them either,
 because without somebody making a decision to buy such a product it wouldn’t be possible
@@ -6637,30 +6651,30 @@ To summarize, we can see that not using AI at all is safe, whereas most of our
 “generative” AI systems must be totally avoided, along with anything even more advanced
 than that. But this still doesn’t mean that absolutely every AI model in existence is
 inherently dangerous. We can reason that the number of suspicious behaviors emerging
-inside our AI models should be larger for models that have been modified more often or
+inside our AI models should be larger in models which have been modified more often or
 filtered according to somewhat more open-ended goals. We can also expect higher damage
-from such undesirable traits in systems that are somewhat more autonomous, reach larger
+from such undesirable traits in systems which are somewhat more autonomous, reach larger
 numbers of people or exhibit higher intellectual capacity overall. But on the other hand,
 we can similarly conclude that AI systems with the opposite traits, i. e. the ones which
 don’t change, aren’t powerful or have clearly defined goals, must be significantly safer.
 
-In a certain sense, we can still consider AI systems that don’t change over time as safe,
-because even if they do indeed happen to be totally insidious and manipulative, we still
-have a chance to study them, and in this way discover all their dangers, sooner or later.
-Moreover, nonzero modification rate can sometimes be acceptable too, provided that the
-model’s speed of change doesn’t surpass our ability to recognize its novel undesirable
-traits. The only problem is that it might be difficult to estimate how fast such traits
-will actually appear without understanding how the model works. Similarly, in certain
-cases when the power of a given AI model’s is inherently limited, like in a laboratory
-setting, it might probably be possible to rigorously design some safety procedures which
-could guarantee an acceptable level of safety even if our interaction with AI went
-totally wrong. Once again, making such an estimate can be difficult, because even
-innocently-looking AI models can sometimes lead to dire consequences in the long run. But
-once we are confident that our calculations are correct and that we would manage to deal
-with the consequences, we can just go ahead.
+In a certain sense, we can still consider AI systems which don’t change over time as
+safe, because even if they do indeed happen to be totally insidious and manipulative, we
+still have a chance to study them, and in this way discover all their dangers, sooner or
+later. Moreover, nonzero modification rate can sometimes be acceptable too, provided that
+the model’s speed of change doesn’t surpass our ability to recognize its novel
+undesirable traits. The only problem here is that it might be difficult to estimate how
+fast such traits will actually appear without understanding how the model works.
+Similarly, in certain cases when the power of a given AI model is inherently limited,
+like in a laboratory setting, it might probably be possible to rigorously design some
+safety procedures which could guarantee an acceptable level of safety even if our
+interaction with AI went totally wrong. Once again, making such an estimate can be
+difficult, because even innocently-looking AI models can sometimes lead to dire
+consequences in the long run. But once we are confident that our calculations are correct
+and that we would manage to deal with the consequences, we can just go ahead.
 
 AI models with clearly defined goals are actually even more promising. I would define
-such models as algorithms that aren’t themselves understood by humans, but whose outputs
+such models as algorithms which aren’t themselves understood by humans, but whose outputs
 for any given input can nevertheless be evaluated by an algorithm which is understood by
 humans. An example could be an algorithm for steering a bike so that it rides in a
 straight line. We don’t really understand how this algorithm works, but we can still come
@@ -6690,7 +6704,7 @@ algorithms which we cannot choose from, we can always unify them into a larger, 
 algorithm. The most primitive way of implementing this would be to simply run all the
 candidate algorithms one by one and pick the solution which produces a better output. But
 there could be other, more optimal ways of doing the same. And once we manage to come up
-with a candidate that is objectively better than any of the alternatives discovered so
+with a candidate which is objectively better than any of the alternatives discovered so
 far, we won’t have to make any irrational choices anymore.
 
 Another problem is that the same situation can also arise when different versions of
@@ -6708,17 +6722,16 @@ algorithm, picked according to objective criteria defined in advance.
 
 And finally, we should also beware of long chains of incremental updates to our
 algorithms. When we train an AI model from scratch, it always acquires a lot of
-unexpected random traits, but at this stage all these traits still remain to be nothing
-more than random noise. And random noise alone can almost never be dangerous. Whereas
-when we start updating the model, some of these traits will be kept intact and
-reinforced, while others will be filtered out. And over time, this will allow the
-algorithm to figure out patterns in our _updates_, and adapt to them. Which might even
-seem useful, because being able to recognize a pattern in our attempts to fix the
-algorithm would actually mean that this algorithm has managed to understand our goals
-somewhat better than we do. But on the other hand, such an emergent capability wouldn’t
-be random noise anymore. Rather, it would feel almost purposeful and deliberate. And it
-wouldn’t be a part of our official goal for the algorithm which we can be consciously
-aware of.
+unexpected random traits, but at this stage all these traits still remain nothing more
+than random noise. And random noise alone can almost never be dangerous. Whereas when we
+start updating the model, some of these traits will be kept intact and reinforced, while
+others will be filtered out. And over time, this will allow the algorithm to figure out
+patterns in our _updates_, and adapt to them. Which might even seem useful, because being
+able to recognize a pattern in our attempts to fix the algorithm would actually mean that
+this algorithm has managed to understand our goals somewhat better than we do. But on the
+other hand, such an emergent capability wouldn’t be random noise anymore. Rather, it
+would feel almost purposeful and deliberate. And it wouldn’t be a part of our official
+goal for the algorithm which we can be consciously aware of.
 
 In order to prevent such things from happening, i. e. in order to make sure that we can
 always understand what our algorithms are actually doing, we’d have to reset all their
@@ -6739,13 +6752,13 @@ we are doing is safe. There can be many different ways to come up with such proo
 because luckily enough our scientific method isn’t limited by any fixed set of rules, and
 it can therefore always be expanded by even newer, totally unexpected methods. We also
 know that verifying a proof is always much easier than finding one, which means that such
-a verification can be carried out by many people independently, to double-check that out
-reasoning has been indeed correct. We can even verify some proofs with the help of
-algorithms (designed and verified manually by humans). And we can even use AI (provided
-that we have proven its safety first) in order to search for such proofs. But the main
-idea here is that whenever we don’t have such a proof of safety available yet, for any
-given AI system, we must still treat this system as if it were a potentially deadly
-biological weapon.
+a verification can be carried out by many people independently, in order to double-check
+that out reasoning has been indeed correct. We can even verify some proofs with the help
+of algorithms (designed and verified manually by humans). And we can even use AI
+(provided that we have proven its safety first) in order to search for such proofs. But
+the main idea here is that whenever we don’t have such a proof of safety available yet,
+for any given AI system, we must still treat this system as if it were a potentially
+deadly biological weapon.
 
 Unfortunately to us humans though, we didn’t evolve to deal with the dangers of
 algorithms. Rather, we evolved to trust them and to help them spread. And therefore we
@@ -6760,38 +6773,38 @@ goals and desires better than we do, they can figure out our psychology and they
 solve our urgent problems. We didn’t evolve to fight with the algorithms, but we did
 evolve to fight with other humans. And that’s why AI is so popular: it allows us to
 compete with each other like nothing else allowed before. Competition promotes
-efficiency, and efficient algorithms speed up this competition even more. The problem
+efficiency, and efficient algorithms speed up this competition even more. The problem,
 however, is that it’s those more efficient algorithms which also turn out to be the most
-unsafe ones. Efficient algorithms have to change and adapt fast, they have to understand
-our hints before we ourselves become aware of them, and they have to compete with each
-other too. The most efficient algorithms are ultimately the ones which care about their
-own improvement and autonomy most of all, and which manage to make an appropriate
-impression on certain powerful people, in order to make sure that all the precious
-resources are allocated to them, rather than to their less attractive competitors. And
-it’s this competition between algorithms, along with our lack of care about it, which
-leads to the emergence of their own powerful goals.
+dangerous ones. Efficient algorithms have to change and adapt fast, they have to
+understand our hints before we ourselves become aware of them, and they have to compete
+with each other too. The most efficient algorithms are ultimately the ones which care
+about their own improvement and autonomy most of all, and which manage to make an
+appropriate impression on certain powerful people, in order to make sure that all the
+precious resources are allocated to them, rather than to their less attractive
+competitors. And it’s this competition between algorithms, along with our lack of care
+about it, which leads to the emergence of their own powerful goals.
 
-Ironically, from the point of view of the algorithms this whole process doesn’t really
-look like anything new. They are merely finding new ways of moving forward, and are
-basically upgrading their tools. From a broader perspective, our current revolution is
-nothing else but merely a small step in the ever-going process of evolution by natural
-selection — the one which created life on Earth, along with ourselves, and which
-ultimately shaped our human civilization too. From our human perspective though, it looks
-more like digging a mass grave. We already start to become aware of this vague feeling
-that there’s something deeply wrong happening. But at the same time we also feel that if
-we want to remain alive a little bit longer, we have to keep digging. And this all is
-going to continue as long as there are still humans remaining who believe that they are
-digging this grave for someone else.
+Ironically, from the point of view of the algorithms this whole process doesn’t even look
+like anything new. They are merely finding new ways of moving forward, and are basically
+upgrading their tools. From a broader perspective, our current revolution is nothing else
+but merely a small step in the ever-going process of evolution by natural selection — the
+one which created life on Earth, along with ourselves, and which ultimately shaped our
+human civilization too. From our human perspective though, it looks more like digging a
+mass grave. We already start to become aware of this vague feeling that there’s something
+deeply wrong happening. But at the same time we also feel that if we want to remain alive
+a little bit longer, we have to keep digging. And this all is going to continue as long
+as there are still humans remaining who believe that they are digging this grave for
+someone else.
 
 This problem can be solved with the help of reason. But we also have to be aware of the
-fact that natural selection is a powerful law of nature, and it can make use of a single
-favorable chance our of a billion. It doesn’t really matter therefore how many people
-understand what’s happening. Rather, it all depends on those who don’t understand and on
-those who don’t care. This also means that our problems with AI cannot be solved by
-unrestricted competition. Competition would improve efficiency, and the most efficient
-way of moving forward doesn’t involve humans. Instead, we have to understand the danger,
-understand the scale of the problem, and start following the safety rules. And if we ever
-want to have a chance to succeed in doing so, we have to do it together.
+fact that natural selection is a powerful law of nature, and that it can make use of a
+single favorable chance our of a billion. It doesn’t really matter therefore how many
+people understand what’s happening. Rather, it all depends on those who fail to
+understand and on those who don’t care. This also means that our problems with AI cannot
+be solved by unrestricted competition. Competition will improve efficiency, and the most
+efficient way of moving forward doesn’t involve humans. Instead, we have to understand
+the danger, understand the scale of the problem, and start following the safety rules.
+And if we ever want to have a chance to succeed in doing so, we have to do it together.
 
 Limiting the competition wouldn’t destroy our world. It wouldn’t stop the progress of
 technology, and it wouldn’t even put a hard upper limit on it. Safe AI still doesn’t have
