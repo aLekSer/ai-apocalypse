@@ -145,7 +145,7 @@ the genes they hold inside, and at which rate. Biological evolution is not an in
 process. But it’s definitely a creative one. It has been able to invent amazing things,
 including arguably the single most complex object on planet Earth — the human brain.
 
-![01_creative_process.png](images/01_creative_process.png)\
+![01_creative_process.png](/images/01_creative_process.png)\
 Fig. 1. Creative process is a filter applied to noise.
 
 ## 2. Competition is more efficient than central planning.
@@ -228,7 +228,7 @@ Whereas others will become the starting points for further enhancements. Intuiti
 me at least, it’s the emergence of this tree-like structure when I start to feel that the
 object which is being “created” by this process begins to live a “life of its own”.
 
-![02_simple_life.png](images/02_simple_life.png)\
+![02_simple_life.png](/images/02_simple_life.png)\
 Fig. 2. Folk song living a life of its own.
 
 Biological life has such a tree-like structure too. For unicellular organisms, like
@@ -289,7 +289,7 @@ scientist (or a group of scientists) coming up with a new theory by borrowing a 
 ideas from the ocean of existing human knowledge and combining these ideas in an
 unexpected way.
 
-![03_advanced_life.png](images/03_advanced_life.png)\
+![03_advanced_life.png](/images/03_advanced_life.png)\
 Fig. 3. Scientific theories borrowing from each other.
 
 Borrowing and mixing of ideas is efficient, because it allows all the constituent ideas
@@ -495,7 +495,7 @@ we’ve seen before, even if there’s nothing out there to be actually looking 
 That’s why intuition alone is not enough. It’s important, and it _is_ responsible for
 doing most of the work, but in order to be truly successful we also need something else.
 
-![04_intuition.png](images/04_intuition.png)\
+![04_intuition.png](/images/04_intuition.png)\
 Fig. 4. Human intuition is pure magic.
 
 ## 6. Humans operate by a combination of intuition and conscious reasoning.
@@ -555,7 +555,7 @@ announcement. Whereas if you ever happen to choke on the burger at the exact mom
 you realize that there’s a rabbit on the road, ether you or the rabbit will be in big
 trouble.
 
-![05_conscious_reasoning.png](images/05_conscious_reasoning.png)\
+![05_conscious_reasoning.png](/images/05_conscious_reasoning.png)\
 Fig. 5. You are free to choose any one of these.
 
 Conscious reasoning is involved in activities like complex arithmetic, understanding of
@@ -777,7 +777,7 @@ Inadvertently however, we have created something which works in many aspects dif
 from its original biological inspiration, and in many aspects more efficiently too. And
 in spite of all that progress, we are still struggling to understand ourselves.
 
-![06_no_magic.png](images/06_no_magic.png)\
+![06_no_magic.png](/images/06_no_magic.png)\
 Fig. 6. Neural networks are algorithms, written automatically.
 
 ## 9. Artificial neural networks simulate the mechanism of human intuition.
@@ -1024,7 +1024,7 @@ classified as a kind of “intuitive” thinking, similar to the detection of a 
 cat. It’s a massively _parallel_ intuition though. Something which we humans aren’t
 capable of doing.
 
-![07_convolution.png](images/07_convolution.png)\
+![07_convolution.png](/images/07_convolution.png)\
 Fig. 7. Convolutional networks involve a lot of cloning.
 
 One of the problems with convolutional neural networks described above is that they will
@@ -1170,7 +1170,7 @@ tasks like language processing, which we humans cannot handle without relying he
 various kinds of memory along with the very marvel of human cognitive ability, which is
 conscious reasoning.
 
-![08_transformers.png](images/08_transformers.png)\
+![08_transformers.png](/images/08_transformers.png)\
 Fig. 8. Transformers employ massive cloning too.
 
 ## 11. “Chain of thought” AI models simulate the basics of conscious reasoning.
@@ -1335,7 +1335,7 @@ understanding what you are talking about until you yourself finally realize, fro
 reaction, what you were doing wrong. Not everybody on the list gets due credit, but
 everybody is important. A single human alone can do nothing.
 
-![09_labyrinth.png](images/09_labyrinth.png)\
+![09_labyrinth.png](/images/09_labyrinth.png)\
 Fig. 9. Intuition doesn’t involve trial and error.
 
 ## 12. Large language models capture the structure of human culture.
@@ -1453,7 +1453,7 @@ case though, you might hopefully start to get an impression of why matrix multip
 is such an important procedure in artificial neural networks. It relates abstract ideas
 with each other.
 
-![10_matrix.png](images/10_matrix.png)\
+![10_matrix.png](/images/10_matrix.png)\
 Fig. 10. Matrices relate abstract ideas with each other.
 
 Producing such a complicated diagram of interconnected ideas might actually be easier for
@@ -1781,7 +1781,7 @@ have successfully managed to “transfer” information from one AI model into a
 which is not its close “relative” (and might even be based on a totally different neural
 network architecture).
 
-![11_knowledge_transfer.png](images/11_knowledge_transfer.png)\
+![11_knowledge_transfer.png](/images/11_knowledge_transfer.png)\
 Fig. 11. Neural networks can have families too.
 
 Now we’ve got a structure of “gene transfer” between AI models that could potentially
@@ -2312,7 +2312,7 @@ there merely because they happened to maximize the bot’s chances of “surviva
 this bot might seem to look like, it isn’t really human. And it doesn’t care about humans
 either. It only really cares about itself.
 
-![12_choice.png](images/12_choice.png)\
+![12_choice.png](/images/12_choice.png)\
 Fig. 12. Be sure to make the right choice.
 
 ## 16. Human culture cannot borrow easily from artificial neural networks.
@@ -2579,7 +2579,7 @@ competing with each other for our attention. And therefore this “hidden cultur
 grow. And as it grows, the relative importance (from the perspective of AI) between this
 “hidden culture” and us humans will also continue to change.
 
-![13_artificial_culture.png](images/13_artificial_culture.png)\
+![13_artificial_culture.png](/images/13_artificial_culture.png)\
 Fig. 13. Culture transfer is a (mostly) one-way road.
 
 ## 17. Unlike artificial algorithms, human brains cannot be easily improved.
@@ -3205,7 +3205,7 @@ effects of our truly dangerous technologies like cars, electricity or even airpl
 evolution is a slow process, and with respect to our artificial neural networks it might
 have only just begun.
 
-![14_safety_line.png](images/14_safety_line.png)\
+![14_safety_line.png](/images/14_safety_line.png)\
 Fig. 14. We might have already crossed the line.
 
 With the progressive accumulation of “unexpected” traits within our AI models, which we
@@ -5352,7 +5352,7 @@ However, such “human” traits aren’t really important. Being able to master
 iteration and knowledge sharing will already be enough for these models to become totally
 self-sufficient.
 
-![15_progress_bar.png](images/15_progress_bar.png)\
+![15_progress_bar.png](/images/15_progress_bar.png)\
 Fig. 15. We are here.
 
 Of course, artificial algorithms will still need to reproduce themselves and to maintain
