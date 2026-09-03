@@ -10,6 +10,7 @@ _version history:_\
 [v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.pdf
 [v3]: https://github.com/jangrudo/ai-apocalypse
 
+Github Pages
 ---
 
 # AI is merely a step in evolution of culture, and humans are the stepping stone
